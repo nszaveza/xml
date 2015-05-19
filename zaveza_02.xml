@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="tei-zaveza.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zaveza</title>
+                <title>Glasilo Nove Slovenske zaveze</title>
+                <title>Elektronska izdaja</title>
+                <respStmt>
+                    <resp>Glavni urednik</resp>
+                    <name>Justin Stanovnik</name>
+                </respStmt>
+                <respStmt>
+                    <resp/>
+                    <name>Odbor NSZ</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Odgovorni urednik</resp>
+                    <name>Pavle Kogej</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Grafično oblikovanje tiskane izdaje</resp>
+                    <name>Irena Tršar</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Slikovno gradivo</resp>
+                    <name>Tine Velikonja</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>0.1</edition>
+            </editionStmt>
+            <extent>130 KB XML</extent>
+            <publicationStmt>
+                <publisher>
+                    <address>
+                        <addrLine>Nova Slovenska zaveza</addrLine>
+                        <addrLine>Beethovnova ul. 5</addrLine>
+                        <addrLine>1000 Ljubljana</addrLine>
+                        <addrLine>Slovenija</addrLine>
+                        <lb/>
+                        <addrLine>tel. 01/425-15-37</addrLine>
+                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
+                    </address>
+                </publisher>
+                <availability>
+                    <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
+                    <p>© Avtorske pravice za besedila in slike: Nova Slovenska zaveza</p>
+                </availability>
+                <idno type="issue">2</idno>
+                <idno type="ISSN">?</idno>
+                <date>2009-01-14</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <title>Zaveza</title>
+                        <imprint>
+                            <biblScope type="issue">2</biblScope>
+                            <biblScope type="vol">I</biblScope>
+                            <biblScope>številka 2, julij 1991</biblScope>
+                            <date when="1991-07">julij 1991</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2009-01-14">
+                <name>Matija Ogrin</name> - pretvoril besedilo v zapis TEI, dodal strukturne oznake;
+                manjkajo oznake za vse slikovno gradivo</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart>Zaveza št. 2</titlePart>
+                    <titlePart>Revija za duhovna, kulturna in politična vprašanja sedanjosti in
+                        prihodnosti – s posebnim ozirom na krizo slovenstva po boljševiški
+                        revoluciji in državljanski vojni</titlePart>
+                    <titlePart>Elektronska izdaja</titlePart>
+                </docTitle>
+                <docImprint>
+                    <publisher>Nova Slovenska zaveza</publisher>
+                    <pubPlace>Ljubljana</pubPlace>
+                    <docDate>2009</docDate>
+                </docImprint>
+            </titlePage>
+            <divGen type="toc"/>
+        </front>
+
+        <body>
+            <div type="div1">
+                <head> </head>
+                <div type="div2">
+                    <head>In tempore illo</head>
+                    <docAuthor>Tine Debeljak</docAuthor>
+                    <div type="div3">
+                        <head>Odlomki iz ČRNE MAŠE</head>
+						<lg>
+                        <l>O teža Videnj Prerokovih, zlomljenih v mojih očeh:</l>
+                        <l>iz Romulovega rodu dvanajst tisoč Vojščakov –</l>
+                        <l>pri Vodi Slatinski...</l>
+                        <l>iz Vladimirjevega rodu dvanajst tisoč kozakov</l>
+                        <l>v Vinici ukrajinski...</l>
+                        <l>iz Piastovega rodu dvanajst tisoč veljakov</l>
+                        <l>v jami katynski...</l>
+                        <l>iz Valukovega rodu karantanskih svobodnjakov -</l>
+                        <l>tabor vetrinjski:</l>
+                        <l>(Joj, Narod Benjamin! Moj Narod Zaznamovancev!) -</l>
+                        <l>dvanajst tisoč legijonarjev in domobrancev...</l>
+                        <l>Vidim jih: urejenim v čete</l>
+                        <l>drugi angel zaznamuje čela in prsi napete, kot da jih mazili in za smrt pečati...</l>
+                        <l>a četvero angelov, ki jim je naročeno pokončati</l>
+                        <l>našega drevja jabolka mlada</l>
+                        <l>in naše zemlje prostornino,</l>
+                        <l>jih čaka z gorečimi meči nad robom prepada</l>
+                        <l>za vrati</l>
+                        <l>v Domovino...</l>
+                        <l>Zakril si oči je Angel živega Boga:</l>
+                        <l>četvero angelov z rdečo zvezdo na čelu je prihrumelo z Vzhoda na konju
+                            rdečem: s srpom in kladivom kot z ognjem in mečem,</l>
+                        <l>čez sončni nasad zadivja –</l>
+                        <l>in dvanajst tisoč zaznamovancev pade pod kopito</l>
+                        <l>divjemu krdelu,</l>
+                        <l>Pokončevalcu zemlje in drevja in morja</l>
+                        <l>(o Prerok iz Razodetja: si v Patmu videl Ti to?)</l>
+                        <l>in slednji je potočil zadnjo kapljo krvi iz žil,</l>
+                        <l>da zdaj v blesku belih oblačil</l>
+                        <l>držé palmo mučeniško preko srca –</l>
+                        <l>Zmagovalci za večni čas!</l>
+                        <l>BOGU HVALA! – DEO GRATIAS!</l>
+						</lg>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_01.png"/>
+                            <head>Sv. Boštjan <name type="author">France Gorše</name></head>
+                        </figure>
+                    </div>
+                </div>
+                <div type="div2">
+                    <head>Kaj se je dogajalo v Rogu junija 1945</head>
+                    <docAuthor>Tine Velikonja</docAuthor>
+                    <div type="div3">
+                        <p>Dokumentov, ki bi podprli pripovedi prič, domneve in ugibanja, ter
+                            zavrgli, kar je plod domišljije, še niso našli. Upravičeno lahko sodimo,
+                            da so uničeni in je varljivo upati, da še vedno tičijo zakopani v
+                            vojaških arhivih v Beogradu in bodo prišli po 50 letih čudežno na
+                            dan.</p>
+                        <p>Tudi ne smemo pričakovati, da bodo spregovorili in kaj bistvenega
+                            povedali tisti, ki so bili zraven, zlasti ne organizatorji v Ljubljani,
+                            ki so poskrbeli za zapleteno verižno reakcijo, ki je imela začetni člen
+                            na železniški postaji v Podgorju (Maria Elend) ali Podroščici v Rožu na
+                            Koroškem in zadnjega v breznu pod Krenom v Kočevskem Rogu. Tiho so celo
+                            mladi partizani, ki so spadali k posadki v škofovih zavodih in se
+                            kasneje uveljavili v družbi.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_02.png"/>
+                            <head>Neskončni Rog</head>
+                        </figure>
+                        <p>Zato ne smemo čakati, da se nam bo zgodba razkrila sama, ampak moramo
+                            uporabiti tisto, kar vemo, in izvrtati iz spomina preživelih podatke,
+                            kako je bilo, podprto vsaj s poskusnimi raziskavami brezen, ko ne bo
+                            težko oceniti vsaj približnega števila žrtev in tudi njihove homogenosti
+                            ali heterogenosti: kjer bomo odkrili samo okostja mladih moških, bomo
+                            upravičeno domnevali, da gre za domobrance, pri mešanih pa za skupine
+                            četnikov, ustašev, hrvaških domobranov, s katerimi so bežale tudi ženske
+                            in otroci. Ohranjen je dokument o vračanju Jugoslovanov, ki so se
+                            predali Angležem. Pogodba je bila podpisana 19. maja 1945. Prvi členi
+                            govore o umiku partizanske vojske s Koroške, peti pa o izročitvi zajetih
+                            Jugoslovanov.</p>
+                        <p>Predajo so opravili Angleži brez seznamov. Vrnjene ljudi so popisali šele
+                            v taboriščih v Sloveniji in na podlagi teh popisov oz. kartotek so
+                            sestavili sezname. Pri tem so upoštevali razdelitev v skupine A, B in C.
+                            Na morišča so klicali vse iz zadnje skupine, kakor jim je prišel v roke
+                            po vrsti list iz seznama brez posebnega sistema in niso sestavljali
+                            skupin glede na bivališče ali enoto. Izjema so bili oficirji, ki so jih
+                            odkrili ali ,so se javili sami. Pomorjeni so bili že med prevozom
+                            (Hrušica, Slovenj Gradec) ali v neposredni bližini taborišč.</p>
+                        <p>Teh kartotek in seznamov ni. Podobno niso ostala nobena pismena navodila
+                            o voznem redu vlakov, o preskrbi enot s hrano in municijo, o
+                            tovornjakih.</p>
+                        <p>Celo pa ni najti nobenega ukaza o poboju, ki ga je zanesljivo izdal Tito
+                            sam. V svojem govoru konec maja je javno obljubljal: »Izdajalci ne bodo
+                            dolgo gledali modrega neba in visokih gora.« Zadnje dni maja je bil v
+                            Celju in Mariboru in ker je bilo znano, da se je pogosto vtikal v
+                            nepomembne zadeve, je popolnoma nemogoče, da o tako važni ne bi odločal
+                            najvišji jugoslovanski vrh. Kakor pa je bila odločitev pomembna in
+                            usodna, je šlo skoraj zanesljivo samo za ustno povelje.</p>
+                        <p>Tako kot med državljansko vojno si tudi po zmagi nova oblast ni belila
+                            glave, kam z žrtvami. Običajno so jih plitvo zagrebli kar na mestu
+                            (Košnica, Crngrob, Krakovski gozd, Čatarjeva graščina) v že izkopane
+                            jame (protitankovski jarek okrog Celja) ali bližnja brezna (Brezarjevo
+                            brezno, fojbe na Krasu).</p>
+                        <p>Šele ko so po 20. maju izvedeli, da jim bodo izročili 20.000 ujetnikov iz
+                            Vetrinja (predvideno je bilo, da bodo vrnili tudi vse civiliste), so se
+                            zamislili in posvetovali, kako bi nalogo opravili čimbolj prikrito in
+                            učinkovito. Najprej so pohiteli in izpraznili že napolnjene zapore in
+                            taborišča. Tako sta znana dva datuma te priprave: iz Škofovih zavodov v
+                            Šentvidu so vozili zapornike v 4 km oddaljeno Brezarjevo brezno nekaj
+                            večerov in noči. Tu naj bi šlo za približno 1000 ljudi. Zanesljiva priča
+                            se spominja, da je bil morda zadnji transport na četrto kvatrno soboto,
+                            ta sobota pa je bila 26. maja. Tone Ferenc je pred kratkim objavil
+                            seznam 187 zapornikov, ki so jih 2. junija odpeljali iz ljubljanskih
+                            zaporov neznano kam.</p>
+                        <p>Za vrnjene domobrance, ki so bili pripeljani skozi karavanški predor, so
+                            za glavna morišča izbrali brezna v Kočevskem Rogu. Da so se odločili za
+                            brezna, ni slučaj, saj so jih uporabili že med vojno, če so bila le pri
+                            roki (Krimska jama, Ziglovica, brezno pri Birčni vasi). Na Kočevskem je
+                            poznanih kar 300 brezen. Brezna, ki so jih izbrali, niso bila znana niti
+                            raziskana, saj za jamarje niso bila zanimiva, ker so bila globoka največ
+                            20 do 30 m. Izbrali so jih zaradi bližine glavnih cest, da so si
+                            olajšali delo.</p>
+                        <p>Domobrance so začeli streljati na Rogu 2. junija in končali z 9. junijem.
+                            Zanesljivo niso bili prvi. V brezna na Rogu so vodili, gnali in vozili
+                            že ves maj in vanje zmetali mešane skupine beguncev, ki so se umikali
+                            pred prodirajočo partizansko vojsko, ki se je pomikala proti
+                            severozahodu. Begunci so bili četniki, ustaši in hrvaški domobrani z
+                            ženami in otroki pa tudi Nemci. Ocenjujejo, da jih je v breznu pri
+                            telefonskem drogu 86 pokopanih kar 10.000, na Macesnovi gorici pri
+                            telefonskem stebru 216 pa ne dosti manj. Tudi brezno pod Krenom 2.
+                            junija verjetno ni bilo popolnoma prazno. Milan Zajec, ki je tega dne
+                            padel vanj 20 m globoko, je ostal nepoškodovan, ker je že pristal na
+                            mehki gomili človeških teles. </p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_03.png"/>
+                            <head>V neznano</head>
+                        </figure>
+                        <p>Kdo je bil v operativnem štabu, ki je skrbel, da je teklo tako gladko, ne
+                            bomo izvedeli, domnevamo pa lahko. Naložili so jim težavno nalogo, ki so
+                            se je lotili s trdovratno vztrajnostjo in natančnostjo. Kaj je bilo
+                            vzrok, da se niso odločili za prevoz s tovornjaki, ko bi za pot od
+                            Šentvida do brezen v Rogu ne potrebovali več kot 3 ure, ni jasno.
+                            Izbrali so zapleteni postopek prevoza z vlakom do rampe ob slepem tiru
+                            ljubljanske klavnice in vojašnice, prestop čez most za pešce čez
+                            Grubarjev prekop na vlak, ki jih je čakal na drugi strani, prevoz do
+                            Kočevja, premeščanje iz enega poslopja v drugo v samem mestu in končni
+                            prevoz s tovornjaki do morišč. Odgovor je le eden: niso dobili dovolj
+                            tovornjakov, da bi lahko nalogo izpeljali v enem tednu in bi se jim tako
+                            zavleklo kot skupini na Teharjah.</p>
+                        <p>Težave so morali imeti že z vlakom. Zadnje leto vojne je vozil vlak iz
+                            Ljubljane do Kočevja samo do Grosupljega, naprej pa samo oklepni vlak.
+                            Umikajoči nasprotnik je v noči med 8. in 9. majem porušil železniški
+                            most čez Gruberjev prekop. Vlakovno kompozicijo so sestavili tako, da so
+                            pobirali tovorne vagone po postajah do Kočevja, lokomotivo pa so baje
+                            morali prepeljati kar po cesti čez Karlovški most na dolenjsko
+                            stran.</p>
+                        <p>Vlak je napravil eno vožnjo na dan, prvič 1. junija zvečer in pripeljal v
+                            Kočevje pred zoro. Naslednji prevozi so se začeli popoldne in je vlak
+                            dosegel končno postajo okrog druge ure zjutraj. Vedno so začeli
+                            iztovarjati šele, ko se je zdanilo.</p>
+                        <p>Čeprav so bili prvi domobranci izročeni že v nedeljo 27. maja, so
+                            pripravili prvi transport zanje v Kočevje šele 1. junija. Vrstni red, po
+                            katerem so odbirali ljudi za prevoz, je bil naključen, kakor so pač
+                            prišli na seznam. Tako se je znašel Milan Zajec v breznu že 2. junija,
+                            čeprav je zapustil Vetrinje 29. maja, France Dejak pa je bil izročen med
+                            prvimi 27. maja in padel v brezno 8. junija. Prebiranje v skupine A, B
+                            in C v Škofovih zavodih ni bilo tako očitno kot na Teharjah in v začetku
+                            skupine niso bile ločene. Na pot so šli oblečeni, niso jih še vezali in
+                            prepričani so bili, da jih vozijo v delovna taborišča. Ko se je Dejak
+                            peljal skozi rojstno vas Dolenji Lazi, je skozi lino vrgel listek:
+                            »Peljejo nas v Kočevje. Prinesite paket!« Zanimivo je, da so listek
+                            našli in izročili njegovi mami, ki se zato niti ni preveč začudila, ko
+                            ga je čez štiri dni zagledala doma.</p>
+                        <p>S kočevskega kolodvora so jih peljali najprej v Marijin dom, kjer je zdaj
+                            občinska uprava, ali v gimnazijo, čez nekaj ur pa po glavni cesti skozi
+                            Kočevje na drugo stran mesta v Dom slepih, ki je zdaj porušen in stojita
+                            na tem mestu poslopji Ljubljanske banke in avtobusna postaja. Omenjajo
+                            tudi Sokolski oziroma Rokodelski dom.</p>
+                        <p>Tam so jih vezali z žico. Preživeli omenjajo, da je bila to telefonska
+                            žica, ki pa nima lastnosti, da bi se dala tako zlahka oviti okoli
+                            zapestij. Dejak jo je označil bolj natančno, da je bila to »žica za
+                            piskre vezat«. Na Teharjah so nekateri videli partizane, ki so
+                            pripeljali kolute z bodečo žico. Ta žica je zvita iz žice z bodicami in
+                            druge, ki je gola. Vse kaže, da so uporabili ravno golo sestavino bodeče
+                            žice. Žrtvam so vezali zapetja na hrbtu, kar je značilno za komuniste
+                            tudi drugje po svetu. Zraven pa so zvezali še po dva skupaj, da so
+                            povezali z žico nadlahtji ali zapetja. Beg je bil zato skoraj nemogoč. V
+                            Katynu se ni rešil nihče. Nemci in Italijani so vezali spredaj in
+                            vsakega zase, tako je bila večja možnost za pobeg.</p>
+                        <p>Za odvažanje na morišča so imeli na razpolago samo nekaj srednje velikih
+                            odprtih tovornjakov. Na vsakega so spravili 40 do 50 ujetnikov in 4
+                            stražarje. Zvezani so morali klečati, držati glave navzdol, da se jih ni
+                            videlo od zunaj. Čim so tovornjaki zapustili mesto in zavili v Rog, so
+                            začeli stražarji tolči z gorjačami po ljudeh, predvsem po glavah in
+                            nadaljevali vseh 30 minut vožnje do brezna. Za brezno pod Krenom pri
+                            telefonskem stebru 122, kjer naj bi bila pomorjena večina domobrancev iz
+                            Škofovih zavodov, sodimo, da so se tovornjaki ustavili na jasi na
+                            pobočju na drugi strani ceste, ravno tam, kjer stoji ob svečanostih
+                            oltar. Tam so se morali usesti na rob tovornjaka, da so jim odrezali
+                            vezalke in jih sezuli. Nato so jih razvezali, ker so se morali sleči,
+                            nekateri do golega, drugi od groze tega niso zmogli.</p>
+                        <p>Omenjeni ritual, da se je morala žrtev pred ustrelitvijo sleči, je
+                            izjemno surov. Tega niso delali fašisti i.n ne ovjeti v Katynu. Tam so
+                            streljali poljske častnike oblečene, z vsem, kar so imeli po žepih. Za
+                            slačenje ni upravičljive razlage. Pri nas so se morali sleči do
+                            spodnjega perila že obsojenci na Kočevskem procesu, ki so jih streljali
+                            v Mozlju. Neka razlaga bi bila, da so oblačila uporabili, vendar pa vse
+                            kaže, da so jih sežgali. Druga razlaga naj bi bila v katynski izkušnji:
+                            na grobišča so naleteli prodirajoči Nemci in odkrili ne samo, da gre za
+                            častnike poljske vojske, ampak tudi način in precej točen datum
+                            usmrtitve. Kot kaže, je šlo na žalost za najslabšo možnost: žejnega,
+                            lačnega in pretepenega nasprotnika je bilo treba na ta način dokončno
+                            ponižati in zatreti. Nato pa še pretepanje na 150 m dolgi poti do
+                            brezna. Ob njej so stali partizani v tesnem špalirju in tolkli z
+                            gorjačami. Vse to mučenje je bilo funkcionalno, imelo je določen namen.
+                            Z njim so dosegli tisto popolno vdanost v usodo in pasivnost, ki jo
+                            opisujejo in se ji vsi čudijo. Ne morejo si razložiti, kako so se mogli
+                            preizkušeni in vzdržljivi vojščaki v enem tednu tako spremeniti, da so
+                            prehodili teh 150 m in ni bilo med njimi skoraj nikogar, ki bi planil na
+                            mučitelje in se vsaj drago prodal, če mu že ne bi uspelo pobegniti.</p>
+                        <p>Dejak pravi, da so morali pred jamo odgovarjati na vprašanja, da bi
+                            videli, če imajo zlate zobe. Vsakomur, ki so ga tako odkrili, so kar
+                            živemu izbili zobe iz ust. Njegovemu pričevanju je težko verjeti.
+                            Verjetno so jih prej pobili. Zelo težko je namreč izbiti zobe nekomu, ki
+                            se vsaj delno brani in tišči čeljusti skupaj.</p>
+                        <p>Žrtev je morala na robu brezna počepniti in so jo ustrelili v tilnik z
+                            avtomatom ali revolverjem. Strel v tilnik je značilen za' komuniste,
+                            tako so postopali tudi v Katynu. Če je strel precizen, žrtev ne čuti
+                            ničesar. Vse druge metode so za žrtev, čeprav je končni učinek seveda
+                            isti (strelski vod, obešanje, električni stol, plinska celica) hujše.
+                            Njihov cilj ni pomagati žrtvi, ampak zaščititi krvnika in mu olajšati
+                            delo s tem, da ga čimbolj oddaljijo. Pri strelu v tilnik gre krogla
+                            skozi centre za zavest, dihanje in obtočila v možganskem deblu in je
+                            smrt trenutna in neboleča. Žal morilci na Rogu niso bili hladnokrvni
+                            strokovnjaki in kot kaže, so bili zraven še opiti. Streljali so slabo. V
+                            spominih preživelih so najbolj pretresljiva ravno poglavja, ki opisujejo
+                            umiranje v breznu, ki je trajalo nekaj ur in več, ko so nekateri počasi
+                            izkrvaveli, drugi pa se zadušili v gomili trupel.</p>
+                        <p>Vse tiste dni je bilo v breznu vedno vsaj 10 živih in skoraj
+                            nepoškodovanih. Najteže so prenašali mraz, saj je bilo na dnu brezna
+                            hladno tudi čez dan, kaj šele ponoči. Bili so skoraj goli in so slačili
+                            mrtve, da so se nekako pokrili, kar pa ni bilo dovolj. Žejo so si gasili
+                            z vodo, ki je kapljala s stropa. Kljub temu je večina umrla že v nekaj
+                            dneh. Šlo je za silne pretrese, brezup, da so živi pokopani, končni
+                            vzrok pa je bila podhladitev. Ko pade telesna temperatura v jedru telesa
+                            pod 30° C sledi spanec in smrt. Umrli so torej v spancu, podobno kot
+                            drogirani, ki zmrzne, čeprav je temperatura okolja 10° C ali celo
+                            višja.</p>
+                        <p>Brezno pod Krenom je globoko 20 m in toliko tudi široko. Večina teh
+                            brezen nastane tako, da se vdre stop v sredini kraške jame. Odprtina
+                            tega brezna je bila prvotno široka komaj nekaj metrov v premeru. Zajec
+                            je ocenil, da bi bilo v njem prostora za 100.000 ljudi. Ocena je
+                            pretirana. Če računamo, da ima jama takih dimenzij približno prostornino
+                            4000 m3, lahko stlačimo vanjo največ 20.000 trupel.</p>
+                        <p>Domobrance so začeli streljati v Rogu v soboto, 2. junija, naslednje dni
+                            pa, kakor so prihajali transporti, verjetno ne več kot 800 na dan.
+                            Masovnega streljanja je bilo konec 9. junija, ko se je znašel v breznu
+                            med zadnjimi France Kozina, ki je pobegnil iz jame naslednjega dne še z
+                            dvema. Vmes ni bilo streljanja 5. junija, ko so vhod v brezno
+                            razstrelili in opisuje Zajec, da je bilo kar 5 detonacij, in tudi ne 6.
+                            junija. Dejak opisuje, da so 8. junija, ko se je sam znašel v breznu,
+                            padali vanjo ves dan do večera.</p>
+                        <p>Ostane nam še nekaj vprašanj, med njimi, kdo je neposredno sodeloval pri
+                            pobojih. Zajec piše, da v začetku niso bili Slovenci, kar se ujema z
+                            izjavo Sime Dubajiča, da je pobijala njegova skupina. Kasneje naj bi jih
+                            zamenjali Slovenci, domnevajo, da so bili to partizani prejšnje Gubčeve
+                            brigade. Streljali so samo prostovoljci. Če upoštevamo trojni varnostni
+                            pas na moriščih, špalir ob poti do brezna, straže pri zavodih in da se
+                            je vse to dogajalo tudi v Škofji Loki in na Teharjah, z morišči v
+                            škofjeloških hribih, okrog Hrastnika in še marsikje, lahko upravičeno
+                            sodimo, da je sodelovala vsaj polovica slovenskih partizanov.</p>
+                        <p>Najvažnejše vprašanje pa je seveda, koliko domobrancev je bilo pobitih na
+                            Rogu in koliko drugje, predvsem pa zadnje, na katero ne bomo nikdar
+                            dobili pravega odgovora, kdo poimensko leži v določenem grobišču.
+                            Stevilo pobitih na Rogu je lahko samo približno, vendar računamo, da jih
+                            ni več kot 4000. V teh breznih leži večina tistih, ki so bili vrnjeni
+                            skozi karavanški predor, razen gorenjskih domobrancev, od katerih je
+                            vsaj del obležal blizu Škofje Loke, in oficirjev. Zanesljivo ni na Rogu
+                            domobrancev, ki so bili v taborišču na Teharjah. Tako bo vendarle možno
+                            sestaviti razmeroma zanesljiv seznam, raziskave roških grobišč oziroma
+                            brezen pa bodo, kot mislimo, potrdile, da so domobranci obležali ravno v
+                            breznu pod Krenom. Pomagati nam bodo morali tudi preživeli: če bi brezno
+                            toliko očistili, da bi prišli do dna in stranskih rovov, bi ga lahko
+                            prepoznali.</p>
+                        <p>Na žalost nam ne pomagajo tisti, ki so sodelovali. Raje ponavljajo, da
+                            niso bili zraven in niso vedeli, kaj se dogaja. Morda govore resnico,
+                            vedo pa za soborce, ki so bili zraven. Nočejo nam jih pokazati, ker
+                            vlada med njimi zarota molka. Pri iskanju resnice tako nismo veliko na
+                            boljšem kot zgodovinarji, ki so raziskovali življenje pračloveka.</p>
+                    </div>
+                </div>
+                <div type="div2">
+                    <head>Doumeti Rog</head>
+                    <docAuthor>Justin Stanovnik</docAuthor>
+                    <div type="div3">
+                        <p>Ko se je sredi osemdesetih let začel v javnosti – skraja plaho in zelo
+                            poredko – omenjati povojni poboj slovenskih domobrancev, se je v zavesti
+                            ljudi utrdila tudi že njegova lokacija. Takrat je Kočevski Rog spremenil
+                            svojo jezikovno vlogo, iz zemljepisnega imena je postal metafora. Čeprav
+                            je skoraj gotovo res, da večina domobrancev ne leži na Rogu, ampak je
+                            tistih, ki so jih morili in metali v jame, ki se povezujejo s kraji kot
+                            so Škofja Loka, Teharje, Laško, Hrastnik in tako dalje in tako naprej,
+                            več, je vendar v jeziku ostal Rog kot ime in znamenje za njihovo usodo v
+                            celoti. Kočevski Rog je postal podoba, simbol za fizično uničenje neke
+                            velike človeške skupnosti in je torej znamenje ne za uboj, ampak za
+                            ubijanje.</p>
+                        <p>S pobojem, ki se je zgodil v tako imenovani krvavi slovenski pomladi leta
+                            petinštiridesetega, se je zgodovinsko izkustvo slovenskega naroda
+                            povečalo za neko prvino, ki je bila nova v posebnem pomenu te besede.
+                            To, kar se je zgodilo, ni bilo novo v pomenu drugačnega, ni bilo samo
+                            nova različica v vrsti analognih pojavov, ampak je bilo novo v pomenu
+                            neznanega, še ne slišanega, še ne umišljenega, torej niti v domišljiji
+                            spočetega, kaj šele v resničnosti udejanjenega. Lahko bi rekli, da je to
+                            bil ontološki novum. Ničesar si ne moremo zamisliti, kar bi bilo bolj
+                            novo, kakor je bilo to, kar je jezik poimenoval z besedo Rog.</p>
+                        <p>Ker je Rog torej nekaj tako zelo novega, si z zgodovino pri njegovi
+                            interpretaciji ne bomo dosti pomagali. Prepustiti se bomo morali samo
+                            njemu in dovoliti, da vstopi v nas z vsem, kar o njem vemo, in potem
+                            čakati, da se v nas oglasi verbum interius, kakor bi rekel Sv. Avguštin,
+                            notranja beseda, ki seveda ni nobena beseda, ampak bolj območje,
+                            zaenkrat še prazno, a vendar toliko zamejeno in določeno, da vemo vsaj
+                            to, kaj vanj ne spada. Besedo Rog torej imamo, a še ne vemo dobro, kaj
+                            pomeni. Vemo, s katerimi dogodki jo povezujemo, vemo nekaj o tem, kako
+                            so ti dogodki potekali, a neodgovorjeno ostaja vprašanje, kaj se je
+                            dogajalo tako rekoč za temi dogodki ali kaj je bila njihova globlja
+                            resnica. Kakšen pomen, kateri smisel imajo ti dogodki v polju zadnjih
+                            človekovih zadev. Kaj bomo po teh dogodkih rekli, da je človek, kaj
+                            zgodovina, kaj kultura in kaj civilizacij a. Ali bomo morda po vsem
+                            morali postaviti zahtevo po novi antropologiji? Ali po novi filozofiji
+                            zgodovine?</p>
+                        <p>Preden nadaljujemo, moramo zavrniti neko misel. Ko se je namreč začelo o
+                            Rogu govoriti, so v ideoloških centrih partijske države na mah zaznali
+                            nevarnost. Govorjenju o Rogu je bilo treba vzeti njegov naravni
+                            momentum, smer gibanj a, in ga preusmeriti na področje, kjer ne bo
+                            nevarnosti, da se razkrije njegov pravi pomen. In takrat se je pojavila
+                            znamenita sintagma »znanstvena interpretacij a Roga«. Zdi se, da takrat
+                            temu nihče ni ugovarjal, čeprav je bilo jasno takrat kot je jasno sedaj,
+                            da česa takega, kot je znanstvena interpretacij a Roga, enostavno
+                            ni.</p>
+                        <p>V najboljšem primeru obstaja znanstven opis Roga, ki pa, tudi če je
+                            znanstven, se pravi točen in korekten, še zdaleč ni njegova
+                            interpretacija. S to besedno zvezo so enostavno upali, da bodo
+                            govorjenje o Rogu spravili v pozabljene in odmaknjene meandre
+                            zgodovinske analitike, v polje menjavajočih se etioloških hipotez, na
+                            vsak način pa ven iz tistega sveta, ki ima edini pravo svetlobo za
+                            vprašanja te vrste. To pa je polje človekove moralne zavesti in svet
+                            filozofske refleksije.</p>
+                        <p>V tej svetlobi pa se nam Rog pokaže najprej in predvsem kot zlo. Tam,
+                            kjer se je ideja Roga spočela, in tam, kjer se je uresničila, so stali
+                            ljudje, ki se niso čutili vezane po nobeni zapovedi, ki sicer
+                            $ostavljajo meje človekovim dejanjem. Cutili so se nad Zakonom, ali
+                            drugače, postavili so se na njegovo mesto in bili Zakon. Bili so
+                            nekakšni bogovi in, ko človek postane bog, je tudi že pošast. Natanko to
+                            se je zgodilo z njimi. Za to mislijo bo treba še malo stopiti, ogledati
+                            si bomo morali, kaj je stalo za njimi, da se nam odkrije zadovoljivejša
+                            slika njihovega dejanja.</p>
+                        <p>Rekli smo že, da je Rog novum, odkrili smo tudi njegovo zlo naravo, sedaj
+                            pa bi radi pokazali na enega od konstitutivnih delov, morda celo na
+                            središčni del, tega novega in nepojmljivega zla. Zdi se, da je na zlu,
+                            ki se je realiziralo na Rogu – ne v njegovem obsegu, ne v njegovi
+                            intenziteti, pač pa v njegovem inspiracijskem jedru – nekaj, čemur bi
+                            morda morali reči presežno zlo. V zavesti človeka, ki malo bolj pozorno
+                            in preiskujoče opazuje razstavo zla, ki jo je priredilo to stoletje, se
+                            namreč sama po sebi izrisuje neka meja, ki nekatere vrste zla izključuje
+                            iz polja tradicionalnega človeškega zla. Včasih človek naleti na kaj
+                            tako infernalnega, se pravi umu in srcu tujega in nedostopnega, da
+                            tistega ni mogoče postavljati v polje človekove dosegljivosti. Tisto,
+                            kar pri postavljanju te meje odloča, ni čut za mero in sorazmerje –
+                            morda je ta čut važen na začetku, ko človeka opozori na to, da je pred
+                            njim izreden pojav, ki po količini in kakovosti presega normo
+                            habituelnega zla. Tisto, kar daje zlu njegovo presežno vrednost, je
+                            slutnja o njegovem izvoru, o naravi navdiha, ki ga je spočel in sprožil.
+                            Nenadoma si namreč pravimo, da se to vendar ni moglo zgostiti v džungli
+                            človeških strasti, ki so človekov svet; zlo, a človekov svet. Strasti
+                            so, kot vse, kar je človeškega, omejene in končne; tudi sovraštvo je
+                            nazadnje nasitljivo. Tu pred nami pa je zlo, ki nam pamet brani reči, da
+                            se je spočelo v končnem duhu.</p>
+                        <p>Nekatere značilnosti ubijanja na Rogu kažejo na to. Tu je prvič dejstvo,
+                            da domobrance niso enostavno eliminirali, kar bi bilo navsezadnje možno.
+                            Tu je tudi vprašanje, zakaj pred smrtjo toliko žaljenja in toliko
+                            mučenja, da moramo govoriti o dvakratnem ubijanju. Že tu je nekaj, kar
+                            kaže na duhovno komponento tega hudodelstva. Preden jim ubijejo telo, so
+                            čutili, jim morajo ubiti še duha. In tu smo morda pri jedru tega
+                            tehnično odvečnega in moralno presežnega zla. Morda bomo nazadnje morali
+                            reči, da so to bili v zadnji analizi ubijalci duha. Zdi se, da smo tu
+                            zunaj območja človeškega zla. V intuiciji, v globini svojega bitja
+                            čutimo, da človek s takim početjem preseže sebe. In če človek preseže
+                            sebe, mora biti v njem neki vzgon, ki ga ne nosijo njegove lastne
+                            energije. A o tem več liozneje.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_04.png"/>
+                            <head>V neznano</head>
+                        </figure>
+                        <p>Ko so vozili domobrance iz Kočevja na Rog – in v jame pri Šentvidu in pri
+                            Teharjih in pri Škofjeloškem gradu, a ostanimo pri Kočevskem Rogu – so
+                            se godile šokantne stvari: Žice, s katero so jim vezali roke, so se tako
+                            zarezovale v meso, da so jim roke odmirale. Ganljivo slovenska je tožba
+                            ene od žrtev: Saj te roke ne bodo več za delo! Potem tista kratka vožnja
+                            s kamioni, kjer jih niso tepli, ampak ubijali; predstavljajte si,
+                            nepremične, zvezane ubijati s koli! Tistih dvesto metrov od ceste do
+                            jame so morali teči – tedaj so že vedeli, kam tečejo – nagi, in kar je
+                            posebno važno, bosi po ostrem kamenju in tu spet koli in spet jih je
+                            nekaj obležalo. In potem tisto, kar se je zgodilo tik pred ustjem jame,
+                            izbijanje zob s kladivi še živim ljudem. Te muke – ko pravimo muke, že
+                            čutimo, kako je jezik nezadosten, kako odpoveduje – ne zaostajajo za
+                            ničemer, kar so nam sporočili kronisti stoletja.</p>
+                        <p>A važno je nekaj drugega. Ti ljudje tega ne bi mogli delati, če na to ne
+                            bi bili pripravljeni ali pripravljani. Ti ljudje so morali že početi
+                            podobne stvari, mogoče ne tako množično, a kar iznenada se niso mogli
+                            spustiti na subhumano raven. Človek ne more kar tako zapustiti sebe. Za
+                            to je potrebna šola in trening. Ta notranja požganost, ta degeneracija v
+                            tisočletjih nabranih instinktov se ne zgodi čez noč in za eno
+                            priložnost. Za vsem tem je moralo biti tudi sovraštvo, gojeno, zalivano,
+                            razpihavano. Hočem reči, da Rog ni nekaj slučajnostnega, ampak da je
+                            zrastel iz določene duhovne klime, da je sad nekega določenega drevesa.
+                            Vse celice tega drevesa so ga soustvarjale: korenine, steblo, veje,
+                            listi, vse je sodelovalo pri proizvodnji tega sadu. Ali – da zapustimo
+                            svet podob – gibanje, ki si je nadelo ponosno in odlično ime narodno
+                            osvobodilnega boja, je v tem množičnem ubijanju pokazalo, k čemu je že
+                            vseskozi stremelo, v čem je bila osnovna klica tega organizma. Ko se je
+                            ta organizem pojavil, ko se je začel razraščati, pozornemu in
+                            neobremenjenemu očesu ni ostalo skrito, kaj pomenijo znaki, ki so se
+                            kazali na njem. In prav te natančne in pozorne opazovalce so, v kolikor
+                            jih niso odstranili že prej, uničili v veliki roški moritvi. Morda pa so
+                            jih tako zelo sovražili zato, ker so jih bili prepoznali. Mogoče je iz
+                            tega zrastla zamera, ki je ni bilo mogoče pomiriti drugače kot z
+                            ubojem.</p>
+                        <p>Potem so tu še druge stvari, ki se zdi, da segajo čez rob človeškega.
+                            Ubijanje na Rogu je bilo brutalno, s čimer hočemo reči, da so izvajalci
+                            tega ubijanja morali prej obračunati s svojo vegetativno dušo, da so to
+                            sploh mogli početi, fizično, kot pravimo. Spremeniti so se morali na tej
+                            najosnovnejši odzivni stopnji. Potem pa je to ubijanje bilo tudi
+                            množično in časovno sklenjeno. Množično pomeni, da so ubili ne enega ali
+                            dva, ampak sto in še sto in še sto; in potem tisoč in še tisoč in še
+                            tisoč. To je en aspekt množičnosti. Drugič pa je množičnost poudarjena
+                            zaradi sorazmerne maloštevilnosti ubijalcev: nekaj deset ljudi v prvem
+                            krogu, v drugem nekaj sto. Tvegam misel: če človek ubije človeka, je to
+                            mogoče razumeti in je zato v mejah človeškega; če pa človek ubije sto
+                            ali petsto ljudi, je to enostavno onstran umljivega. Tako dejstvo lahko
+                            ponovimo, razumeti ga nikoli ne moremo. Posebej ne smemo mimo trajanja
+                            ali časovne sklenjenosti. Trajalo je dan za dnem, od jutra do večera,
+                            kar naprej ubijati, ubijati, ubijati. Kako to, da se komu od njih ni
+                            enostavno uprlo? Dejak pripoveduje, da mu je partizan pred jamo ukazal:
+                            »V oči me glej!« Ali je mogoče, da od teh mnogih oči vsaj enih ni videl,
+                            tako da bi jih zares zagledal, da bi opazil, da iz njih sije duša? Dejak
+                            pravi, da so jih tisti dan ubili čez osem sto. Kako je peščica ubijalcev
+                            mogla prenesti toliko oči? Ali to ne štrli čez, ali vse to ni že
+                            onstran? Gotovo, a vse to vendar še ni središče. Morda je to že središče
+                            za te ljudi, ki so to delali tu pred tisto strašno odprtino. Za te uboge
+                            ljudi, ki takrat gotovo niso vedeli, kako zelo se obremenjujejo.</p>
+                        <p>Prav gotovo pa to, o čemer sedaj pripovedujem, ni bila središčna reč tam
+                            gori, v prostoru, kjer se je rodila zamisel, kjer je zamisel v
+                            najglobljem smislu že vedno bila. Tam stvari, ki smo jih tu opisovali,
+                            niso štele. Tam j e bila idej a. V računskem središču te ideje je bilo
+                            vedenje, v tistem plavkastem in hladnem in lucidnem središču je bil od
+                            vsega odvezani, na nič ozirajoči se um in njegovo vedenje: če hočemo
+                            realizirati novi svet, ga z zgodovinskim človekom ne bo mogoče. Fiat
+                            totalnega upora je vključeval tudi novega, za predvideni svet
+                            prirejenega človeka. Človeku je torej bilo treba zamenj ati dušo. In ker
+                            je misel, ki je vodila ljudi slovenskega protikomunističnega odpora,
+                            bila izraz slovenske tradicionalne duše, so z odstranitvijo teh ljudi
+                            videli možnost, da se ustvari prazen prostor za novo dušo. Ko so pobili
+                            vse domobrance, v sociološko relevantnem pomenu vse domobrance, so, v
+                            kulturnem in političnem jeziku govorjeno, ubili domobransko dušo. Vedeli
+                            pa so, da s tem ubijajo tudi narodovo dušo, kakor se je oblikovala v
+                            naravnem razvoju civilizacije. To v bistvu ni bil samo biološki uboj,
+                            ampak uboj duha. In tu smo sedaj pri jedru stvari. Presežnost zla, ki se
+                            je zgodilo na Rogu, je prav to: poskus ubiti duha celega naroda.' To je
+                            v osnovni celici te ne-človeškosti: upor proti človeku samemu. V tem je
+                            presežnost tega zla. Sedaj vemo, zakaj so morali dobiti domobrance in
+                            njihove somišljenike iz Koroške: da ubijejo dušo, ki so se je bali.</p>
+                        <p>Duha naroda jim, kakor vemo, ni uspelo ubiti, a kako hudo so ga ranili,
+                            vidi vsak, ki ima za to oči. Po Rogu se je ubijanje seveda še
+                            nadaljevalo. Sedaj ne več fizično, ampak duhovno, s sredstvi ideološkega
+                            . posega in kontrole. V tem ni samo akt vseprisotne volje. V komunizmu
+                            samem, je namreč že smrt, v najlonski kvaliteti njegovih idejnih vlaken
+                            se razumljivo nikoli ne more naseliti življenje; ker je njegova osnovna
+                            resnica ta, da je umeten, od življenja in narave odtrgan konstrukt, je
+                            smrtonosen že njegov dotik. Komunizem in življenje sta sprta od začetka:
+                            od ubojev dvainštiridesetega, preko infernalnega izbruha na Rogu, skozi
+                            leta graditve nove družbe, ki je pomenila postopno izrinjanje naravnega
+                            življenja.</p>
+                        <p>Ko govorimo o naravi zla, ki se je realiziralo na Rogu, bi morda kazalo
+                            povedati še nekaj. Z Rogom se e na poseben način povečalo zlo sveta. Ce
+                            se bo v prihodnosti kdaj zgodilo kaj podobnega, bodo ljudje namreč
+                            rekli, aha, to je tako, kakor je bilo na Rogu. Imeli bodo referenčno
+                            točko, Rog bo postal usus zgodovine. Ne vemo, katero zlo je v svetu še
+                            in potentia – v možnosti. Zlo, ki se je zgodilo na Rogu, gotovo ni, ker
+                            se je že realiziralo. Rog je postal repertoar zgodovine. V eventualnih
+                            reprizah bodo ljudje vedno manj začudeni. Tudi zato je prva realizacija
+                            specifičnega zla na poseben način usodna – presežna, ker pomnožuje
+                            inventar zla v svetu v kategorialnem smislu. To je pomen besede proton
+                            kakon – prvo zlo.</p>
+                        <p>O vsem tem govorimo predvsem zato, ker bi se radi približali tisti
+                            notranji besedi za Rog, o kateri smo govorili v začetku. Nekaj smo že
+                            našli: zdi se, da Roga ne bomo dobro razumeli, če v njegovem zlu ne bomo
+                            videli presežnosti. A ta analiza, to odkrivanje presežne narave zla, še
+                            zdaleč ni zgolj spoznavno vprašanje, ki bi nas zanimalo zgolj po sebi. V
+                            vsem tem prihaja na dan tudi neka resnica o človeku. Spet se oblikuje
+                            pred nami spoznanje, kako smo obremenjeni. Kaj je človek? Kaj človeka
+                            lahko doleti? Orodje kako neznanskega zla človek lahko postane! Niso
+                            bile namreč samo žrtve ljudje, ljudje so bili tudi ubijalci. In tudi mi
+                            smo ljudje. Nazadnje je tako, da je, potem ko smo o Rogu vse povedali, v
+                            nas tudi sočutje in usmiljenje, na poseben način za ubitega in na
+                            poseben način za ubijalca.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_05.png"/>
+                            <head>V neznano</head>
+                        </figure>
+                        <p>To pa je že misel, da je Rog tudi pridiga. Ko ga namreč gledamo, ko
+                            slutimo, da smo v bližini presežnega zla in nadčloveške obremenjenosti,
+                            se nam, ko gremo k sebi nazaj, v novi luči odkrije tudi naše banalno,
+                            vsakdanje zlo. Naše oči, poučene od one velike freske, vidijo sedaj, kaj
+                            je namreč naše vsakdanje zlo – da je namreč zlo. In mogoče bomo
+                            pretreseni nad tem, kar smo še včeraj imeli za malenkost. Tako postane
+                            Rog, če smo ga pripravljeni sprejeti v zavest, memento. In ni daleč
+                            misel, da bi lahko postal pot za nravstveni preporod dežele.</p>
+                        <p>Na Rogu smo torej odkrili dve potezi, ki ga ločujeta od stvari našega
+                            izkustvenega sveta: njegova novost in njegova presežnost. Oboje pa se
+                            povezuje s težavo, ne samo kako ga razumeti, ampak tudi kako o njem
+                            govoriti. Vseskozi nas namreč spremlja občutje, da besede niso pravo
+                            orodje za ravnanje s tem pojavom. Začnemo delati stavke, a komaj
+                            katerega izgovorimo, že vidimo, da ni opravil svoje naloge. Kot
+                            neuspešni ribiči mečemo mreže v morje jezika in jih razočarani prazne
+                            vlečemo na krov. Polasti se nas bojazen, da je Rog s svojo temo in svojo
+                            neznanskostjo zunaj jezika.</p>
+                        <p>Ali to pomeni, da moramo molčati? Ali moramo slediti Wittgensteinovemu
+                            priporočilu, da moramo o stvareh, o katerih ni mogoče govoriti, molčati?
+                            A tedaj moramo upoštevati še enega njegovih stavkov, da so meje mojega
+                            jezika tudi meje mojega sveta. V tem primeru bi Rog nehal biti del
+                            mojega sveta, s čimer se ni mogoče sprijazniti. Rog se je zgodil, o tem
+                            ni nobenega dvoma, in je del zgodovine. Kot ljudje in kot Slovenci smo z
+                            njim povezani in z obeh naslovov postavlja pred nas svoje moralne
+                            zahteve. Torej je del našega sveta. A kako se mu približati, kako vanj
+                            stopiti, če je nekaj presežnega? V preambuli naše civilizacije stojijo
+                            stavki, po katerih je Rog brezumje, zato nemara ni mogoče do njega z
+                            logosom tradicionalnega jezika. Pred nami sta, se zdi, dve možnosti: ali
+                            molk ali nov jezik.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_06.png"/>
+                            <head>V neznano</head>
+                        </figure>
+                        <p>Da je molk način govora, je davna vednost. Da se je z molčanjem mogoče
+                            posvečati stvarem in ljudem, je v območju splošnega izkustva ljudi.
+                            Ravno v trenutkih, ki jih imamo za vrh doživljanja, umolknemo. Ravno
+                            najintenzivnejša duhovna stanj a paradoksno spremlj a molk. Horacov
+                            Favete linguis! – Umolknite! slišimo vsakič, ko dospemo do tiste meje,
+                            ki zahteva zbranost, ki bi jo motila izgo vorjena, mogoče celo
+                            neizgovorjena beseda. Lahko se tudi spomnimo, kakšno tišino zahteva
+                            pesnik Poe: Srce, za hip utihni, da raziščem to skrivnost! Intenzivnost
+                            popolne tišine je nadalje morda najadekvatnejši način obstajanja pred
+                            svetim. Vprašanje je torej, če ni molk tisti način govora, ki ga
+                            zahtevajo presežna razmerja Roga.</p>
+                        <p>Toda molk, o katerem govorimo tu, ima svoje naravno mesto šele na koncu,
+                            na meji, potem ko so bile povedane možne besede in opravljena zahtevana
+                            in izvedljiva miselna dejanja. Šele tam more molk uresničiti to možnost,
+                            da je nadaljevanje govora. Šele ko smo besedam izmerili njihov obseg in
+                            videli, da jih ne moremo siliti v prostore, za katere niso bile
+                            narejene, jim lahko dovolimo, da sedejo pred vrata neznane hiše in
+                            potrpežljivo čakajo in čakajoč zorijo, dokler kateri od njih ni
+                            dovoljeno, da vstopi. Gre torej za molk po besedah in ne za molk pred
+                            besedami. Važno je, da se pred vstopom v molk preiščejo vse možne
+                            besede. Tam na meji, pred molkom, se bo verjetno izkazalo, da moramo
+                            začeti izdelovati nove besede. Ko pravimo nove besede, ne mislimo na
+                            slovarske vpise, ampak na novo predikacijo, na nove zveze, na širjenje
+                            in preurejanje konotacijskega polja, na ustvarjanje novih aluzij, na
+                            nove asociativne domete, nov ritem: z eno besedo, na aktualizacijo še ne
+                            izrabljenega.</p>
+                        <p>Vse to pa bo seveda možno šele takrat, če se bodo ljudje odločili, da
+                            sprejmejo Rog v svojo zavest. Če bo Rog postal tako rekoč konstitutivna
+                            prvina narodove kulturne in moralne zavesti, se bodo našli ljudje takšne
+                            občutljivosti, o kateri smo govorili zgoraj. A preden se dotaknemo
+                            položaja, ki vlada na tem področju, bi želeli pokazati na nekaj
+                            drugega.</p>
+                        <p>Rog bi namreč v tem, da se nam zdi nedosegljiv za besedo, imel očišču'očo
+                            vlogo za jezik v polju dosegljivega. Če namreč Rog v svoji globini, v
+                            tem, kar v resnici je, presega jezik, potem je tu možnost, da ob tej
+                            presežnosti izpeljemo naslednjo misel: Če imamo stvari, ki jih z besedo
+                            ni mogoče zajeti, če so stvari, za katere vemo, da so naša zadeva,
+                            vendar nekako ne moremo do njih, ali ne bi bilo razumno reči, kot
+                            nekakšen moralni kolorar k gornji ugotovitvi, da moramo na področju, na
+                            katerem čutimo, da pa so besede kompetentne, z njimi ravnati, prav ob
+                            spoznanju, da so prostori, kamor ne mo rejo in morda ne smejo, natančno
+                            in odgovorno, pametno in modro. Tako da jih ne bomo silili, da govorijo
+                            o stvareh, ki v njih niso; tako da jim pustimo živeti njihovo naravno
+                            življenje, ki je v tem, da so hkrati proizvod duha in njegov kriterij.
+                            Da pustimo, da nas vodijo po hiši vsega in vsakega bivajočega in nam
+                            pripovedujejo o stvareh in njihovem življenju, in da s tem, ko jih
+                            kličemo v življenje, zahtevamo, da o njih govorijo. Ko se torej vračamo
+                            iz Roga z občutkom, da smo bili na kraju nedosegljive presežnosti,
+                            čutimo, da moramo tu, v »teh kraljestvih«, z govorom, ki nam je dan,
+                            ravnati odgovorno. V tem bi Rog lahko bil dragoceno in potrebno
+                            zdravilo.</p>
+                        <p>In to ni malo pomembno, posebno če bi se kdo strinjal z našo oznako
+                            nekega določenega pojava v slovenski sedanjosti. Okoli nas in v nas se
+                            kažejo stvari, ki jih gledamo s takim presenečenjem, da komaj verjamemo,
+                            da so. Vsepovsod opažamo regresijo ali umik uma. Polje, kjer ga je še
+                            mogoče videti, je polje gole, skrčene, zasebne in kratkoročne koristi.
+                            Če pa se um dotakne stvari, ki to polje presegajo, se zveriži do
+                            nespoznatnosti in postane karikatura. To pa so ravno najvažnejše stvari
+                            za človeka: vrednote, morala, politika. Dosegli smo stopnjo, da je na
+                            področjih, na katerih se odvija boj za človeka in njegovo usodo, mogoče
+                            reči dobesedno karkoli. Živimo v prostoru, ki je izgubil sposobnost
+                            selektivne reakcije in prenese vse. Ali drugače: javni prostor ni
+                            strukturiran po nobeni kulturi. In ljudje ga sprejemajo in še zdaleč ne
+                            pomislijo, da jih uničuje. Trenutno se odsotnost uma nikjer ne kaže tako
+                            upadljivo kot v politiki. Tu ne-um prehaja v vulgarno neumnost; tu se
+                            postavljajo sodbe, kakor da ljudje ne bi imeli nobenega spomina in
+                            nobene skušnje, kakor da bi bili ljudje čista funkcija tiste volje, ki
+                            stoji za radiom, televizijo in časopisi. Kakor da njih samih v resnici
+                            sploh ne bi bilo! Odsotnost uma je še bolj groteskna ob prisotnosti, ne
+                            strahu, ampak strahopetnosti. Ta sega tako daleč, da se ljudje celo v
+                            sebi, v intimni zasebnosti bojijo izoblikovati mnenje. Ne zmorejo tega
+                            napora, mogoče mislijo, da nimajo do njega pravico, najverjetneje pa se
+                            ga bojijo.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_07.png"/>
+                            <head>Konec ceste</head>
+                        </figure>
+                        <p>Na dnu tega, o čemer sedaj govorimo, je vprašanje jezika. Če bomo hoteli
+                            zdraviti to, čemur smo – upamo, da nikomur v pohujšanje – rekli
+                            odsotnost uma, se bomo morali stalno vračati k vprašanju, kaj je
+                            normalni jezik. To bi utegnil biti jezik, ki bi bil tako čist in
+                            določen, da bi omogočal razumno komunikacijo. Če bomo imeli jezik, v
+                            katerem bo mogoče izjave utemeljeno sprejemati in zavračati – to pa bo
+                            mogoče šele potem, ko bo jezik stopil iz ideološkega somraka – bomo
+                            končno lahko začeli graditi družbo razumnih in svobodnih ljudi. Po naši
+                            misli, bi doživetje Roga v ključu, kakršnega smo odkrili, lahko
+                            postavilo naročilo, da se vrnemo k takemu jeziku.</p>
+                        <p>A do tistega molka pred presežnim in neznanskim, od koder bi se mogli
+                            vračati, potem ko bi nam segel do dna, spremenjeni; do tistega
+                            zdravilnega, mogoče celo odrešilnega molka je še daleč. Zakaj? Ne moremo
+                            se dovolj načuditi, a je vseeno res, da fenomen Roga še ni začel svoje
+                            poti v slovensko refleksijo. Ne moremo se dovolj načuditi, pravim, ker
+                            je Rog nekaj, kar je nad vsem narodovim zgodovinskim izkustvom, nekaj,
+                            kar bi moglo postati gravitacijsko središče narodove politične, moralne
+                            in estetske misli, in ne samo misli, ampak najpreprostejšega občutja. Tu
+                            je nekaj, kar bi moglo prikovati nase ustvarjalno fantazijo. Kdo bi si
+                            mogel zamisliti kaj bolj dramatičnega, kakor je Rog; katero dogajanje bi
+                            se moglo gibati na tako visokem tragiškem koturnu; katera freska bi
+                            mogla v trenutku skrepenelega časa ustvariti večjo napetost; in Missa
+                            funebris Cornuensis, Roška črna maša – kakšen Kyrie, ka'__šen Agnuc Dei
+                            bi mogel zadoneti, zakričati, zajokati iz nje? In kako to, da je tako
+                            malo od vsega tega? Da ni skoraj nič od tega v deželi, kjer leži fizični
+                            Rog? Tu nam prihaja na misel Theodor Adorno, ki je izključeval možnost
+                            pisanja poezije po Auschwitzu. Ali kdo ve za slovenskega pesnika, ki bi
+                            izrazil podobno misel, da po velikem slovenskem pomoru ni mogoče več
+                            pisati poezije? Kako naj si to razložimo? Ali je petdesetletno
+                            komunistično duhovno nasilje res pustilo tako pogubne posledice na
+                            odzivni moči naroda? Ali so se kulturne in znanstvene institucije res
+                            tako zelo odpovedale svojemu naravnemu smotru, da identificirajo
+                            poglavitne narodove postaje skozi čas in jim posvetijo svoje miselne in
+                            umetniške energije? Ali so se res tako do kraja in brez ostanka vdale v
+                            odkazano vlogo? Ali je bila ideološka travestija središčnih dogodkov
+                            narodove zgodovine in kulture res tako uspešna, da se je senzorski
+                            sistem njegove duše usodno zmedel? Na ta vprašanja so možni različni
+                            odgovori, za nas pa je važno predvsem spoznanje, da je do tistega
+                            rodovitnega molka še daleč.</p>
+                        <p>A vendar upamo, da nas nekoč zajame njegova odkrivateljska logika. Saj je
+                            vendar nemogoče, da ne bi nekoč prišel rod, ki bi ga prevzela tragična
+                            veličina junakov na Rogu, njihova trpka zvestoba in njihov samotni
+                            pogum. Da, ko bo vse očiščeno in ko bo iz daljav časa mogoče videti samo
+                            bistvene reči, se bo pokazalo prav to: njihova zvestoba in njihov pogum.
+                            Če pa bi se iz kateregakoli vzroka zgodilo, da tega odziva v nobeni
+                            prihodnji mladini ne bi bilo in bi se Rog s svojimi moralnimi,
+                            političnimi in duhovnimi energijami izgubil v mutastih zakotjih
+                            zgodovine, potem bi imeli razlog, da se bojimo za preživetje tega
+                            ljudstva.</p>
+                    </div>
+                </div>
+                <div type="div2" subtype="poem">
+                    <head>Mučencem v spomin</head>
+                    <docAuthor>Pavel Kogej</docAuthor>
+                    <div type="div3">
+                        <lg>
+                            <l>Edino trn je iz krvi pognal, </l>
+                            <l>trn oster, ki je venčal glave, </l>
+                            <l>zbadal vaše roke je krvave, </l>
+                            <l>trn, ki ga brat je vaš izbral.</l>
+                        </lg>
+                        <lg>
+                            <l>S trnjem so jeklenim vas vezali, </l>
+                            <l>živi v ognju smrti ste goreli, </l>
+                            <l>kakor Kristus muke ste trpeli, </l>
+                            <l>rablji so obleko vam pobrali.</l>
+                        </lg>
+                        <lg>
+                            <l>Križani takrat je bil med vami, </l>
+                            <l>rane vaše je hladil s solzami, </l>
+                            <l>pesem zadnjo peli so gozdovi.</l>
+                        </lg>
+                        <lg>
+                            <l>Rož vam niso roke nasadile, </l>
+                            <l>trnje venča žalostne gomile, </l>
+                            <l>mrtvi spe pod njim sinovi.</l>
+                        </lg>
+                        <byline>Pomlad 1946</byline>
+                    </div>
+                </div>
+                <div type="div2" subtype="poem">
+                    <head>Prvi november</head>
+                    <docAuthor>Vinko Beličič</docAuthor>
+                    <div type="div3">
+                        <lg>
+                            <l>Pred spomenikom padlih za lepši čas </l>
+                            <l>venci s trakovi in z rož rdečino slone, </l>
+                            <l>zbor buči pesem, za imenom ime </l>
+                            <l>stopa iz kamna – iz davnine pred nas: </l>
+                            <l>mrtvi na praporu zmage blesteči...</l>
+                        </lg>
+                        <lg>
+                            <l>Zlati maklen v pečevju tišine </l>
+                            <l>pije iz modrine novembrski sij. </l>
+                            <l>Kam se razpletajo mu korenine? </l>
+                            <l>Komu to taščica z veje žgoli?</l>
+                        </lg>
+                        <lg>
+                            <l>Tisoče z molkom pozabe odel je poraz: </l>
+                            <l>njim zdaj, zasutim v skalnati ječi, </l>
+                            <l>taščica poje in sije ves Kras.</l>
+                        </lg>
+                    </div>
+                </div>
+                <div type="div2">
+                    <head>Mrtvi bataljoni</head>
+                    <docAuthor>Karel Mauser</docAuthor>
+                    <div type="div3">
+                        <p>Slonel je s hrbtom na sigasti, vlažni steni in s težavo lovil sapo, ki mu
+                            je zastajala pri padcu v globoko jamo. Z mrtvim tleskom so trupla še
+                            vedno padala navzdol, nekatera negibno obležala, nekatera pa se še
+                            stezala in krčila kakor črvi.</p>
+                        <p>Videl je, da se mora umakniti, da se na nek način mora zriniti do police
+                            na desni strani. Z visokim, obupno piskajočim glasom je zgoraj pela
+                            strojnica in svetloba velikega ognja je oblizovala stene širokega žrela,
+                            ki se je šele spodaj raztegnilo v skalnato dvorano, iz katere se je
+                            proti desni širil nizek rov, ki ga je ustavljala nizka, sigasta, z mivko
+                            pokrita polica. Sem, na to polico je hrepenel medel pogled mladega
+                            Kajžarja. Tam bi bil varen.</p>
+                        <p>Spravil se je na kolena. Bil je omotičen, bolela ga je glava in desna
+                            stran obraza mu je bila krvava. Ni se mogel domisliti ali ga je v teku
+                            krogla le oplazila ali ga je zadel udarec s kolom. Spominjal se je le
+                            padanja in udarca, ko je padel na dno.</p>
+                        <p>Lezel je ob steni, ki je zavijala proti polici. Dosegel jo je in zdaj se
+                            je bilo treba dvigniti. Prsti so mu drseli ob mivki. Odrival jo je,
+                            prsti so mu grebli globlje in globlje, dokler niso ujeli skal ne
+                            škrbine. Nato se je pričel vleči navzgor. Samo dober meter je bilo
+                            višine in vendar tolikšna muka. Šumenje v glavi je naraščalo, pred očmi
+                            so se prižigale in ugašale rdeče in bele pike. Prevesil se je, z ustmi
+                            se je zaril v droben, mrzel pesek. Ležal je na trebuhu, se tresel, se z
+                            bosimi nogami odrival od roba in se porival naprej. Luč velikega ognja
+                            ga ni več dosegla. Bil je v temi. </p>
+                        <p>S strašno muko se je skopal pokonci. Mivka se je prijela krvi na obrazu
+                            in stvorila ostudno, trdo skorjo. Ni je hotel obrisati. Zgoraj je
+                            streljanje prenehalo in mrtvi niso več padali v globino. Zdaj je sedel
+                            in z vso silo tiščal k sebi, kar mu je od obleke še ostalo. Od srajce mu
+                            je viselo po telesu le še nekaj krš in hlačnice so bile razparane do
+                            kolen. Mraz v votlini je bil moker in strupen. Vendar so mu bili vsi
+                            čuti napeti kakor strune. Slišal je hropenje tistih, ki so umirali,
+                            moreče drgetanje golih teles, ki so se stezala pod grmado in nato
+                            ječanje nekoga čisto pri polici.</p>
+                        <p>– Zvezde padajo z neba, zvezde pa–ada–jo</p>
+                        <p>– Kajžar je otrpnil, toda čeljusti so mu šklepetale. Roka se je stegnila
+                            na polici in na golo telo se je ujel svit ognja. Brez pomisleka, v
+                            strašni grozi je stegnil roko in zgrabil za prste. – Hitro, da naju kdo
+                            ne vidi od zgoraj.</p>
+                        <p>Zdaj šele je videl, da je fant komaj zrasel iz otroka. Suho telo se je
+                            zvrnilo na mivko in šepetalo.</p>
+                        <p>– Zvezde padajo in gore na smrekah. Na smrekah, na smrekah.</p>
+                        <p>Odsev ognja na steni žrela so pokrile sence in takoj nato je toča krogel
+                            pričela sikati na dno. V grozi se je Kajžar še bolj pomaknil v temo in
+                            za roko vlekel s seboj blodnega neznanca. Rov se je zožil in v ostrem
+                            kolenu zavil na levo. Kajžar je tipal z roko – tu je bila stena.</p>
+                        <p>– Počakati morava – je šepetal. – Zdaj škropijo tiste, ki so bili še na
+                            pol živi.</p>
+                        <p>– Asperges me hysopo...</p>
+                        <p>Neznanec je pel, kakor je Kajžar včasih slišal župnika v cerkvi.</p>
+                        <p>– Kdo si, siromak? – je šepnil. – Clericus, amice.</p>
+                        <p>Kajžar ga ni razumel, le strašna groza ga je obhajala. S silo je potisnil
+                            neznanca na tla in ko sta sedela drug poleg drugega, je slišal
+                            šklepetanje njegovih čeljusti. Pred polico, kjer sta pred hipom sedela,
+                            so se raztreskavale bombe in zublji modrikastega ognja so zasvetili in
+                            ugasnili v strašnem poku.</p>
+                        <p>– Quare fremuerunt gentes...</p>
+                        <p>Blodni neznanec je spet pričel peti in Kajžar mu je z dlanjo zaprl
+                            usta.</p>
+                        <p>– Molči! – je siknil.</p>
+                        <p>Takoj je obmolknil in zdaj je bilo slišati spet samo njegovo strašno
+                            šklepetanje. Niso več streljali v jamo in z grmade trupel ni bilo več
+                            ječanja. Skozi hladen zrak je prihajal vonj cureče krvi. Stisnjena drug
+                            k drugemu sta pričakala dan, ki je počasi vstajal iz gostega smrečja in
+                            se šele čez dolgo prevesil čez škrbinasto žrelo.</p>
+                        <p>– Ostani tukaj – je rekel Kajžar. – Pojdem pogledat.</p>
+                        <p>Plazil se je proti polici. Visoko zgoraj je videl nazobčan krog neba. Ko
+                            je z očmi premerjal višino, ji je prisodil svojih deset metrov. Morda za
+                            spoznanje manj. Stena širokega žrela je bila spodaj gladka, le zgoraj je
+                            bila razčlenjena s policami in škrbinami. Tam bi se dalo plezati.</p>
+                        <p>Dobri dve lakti pod polico se je začela grmada trupel. Bombe so do kraja
+                            zmaličile obraze, trepetaje je polzel po njih in jih skušal prepoznati.
+                            Nobenega ni mogel. Strnjena kri je bila nakopičena v ostudne bule.
+                            Pričel se je umikati. Čutil je, kako mu jezik debel leži med razbitimi
+                            zobmi.</p>
+                        <p>V rahli, mokri svetlobi je videl neznanca. Sedel je v glini skoraj
+                            popolnoma gol in čeljustne kosti so mu štrlele naprej kakor mrliču.</p>
+                        <p>– Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in horo
+                            mortis nostrae. Amen. In hora mortis nostrae... amen, amen, amen.</p>
+                        <p>Hotel je kričati, toda iz suhega telesa je prihajalo samo sunkovito,
+                            hripavo čenčanje.</p>
+                        <p>– Kaj bi rad? – je plašno goltnil Kajžar.</p>
+                        <p>Zdaj šele se je sedeči zasukal. Velike oči so bile motne in vroče.</p>
+                        <p>– Vodo – je sihnil.</p>
+                        <p>Kajžarju se je zdelo, da prihaja k pameti.</p>
+                        <p>– Aquam vitae aeternae. Benedictus, benedictus.</p>
+                        <p>Zmedlo se mu je, je pomislil, toda zdaj je krčevito hrepenel po istem
+                            kakor blodnež. Voda. Pričel je stikati po steni, počasi s prsti polzel
+                            navzdol, da bi kje ujel vsaj majhno kotanjo. Nekje je voda morala biti,
+                            zakaj stena je bila vlažna. Toda na tej strani ni našel ničesar in
+                            neznanec je pričel lizati skalo.</p>
+                        <p>– Počakaj, morda najdem kaj na drugi strani.</p>
+                        <p>Prav pri kolenu roba je našel vdolbino široko za dobro perišče. Bila je
+                            polna in s prsti je čutil, da neprestano teče preko roba in po steni
+                            navzdol. Vrnil se je in potegnil neznanca kvišku.</p>
+                        <p>– Našel sem vodo. Pridi in pij.</p>
+                        <p>Pritisnil ga je k steni in mu naravnal usta.</p>
+                        <p>– Ne spij vse. Pusti jo še meni.</p>
+                        <p>Obupno mlaskanje se ni ustavilo in ni ga upal odtrgati. Kakor netopir je
+                            visel ob temnem kropilčku in žvižgaje je vlekel vodo skozi zobe.</p>
+                        <p>Ko je prišel na vrsto Kajžar, je moral zadnje ostanke s prsti phati v
+                            usta. Bila je hladna in dobra. Moral bo pač počakati, da se bo spet
+                            natekla po kapljah. Popoldne bo morda kotanja spet polna.</p>
+                        <p>Sedla sta nazaj in nihče ni spregovoril besede. Stožec svetlobe je padal
+                            na mrtve in osladen duh po strjeni krvi se je kakor motna sopara dvigal
+                            proti polici.</p>
+                        <p>Neznanec je zaspal, toda Kajžar je gledal samo v svetlobo, ki je padala v
+                            globino. Kakor hitro je zaprl oči, je imel pred seboj vse oprijemke, ki
+                            jih je opazil na steni žrela. Zgoraj bi si nekako pomagal, toda kako
+                            priti do škrbinaste stene?</p>
+                        <p>Zdaj šele je čutil, da je prešla prva omama, ko je bil vesel, da je še
+                            živ. Morda bi bilo bolje, da bi ne bil. Ko bi bil stisnjen med grmado
+                            krvavih, trdih trupel, bi bilo vse mimo. Zdaj mu je življenje ujeto v
+                            skobec podzemne jame in za druščino ob počasni smrti bo imel norega
+                            človeka, ki govori latinsko in poje bilije.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_08.png"/>
+                            <head>Mimo skal</head>
+                        </figure>
+                        <p>Nato je tudi sam zadremal. Ko se je prebudil, so bila trupla pod polico
+                            že v mraku. Po kolenih je lezel proti robu. Nebo zgoraj je bilo
+                            rdečkasto.</p>
+                        <p>Skopal se je pokonci in odšel h kotanji. Spet je bila polna. Pil je v
+                            dolgih požirkih in s prsti zadrževal kaplje, ki so mu drsele na brado.
+                            Ko se je vračal nazaj, je slišal brnenje, užgale so se luči in svetloba
+                            je znova ožarila žrelo. Takoj nato je od nekod pljusknilo kričanje in v
+                            istem hipu se je že zagnal proti neznancu, ki je vstajal.</p>
+                        <p>– Ne premakni se! – je siknil. – Spet so tukaj.</p>
+                        <p>Stisnil je glavo med ramena in s prsti pričel orati po mivki. Med
+                            kričanje so se zadrli prvi streli, prvo truplo je treščilo skoz stožec
+                            svetlobe in udarilo ob mrtvo grmado kakor ob vodo. Kajžar je s prsti
+                            mašil ušesa, sline so mu vrele čez ustnice, toda telesa so v enakomernih
+                            presledkih padala mimo police, razkrečena, nekatera tiho, nekatera z
+                            ječanjem in prostor je spet polnilo tisto strašno gomazanje, ki ga je že
+                            tako dobro poznal.</p>
+                        <p>Zadnje, krčevito stezanje rok in nog, napenjanje prsnih košev, ki jih je
+                            polnila kri, grgranje dušečih, ki so bili pokopani pod drugimi.</p>
+                        <p>Kakor bi odrezal je streljanje prenehalo in močna luč je svetila
+                            naravnost na dno. Na vrhu drgetajočega kupa je klečal gol človek, na
+                            širokih ramah je imel z žeblji pribite poročniške epulete. Majal se je,
+                            glava mu je visela nazaj in Kajžarju se je zdelo, da se hoče dvigniti.
+                            Sikajoč plaz krogel mu je spodbil kolena, padel je na obraz in brez
+                            trepeta otrpnil.</p>
+                        <p>Od zgoraj je bilo slišati krohot: – Gospod poročnik, kako?</p>
+                        <p>Na vrsti je bil nov kamion. Mitraljez je hrzal, vmes so visoko pele
+                            brzostrelke. Kajžar je stiskal oči in tiščal ušesa. Tiščal jih je tako
+                            krčevito, da je slišal bitje vsake žile in da si je odrl skorjo na licu.
+                            Kri mu je pričela kapati na prsa. Vendar se ni upal premakniti, bil je
+                            kakor struna napeta od stene do glinastih tal. </p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_09.png"/>
+                            <head>Mimo skal</head>
+                        </figure>
+                        <p>Ko je po dolgem času počasi in s strahom odmaknil prste od ušes, je
+                            njegov pretrgani duh ujel tišino. Zgoraj so spet goreli ognji, toda
+                            govorjenje je prihajalo do dna kakor šepetanje.</p>
+                        <p>– Domine, ad te clamavi – je kriknil neznanec. Kajžar mu je s tako silo
+                            položil dlan na usta, da je neznančeva glava udarila ob steno. V hipu se
+                            mu je zasmilil.</p>
+                        <p>– Ne smejo vedeti, da živiva. Zakaj nisi tiho?</p>
+                        <p>– Če jaz ne bom govoril, bo spregovorilo kamenje – je še vedno zanešeno
+                            jecljal. Toda ni več vpil.</p>
+                        <p>Noč se je pogreznila v žrelo. Velika svetloba je ugasnila, na steni so
+                            jezikali samo še odsevi majhnih ognjev, ki so morali goreti blizu
+                            brezna.</p>
+                        <p>– Jutri bova morala skušati priti iz votline. Čutiš smrad? Cez en dan ne
+                            bova imela več moči, da bi se sploh še mogla dvigniti.</p>
+                        <p>Iz teme ni bilo odgovora.</p>
+                        <p>– Po moje je bil to zadnji transport. Toliko nas vendar ni bilo.</p>
+                        <p>Tema in neznanec sta še vedno molčala. – Ali me slišiš?</p>
+                        <p>– Eliji je krokar prinesel hlebček kruha v puščavo.</p>
+                        <p>Ni vedel ali neznanec govori iz zdravega razuma ali iz blodnje. Toda
+                            vesel je bil, da je v temi govoril človeški glas. Bil je šibak, hripav
+                            in pretrgan, toda človeški je bil.</p>
+                        <p>– Če do jutri ne prideva ven, bova ostala za vedno tukaj – je rekel. – Z
+                            dnevom si morava natančno ogledati steno in z mrakom začeti plezati.
+                            Nekaj grmičev sem opazil.</p>
+                        <p>Sam sebi ni verjel, toda v temi je vendar upal, da je kje vsaj nekaj,
+                            kjer bi se lahko oprijel. Neznanec je trmasto molčal, nato sam od sebe
+                            vstal in tipal proti kolenu rova, kjer je bila vdolbina z vodo. Zdaj ga
+                            je pustil pri miru in komaj zaznal, da se je vrnil in se zleknil v
+                            mivko.</p>
+                        <p>Ko se je pričelo daniti, je Kajžar začutil, da se na vrhu brezna zbirajo
+                            ljudje. Nori neznanec je spal. Legel je na trebuh, se čisto sploščil h
+                            glini in se tako potegnil do konca police. Slišal je glasove, ne samo od
+                            tiste strani, kjer je bila poseka, temveč tudi od druge. Nekdo je pričel
+                            nabijati s težkim kladivom. Skušal je ujeti zvezo strganih stavkov, ki
+                            so mu prišli do ušes in ugibati, kaj bi mogli zgoraj početi.</p>
+                        <p>Nenadoma mu je prišlo na misel, da hočejo minirati rob žrela in zasuti
+                            votlino. Misel je rodila grozo, pričel se je ritenski umikati, dokler ni
+                            zadel ob neznanca. Zbudil ga je, zgrabil pod pazduho in začel
+                            dvigati.</p>
+                        <p>– Čuješ, zasuli naju bodo. Morava nazaj, za ovinkom naju kamenje ne bo
+                            doseglo.</p>
+                        <p>– Zvezde bodo padale z neba in luna ne bo dajala svoje svetlobe...</p>
+                        <p>Še nekaj je žlubodral, toda Kajžar ga ni razumel.</p>
+                        <p>– Ne čvekaj! – je kriknil – In illo tempore...</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_10.png"/>
+                            <head>Skozi gozd</head>
+                        </figure>
+                        <p>Kajžar ga je s silo vlekel po glini, otipal koleno in potegnil blodneža
+                            navzdol. </p>
+                        <p>Dlje nista več mogla, tam je bila stena. Toda neznanec ni hotel mirovati,
+                            pričel se je otepati Kajžarjevega pritiska in riniti nazaj. V istem hipu
+                            je prva eksplozija zamajala votlino in grmenje je napolnilo prostor.
+                            Kajžar se ni več menil za blodneža, tiščal je glavo v glino in se z
+                            nogami upiral v steno, kakor da jo hoče obdržati. Druga eksplozija,
+                            tretja, četrta, bobneč slap skalovja je padal navzdol in dim je prekril
+                            votlino. Nato se je votlina potresla še enkrat in sredi bučanja je
+                            Kajžar imel občutek, da je zasulo tudi rov.</p>
+                        <p>Takoj za tem je nastala tišina. Vanjo je od nekod pršil droben plaz
+                            peska.</p>
+                        <p>– Z višine je Bog položil svoj prst v brezno in ga pregradil. Močen je
+                            Bog Jakobov, kdo bi se bal? – Bilo je hripavo petje blodneža.</p>
+                        <p>Kajžar je bil v hipu na kolenih, toda vseeno je bil preslab, da bi se ob
+                            pravem času priplazil iz rova. Ko je dosegel koleno, je mogel samo še
+                            videti, da se je blodnež spustil čez sigasto polico. Brezno je polnilo
+                            drevo.</p>
+                        <p>Hotel je krikniti, zarjuti, toda samo z muko se je še priplazil do roba.
+                            Bil je prepozen, blodnež se je opotekal po dnu in bil samo še dva koraka
+                            od okleščenega debla. Nato ga je videl lezti. Krčil se je in stezal
+                            kakor bela gosenica, komaj se je premikal. Potem je nenadoma obstal. V
+                            kobal je sedel na smreki in lovil ravnotežje.</p>
+                        <p>Na robu brezna so se pokazali ljudje.</p>
+                        <p>– Eden je še malo živ, poglej ga. Požegnaj, hudiča belega!</p>
+                        <p>Brzostrelka je pričela drdrati, nato še druga. Samo za hip je blodnež še
+                            sedel, nato se je sklonil naprej, roke so mu omahnile in odlepil se je
+                            od debla kakor ptica.</p>
+                        <p>Kajžar je slišal tlesk ob kamenje.</p>
+                        <p>Zdaj šele se je pričel pomikati nazaj, zakaj prva bomba se je raztreščila
+                            onstran debla. Vlekel se je do rova in se ustavil ob kotanji z vodo. Pil
+                            je in voda mu je tekla po bradi in po prsih. Zdaj je bil sam in za enega
+                            bo vode dovolj.</p>
+                        <p>V jamo je treskalo brez prestanka. V Kajžarju je lebdela samo ena misel:
+                            nocoj ne bodo več streljali. Zasuli so jo, jamo so zasuli.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_11.png"/>
+                            <head>Skozi gozd</head>
+                        </figure>
+                        <p>Nato se je zleknil po rovu, v lobanji je samo še nekaj razbijalo, toda
+                            misli ni bilo nobene več.</p>
+                        <p>Ko se je prebudil, je z roko udaril ob stran. Nikogar ni bilo. Obrnil se
+                            je na trebuh in pričel lesti. Motna misel mu je ujela drevo. Bog ve, do
+                            kam seže?</p>
+                        <p>Lezel je do police. Vedel je, da mora lesti. Jutri ne bo mogel več, samo
+                            še danes. Razbita stena žrela je bila mračna, nikjer ni bilo odseva
+                            ognjev. In tudi če bi bili, lesti more samo še danes. Polica je bila
+                            zdaj ravna z ruševinami in tam je bilo črno deblo z okleščenimi
+                            vejami.</p>
+                        <p>Z višine je Bog položil svoj prst v brezno in ga pregradil.</p>
+                        <p>Morda norec niti ni bil nor, je pomislil.</p>
+                        <p>Okobalil je deblo in se pričel premikati. Zdaj je bilo vseeno, moral se
+                            je premikati. Po pedeh. Držal se je vej in počival in nato spet lezel.
+                            Moral je lesti danes, jutri ne bo mogel več.</p>
+                        <p>Od konca razbitega vrhača do trave je bilo še dva metra. Bila je tema,
+                            toda skala je bila bela in jo je dobro videl. V njej so bile ostre
+                            škrbine in bose noge bodo imele dovolj opore.</p>
+                        <p>Prevrnil se je preko, zemlja je še vedno dišala po ognjih, ki so sinoči
+                            goreli. Po vseh štirih je lezel do prvega ugaslega pepela. Z roko je
+                            grebel po gibki sivini. Ob očrnelem štoru, ki ni zgorel do kraja, je bil
+                            ožgan krompir in črn, na pol zgorel krajec vojaškega komisa. </p>
+                        <p>Goltal je in čutil, da mu iz dlesni teče kri. Vendar je jedel naprej. Na
+                            smrekah je visela noč in vedel je, da bo tam nekje lahko spal. Še se
+                            poznajo odtisi koles tovornjakov in ti mu bodo ob zori pokazali smer.
+                            Tam nekje je Kočevje in za Kočevjem gre zemlja še naprej.</p>
+                        <p>Jutri bo hodil, hodil, hodil... </p>
+                        <p>(Odlomek)</p>
+                    </div>
+                </div>
+                <div type="div2">
+                    <head>Beg iz jame</head>
+                    <docAuthor>France Dejak</docAuthor>
+                    <div type="div3">
+                        <p>Vlak nas je pripeljal v Kočevje približno ob 2. uri ponoči, 8. junija.
+                            Zaprte in zastražene so nas imeli v vlaku, dokler se ni dan naredil.
+                            Potem so odprli in v četverostopih smo šli na dvorišče Marijanišča, kjer
+                            smo ostali kaki dve uri. Rekli so, da nam bodo dali zajtrk. In res so
+                            nam dali v prazne konzerve, ki so tam ležale, sprideno zelje, par
+                            fižolov pa smrekove igle. Smrekovih igel je bilo več kot česa drugega.
+                            Lačni smo bili pa smo vzeli. Pojedel sem tiste fižole, drugo je bilo pa
+                            neužitno, desetkrat prekuhano in smrdljivo. Naročili so nam, naj mečemo
+                            v sode, česar ne bomo pojedli, češ da bodo prekuhali za tiste, ki
+                            pridejo za nami. Nekako ob 6. uri smo odšli iz Marijanišča, ki je blizu
+                            želežniške postaje, skozi vse mesto v Dom slepih. </p>
+                        <p>V Domu slepih smo morali po stopnicah v prvo nadstropje, vseh 800. Na
+                            vsaki strani stopnic je stal partizan. Rekel je, da moramo odvreči vse
+                            razen obleke, če ima kateri še kaj skritega, denar, gumbe, šivanke, vse.
+                            Če ne, bo kaznovan z usmrtitvijo. Nekateri so še imeli kako malenkost,
+                            nahrbtnik ali pelerino ali kaj drugega. Vse so tu odvrgli. Ko smo pa
+                            bili vsi gori, so nas začeli po 10 klicati dol. Blizu stopnic je bila
+                            precej dolga in ozka soba. Po sredi so ležali kolači žice, ob vsakem od
+                            teh kolačev pa je stal partizan. Prišli smo v to sobo, obrniti smo se
+                            morali v zid in prekrižati roke na hrbtu. Roke so nam z žico zvezali,
+                            potem pa še dva in dva skupaj z dolgo žico. To je bilo največ zaradi
+                            tega, mislim, da nisi mogel pobegniti. Dva ne moreta pobegniti, če sta z
+                            ramo ob rami zvezana skupaj. Pa to so nam rekli, ko so nas iz prvega
+                            nadstropja gnali dol, da nas bodo zvezali zaradi tega, ker se je zgodilo
+                            pri prejšnjem transportu, da sta dva ušla in zaklala stražarja. Zato da
+                            nas morajo zdaj, ko nas peljejo na zaslišanje, vse zvezati. In tako so
+                            nas zvezali. Vezali so pa obupno. Žico so nategnili in zavijali s
+                            kleščami. Moja desna roka je bila čisto plava, leva je bila pa bolje
+                            zvezana. Kakor je pač kdo tisto delo opravil. In nekateri so strašno
+                            jokali in vpili, da nas razvežite, da naše roke ne bodo nikoli več za
+                            delo in da postajajo črne. In tako so nas vse zvezali, kar je trajalo
+                            spet kaki dve uri, potem pa so nas začeli odvažati proti Kočevskemu
+                            Rogu. Pripeljali so tri kamione, bolj majhne. Morda je šlo po 50 ljudi
+                            na vsakega, tako da so vsako pot peljali okrog 150 ljudi tja. Na kamion
+                            smo si morali sami pomagati: dva skupaj zvezana sta morala priti na
+                            kamion. Podstavili so zaboj kot zasilno stopnico, da smo se po tistem
+                            plazili gor na kamion. Na kamionu nismo smeli stati, ampak klečati,
+                            kajti kamioni niso bili zaprti. Če bi stali, bi mi vse videli in tudi
+                            ljudje bi nas videli. Imeli smo štiri stražarje, na vsakem vogalu enega.
+                            Ko smo se peljali skozi Kočevje, je bilo še kar mirno. Ko pa smo bili iz
+                            mesta, so začeli tisti štirje vpiti, da moramo držati glave dol, da ne
+                            smemo gledati, kod se peljemo. Kar po naših glavah so hodili in nas ves
+                            čas pretepali. Samo tepli so, imeli so gorjače s seboj. Tudi jaz sem
+                            dobil veliko rano na glavi, drugi pa so bili še bolj zbiti. Nekatere so
+                            polmrtve ali prav mrtve na koncu vožnje potegnili s kamiona. Peljali smo
+                            se skozi Salko vas, Žejne, potem na desno proti Kočevskemu Rogu.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_12.png"/>
+                            <head>Skozi gozd</head>
+                        </figure>
+                        <p>Ker sem bil pri policiji v Kočevju, mi je bilo vse poznano. Vožnja je
+                            trajala približno pol ure. Preden smo prišli do morišča, do jame, so
+                            kamione na nekem križpotju, kjer je bilo malo več prostora, nekajkrat
+                            zaobrnili, potem pa vprašali, če kdo ve, kje je Sveta Ana. Morda so
+                            hoteli vedeti, ali se kdo orientira. Pa ni nobeden odgovoril, vsaj jaz
+                            nisem slišal, da bi kdo dal kak odgovor. Nič. Šli smo še malo naprej,
+                            potem so se kamioni ustavili prav blizu ceste. Tam pa smo že slišali
+                            pokanje, ker so tiste, ki so jih pred nami pripeljali, že pobijali.
+                            Tisti dan so morali šestkrat, sedemkrat iti s kamioni, da so vse
+                            speljali. Jaz sem bil verjetno z drugo partijo, ker so takrat že
+                            streljali. Rekli so, da moramo dol s kamionov. Še prej pa smo morali
+                            noge tako obrniti, da so nam pobrali čevlje z nog. Kar z noži so jih
+                            rezali in metali na kup. Če ti je pri tem nogo prerezal, ti jo je pa
+                            prerezal, tu ni bilo nobenega usmiljenja. Potem ko so nam čevlje pobrali
+                            in smo poskakali dol, so nas razvezali. Potem so rekli, da se moramo
+                            sleči, do nagega. Lahko rečem, da se jih je 80 procentov do nagega
+                            sleklo; nekaj se jih ni prav nič, ker so se tako ustrašili, da niso
+                            mogli nič narediti; jaz sam sem samo v spodnjih hlačah ostal. Med tistim
+                            slačenjem pa so nas spet tepli. To so tepli kar naprej, to je bil sam
+                            tepež, kot tudi že prej. Sicer jaz, moram reči, v Kranju in v Šentvidu
+                            nisem bil hudo tepen, nekateri so pa bili. Na primer Frenka Mauserja
+                            brat Pavle, ki so mu vso družino pobili, očeta, mamo in tiste otroke.
+                            Doma je bil iz Šentruperta in, ko so zvedeli, čigav je, so ga strašno
+                            pretepali. Od tam, kjer smo se slekli, je bilo še kakih 150 metrov do
+                            jame, do tiste podzemeljske jame, ki smo vanjo skakali. Napravili so
+                            nekako pot, ker je to bilo globoko v gozdu, v živem gozdu. Posekali so
+                            mlado drevje, da so naredili nekak prehod, in skale, ki so bile tam, so
+                            toliko razbili, da je nastala steza. Po tej stezi, polni debelega
+                            kamenja, smo morali iti. Mi pa bosi. Na obeh straneh steze je bil špalir
+                            partizanov in spet so nas tepli. In tepli so zares: videl sem ga, ki so
+                            mu izbili oko, videl sem najmanj 20 ljudi, ki so ležali na poti do jame
+                            pobiti in niso mogli naprej. Te so potem pobrali in zmetali v jamo, ene
+                            napol žive, druge že mrtve. Ko sem prišel do jame, mi je partizan rekel
+                            »Stoj!«, tik pred breznom je rekel »Stoj!« in »V oči me glej!« Vprašal
+                            me je, odkod sem doma, v kakšnih borbah sem bil, pa v oči da ga moram
+                            gledati. Takrat nisem vedel, zakaj to govori, potem sem pa pogledal tako
+                            na desno stran in sem videl domobrance pred jamo. Imeli so jih na tleh
+                            in jih tolkli po glavah. Potlej ko sem bil že v jami, sem pa videl, da
+                            so imeli čeljusti razbite. Kdor je imel zlate zobe, so mu jih s kladivi
+                            in palicami živemu izbili, potem so ga pa vrgli v jamo. Na robu jame so
+                            streljali enega po enega. Tisti partizan, ki je z menoj govoril, je imel
+                            brzostrelko. Potem je repetiral in se pripravil na strel. Takrat sem pa
+                            sam skočil v jamo. Streljal je za mano in me zadel, v levo stegno me je
+                            zadel, a samo skozi meso, ne veliko, ne v kost, sicer ne bi mogel
+                            hoditi.</p>
+                        <p>Odprtina jame ni bila velika; globoka je bila približno 20 metrov, z vrha
+                            navzdol pa se je močno širila. Zdolaj je bila jama trikrat, štirikrat
+                            večja kot zgoraj. In še rovi so vodili vanjo kot v kraških jamah. In
+                            tako sem padel v jamo, 20 metrov globoko. Ko bi bilo na dnu kamenje, bi
+                            se ubil že takrat, ampak jaz sem padel na same mrtve. In ko sem hodil,
+                            se je vse majalo, ker je bil notri sam, sam mrlič, nekateri pa so bili
+                            še živi, a tako streljani, da si niso mogli nič pomagati. Umaknil sem se
+                            in splezal na neko skalo, z umazano vodo od kapnika sem se namazal, da
+                            ne bi bil tako viden, kajti bal sem se, da bodo koga spustili v jamo, da
+                            bo še doli vse postrelil. In s tiste skale sem ves dan opazoval, kaj se
+                            godi. Za mano so še najmanj petsto ljudi pobili. Videl sem, da je bil
+                            skoraj vsak, ki je padel v jamo, še živ. Prav malo jih je bilo, ki so
+                            kar obležali. Nekaterim, ki so bili zadeti v prsa, je kri ob padcu
+                            špricnila tri metre daleč. Nekateri je padel, pa se pobral in gledal
+                            okrog sebe, ali pa kaj govoril, potem je pa kar skup zlezel. To je bila
+                            najbolj hitra smrt. Koliko jih je pa bilo takih, ki so bili prestreljeni
+                            samo skozi vrat ali roke ali kje drugod! Ti so samo prosili, naj jih
+                            pobijejo. Vem, da jih je bilo dosti, ki so jih še žive zasuli. Ko se je
+                            znočilo, so nehali pobijati, toda bili so še gori. Svetlikalo se je ob
+                            robu, slišati je bilo govorjenje in večkrat je prišel kdo in zadel vpiti
+                            v jamo, kajti notri je bilo jokanje in prosenje in ječanje. Ali pa je
+                            vrgel bombo ali ustrelil v globino.</p>
+                        <p>Ko se je naredila noč, sem zlezel s tiste skale. Bilo nas je 11 ali 12,
+                            ki smo se lahko gibali. V jami je bilo tako mrzlo, da smo se vsi tresli.
+                            Prej smo vsi razgreti padli v jamo, saj je bil junij mesec. 20 metrov
+                            pod zemljo je pa mrzlo. Zeblo nas je prav zares. Približno do polnoči
+                            smo se odločali, kaj bomo naredili. Eden je predlagal, da bi šli po
+                            rovih, pa bi že nekje prišli ven. Nekateri so to poskusili, pa so prišli
+                            nazaj in povedali, da je nemogoče. Tudi je bila v jami taka tema, da si
+                            samo tipal lahko. Čez dan se je malo videlo, ponoči pa nič. Dotipali smo
+                            se do nekega drevesa.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_13.png"/>
+                            <head>Vedno bliže</head>
+                        </figure>
+                        <p>Partizani so večkrat minirali rob jame okrog in okrog, da se je zemlja
+                            sesula in pokrila mrtve. Takrat je padla v jamo kakih 10 cm debela bukev
+                            z vejami navzdol in zdrsnila pet do sedem metrov pod rob. Edina možnost,
+                            ki sem jo takrat videl, je bila ta bukev in po njej sem se tudi rešil.
+                            Prvi je poskusil neki Belokranjec, pa se je vrnil in rekel, da je prišel
+                            do konca tiste bukve, že to je šlo težko, naprej pa da je čisto
+                            nemogoče. Potem sem pa jaz prosil, naj mi pomagajo in me malo potisnejo
+                            navzgor, pa so rekli, da se ne izplača, češ kaj se boš mučil. No, potem
+                            sem pa sam začel in po tisti bukvi prišel do konca drevesa, potlej sem
+                            se pa v tisto kamenje kar zapičil in – menda je bila še kakšna druga
+                            pomoč – prišel na vrh. Ko sem prišel na vrh in se z rokami oprl na rob
+                            jame, sem videl kakih 20 metrov stran skupino partizanov. To je bila
+                            straža. Kurili so velik ogenj in govorili med seboj, a slišal nisem,
+                            kaj. Potegnil sem se navzgor in šel v nasprotno stran. Pri tem sem
+                            stopil na suho vejo. Počilo je. Oni pri ognju so utihnili in videl sem,
+                            da vsi gledajo proti meni. Začeli so vpiti »Stoj, stoj!« Ustavil sem se
+                            in počakal. Vedel sem, da me ne vidijo, samo slišali so pok. In potem,
+                            ko sem tako stal in jih gledal, so se glave počasi spet obrnile k ognju,
+                            mogoče so mislili, da je kaka žival. Nobeden ni prišel pogledat. Takrat
+                            sem spet šel naprej, počasi, po vseh štirih sem se plazil nekaj časa,
+                            dokler se nisem oddaljil od tistega kraja. V jami sem jih pa pustil, saj
+                            pravim, najmanj deset, ki bi bili še zmožni, da bi se rešili. In nekaj
+                            se jih tudi je. </p>
+                        <p>Iz jame sem ušel v noči iz petka na soboto okrog polnoči. Vedel sem, da
+                            je do mojega doma uro pa pol, no, dobro uro hoda. Pa sem rabil celo
+                            soboto pa celo noč do približno treh zjutraj, da sem prišel domov.
+                            Mučila me je huda žeja, vode pa nikjer. Enkrat sem je dobil malo v nekih
+                            kolesnicah, čisto kalna je bila. To sem spil. Pa jagode. To je bila
+                            edina hrana. Potem sem prišel do dveh, ki sta kosila mrvo. Prosil sem za
+                            vodo in dala sta mi leseno bariglo, ki jo imajo za vodo. Vzel sem in
+                            pil, onadva pa sta me gledala. Bil sem čudno opravljen. Imel sem tiste
+                            spodnje hlače na sebi, in nekemu mrliču sem vzel srajco, preden sem
+                            zlezel iz jame. To srajco sem potem slekel in si z njo povil noge, ki so
+                            bile vse zrezane. Tak sem potem hodil, v spodnjih hlačah in s povezanimi
+                            nogami. Vsak je lahko videl, da je nekaj narobe z mano. Eden od njiju me
+                            je vprašal, odkod prihajam. Rekel sem, da iz Kočevja, da sem bil zaprt.
+                            Pa je samo rekel »Ubogi revež«. Vprašal sem ga še, kod naj grem, da bi
+                            prišel do dveh hiš, kjer sem vedel, da bi se lahko oglasil in dobil kaj
+                            obleke. </p>
+                        <p>Povedal mi je, kako naj grem in da imam do tja deset minut. Šel sem, pa
+                            nisem mogel najti poti iz gozda. Potem sem zaslišal za seboj voz. Skril
+                            sem se in videl, da je na vozu isti človek, ki sem prej z njim govoril.
+                            Zadaj na vozu je bila privezana barigla z vodo. Tiho sem šel za vozom in
+                            pil vodo. Takrat pa me je zaslišal, ker sem začel kašljati. Ustavil je
+                            voz in prišel pogledat. Skočil sem v stran, ker sem se ga le bal. Če me
+                            zgrabi, sem si rekel, kaj si morem pomagati. On pa je rekel: »Vem, kdo
+                            si, mimo naše vasi so jih vozili.« In še me je vprašal, če sem lačen.
+                            Rekel sem, da sem in da naj kruh kar na pot položi in gre naprej, da bom
+                            že sam našel pot. Vprašal me je, odkod sem doma. Zlagal sem se, da iz
+                            Velikih Lašč. Pa je rekel: »Ti ne boš nikoli prišel v Velike Lašče. Sedi
+                            tule k meni na voz. Peljal te bom domov in doma bom voz porinil na pod,
+                            da boš varen. Toliko časa boš pri nas, da si malo opomoreš. In oblekli
+                            te bomo.« Jaz pa, da ne in ne. Vedel sem, da imam samo še uro do doma in
+                            samo to sem si želel, da bi čimprej prišel. No, nazadnje sem le šel na
+                            voz in se peljal do prvih hiš pred vasjo.</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_14.png"/>
+                            <head>Vedno bliže</head>
+                        </figure>
+                        <p>Ta, ki me je pripeljal, mi je pomagal z voza in rekel: »Tu ti bodo ženske
+                            dale vode in palico ti bodo dale.« Rad bi imel palico, ker je bila rana,
+                            kjer sem bil obstreljen, že zastrupljena in me je grozno bolela. Pa tudi
+                            po glavi in hrbtu sem bil ves stolčen; po hrbtu sem imel še čez šest
+                            tednov klobase, tako so nas tepli. V hiši so mi ponudili jesti in piti,
+                            najprej pa so mi dali skoraj poln kozarec slivovke. To se mi je
+                            prileglo, ker sem bil ves prehlajen. Jesti pa nisem mogel nič. Kruh mi
+                            je dal že oni na poti sem; lačen sem bil, ugriznil sem in jedel, pa sem
+                            ga moral vreči ven. Nisem ga mogel pogoltniti, ker so bila usta vsa
+                            izžgana zaradi pomanjkanja vode in prehlada. Tudi potem, doma, še kakih
+                            šest tednov nisem mogel požirati in sem se hranil največ z medom.
+                            Najprej so mi dali tisto žganje, potem pa še mleka. Tudi palico sem
+                            dobil. Ponudili so mi tudi dobre hlače, če jih bom nazaj prinesel. Rekel
+                            sem, da tega ne morem reči, ali jih bom ali ne, naj mi dajo rajši kake
+                            slabe, samo da bodo hlače. In dobil sem stare jugoslovanske pobarvane
+                            hlače, drugega pa nič. Potem sem šel nazaj v hosto. Toda tisto žganje me
+                            je naredilo pijanega in, kamor sem šel, povsod sem videl partizane iti
+                            za menoj. Pa sem bežal, kolikor so mi moči dale, tudi na drevo sem
+                            splezal, ko sem videl, da gredo za mano. Tako sem begal po hosti od 4.,
+                            5. ure popoldne pa do noči. Z nočjo se je tudi moja pijanost razkadila
+                            in začutil sem, da sem varen, in sem se spet odpravil proti domu. Kakor
+                            sem rekel, do doma je bilo še uro hoje. Prišel pa sem v nedeljo zjutraj
+                            približno ob 3. uri. Držal sem se železnice, ker leži moja vas prav ob
+                            progi. Nisem šel prav po železnici, ampak toliko proč, da bi se lahko
+                            umaknil, če bi imel koga srečati, ker res ne vem, kaj bi mu rekel. Šel
+                            sem zelo počasi, ker je bila noga tako razboljena, da mi skoraj ni
+                            služila in sem se moral ves opirati na palico. Potem sem nekje na poti
+                            padel, ali mi je spodrsnilo ali me je obšla kaka slabost, sam ne vem.
+                            Zbudil sem se zjutraj, pobral sem se in se odpravil spet na pot. Za
+                            zdravega človeka dobrih pet minut hoje, jaz pa sem strašno težko hodil.
+                            Prišel sem do svoje domače hiše in tam je bila mama. </p>
+                        <p>Zapisano po Radiu Študent</p>
+                    </div>
+                </div>
+                <div type="div2">
+                    <head>Odlomki</head>
+					<note place="foot" n="1">V tiskani izdaji so ti trije odlomki
+                            Rožmanovega besedila razvrščeni med besedilom pričevanja France Dejak:
+                            Beg iz jame.</note>
+                    <docAuthor>Dr. Gregorij Rožman </docAuthor>
+                    <div type="div3">
+                        <head>Ob Desetletnici</head>
+                        <p>Cleveland, v decembru 1954</p>
+                        <p>Istočasno bo desetletnica enega najžalostnejših dogodkov v slovenski
+                            zgodovini: množičnega umora blizu desettisoč fantov in mladih mož, ki so
+                            bili konec maja 1945 pod prevaro vrnjeni v roke krvnikom, ki so jih po
+                            groznem mučenju na domačih tleh pobili. Zalost in bolest nad njih
+                            strašno smrtjo je bilo morda najtežje, kar smo doslej doživeli, mi v
+                            tujini, ki smo jih videli odhajati, in oni doma, ki so zaman nanje
+                            čakali. Spomin nanje nam je svet in nam mora biti svet do konca
+                            življenja.</p>
+                    </div>
+                    <div type="div3">
+                        <head>Mati bolečin</head>
+                        <p>5. marca 1955 </p>
+                        <p>Žalujemo zaradi naših padlih in pomorjenih rojakov, sorodnikov, bratov,
+                            sinov. Boli nas nečloveška in kruta divjost, s katero so jih umorili.
+                            Toda da so jim s tako mučno smrtjo odprli nebesa, to ni nesreča. Skozi
+                            silno trpljenje, razmeroma kratko, so šli v božje naročje, kjer so večno
+                            srečni, tako upamo. Privoščimo jim; čeprav smo žalostni, smo tega vendar
+                            veseli in se Bogu za to zahvaljujemo. Nesrečni pa so tisti krivi, ki so
+                            brezsrčni in podivjani mučili in pobili naše drage. Težko krivdo so si
+                            nakopali pred Bogom, vnebovpijoči so njih grehi. Ti grehi bi nas morali
+                            boleti; zaradi žalitev Boga bi morali žalovati kakor Marija. Za Jezusom
+                            je tudi Marija pod križem ponavljala: »OČe, odpusti jim, saj ne vedo,
+                            kaj delajo« (Lk 23,34)! Ponavljajmo tudi mi z Marijo to prošnjo
+                            umirajočega Jezusa: »Odpusti jim, spreobrni jih, ki so v sovraštvu
+                            zaslepljeni naše drage pomorili!« Če bomo tako prosili in z molitvijo
+                            vračali sovražnikom, tedaj bo naša bolečina Marijini podobna in bo nam v
+                            zveličanje, grešnikom pa v spreobrnjenje.</p>
+                    </div>
+                    <div type="div3">
+                        <head>Rana na slovenskem telesu</head>
+                        <p>Lemont, 3. julija 1955</p>
+                        <p>Smrt desetih tisočev je rana na slovenskem narodnem telesu, ki boli vse
+                            ude. Le primerjajte: 10.000 v primeri s številom Slovencev tedaj ob
+                            koncu strašne vojne pomeni za tedanjo Slovenijo toliko kot danes v
+                            Združenih državah en milijon. Kaj bi rekli v Ameriki, če bi vam
+                            samozvanski krvniki v enem mesecu pobili en milijon mladih fantov, ki
+                            zdaj služijo vojake? Ali ne bi žalost zalila vsa ameriška srca? Ali ne
+                            bi kriknil ves narod, da bi se slišalo do neba – ne samo tista družina,
+                            kateri je bil kak član umorjen? Ves narod, brez razlike vere, stranke,
+                            položaja, premoženja... ves narod bi bridko občutil to rano. Kdo more
+                            torej zameriti, če mi po desetih letih še vedno žalujemo, z ljubeznijo
+                            mislimo na pobite žrtve, se jih zvesto spominjamo. Prav je, da bi
+                            obhajali to žalostno obletnico vsako leto in tudi svet okrog nas s
+                            pisano besedo seznanjali z našimi mučenci.</p>
+                    </div>
+                </div>
+                <div type="div2" subtype="poem">
+                    <head>Ikonografija</head>
+                    <docAuthor>Pavle Zidar</docAuthor>
+                    <div type="div3">
+                        <head>I</head>
+                        <lg>
+                            <l>Mesečina je zrnje rži</l>
+                            <l>in se nocoj sama od sebe</l>
+                            <l>seje po svetu,</l>
+                            <l>imenovanem Rog.</l>
+                        </lg>
+                        <lg>
+                            <l>Njen gost zlati lesket </l>
+                            <l>gori na grobu.</l>
+                            <l>Joče v spomin na pesem, </l>
+                            <l>ki je izgubila svoje telo.</l>
+                        </lg>
+                    </div>
+                    <div type="div3">
+                        <head>III</head>
+                        <lg>
+                            <l>Nevidno mrzle</l>
+                            <l>so vezi podzemlja. </l>
+                            <l>Belo kakor kamen </l>
+                            <l>roma moč duha,</l>
+                        </lg>
+                        <lg>
+                            <l>ko odhaja rodit sovražnika. </l>
+                            <l>Samotna goba </l>
+                            <l>v nežnosti goloba </l>
+                            <l>sredi jase sebe pase.</l>
+                        </lg>
+                    </div>
+                </div>
+                <div type="div2">
+                    <head>Njihova smrt ni več skrivnost</head>
+                    <docAuthor>Janko Maček</docAuthor>
+                    <div type="div3" subtype="intro">
+						<lg>
+                        <l>»O sonce zavpij čez ves svet z gorečo trombo</l>
+                        <l>o pokolu in pokopu slovenskih vojščakov.</l>
+                        <l>Tebi vse izkričim:</l>
+                        <l>Živim! Živim! Živim!</l>
+                        <l>Živim v vetru piščal najgrozotnejših slovenskih viž.</l>
+                        <l>Naša smrt ni več skrivnost.« </l>
+						</lg>
+                        <byline>(Tine Debeljak, Črna maša 1949)</byline>
+                    </div>
+                    <div type="div3">
+                        <p>V taborišču na Vetrinjskem polju se je razširila žalostna vest o usodi
+                            Slovenskih domobrancev na praznik sv. Rešnjega telesa 31. maja, ko se je
+                            iz Pliberka vrnil dr. Janež, ki je pobegnil s transporta. Tesnoba in
+                            skrb, ki sta že nekaj dni stiskali begunce, sta se spremenili v veliko
+                            žalost in razočaranje. V tej strašni stiski je neko dekle vzkliknilo:
+                            »O, da bi že kmalu prišel sodni dan!« S temi besedami je izrazila
+                            bolečino in stisko tistih dni, ko se je zdelo, da je vse izgubljeno, le
+                            od Boga je še mogoče pričakovati pomoč in pravico. Le v veri so ljudje
+                            tedaj našli skromen žarek upanja.</p>
+                        <p>Škof dr. Rožman je tedaj v Anrasu na Tirolskem zapisal: »Vsa ta strašna
+                            tragika našega ljudstva me tako neznansko boli in teži, da se sploh ne
+                            morem izraziti. Saj iz vere skušam doumeti, da tudi to služi zveličanju
+                            duš našega naroda, da mi tudi zdaj gremo po težki poti preganjanja in
+                            mučeništva... – a vse to gledati, sočutiti in sotrpeti je vendar strašno
+                            hudo.«</p>
+                        <p>(Vetrinjska tragedija 1960, str. 118)</p>
+                    </div>
+                    <div type="div3">
+                        <p>Po mnogih vaseh na Dolenjskem, Notranjskem in Gorenjskem, kjer so ponekod
+                            ostale doma skoraj same ženske in otroci, je tiste dni vladal strah pred
+                            zmagovalci. Nihče jim ni verjel, ko so se hvalili, da imajo vse
+                            domobrance v svojih rokah. Večinoma so jemali te besede kot propagando,
+                            kot dodatno trpinčenje že tako prestrašenih svojcev, katerih sinovi,
+                            očetje, bratje in možje so se umaknili na Koroško. Tudi pošten človek,
+                            ki je morda skušal s kako besedo namigniti, da je videl vrnjene, ali pa
+                            o njih slišal od zaupanja vrednih ljudi, je naenkrat postal sumljiv.
+                            Niso mu verjeli in takoj so pomislili, da je provokator. Čudili so se,
+                            ko je milica prihajala v nekatere hiše in iskala skrivače. »Kakšni
+                            skrivači, če so pa na varnem na Koroškem.«</p>
+                        <figure>
+                            <graphic url="slike_z_02/z_02_15.png"/>
+                            <head>Na zadnjem robu</head>
+                        </figure>
+                        <p>In ko se je zgodilo, da je v pozni nočni uri na vrata tega ali onega doma
+                            potrkal kdo izmed tistih redkih, ki so uspeli pobegniti iz Št. Vida ali
+                            iz Teharij, se rešiti iz jame v Rogu ali se iztrgati morilcem nad
+                            Hrastnikom, se o tem zopet ni govorilo, saj je bila že misel na kaj
+                            takega preglasna in nevarna. Niti najbližji sorodniki si med seboj niso
+                            zaupali, saj niso vedeli, kdaj bodo koga zaprli in kako bo vzdržal
+                            zasliševanje. Naj ob tem navedemo tale dogodek: Neke noči proti koncu
+                            junija je potrkalo na vrata samotne kmetije v Polhograjskih hribih. Pred
+                            vrati je stal eden od petih bratov, ki so od te hiše bili pri
+                            domobrancih. Bil je bos, ves shujšan in do kraja izčrpan. Ušel je iz Št.
+                            Vida in po več dneh in nočeh tavanja po gozdovih le prišel domov.
+                            Prestrašena sestra, ki mu je odprla, ga je komaj spoznala, on pa jo je
+                            pozdravil z besedami: »Joj, kako sem lačen!« Še pred svitom je odšel v
+                            skrivališče v gozdu. Sestra dolgo ni povedala petinšestdesetletni
+                            materi, da se je brat vrnil, saj je tako laže odgovarjala miličnikom, ki
+                            so prihajali spraševat zanj. Druga sestra pa, ki je bila poročena v
+                            bližnjem kraju, je za bratovo vrnitev zvedela šele čez nekaj let.</p>
+                        <p>Po amnestiji v avgustu so se vrnili domov iz Teharij in drugih zaporov
+                            nekateri mladoletni domobranci, toda tudi o tem se je le malo govorilo.
+                            Ljudje so sedaj vedeli, da so bili poboji izvršeni, toda še vedno so se
+                            obnašali, kot da ne bi vedeli. Obenem so pa še upali, da so vsaj
+                            nekateri od pogrešanih še živi, saj se ni bilo lahko sprijazniti z
+                            mislijo, da toliko očetov, mož, sinov in bratov ne bo več nazaj. Jokali
+                            so ob misli na pomorjene, obenem pa molili in upali, da so njihovi
+                            svojci vendarle na kakšen način ostali živi.</p>
+                        <p>Mnogo let je bilo potrebnih, da so ludje v Sloveniji sprejeli resničnost
+                            in tragiko Vetrinja, Roga in Teharij. Seveda je na to močno vplivalo
+                            tudi dejstvo, da se o tej temi v javnosti ni niti govorilo niti pisalo.
+                            Kar petinštirideset let je bilo potrebnih, da so pobiti slovenski
+                            domobranci mogli postati deležni javnega priznanja strašne smrti in
+                            simboličnega krščanskega pogreba. Njihova smrt sedaj ni več skrivnost,
+                            je pa za mnoge iz enega ali drugega razloga še vedno nezaželena tema, ki
+                            se ji skušajo izogniti. Toda resnice se ne da spremeniti!</p>
+                    </div>
+                </div>
+                <div type="div2">
+                    <head>Društveni del</head>
+                    <div type="div3">
+                        <head>Ustanovitev Nove Slovenske zaveze</head>
+                        <docAuthor>Pavel Kogej</docAuthor>
+                        <p>Nova Slovenska zaveza je bila ustanovljena v nedeljo, 12. maja 1991.
+                            Desetletja je trajalo, da je peščica preživelih domobrancev začela
+                            prihajati iz katakomb. Šele zadnja tri leta so bila pogostejša srečanja
+                            med posameznimi prijatelji in znanci. Ta srečevanja so se postopoma
+                            razširila in organizirano smo se v večjem številu sešli v raznih krajih
+                            Slovenije. Na našo pobudo smo imeli spominsko mašo pri sv. Ani na
+                            Teharjah, žalno mašo ob Krimski jami in oktobra lanskega leta veliko
+                            spravno srečanje na Teharjah. Še prej smo bili med pobudniki žalne maše
+                            v Kočevskem Rogu. Pri naših srečanjih je postopoma zorela misel, da se
+                            tesneje organiziramo in ustanovimo društvo. In ideja se je uresničila.
+                            Iniciativni odbor je pripravil ustanovni zbor Nove Slovenske zaveze.
+                            Razposlali smo vabila delegatom in v nedeljo 12. maja se nas je ob
+                            deseti uri v skupščinski dvorani na Viču zbralo 140 preživelih
+                            domobrancev in svojcev pobitih protikomunističnih borcev.</p>
+                        <p>Ustanovni zbor je otvoril Pavel Kogej. Po uvodnih besedah je pozdravil
+                            delegate in goste. Prebral je pozdravni pismi dr. Marka Kremžarja in
+                            Janeza Riharja. Potem smo ob pesmi Oj, Doberdob (posnetek domobranskega
+                            pevskega zbora) z enominutnim molkom počastili vse padle in pobite
+                            udeležence protikomunističnega odpora.</p>
+                        <p>Nadaljnje vodenje zbora so prevzeli Stane Štrbenk kot predsednik, člani
+                            Jože Podržaj ml., Jože Rigler, Vronka Sax in Vinko Udovč. Uvodno
+                            poglobljeno razmišljanje je kot sestavni del idejnih izhodišč in smernic
+                            Nove slovenske zaveze podal prof. Justin Stanovnik. Njegovo razmišljanje
+                            je objavljeno v prvi številki našega glasila Zaveza. Sledilo je poročilo
+                            iniciativnega odbora. Poročal je predsednik dr. Tine Velikonja.</p>
+                        <p>Sledila je obrazložitev in razprava o pravilih društva, ki so bila
+                            soglasno</p>
+                        <p>sprejeta. Prav tako so bile soglasno sprejete programske smernice in
+                            delovni ter finančni načrt društva.</p>
+                        <p>Pomemben del ustanovnega odbora so bile volitve. Bile so tajne in izid je
+                            bil naslednji:</p>
+                        <p>– za predsednika je bil izvoljen dr. Tine Velikonja, zdravnik;</p>
+                        <p>– za podpredsednika sta bila izvoljena Ivan Habjan, inženir in Polde
+                            Pristavec, inženir;</p>
+                        <p>– tajnik društva je postal Stane Štrbenk, pravnik;</p>
+                        <p>– v izvršni odbor pa so bili izvoljeni: Franc Hočevar, inženir; Pavel
+                            Kogej, profesor; Anton Koščak, uslužbenec; Jože Prhavc, inženir; Jože
+                            Podržaj, kmet in Justin Stanovnik, profesor.</p>
+                        <p>Zborovanje se je nadaljevalo z bogato razpravo, iz katere se je za naše
+                            nadaljnje delo izluščila vrsta zamisli in pobud. Na zaključku pa je
+                            prosil za besedo še novoizvoljeni predsednik dr. Tine Velikonja. Njegove
+                            besede ob prevzemu odgovorne dolžnosti objavljamo v celoti v tej
+                            številki našega glasila.</p>
+                    </div>
+                    <div type="div3">
+                        <head>Nagovor ob izvolitvi</head>
+                        <docAuthor>Tine Velikonja</docAuthor>
+                        <p>Hvala za priznanje in zaupanje. Potrudil se bom, da vas pri vodenju
+                            našega društva ne bom razočaral.</p>
+                        <p>Ko smo se zadnje mesece srečevali po vsej Sloveniji, smo poslušali zgodbe
+                            o zmagah in porazih, o smrtih in ranah in sem imel občutek, da sam komaj
+                            spadam zraven. Res sem se prijavil med domobrance, ko sem imel 14 let.
+                            Tam na poveljstvu nasproti klasične gimnazije pa so se mi smejali in
+                            pojasnili, da pobiča, ki bo na paradah vodil oslička z bobnom, že imajo,
+                            več pa jih ne potrebujejo. Tako sem oblekel uniformo 3 dni pred koncem
+                            vojne, nosil puško komaj en teden in nisem z njo ustrelil niti enkrat.
+                            Prestal pa sem tisto kot ostali, ki so š1i skozi povojna taborišča. Za
+                            našo stvar, ki jo danes oživljamo, so nas zavezali tisti, ki smo jih
+                            videli odhajati, opletajoče postave s sivimi obrazi in skoraj ugaslimi
+                            očmi, in to zavezo nosim s seboj vse življenje.</p>
+                        <p>Kaj torej smo? Samo okruški, ubogi ostanki mogočnega narodovega telesa!
+                            Res smo napolnili jaso na Kočevskem Rogu z žalujočimi, pa bi tudi enega
+                            od ljubljanskih trgov, zlasti če bi se nam lahko pridružili naši, ki
+                            počivajo na Kočevskem Rogu, Teherjah in okrog Hrastnika, zlasti pa, če
+                            bi se jim pridružili tudi njihovi nikdar rojeni potomci.</p>
+                        <p>Kaj smo torej postali sedaj, ko smo se ustanovili? Ali bomo delovali kot
+                            politična organizacija, z jasno zastavljenimi cilji, spremljali
+                            dogajanja v družbi in skušali sproti vplivati nanje, torej predvsem za
+                            danes in jutri, ali pa bolj kot veteranska organizacija, skušali
+                            spoštljivo pokopati svoje mrtve in skrbeli za člane, zlasti svojce
+                            pomorjenih, kadar se bodo znašli v duševni ali telesni stiski, torej za
+                            včeraj in danes. Kot lahko razberete iz povedanega, bomo obstali nekje v
+                            sredini, čas pa bo pokazal, kakšna oblika delovanja bo najbolj primerna.
+                            Verjetno bo šel razvoj v smeri politične organizacije, zlasti, ker bomo
+                            želeli pritegniti mlade. Zanje pa bomo privlačni in sprejemljivi samo,
+                            če bodo v delu pri nas videli tudi možnost za politično delovanje in
+                            uveljavljanje.</p>
+                        <p>Kaj bomo delali najprej? Dovolite mi, da se poslužim šale, v kateri skuša
+                            vprašani poenostavljeno razložiti zapletene pojme.</p>
+                        <p>»Kakšna je razlika med fiziko in metafiziko?«</p>
+                        <p>»Fizika pomeni, da pade kamen od zgoraj navzdol, metafizika pa, da pade
+                            kamen od spodaj navzgor.«</p>
+                        <p>»Saj to je nesmisel! Kamen bo padal od spodaj navzgor samo, če bomo
+                            obrnili svet na glavo.«</p>
+                        <p>»Ravno to je treba napraviti.«</p>
+                        <p>No, to so napravili pri nas pred 50 leti komunisti in s tem nadaljevali
+                            ves čas. Obrnili so svet na glavo in dali pojmom sprevržen pomen. Moralo
+                            zla so razglasili za vrednoto; zločin je postal domoljubno dejanje,
+                            kraja podržavljanje, upor proti komunizmu izdajstvo in ena najbolj
+                            krvavih revolucij, kar jih pomnimo, narodna vstaja proti fašizmu in
+                            članstvo v zavezniški koaliciji.</p>
+                        <p>Naša naloga bo zato, da bomo svet ponovno postavili na noge. Vzpostaviti
+                            bomo morali čvrste kriterije o vrednotah in pojmih. V tej luči bi moralo
+                            postati jasno vsem, da so bili pravi uporniki tisti, ki so se uprli
+                            komunizmu, ideologiji, ki se je sesula od znotraj, ne da bi se je
+                            dotaknili z mezincem. »Laž je nesmrtna duša komunizma!«, na takih
+                            osnovah pa ne more normalno delovati nobena družba. Zato je tudi jasno,
+                            kdo so resnični zmagovalci v tem boju.</p>
+                        <p>Na tej zmagi bo slonelo naše delovanje. Zato ne bomo gledali samo nazaj,
+                            ampak predvsem v sedanjost in prihodnost in pri tem nam Bog pomagaj!</p>
+                    </div>
+                    <div type="div3">
+                        <head>Nova Slovenska zaveza</head>
+                        <docAuthor>Izvršni odbor NSZ</docAuthor>
+                        <p>V nedeljo 12. maja se je na ustanovnem zboru v Ljubljani konstituiralo
+                            združenje Nova Slovenska zveza. Nova organizacija, ki se je zaenkrat
+                            opredelila kot društvo, povezuje udeležence medvojnega
+                            protikomunističnega odpora tako na vojaškem kakor na civilnem področju.
+                            Ime izvaja organizacija iz medvojne Slovenske zaveze, ki je združevala
+                            tiste demokratične sile, ki so hotele skozi dvojni vihar vojne in
+                            državljanske vojne rešiti demokracijo in svobodo za čas miru po
+                            vojni.</p>
+                        <p>Ker je bil oboroženi del medvojnega protikomunističnega odpora genocidno
+                            uničen in so morale zavestne sile civilnega odpora zvečine zapustiti
+                            domovino, je razumljivo, da ne moremo vzpostaviti veteranske
+                            organizacije v običajnem pomenu besede. Zato bo naše društvo bolj
+                            prostor zbiranja in oblika zavezovanja tistih slovenskih ljudi, ki so
+                            kakorkoli, posredno ali neposredno, povezani z možmi in ženami, ki so
+                            imeli toliko neobremenjene pameti, da so spoznali, da jim bo v sivini
+                            totalitarne prihodnosti vzeta osnovna svoboda, in toliko poguma, da so
+                            se temu uprli. Želimo, da vanj vstopajo tudi tisti, ki nikakor niso bili
+                            vpleteni v državljansko vojno, a so bili iz take snovi, da so mogli in
+                            morali pod boljševiškim pokrovom, v osamljenosti duhovne
+                            eksteritorialnosti ohraniti notranjo svobodo, v neodvisnosti od
+                            ideoloških centrov in njihovih številnih kooperantov.</p>
+                        <p>Društvo bo hotelo najprej opraviti nekaj reči za tiste, ki sami zase ne
+                            morejo nič več narediti. Prizadevalo si bo, da stopi preteklost v
+                            sedanjost čim bolj resnična. Hotelo bo, da se v osnovi popravi
+                            neznosnost tega, da so morali častivredni ljudje umirati obmetani z
+                            najsramotnejšimi besedami, ki jih ima jezik. Predvsem pa bo po močeh, ki
+                            jih bo imelo samo in jih mu bodo dali požrtvovalni ljudje, hotelo zbrati
+                            imena po vojni pobitih domobrancev in drugih udeležencev demokratičnega
+                            odpora, poiskati njihove grobove in nanje postaviti primerna znamenja.
+                            Prizadevalo si bo, da se zavaruje njihova politična, vojaška in moralna
+                            čast.</p>
+                        <p>Domobranci in drugi soudeleženci njihovega boja so namreč branili
+                            tradicionalno kulturo, kakor jo je oblikovalo celotno narodno občestvo
+                            skozi stoletja in kakor se je spletala iz prvin, ki jih je zoblikovala
+                            kultura naše civilizacije v nemirnem, a v bistvu civilnem poteku
+                            zgodovine. Branili so v kulturnem in zgodovinskem razvoju rojeno državo.
+                            Bili so legalni in legitimni branilci doseženega reda civilizacije. Zato
+                            niso bili nikaka politična milica, ampak vojaki kot polis delujoče
+                            družbe, bili so samogiben obrambni refleks civilne družbe, potem ko je
+                            bila država te družbe pod silo zunanjega pritiska uničena. Bili so torej
+                            vojska neke države v njeni odsotnosti.</p>
+                        <p>Potem pa bomo ljudje, ki smo se zbrali in se bodo še zbirali v tem
+                            društvu, mislili na sedanjost in prihodnost. Poskušali bomo odkriti, kaj
+                            je v naši tradiciji in našem izkustvu takega, da bi lahko utrjevalo
+                            življenje. Najprej bo treba iz sebe, iz nas samih, pregnati strah. V
+                            našem narodu, posebej v ljudeh naše vrste, je namreč veliko strahu. V
+                            vsakodnevnem življenju se ga niti ne zavedamo, a ko hočemo kaj narediti,
+                            vidimo, da smo njegovi ujetniki. Lahko bi tudi rekli, da moramo v sebi,
+                            v svoji notranjosti, uveljaviti svobodo. Če bomo svobodni, bomo tudi
+                            razumni, ker bomo vse gledali iz določene razdalje in se bomo lahko
+                            odločali. In prav take, svobodne in razumne, nas potrebuje družina, vas,
+                            mesto in</p>
+                        <p>domovina. Sedaj gre namreč za važne stvari, okoli katerih je veliko
+                            zmede. Kakor smemo za leta med enainštiridesetim in petinštiridesetim
+                            reči, da se je tedaj delala zgodovina, tako moramo tudi za naš čas reči,
+                            da je zgodovinski čas. Zgodovinski čas je tisti čas, ko padajo
+                            odločitve, ki za dolgo določajo prihodnost.</p>
+                        <p>V politiki gre danes za izhod iz totalitarizma in njegovih ostalin v
+                            demokracijo. To je tak način javnega življenja, iz katerega ni izključen
+                            nihče, razen tistih, ki izključujejo druge. Demokracija pomeni priznanje
+                            življenj a v njegovi naravnosti, zato gre danes tudi za vrnitev človeka
+                            k sebi. Vse to je bila tudi stvar našega medvojnega gibanja in moramo
+                            zato sedaj biti zraven. Demokracija je moderna politična beseda za
+                            izraz, ki ga poznamo iz krščanskih knjig: ljudje dobre volje. To je še
+                            en razlog, da moramo na vsak način biti zraven, preudarno, premišljeno,
+                            iz polnosti naše velike izkušnje. Zato smo na ustanovni dan izrekli
+                            podporo demokraciji in pozdravili vse ljudi dobre volje.</p>
+                        <p>V kulturi gre danes za to, da se nobeni njenih prvin ne odreka pravica do
+                            javnega obstajanja. Sleherni impulz k ustvarjalnosti mora imeti v načelu
+                            pravico, da se uresniči. A po vsem, kar smo skusili, po hudih plavžih,
+                            skozi katere smo šli, vemo tudi, da se s človekom ne sme igrati. Zato
+                            mislimo, da bodi kultura resnična. Kdor je za resnično kulturo, bo vsemu
+                            priznaval specifično vrednost: umetnosti, znanosti, vzgoji. V bistveni
+                            reči pa bi resničnost kulture prizadel tisti, ki bi odrekal veri
+                            enakopravno mesto med manifestacijami človekovega duha. Brez nje namreč
+                            ni pravega smisla ne za posameznika ne za narod.</p>
+                        <p>Na koncu izrekamo zaupanje v slovensko prihodnost. Pred našimi očmi se
+                            oblikujejo ustanove samostojne in suverene države. Lahko bi rekli, da
+                            prestopamo mejo med predzgodovino in zgodovino. V celoti je v zgodovini
+                            samo tisti narod, ki ima v rokah svoje zadeve. Pred nami je čas, ko bo
+                            naša usoda v odločujoči meri v naših in na naših rokah. Če bomo Slovenci
+                            to misel dobro razumeli, se nam za prihodnost ni treba bati. </p>
+                        <p>Izvršni odbor NSZ</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+        <back/>
+    </text>
+</TEI>
