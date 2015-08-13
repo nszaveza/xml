@@ -94,7 +94,7 @@
 		<body>
 			<div type="div1">
 				<head>Aktualni kulturnopolitični komentar Nove slovenske zaveze</head>
-				<div type="div2">
+				<div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
 					<div type="div3">
 						<p>Lani 8. novembra je Delo objavilo spis dr. Tineta Hribarja Slovenska prihodnost
 							in odgovornost za resnico. V njem je avtor izpostavil problematičnost tistega
@@ -3292,7 +3292,7 @@
 			</div>
 			<div type="div1">
 				<head>Usode in pota</head>
-				<div type="div2">
+				<div type="div2"><head>Uvod</head>
 					<div type="div3" subtype="intro">
 						<p>Kdorkoli opisuje Koroško prve tedne maja leta 1945, se ne more načuditi, kako
 							nedotaknjena je bila, medtem ko je bila ostala Evropa v ruševinah in pepelu.
@@ -5175,7 +5175,7 @@
 
 			<div type="div1">
 				<head>Mlakarjevo Slovensko domobranstvo</head>
-				<div type="div2">
+				<div type="div2"><head>Uvod</head>
 					<div type="div3" subtype="intro">
 						<p>Mlakarjevo Slovensko domobranstvo (Dr. Boris Mlakar, Slovensko domobranstvo,
 							Slovenska matica, Ljubljana 2003) je bilo dolgo pričakovano. Vedeli smo, da

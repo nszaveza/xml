@@ -87,8 +87,7 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2">
-
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Selektivni spomin zmagovalcev</head>
                   <p>Jubilejno leto 1995 se je nagnilo v drugo polovico. Ker so se leta 1945
@@ -1886,9 +1885,8 @@
                </div>
             </div>
          </div>
-         <div type="div1">
-            <head>Slišal sem žerjava glas</head>
-            <div type="div2" subtype="poem">
+         <div type="div1"><head>Slišal sem žerjava glas</head>           
+            <div type="div2" subtype="poem"><head>Slišal sem žerjava glas</head>
                <lg>
                   <l>Slišal sem žerjava glas;</l>
                   <l>ostri krik njegov oznanja,</l>
@@ -4795,12 +4793,12 @@
                      očitajo, da preštevajo kosti.</p>
                </div>
             </div>
-            <div type="div2">
+            <div type="div2"><head>Dodatek</head>
                <div type="div3">
                   <p>Johann Georg Reissmuller je soizdajatelj in eden vodilnih časnikarjev nemškega
                      dnevnika Frankfurter allgemeine Zeitung. Časopis ni prvi po nakladi, je pa
                      gotovo med najuglednejšimi ne samo v Nemčiji, ampak tudi v svetu. Za nas je
-                     pomembno to, daje posvečal veliko prostora Sloveniji še v času komunistične
+                     pomembno to, da je posvečal veliko prostora Sloveniji še v času komunistične
                      Jugoslavije, zlasti pa po letu 1990, v obdobju političnega in državnega
                      osamosvajanja. Ni minil mesec, včasih tudi teden ne, da se ne bi pojavil v tem
                      časniku obsežen članek ali komentar, ki je razlagal in priporočal našo stvar

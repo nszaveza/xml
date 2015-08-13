@@ -104,7 +104,7 @@
 			<pb n="001"/>
 			<div type="div1">
 				<head>Aktualni kulturnopolitični komentar revije Zaveza </head>
-				<div type="div2">
+				<div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
 					<div type="div3">
 						<head>1. Volitve</head>
 						<p>Kot se večkrat zgodi, tudi letošnje predsedniške volitve 11. novembra niso
@@ -796,7 +796,7 @@
 			</div>
 			<div type="div1">
 				<head>Mesto na gori</head>
-				<div type="div2">
+				<div type="div2"><head>Uvod</head>
 					<div type="div3" subtype="intro">
 						<p>Danilo Cimprič se je rodil 1. novembra 1924 v Volčah, umrl pa je 5. februarja
                      2008 prav tako v Volčah. Posvečen je bil 24. junija 1956 na Sveti gori. Bil je
@@ -2269,7 +2269,7 @@
 			</div>
 			<div type="div1">
 				<head>Spominjanja</head>
-				<div type="div2">
+				<div type="div2"><head>Uvod</head>
 					<div type="div3" subtype="intro">
 						<p>Ob breznu v Zagori je bil 6. oktobra 2012 blagoslov novega, kamnitega križa v
                      spomin na med vojno pobite žrtve, katerih ostanki počivajo v njem. Pomnik so
@@ -5190,14 +5190,14 @@
 					</div>
 				</div>
 				<div type="div2">
-					<pb n="046"/>
+					<pb n="046"/><head>Dodatek</head>
 					<div type="div3">
 						<p>Najhujša stvar na komunizmu je to, kar pride za njim.</p>
 						<docAuthor>Adam Michnik</docAuthor>
 					</div>
 				</div>
 				<div type="div2">
-					<pb n="072"/>
+					<pb n="072"/><head>Dodatek</head>
 					<div type="div3">
 						<p>Stanje, ki se je uveljavilo v Evropi in Sloveniji, postavlja stranko, kot je
                      Nova Slovenija, na privilegirano mesto, ker združuje ljudi, ki pristajajo na
@@ -5217,7 +5217,7 @@
 					</div>
 				</div>
 				<div type="div2">
-					<pb n="094"/>
+					<pb n="094"/><head>Dodatek</head>
 					<div type="div3">
 						<p>Če se polastiš jezika, da ga poljubno izrabljaš, je potem mogoče prebrati tudi
                      tole:</p>

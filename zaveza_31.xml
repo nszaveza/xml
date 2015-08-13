@@ -74,12 +74,12 @@
    </teiHeader>
    <text>
       <body>
+         <pb n="001"/>  
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove slovenske zaveze</head>
-            <div type="div2">
+            <div type="div2"><docAuthor>Justin Stanovnik</docAuthor>
                <head>Čas krize in jezik </head>
                <div type="div3">
-                  <pb n="001"/>  
                   <p>Zdi se, da je pojem kriza izvorno povezan z zdravilstvom in pomeni čas, ko se
                      odloča o tem – beseda krínein v grščini pomeni odločiti – kako se bo bolezen
                      obrnila – ali na bolje ali na slabše. Povezava z boleznijo nekoliko razloži
@@ -4110,6 +4110,7 @@
          <div type="div1">
             <head>Komunistična revolucija – državljanska vojna – sprava</head>
             <div type="div2">
+			<head>Uvod</head>
                <div type="div3">
                   <p>Dne 21. septembra letos je predsednik Državnega zbora dr. Janez Podobnik v
                      Državnem zboru organiziral razgovor o dveh besedilih, ki so ju kot izhodišče
@@ -5627,9 +5628,9 @@
             </div>
          </div>
          <div type="div1">
-            <head>Po branju </head>
+            <head>Po branju</head>
             <div type="div2">
-               <head>Zgodovina kot cedilo </head>
+               <head>Zgodovina kot cedilo</head>
                <docAuthor>Ivo Žajdela </docAuthor>
                <div type="div3">
                   <pb n="094"/>

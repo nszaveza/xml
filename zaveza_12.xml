@@ -86,8 +86,8 @@
         </front>
         <body>
             <div type="div1">
-                <head>Kulturnopolitični komentar Nove Slovenske zaveze</head>
-                <div type="div2">
+                <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+                <div type="div2"><head>Kulturnopolitični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                     <div type="div3">
                         <p>Preteklost se ne zdi vsem dobam enako zanimiva. Če se v kakem času
                             uveljavi misel, da se z njim začenja novo razdobje ali kar nova
@@ -5050,6 +5050,7 @@
             <div type="div1">
                 <head>Dodatek</head>
                 <div type="div2">
+                <head>Dodatek</head>
                     <div type="div3">
                         <figure>
                             <graphic url="slike_z_12/z_12_31.png"/>

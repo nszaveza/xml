@@ -92,7 +92,7 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2">
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Moč in nemoč kulture</head>
                   <p>Kultura predstavlja duhovno vez med posameznikom in skupnostjo. Po tej vezi
@@ -5190,7 +5190,8 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
-               <p>Milan Komar</p>
+               <head>Dodatek</head>
+			   <docAuthor>Milan Komar</docAuthor>
                <div type="div3">
                   <p>Delitev dela – kjer ni poštenosti, ni delitve dela, kajti človek mora vse
                      vedeti, da ga ne okradejo. Če kupuje meso, mora poznati različne vrste mesa. Če
@@ -5215,6 +5216,7 @@
                </div>
             </div>
             <div type="div2">
+			<head>Slike</head>
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_14/z_14_34.png"/>

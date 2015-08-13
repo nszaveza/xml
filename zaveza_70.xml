@@ -104,7 +104,7 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
-            <div type="div2">
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Še nekaj dni, pa bodo minili štirje meseci od letošnje spominske slovesnosti v
                      Kočevskem Rogu. Štirje meseci niso ne vem kako velika doba, a se vseeno čudimo,
@@ -5392,6 +5392,7 @@
          <div type="div1">
             <head>Ob 70. izdaji Zaveze</head>
             <div type="div2">
+			<head>Ob 70. izdaji Zaveze</head>
                <div type="div3">
                   <p>Zaveza se je <emph>rodila</emph> že davno, ko so ob zelo posebnih dogodkih,
                      nekateri spoznali in začutili, daje potrebno ohraniti spomin na nedoumljivo
@@ -5705,7 +5706,7 @@
          </div>
          <div type="div1">
             <head>Prispelo zadnji hip</head>
-            <div type="div2">
+            <div type="div2"><head>Prispelo zadnji hip</head>
                <docAuthor>Anton Mlakar</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Uredniška pripomba</p>

@@ -112,7 +112,7 @@
         <body>
             <div type="div1">
                 <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-                <div type="div2">
+                <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                     <div type="div3">
                         <p>Dobro desetletje postkomunistične demokracije nas je pripeljalo do točke,
                             v kateri so neke slutnje, ki so se pojavile kmalu po njegovem začetku,
@@ -4158,7 +4158,7 @@
 
             <div type="div1">
                 <head>Teharje 2003 </head>
-                <div type="div2">
+                <div type="div2"><head>Uvod</head>
                     <div type="div3" subtype="intro">
                         <p>Za letošnjo teharsko slovesnost, ki je bila 5. oktobra, na prvo oktobrsko
                             nedeljo, je Tine Velikonja prispeval naslednji zapis: </p>

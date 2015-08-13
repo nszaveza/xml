@@ -75,17 +75,16 @@
    </teiHeader>
    <text>
       <body>
+         <pb n="001"/>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove slovenske zaveze</head>
-            <div type="div2">
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
-
                   <p>Že čaka, da prestopi prag te hiše.</p>
                   <p>Panteles hronos – čas, ki pripelje vse do konca.</p>
                   <p>Ajshil – Hoeforoi</p>
                </div>
                <div type="div3">
-                  <pb n="001"/>
                   <p>Stvari, ki jih življenje prinaša pred nas, da jih ali vzamemo za svoje ali pa
                      pustimo, da gredo svojo pot dalje, imajo vse, čeprav so različne, skupno to, da
                      zvečine niso čiste ali enostavne, samo dobre ali slabe, nam ne prina­šajo samo

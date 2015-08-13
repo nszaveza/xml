@@ -110,7 +110,7 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze </head>
-            <div type="div2">
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <pb n="001"/>
                   <head>Iz politične agenture v javni zavod </head>
@@ -569,7 +569,7 @@
          </div>
          <div type="div1">
             <head>Slovenske refleksije</head>
-            <div type="div2">
+            <div type="div2"><head>Uvod</head>
                <div type="div3" subtype="intro">
                   <pb n="011"/>
                   <p>Vsi ljudje po naravi težijo za tem, da bi vedeli. Tako se glasi prvi stavek
@@ -1984,7 +1984,7 @@
 
          <div type="div1">
             <head>Zid spomina</head>
-            <div type="div2">
+            <div type="div2"><head>Uvod</head>
                <div type="div3" subtype="intro">
                   <pb n="035"/>
                   <p>O preteklosti je mogoče pisati znanstvene razprave, kritične eseje, poglobljene
@@ -5408,7 +5408,7 @@
          </div>
          <div type="div1">
             <head>Iz knjige Kristine Brenkove Kruh upanja:</head>
-            <div type="div2">
+            <div type="div2"><head>Uvod</head>
                <div type="div3" subtype="intro">
                   <pb n="095"/>
                   <p>Zadnje dni pred osvoboditvijo so prihajale dolge vrste dolenjskih beguncev

@@ -101,11 +101,11 @@
          <divGen type="toc"/>
       </front>
       <body>
+         <pb n="001"/>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2">
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
-                     <pb n="001"/>
                   <p>Ker tudi ta, kot vsi drugi komentarji v Zavezi, obljublja, da bo aktualen, ne
                      more mimo dveh trditev, ki sta bili izrečeni na letošnji spominski slovesnosti
                      v Kočevskem Rogu 18. junija. Ko bi bili namreč samo izrečeni, bi ju odnesel
@@ -3761,7 +3761,7 @@
          <div type="div1">
             <head>Kočevski rog 2000</head>
             <div type="div2">
-               <docAuthor>NSZ</docAuthor>
+			<head>Uvod</head>
                <div type="div3" subtype="intro">
                   <pb n="065"/>
                   <p>Letošnja obletna slovesnost na Kočevskem rogu je bila jubilejna. Zato smo vsi,
@@ -4119,8 +4119,8 @@
          </div>
          <div type="div1">
             <head>Zbrani pred obnovljenim grobom dr. Lamberta Ehrlicha</head>
-            <div type="div2">
-               <docAuthor>NSZ</docAuthor>
+            <div type="div2">			
+			<head>Uvod</head>
                <div type="div3" subtype="intro">
                   <pb n="072"/>
                   <p>Neko noč v začetku leta 1946 so na ljubljansko pokopališče Žale, po naročilu
@@ -4392,7 +4392,7 @@
          <div type="div1">
             <head>Tolstoy, Corsellis in Nicolson v Sloveniji</head>
             <div type="div2">
-               <docAuthor>NSZ</docAuthor>
+			<head>Uvod</head>
                <div type="div3" subtype="intro">
                   <pb n="077"/>
                   <p>Nikolaj Tolstoy, John Corsellis in Nigel Nicolson so trije Britanci, za katere

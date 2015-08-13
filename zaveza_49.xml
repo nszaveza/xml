@@ -109,7 +109,7 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze </head>
-            <div type="div2">
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>V soboto pred tiho nedeljo, 5. aprila, je bil v Festivalni dvorani v Ljubljani
                      občni zbor Nove Slovenske zaveze. Občni zbori so zato, da organizacija pregleda
@@ -3159,7 +3159,7 @@
          <div type="div1">
             <head>Iskanja in besede</head>
             <div type="div2" subtype="poem">
-               <head>Zanje </head>
+               <head>Zanje</head>
                <lg>
                   <l>Dolgo sem pisal, </l>
                   <l>zbiral besede in misli, </l>
@@ -3544,6 +3544,7 @@
          <div type="div1">
             <head>NSZ – Izjave in dokumenti</head>
             <div type="div2">
+			<head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Zaradi presežne vloge, ki jo ima v slovenskih razmerah zakon o vojnih
                      grobiščih, smo se odločili, da predsednika vlade RS Antona Ropa in predsednika

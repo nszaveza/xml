@@ -106,7 +106,7 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2">
+            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <pb n="001"/>
                   <head>Slovenski paradoksi </head>
@@ -4426,7 +4426,7 @@
          <div type="div1">
             <pb n="078"/>
             <head>Enciklopedija Slovenije – tiskovna konferenca NSZ</head>
-            <div type="div2">
+            <div type="div2"><head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Nova Slovenska zaveza je 3. aprila priredila v prostorih Svetovnega slovenskega
                      kongresa tiskovno konferenco, na kateri je hotela seznaniti slovensko javnost z
@@ -5557,7 +5557,7 @@
       <back>
          <div type="div1">
             <head>Dodatek</head>
-            <div type="div2">
+            <div type="div2"><head>Iz pisem Jožeta Plečnika</head>
                <div type="div3">
                   <p>Iz pisem Jožeta Plečnika Emiliji Fon:</p>
                   <p>– 6. julij 1945. </p>

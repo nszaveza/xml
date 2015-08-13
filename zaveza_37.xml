@@ -97,17 +97,20 @@
          </titlePage>
          <divGen type="toc"/>
       </front>
-      <body>
+      <body><pb n="001"/>
          <div type="div1">
-
             <head>Aktualni kulturnopolitični komentar nove slovenske zaveze</head>
+			<div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+			<div type="div3">
             <figure>
                <graphic url="slike_z_37/z_37_01.png"/>
                <head>
                   <name type="author"/>
                </head>
             </figure>
+			</div>
                <pb n="002"/>
+			   <div type="div3">
             <p>Odkar je dr. Franc Zagožen na čelu nove, združene krščanske stranke, so njegova
                dejanja in njegove besede stopile v središče naše politične pozornosti. Čeprav tudi
                prej ni bil na obrobju, je to, kar sedaj pove in naredi, postalo predmet natančne
@@ -740,6 +743,8 @@
                vzele obrambo ustave tako zares, da svojih volilcev zaradi nerešene ustavne krize ne
                bi povabile na volitve, bi se bila zgodila prav tista, že dolgo pričakovana reč. Če
                bi torej, kot nekoč kardinal Wyszynski, rekli: Non possumus – ne moremo. </p>
+			   </div>
+			</div>
          </div>
          <div type="div1">
             <head>Pripovedi</head>

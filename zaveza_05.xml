@@ -94,10 +94,9 @@
             <divGen type="toc"/>
         </front>
         <body>
-            <div type="div1">
-                <head>Biti v zgodovini </head>
-                <div type="div2">
-                    <head>Aktualni komentar Nove Slovenske zaveze</head>
+            <div type="div1"><head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
+                <div type="div2"><head>Biti v zgodovini</head>
+                    <head>Aktualni komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
                     <div type="div3">
                         <p>Opazovalcu sedanjega slovenskega javnega življenja je pred vsem drugim
                             jasna ena reč: politika nove države se je znašla v globoki krizi. Če
@@ -1437,6 +1436,7 @@
             <div type="div1">
                 <head>Poročila iz zasedene Slovenije</head>
                 <div type="div2">
+				<head>Uvod</head>
                     <div type="div3">
                         <p>V vojnem času so z zvezami težave, celo če gre za kraje v isti državi. Še
                             težje je, če morajo ljudje in sporočila potovati čez državne meje. Da je
