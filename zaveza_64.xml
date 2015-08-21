@@ -43,21 +43,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">64</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2011-06-30</date>
          </publicationStmt>
          <sourceDesc>
@@ -101,7 +101,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Lembke: »Požar je v glavah.« </p>
                   <byline>F. M. Dostojevski – Besi</byline>
@@ -1139,7 +1141,7 @@
                      videla v horjulsko dolino, kajti iz Lesa se ne vidi nikamor. To je bilo zanje
                      usodno. Italijani so napravili hajko na Koreno in v Les, ujeli dva partizana,
                      ki so ju privlekli v Horjul, od tu pa na Vrhniko, kjer so ju na grozovit način
-                     usmrtili ... V boju je bil en partizan ranjen; ta se je skril na Vrzdenec k
+                     usmrtili … V boju je bil en partizan ranjen; ta se je skril na Vrzdenec k
                      Nacetu Isteniču. Sam sem prinesel zdravil, ki sem jih dobil iz Ljubljane in
                      fant je ozdravel. Po boju so se partizani umaknili preko proge na Notranjsko«
                      (Borec 1973, str. 376).</p>
@@ -1329,7 +1331,7 @@
                      pismo: »Sigurno Ti je znan odlok glavnega poveljstva in CK, v katerem je jasno
                      označeno stališče partizanov do terenskih in obratno. Mi se ne smemo vmešavati
                      v Vaše akcije, Vi pa ne smete izvajati aretacij, rekvizicij, likvidacij in
-                     političnih nastopov brez odobrenja pristojnih odborov OF in kompartije ... Včeraj
+                     političnih nastopov brez odobrenja pristojnih odborov OF in kompartije … Včeraj
                      sem bil v Šentjoštu, zaslišal prizadete in okolico ter zbral vse potrebne
                      informacije. Ker ni bilo pravne podlage za rekvizicijo in ker sem prepričan, da
                      niste delali po lastni iniciativi, te prosim, da mi javiš iniciatorja in
@@ -1344,7 +1346,7 @@
                      prijateljsko svetujem, da v rekvizicijo ne pošiljaš več partizank s takim
                      obnašanjem. Njihovo hohštaplersko vedenje in cviljenje ob priliki prenašanja
                      klobas iz shrambe na voz nikakor ni umestno in dokazuje pomanjkanje politične
-                     izobrazbe, mogoče celo srčne kulture ... Rekvizicija v župnišču pravno ni bila
+                     izobrazbe, mogoče celo srčne kulture … Rekvizicija v župnišču pravno ni bila
                      napačna, mogoče je bila taktično malo prezgodnja. Prosim Te, da mi do jutri
                      opoldne odgovoriš, če si pa pripravljen, se lahko tudi sestaneva. Če bo pa moja
                      intervencija ostala »glas vpijočega v puščavi«, se bom pritožil na odred in CK«
@@ -1411,7 +1413,7 @@
                      Št. Joštu. Prejšnji 4. bataljon je vse voditelje bele garde aretiral in jih je
                      hotel likvidirati, toda temu se je odločno uprl terenski delavec z Vrhnike
                      tovariš Đuro, ki je izjavil, da bo on s temi ljudmi organiziral NZ v St. Joštu
-                     ... Pripominjamo, da je teren, katerega je imel in ga še ima terenski delavec
+                     … Pripominjamo, da je teren, katerega je imel in ga še ima terenski delavec
                      tovariš Đuro, silno slabo zgrajen in politično sploh neobdelan. Do sedaj smo
                      likvidirali cca 50 belogardistov in izdajalcev, med katerimi je tudi župnik iz
                      Zaplane, pri katerem smo našli važne dokumente, katere vam bomo poslali, čim
@@ -1443,7 +1445,7 @@
                      knjigi Dolomiti – in še nekateri drugi. Štab dolomitskega odreda me je v svojem
                      poročilu glavnemu poveljstvu napisanem 29. avgusta 1942, obtožil kot glavnega
                      krivca za nastanek bele garde v Šentjoštu in tudi drugod. Po njihovi sodbi sem
-                     imel do nje preveč popustljivo stališče ... K temu spada tudi trditev, da sem
+                     imel do nje preveč popustljivo stališče … K temu spada tudi trditev, da sem
                      zaustavil partizanski napad na Šentjošt, in to tik pred zmago. Menda naj bi jaz
                      izdal ukaz za umik. Operativno vodstvo napada je bilo v rokah štaba bataljona.
                      V ozadju sem skupaj s politkomisarjem Keršičem spremljal napad, ne da bi se
@@ -1890,7 +1892,7 @@
                      je Grazioli izdal 1. 11. 1941. Čeprav je za njo stal tajnik fašistične stranke,
                      je takratni časopis zapisal, »da je ni mogoče smatrati za kakšen GUF, za
                      fašistično društvo, marveč za čisto in enostavno slovensko organizacijo, ki
-                     deluje izključno le v prid ljubljanskim vseučiliščnikom ... «. Seveda ne gre
+                     deluje izključno le v prid ljubljanskim vseučiliščnikom … «. Seveda ne gre
                      zanikati, da si je okupator od tega obetal še kaj več za svoje koristi. Vanjo
                      se je vključilo le malo študentov, največ sto, Italijani pa so se s tem nekako
                      tiho sprijaznili, čeprav so na različne načine pritiskali na študente. Med
@@ -2321,9 +2323,9 @@
                      Bohinj k Žmitku. Zadnje pismo je nesel teden dni predno so jo v Bohinju
                      aretirali (partizani; opomba J. V.). Pisma je dobival od Zore Žmitek. Za
                      vsakokratni prenos je dobil od Zore 20 RM kar se mu je zdelo veliko. Večkrat ga
-                     je na teh poteh spremljal F ... (ime in priimek izpuščam; opomba J. V.).</p>
+                     je na teh poteh spremljal F … (ime in priimek izpuščam; opomba J. V.).</p>
                   <p>Zora mu je ponudila svetinjico z Brezij, pa je ni hotel vzeti in ji povedal, da
-                     bodo potem vsi vedeli, da je on organiziran v to stranko ... </p>
+                     bodo potem vsi vedeli, da je on organiziran v to stranko … </p>
                   <p>K tej izjavi naj dodam še tole: Fant je povedal, kdo so Zorini sodelavci.
                      Zasliševalci so v zapisnik zapisali, da je bil fant zapeljan. Upoštevali so
                      njegovo mladoletnost. In kaj so storili, ko so zvedeli, da hodi po krivi poti.
@@ -2684,7 +2686,7 @@
                      Jožefa, umrl je kmalu po rojstvu, je obtožil belogardizma. V že omenjeni knjigi
                      zapiše : »Družina Ž. (iz Bohinja, ime izpuščam; opomba J.V.) je
                      belogardistična. Sam Ž. vohuni po vasi za našimi simpatizerji. Njegov sin Jožef
-                     je v Kranju v be-ga pisarni in mu je poverjen Bohinj ... « (str. 111, 3.
+                     je v Kranju v be-ga pisarni in mu je poverjen Bohinj … « (str. 111, 3.
                      odstavek)</p>
                   <p>Lahko je zamahniti z roko, češ, saj vemo kakšne laži in izmišljotine je pisal
                      Jože Vidic. Toda ostajajo zapisane, sejejo še naprej sovraštvo in razdore ter
@@ -2739,7 +2741,7 @@
                      <l>na razgretem krovu smo hodili sem in tja,</l>
                      <l>eni goli do pasu v sencah poležavali,</l>
                      <l>drugi na ograji zatopljeno gledali v valove,</l>
-                     <l>in v razpenjene spomine ... </l>
+                     <l>in v razpenjene spomine … </l>
                   </lg>
                   <lg>
                      <l>Kje bil je že Ljubelj in kje Vetrinj,</l>
@@ -2747,7 +2749,7 @@
                      <l>v času ko pobijali ljudi so in teptali kakor mravlje,</l>
                      <l>naš miroljuben svet zakleli v strah in grozo:</l>
                      <l>v rop, požig, uboj in – sunek v brezno,</l>
-                     <l>vsak dan v pogreb, v slovo za vedno ... </l>
+                     <l>vsak dan v pogreb, v slovo za vedno … </l>
                      <l>Gore žalosti in gorja! Krvi in solz potoki!</l>
                   </lg>
                   <lg>
@@ -2766,7 +2768,7 @@
                      <l>Otok Sv. Helene priklenjen na samoto </l>
                      <l>sredi oceana nas je z dalje gledal pluti mimo, </l>
                      <l>nad njim Napoleonov duh ponižan, strt </l>
-                     <l>priča slavnih zmag in strašnega poraza ... </l>
+                     <l>priča slavnih zmag in strašnega poraza … </l>
                      <l>Pred nami in za nami so izginjale daljave, </l>
                      <l>kot bežale bi na vse strani od naše ladje, </l>
                      <l>in nekdo med nami je zapel šaljivo:</l>
@@ -2802,7 +2804,7 @@
                      <l>da bomo ostali zvesti svojim odločitvam. </l>
                      <l>Sredi oceana ujeti kot v orehovi lupini </l>
                      <l>smo se vrtoglavi opotekali, strmeč v brezno, </l>
-                     <l>kjer sta strastno se použivala nebo in morje ... </l>
+                     <l>kjer sta strastno se použivala nebo in morje … </l>
                      <l>Modrina in Sinjina! Nepozabni ljubljenja prizori! </l>
                      <l>Objem ogromnega z brezmejnim, majhnega z velikim. </l>
                      <l>Na najglobljem smo s ponižnostjo doumeli, </l>
@@ -2825,7 +2827,7 @@
                      <l>za tem blato in povodnji kakor morja;</l>
                      <l>drugje spet sonce pali z žarki kot z razbeljenimi meči;</l>
                      <l>na skrajnem jugu večen led je burje dom.</l>
-                     <l>Brat, in samota in samota in samota! ... </l>
+                     <l>Brat, in samota in samota in samota! … </l>
                   </lg>
                   <lg>
                      <l>Potem je pravil zgodbe o Slovencih, </l>
@@ -2848,14 +2850,14 @@
                      <l>od domotožja in gorja že vdan pijači, </l>
                      <l>ko je zvedel, da za njim prihaja z ladjo žena, </l>
                      <l>se od sreče je napil, padel s strehe in se ubil. </l>
-                     <l>Žena je prišla se zjokat na zabito krsto ... </l>
+                     <l>Žena je prišla se zjokat na zabito krsto … </l>
                   </lg>
                   <lg>
                      <l>Neki Suhokranjec, zvest družinski oče, </l>
                      <l>pri izkopavanju (železnice) podzemske* </l>
                      <l>je v rovu žalostno končal s Poljaki tremi; </l>
                      <l>še zasut pod zemljo je Marijo klical na pomoč, </l>
-                     <l>in svojo ženo in otroke po imenih ... </l>
+                     <l>in svojo ženo in otroke po imenih … </l>
                   </lg>
                   <lg>
                      <l>Neki Kraševec od Sv. Križa, </l>
@@ -2872,7 +2874,7 @@
                      <l>križem lazijo ogromni pajki in škorpijoni; </l>
                      <l>eden ga je v roko pičil – in on neustrašen </l>
                      <l>si s sekiro z enim mahom je odsekal, </l>
-                     <l>da, Kristuš, kri mu oškropila je obraz in prsi ... </l>
+                     <l>da, Kristuš, kri mu oškropila je obraz in prsi … </l>
                      <l>Okoli so strmeli, on pa mirno je ovijal </l>
                      <l>v srajco svoj kri brizgajoči štrcelj.</l>
                   </lg>
@@ -2882,7 +2884,7 @@
                      <l>ta pa, dá, si je Ameriko naredil – obogatel z denarci,</l>
                      <l>vilo si razkošno je postavil in se vozil z avtom;</l>
                      <l>tango plesal je in pel odlično, pravil vice.</l>
-                     <l>Ah, oženil se je dvakrat ... Zupan se je pisal.</l>
+                     <l>Ah, oženil se je dvakrat … Zupan se je pisal.</l>
                   </lg>
                   <lg>
                      <l>Take zgodbe smo napeto poslušali </l>
@@ -2904,7 +2906,7 @@
                      <l>s svojim kalnim rdečkastim vodovjem. </l>
                      <l>Prvi človek, ki smo uzrli ga na suhem, </l>
                      <l>nam v pozdrav je z brega mahal z metlo </l>
-                     <l>in jo kazal, kot od veselja bi znorel ... </l>
+                     <l>in jo kazal, kot od veselja bi znorel … </l>
                      <l>In ti, moja draga spremljevalka, </l>
                      <l>si objela me in rekla: </l>
                      <l>Na srce pozabi! Zdaj duha se okleni!</l>
@@ -2915,7 +2917,7 @@
                      <l>je na krovu ugasle ladje kot v zaprti pasti</l>
                      <l>nam tih vijoličast večer razgrinjal Buenos Aires: </l>
                      <l>Goščo stavb, ogromnih razsvetljenih stolpnic, </l>
-                     <l>kot pred nas bi se postavile in naježile pošasti ... </l>
+                     <l>kot pred nas bi se postavile in naježile pošasti … </l>
                      <l>Pihal oster mrzel vlažen veter je in pust.</l>
                   </lg>
                   <lg>
@@ -2948,7 +2950,7 @@
                      <l>kot na samotni obali splavljen utopljenec ...</l>
                      <l>– jaz sem táko videl in to pričam – </l>
                      <l>kot nekoga, ki nas videl je odhajati za vedno</l>
-                     <l>in mu od poslavljanja je počilo srce ... </l>
+                     <l>in mu od poslavljanja je počilo srce … </l>
                   </lg>
                   <lg>
                      <l>Zbogom, za vedno zbogom, ladja General Stewart!</l>
@@ -3068,14 +3070,14 @@
                      kraju običajna nočna trkanja.</p>
                   <p>Morda je opazil, da se je odmaknila, morda je začutil njeno nezaupanje. Zato je
                      nadaljeval: »Veš, pri frančiškanih, vedno si zamujala, največkrat si ostala kar
-                     tam spredaj, blizu predavatelja. Neobičajno ... čeprav po zdravi pameti. Tam je
+                     tam spredaj, blizu predavatelja. Neobičajno … čeprav po zdravi pameti. Tam je
                      bilo še vsaj malo prostora in zraka za dihanje. Zdela si se mi posebna,
-                     drugačna ... Vedno sem premišljal, kdo si, odkod si ... Sedaj pa te najdem
+                     drugačna … Vedno sem premišljal, kdo si, odkod si … Sedaj pa te najdem
                      tukaj!«</p>
                   <p>Ko se je obrnila k njemu in mu pogledala v obraz, jo je skozi pajčolan snežink
                      oplazil njegov pogled. Bil je sicer zvedav, vendar čist in nevsiljiv. To jo je
                      pomirilo. Umazane vsiljivosti, pa naj je bila še tako skrita, ni prenesla. »Če
-                     je prihajal k frančiškanom, potem je res drugačen ... «, si je rekla v globini,
+                     je prihajal k frančiškanom, potem je res drugačen … «, si je rekla v globini,
                      na površje pa je pripravljalo vprašanje:</p>
                   <p>»Kako, da po predavanjih nisi ostajal, bile so tako zanimive debate? Ne veš,
                      kako zelo mi tukaj manjkajo! To zadnje je bilo kot neke vrste prošnja, morda
@@ -3192,9 +3194,9 @@
                   <p>Daleč doli ob robu zaliva so se previjali dimasti plameni, ki so požirali
                      ostanke jugoslovanskega bojnega ladjevja, kolikor jih je ušlo uničenju izpod
                      neba. Po breznih nad vodami in ob vrtoglavih poteh, ki se vijejo mimo njih, so
-                     ležali razbiti stroji, mrtva živina, razmesarjeni ljudje ... Vse je bilo le še
+                     ležali razbiti stroji, mrtva živina, razmesarjeni ljudje … Vse je bilo le še
                      zmeda bežečih ljudi in strasti, ki se razvežejo tedaj, ko se človek spači v
-                     splašeno žival in misli samo nase ... </p>
+                     splašeno žival in misli samo nase … </p>
                   <p>Bilo nas je le pet, vendar smo še tako postajali drug drugemu breme. Stopali
                      smo vsak na svojo stran, z lastno usodo za edino družico. Ne vem, kako dolgo
                      smo postavali v teh osamljenih krogih. Na lepem pa je to potrto večnost
@@ -3228,7 +3230,7 @@
                      žalostilo. Bil je prepričan, da je tudi to božja volja. In zaradi tega je bil
                      ta večer, sredi podirajočega se našega sveta, tudi sredi nas tako sam in tako
                      edini. Mi nismo videli ne luči ne poti, on pa je že živel iz novega začetka,
-                     tukaj, pri priči, v brk vsemu ... </p>
+                     tukaj, pri priči, v brk vsemu … </p>
                   <figure>
                      <graphic url="slike_z_64/z_64_28.png"/>
                      <head>Spomenik dr. Lamberta Ehrlicha na Žalah</head>
@@ -3236,7 +3238,7 @@
                   <p>Čez deset dni smo po preplašeni, zlih pričakovanj polni noči stopili z vlaka na
                      dolenjski postaji in boječe hiteli v sredo mesta, ki se nam je režalo z valovi
                      belo-rdeče-zelenih zastav. To je bila Ljubljana, komaj po treh tednih od
-                     slovesa, spet prva dekla enega tujega gospodarja ... </p>
+                     slovesa, spet prva dekla enega tujega gospodarja … </p>
                   <p>Preden smo se razbegli vsak proti svojemu zaskrbljenemu domu, nam je v slovo
                      dejal samo:</p>
                   <p>'Odpočijte se in se skušajte znajti. Ni vseh dni konec, čeprav se nam tako hoče
@@ -3334,7 +3336,7 @@
                      pa bodo morda na koncu popotovanja v nezakurjenem vagonu zmetali ven kakor
                      klade zmrznjena trupla zekov. Na drugi strani pa utegne <emph>zek</emph>, ki
                      izumi novo napravo, zaslužiti, da ga izpustijo na svobodo. Ampak kakor pravi
-                     Gerasimovič, »težava je v tem, da so izumi ... – no, skrajnje nezaželeni.«</p>
+                     Gerasimovič, »težava je v tem, da so izumi … – no, skrajnje nezaželeni.«</p>
                   <figure>
                      <graphic url="slike_z_64/z_64_29.png"/>
                      <head>Knjige čakajo <name type="author">Mirko Kambič</name></head>
@@ -3393,7 +3395,7 @@
                      Neržin pa je brezkompromisen; ostati hoče čist in tvegati. Kakor hitro je bila
                      odločitev sprejeta, začne njegov duh utrjevati svojo moč, zajemajoč iz posebne
                      modrosti preživelega:</p>
-                  <p>Neržin ... je zdaj preudarjal, da bi ga lahko pokončalo samo prvo leto taborišča,
+                  <p>Neržin … je zdaj preudarjal, da bi ga lahko pokončalo samo prvo leto taborišča,
                      da si je bil pridobil povsem drugačen tempo, da se ne bo skušal drenjati v
                      vrste tistih, ki se sprenevedajo, da se ne bo bal taboriščnega dela, temveč se
                      bo počasi, z doumevanjem življenjskih globin, šel zjutraj postavit v vrsto v
@@ -3496,7 +3498,7 @@
                      strategijo obrambe«. V <emph>Prvem krogu</emph> se Neržinu posreči, da dobi
                      nazaj od paznika svoj izvod Jesenina, v načrtovani bitki, izpeljani s
                      presenečenjem in naglico, s taktiko in strategijo duhovne samoohranitve. Kakor
-                     pravi Neržin, »Ne gre toliko za knjigo ... kakor za načelo: ne smejo nas
+                     pravi Neržin, »Ne gre toliko za knjigo … kakor za načelo: ne smejo nas
                      potolči.« Toda sovražnik preživelega je smrt in na koncu je preživeli vojak, ki
                      ne more upati kaj več kakor v majhne in začasne zmage.</p>
                   <p>
@@ -3575,10 +3577,10 @@
                      tem nežnem, trajnem znamenju življenja. Potem bo stopil na vlak, si poiskal
                      ležišče na polici za prtljago in se namestil za popotovanje nazaj v
                      izgnanstvo:</p>
-                  <p>Drugi niso preživeli. ... Dobro dene, če se pretegneš. ... Samo ko se je vlak
+                  <p>Drugi niso preživeli. … Dobro dene, če se pretegneš. … Samo ko se je vlak
                      zatresel in se začel premikati, je začutil vbodljaj bolečine blizu srca, blizu
                      duše – Obrnil se je, se ulegel z obrazom navzdol na trenčkot, zaprl oči in
-                     prižel obraz k nahrbtniku, bulastemu od krušnih hlebcev ... Vlak je potegnil in
+                     prižel obraz k nahrbtniku, bulastemu od krušnih hlebcev … Vlak je potegnil in
                      čevlji Kostoglotova so kakor mrtvi viseli nad hodnikom s prsti na nogah
                      navzdol.</p>
                   <figure>
@@ -3901,12 +3903,12 @@
                      njo. Po mojem bi bilo najpametneje, če bi sprejel pobudo francoskega prijatelja
                      in se preselil k njemu, če Ti zagotovi streho, kruh in vino, pa vsa potrebna
                      zavarovanja, za katero po mojem v Franciji ne bo težav, ter potrebno mero
-                     prostega časa za Tvoja pota po Evropi ... </p>
+                     prostega časa za Tvoja pota po Evropi … </p>
                   <p>Če bi si kupil kako zavetje na Krasu, si v tem primeru zagotovi rezidenco tudi
                      tam.</p>
                   <p>Če bi se odločil za selitev v Evropo, ostani argentinski državljan, ker boš
                      tako lahko kupoval Evrailpass v nedogled. In pošlji mamičin ter Francijev pepel
-                     počivat k Sv. Janezu v Cerknico ... Pred kratkim sem spet prebral Javorškovo Črno
+                     počivat k Sv. Janezu v Cerknico … Pred kratkim sem spet prebral Javorškovo Črno
                      krizantemo. Iskal sem odstavek, ki daje s škripajočimi zobmi priznanje mojemu
                      jeziku: »Celo pisanje kakšnega Mirka Javornika, ki je pisanje popolnega
                      zoprnika, vendarle človek bere z užitkom in se še zmeni ne za njegovo umsko
@@ -3914,13 +3916,13 @@
                      jezik višja oblika slovenskega klasičnega pisanja.«</p>
                   <p>Citat sem potreboval za brošuro, v kateri bo liberalna Slovenska prosvetna
                      matica v Trstu ponatisnila iz Peresa in časa II razpravo o slovenski besedi,
-                     kateri bodo dodali tudi povzetek ocen o knjigi ... </p>
+                     kateri bodo dodali tudi povzetek ocen o knjigi … </p>
                   <p>Ima me, da bi napisal Javorškov avtoportret v njegovi lastni besedi, kakor sem
                      to delno storil za Kocbeka. Tam bom na koncu citiral njegovo napoved, kakšen bo
                      konec Borisa Pahorja, ko mu bom še prej jaz dal svoj smrtni poljub. Nekako
                      takole: »Ker nisem homič (ljubljansko ime za buzije), se za razliko od Javorška
                      z moškimi ne poljubljam. Od žensk, ki sem jih s to usodo osrečil, pa doslej ni
-                     še nobena umrla ... «</p>
+                     še nobena umrla … «</p>
                   <p>Naj bo za prvo silo dovolj. Piši, kadar boš utegnil, in povej, kako se boš
                      odločil. </p>
                   <p>Pozdrav, zvesto Tvoj</p>
@@ -3963,18 +3965,18 @@
                   <p>Tolčem se po prsih, ker sem Ti še zmeraj dolžan odgovor na pismo iz začetka
                      lanskega novembra in na vprašanje iz božičnega voščila. Mislil sem, da bom vse
                      odgovore na pošto iz leta 1983 napisal med božičem in novim letom, ko sem bil
-                     sam doma ... A tisti prosti čas in skoraj ves januar sta šla v nič zaradi nečes
+                     sam doma … A tisti prosti čas in skoraj ves januar sta šla v nič zaradi nečes
                      drugega.</p>
                   <p>Dva dni pred božičem me je naša regolacijska komisija za jedrsko energijo
                      prosila za nujen in zaupen prevod iz slovenščine v angleščino. Šlo je za dolgo
                      študijo o teoretičnem idealnem modelu bodočih atomskih elektrarn v Sloveniji,
                      ki so ga s pomočjo kompjuterske simulacije izdelali učenjaki v ljubljanskem
-                     jedrskem Inštitutu Jožef Štefan ... </p>
+                     jedrskem Inštitutu Jožef Štefan … </p>
                   <p>Najprimernejši čas za obisk tukaj in v Kanadi je september in oktober. Maj
                      utegne biti še mrzel, junij pa pasje vroč. Jaz bi Ti torej svetoval jesen ali
-                     pa pozno poletje. Najboljše bi bilo, če bi prišel v Washington konec avgusta. ...
-                     Hiteti ne velja, če hočeš od krajev in ljudi kaj imeti. Pri nas bova skovala
-                     načrt kam, kdaj in h komu od tod ... </p>
+                     pa pozno poletje. Najboljše bi bilo, če bi prišel v Washington konec avgusta.
+                     ... Hiteti ne velja, če hočeš od krajev in ljudi kaj imeti. Pri nas bova
+                     skovala načrt kam, kdaj in h komu od tod … </p>
                   <p>Novembra nisem vedel še nič, kako bo z mano letos. Agno bratje in sestre na moč
                      silijo, da bi prišla na obisk v Ljubljano. Njej se to da prav toliko kakor
                      meni, poleg tega se pa boji sama potovati. Jaz sem bil za to, da bi šla maja
@@ -3988,7 +3990,7 @@
                      improvizatorji, na katere sem se zanašal, mi na več prošenj niso poslali ne
                      informacij o pogojih in stroških</p>
                   <p>za samostojno slovensko razstavo v lastnem prostoru ne potrebnih formularjev za
-                     priglas ... </p>
+                     priglas … </p>
                   <p>Vse kaže, da tudi letos ne bo nič, razen če bi se zgodil čudež.</p>
                   <p>V Argentino me bolj in bolj vabijo vsi, od krekovcev do sijevcev in kar je
                      vmes. Vzroki, da ne morem, so čas, denar in pa zastrupljene osebne razmere med
@@ -3999,7 +4001,7 @@
                   <p>Te pa lepo prosim, da bi mi čimprej sporočil vse, kar Ti je o Rudu in 4. delu
                      Luči in senc pisal Geno. Zdaj je vse še bolj aktualno, ker je Rudova svakinja
                      Milena vso njegovo zapuščino, kar jo je imela, dala ne vem komu in se preselila
-                     k hčerki, poročeni na holandskem ... </p>
+                     k hčerki, poročeni na holandskem … </p>
                   <p>Napisal sem Ti, kakor sem vedel in znal ter za prvo silo. Ostani zdrav do
                      prihodnjega glasu. V upanju na svidenje Te pozdravljava oba z Agno.</p>
                   <p>Tvoj Mirko </p>
@@ -4011,14 +4013,14 @@
                      postali sedaj tu hudo trdi. Če jih bom nabral dovolj, bi potem, ko bom opravil
                      pri Vama, naredil ovinek pri povratku prek Evrope in ostal nekaj časa pri
                      Tončku Komotarju (<emph>prijatelj iz gimnazijskih let, s Šerkom sta skupaj
-                        stanovala</emph>) v Stuttgartu, katerega sem vabil v Salto ... če bom res šel
+                        stanovala</emph>) v Stuttgartu, katerega sem vabil v Salto … če bom res šel
                      v Evropo, si bom nabavil Evrailpass in križaril po Evropi. Hudo me mika Grčija,
-                     ki je menda celo Ti nisi videl ... Pomisleke imam radi izkušnje od zadnjič, ko
+                     ki je menda celo Ti nisi videl … Pomisleke imam radi izkušnje od zadnjič, ko
                      sem videl, da je potovanje nadvse prijetno v dvoje, kot najino v Rim in Lurd.
                      Če se pa prekladaš po svetu sam, se pa vsega kmalu naveličaš. Rad bi pa le
-                     videl Grčijo in Pariz in zopet seveda Italijo ... </p>
+                     videl Grčijo in Pariz in zopet seveda Italijo … </p>
                   <p>Nadvse rad bi še videl Johana Šviglja v Trstu, le če bo prišel radi kavcije pa
-                     radi let. Kot mi piše hčerka, je pričel zelo pešati ... Pa seveda Gena tudi, po
+                     radi let. Kot mi piše hčerka, je pričel zelo pešati … Pa seveda Gena tudi, po
                      možnosti v isti oštariji kot zadnjič in hudo boš manjkal Ti.</p>
                   <p>Prilagam Genovo pismo, nanašajoče se na Rudo, malo si boš s tem pomagal.</p>
                   <p>Prilagam tudi dve fotografiji, da vidiš mamičin in Francitov grob, pa moj tudi,
@@ -4037,17 +4039,17 @@
                </div>
                <div type="div3">
                   <p>Preljubi moj Dano!</p>
-                  <p>Tvoje pismo se je nekje nad širokim morjem križalo z mojim ... </p>
+                  <p>Tvoje pismo se je nekje nad širokim morjem križalo z mojim … </p>
                   <p>Vesel sem bil slik. Ena je rekordna. Še nikoli mi je ni kdo poslal s kraja
                      lastnega groba.</p>
-                  <p>Ne pusti še tako trdim dolarjem preprečiti, da bi prišel sem in k Edvardu ... ... </p>
+                  <p>Ne pusti še tako trdim dolarjem preprečiti, da bi prišel sem in k Edvardu … ... </p>
                   <p>Pri nas si bova v glavnem gospodinjila sama, ker Agna še hodi v službo. A Ti si
                      takega samstva vajen, kuharija pa je poleg vina in ljubezni od nekdaj bila moj
-                     poglavitni hobi ... </p>
+                     poglavitni hobi … </p>
                   <p>Zelo dragoceno je tudi priloženo Genovo pismo. Iz njega mi je očitna usoda 4.
                      in 5. knjige Luči in senc. Založnik dela je bil Editorial Baraga, katere
                      lastnik je lazarist Lado Lenček, misijonski</p>
-                  <p>podjetnik ... Lenček se za trdno ni strinjal s trdimi resnicami o naši klerikalni
+                  <p>podjetnik … Lenček se za trdno ni strinjal s trdimi resnicami o naši klerikalni
                      politiki v 4. in 5.</p>
                   <p>zvezku Rudovih spominov. Pokazal jih je še Kreku ali pa Staretu, nakar so jih
                      sklenili uničiti. Ruda ni bil toliko previden, da bi si bil naredil kopijo.
@@ -4736,7 +4738,7 @@
                      Ricionu uveljavljat svojo pravico do kakega plačila za tisto, kar je delal in
                      prestal, čeprav so mu Stane in France Zupan, Ivo Bergant in jaz svetovali, naj
                      da mir, so se ga Angleži nazadnje iznebili in ga spravili k pameti z grožnjo,
-                     da mu bodo sodili kot medvojnemu špijonu ... </p>
+                     da mu bodo sodili kot medvojnemu špijonu … </p>
                   <p>Prosil bi te pa, da mi takoj, ko bo spet v Argentini, sporočiš njegov naslov,
                      da ga bom prosil, naj mi še enkrat pove svojo storijo za moje spomine. Izdajo
                      Golčeve (<emph>Januš Goleč, urednik katol. usmerjene Straže na Štajerskem in
@@ -4814,7 +4816,7 @@
                      poslal kopijo obširne pornografske antologije, v kateri so zbrani glavni
                      svinjski biseri te častitljive druščine pri Kolovratu, še vse drugačni kot
                      slovita abeceda. Izbor je objavila Mladina, uradno glasilo Zveze socialistične
-                     mladine v SRS ... </p>
+                     mladine v SRS … </p>
                   <p>Želim Ti, da bi dobro izgospodaril ter Te v imenu nas vseh, posebno v svojem
                      kar se da lepo pozdravljam.</p>
                   <p>Tvoj stari, pravijo da nepoboljšljivi</p>
@@ -4928,8 +4930,8 @@
                      Cicibana, otroških pesmic, še nihče poznejših mladinskih pesnikov ni dosegel,
                      kaj šele presegel.</p>
                   <p>Posebno mesto pa zavzema Župančič kot prevajalec iz svetovnih jezikov, tako iz
-                     angleščine (skoraj celotni Shakespeare, Galsworthy, Dickens ... ), iz francoščine
-                     čudovito prevedeni Rostandov Bergerac, potem Molière, Maupassant, Balzac ... ) iz
+                     angleščine (skoraj celotni Shakespeare, Galsworthy, Dickens … ), iz francoščine
+                     čudovito prevedeni Rostandov Bergerac, potem Molière, Maupassant, Balzac … ) iz
                      ruščine (Puškin), nemščine (Goethe), italijanščine (Dante), kasteljanščine
                      (Calderón) itd.</p>
                   <p>Poleg tega je bil tudi urednik revij Slovan in Ljubljanski zvon ter ravnatelj
@@ -5023,7 +5025,7 @@
                      Župančiča, in sem to ponovil tudi ob sedemdesetletnici v Svobodni Sloveniji,
                      pišoč: »bodočnost bo pokazala, da je bil Murn verjetneje večji pesnik v duši in
                      morda tudi Kette.« Zdaj je to ugotovil prof. Truhlar v zadnjem svojem delu:
-                     »Župančič je manj globok kot Kette, pa tudi manj od Cankarja in Kosovela ... «To
+                     »Župančič je manj globok kot Kette, pa tudi manj od Cankarja in Kosovela … «To
                      velja sicer za njegovo globino, vidno pa je, da se moderni pesniki bolj vračajo
                      k Murnu, pesniku čistih razpoloženj, kot pa k Župančiču, patetičnemu
                      deklamatorju.</p>
@@ -5035,7 +5037,7 @@
                      delu, čeprav je bil tudi Župančič med onimi, ki so o nas govorili in pisali kot
                      o »domačih izdajalcih« (Slov. por. 14. 6. 1945). In to prav v času, ko so
                      padali domobranci v tisočih v kočevskih gozdovih in je on tedaj – »tulil z
-                     volkovi« ... To se težko pozabi. Tudi ob slavljenju stoletnice.</p>
+                     volkovi« … To se težko pozabi. Tudi ob slavljenju stoletnice.</p>
                   <p>Svobodna Slovenija 26. 1. 1978.</p>
                </div>
             </div>
@@ -5111,7 +5113,7 @@
                      kar med križe, ne enega kamna ampak več, najboljše po enega za vsako vas. En,
                      dva tri, spet prošnja na območno enoto z novim predlogom. Povabijo nas na Grm.
                      Dekleta so prijazna in naklonjena. Tako bi šlo, celo več, po pogovoru nam
-                     pošljejo dopis, da »nova rešitev ... s postavitvijo več kamnov ... lahko kvalitetno
+                     pošljejo dopis, da »nova rešitev … s postavitvijo več kamnov … lahko kvalitetno
                      dopolni prostor nekdanjega pokopališča«.</p>
                   <figure>
                      <graphic url="slike_z_64/z_64_33.png"/>
@@ -5204,14 +5206,14 @@
                      cistercijanski dijaški internat. Danes precej zapuščena, nekdaj lepa, mogočna
                      stavba ima zelo pisano zgodovino. Kot piše Silvester Kopriva v monografiji
                      Ljubljana skozi čas (Založba Borec, Ljubljana 1989) na strani 33, je bila v
-                     njej ... »<emph>leta 1867 ustanovljena nemška višja ljudska šola in pozneje višja
+                     njej … »<emph>leta 1867 ustanovljena nemška višja ljudska šola in pozneje višja
                         dekliška šola. Za Avstrije je bila močna opora ljubljanskemu nemštvu. V
                         stari Jugoslaviji pa je imel cistercijanski samostan iz Stične v hiši
                         internat za svoje gojence, ki so obiskovali ljubljanske šole</emph>.«</p>
                   <p>Internat je dobil ime Slomškov zavod in sprejel prve gojence skoraj gotovo po
                      letu 1931, kajti v knjigi Popolna posvetitev Bogu (Anton Nadrah, cistercijanska
                      opatija, Stična 2003), izdani ob 60-letnici mučeniške smrti patra Placida
-                     Grebenca, na strani 31 piše, da je fr. Placid ... »<emph>skupaj z drugimi
+                     Grebenca, na strani 31 piše, da je fr. Placid … »<emph>skupaj z drugimi
                         študenti tri leta teološkega študija imel vso oskrbo v Marijanišču v
                         Ljubljani, na predavanja pa je hodil na teološko fakulteto</emph>«. Če bi
                      tedaj že obstajal Slomškov zavod, bi fr. Placid gotovo imel oskrbo v tem
@@ -5595,8 +5597,8 @@
                      Varšavi pobili sto nedolžnih ljudi. V nekaj urah je med Nemci in Poljaki zrasel
                      zid sovraštva« (str. 29). »Preteči je moralo kar precej časa, preden smo se
                      prepričali o tem, da sploh ni veljalo tisto, kar je bilo zapisano v nemških
-                     uredbah, ... ampak samo tisto, kar je lahko zadelo človeka popolnoma
-                     nepričakovano ... Kmalu so se pojavile samo proti Judom namenjene uredbe« (str.
+                     uredbah, … ampak samo tisto, kar je lahko zadelo človeka popolnoma
+                     nepričakovano … Kmalu so se pojavile samo proti Judom namenjene uredbe« (str.
                      30). Zahtevali so npr., da se prikloni vsak Jud, ki sreča Nemca na cesti.
                      Ustreljen bo vsak, ki bo krušne izdelke prodajal nad določeno ceno, je pisalo
                      na lepakih, toda tudi natančni Nemci niso spolnjevali vseh svojih odredb.</p>
@@ -5641,7 +5643,7 @@
                      do doma.</p>
                   <p>Spomladi 1942 se je razširil preplah pred novimi oblikami nemškega divjanja.
                      Gestapo je pridobil za službo tudi mlade Poljake-Jude, ki so oblekli nemško
-                     policijsko uniformo in »v trenutku postali nizkotni ... širokoustili so se z
+                     policijsko uniformo in »v trenutku postali nizkotni … širokoustili so se z
                      znanjem nemščine in v neizprosnosti metod, ki so se uporabljale proti
                      judovskemu ljudstvu, prekosili svoje šefe« (str. 69). Razbesnel se je lov na
                      skrite prebivalce po hišah. Metali so jih skoz okna in streljali. Zajete moške
@@ -5707,7 +5709,7 @@
                      ljudi, zdaj so uničevali še hišo za hišo. Poleti so Nemci doživeli še poraze na
                      novi zahodni fronti. Vstaja v Varšavi ni ponehala, Nemci in Poljaki so
                      streljali po ulicah vsevprek. »Pomoč od zunaj v mesto ni prišla, nemški teror
-                     se je še povečal« ... Ukrajinci so pustili, da so stanovalci neke hiše živi
+                     se je še povečal« … Ukrajinci so pustili, da so stanovalci neke hiše živi
                      zgoreli, »stanovalce neke druge hiše pa so postrelili« (str. 137). Pianist je
                      vztrajal v goreči hiši kljub dimu, bila je namreč obkoljena od esesovcev. V
                      usta si je vsul uspavalne tablete. Zaspal je, vendar ni umrl. Zjutraj se je po
@@ -6227,7 +6229,8 @@
                      11. uri.</p>
                </div>
             </div>
-            <div type="div2"><head>Dodatek</head>
+            <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <p>Temelj komunistične oblasti je bil prav na začetku revolucionarno nasilje in
                      partijci so vseskozi zavestno lagali. Laž so imeli za koristnejšo od resnice.
@@ -6293,7 +6296,7 @@
                      bi kitajski narod ne šel skozi verjetno svoj najhujši pekel in 70 milijonov
                      življenj se ne bi izgubilo v vrtincu zla, strahu in trpljenja.</p>
                   <p>Je to opomin ali obsodba? Ne, zgolj resnica. Knjiga ne govori o željah,
-                     možnostih, predvidevanjih ... kot oder je, s katerega je odpadla še zadnja
+                     možnostih, predvidevanjih … kot oder je, s katerega je odpadla še zadnja
                      zavesa. Ko je preberemo, ostanemo nemi; spričo tolikšnega zla in trpljenja smo
                      nemočni. Kitajski narod iznenada ni več neznano ljudstvo na drugem koncu sveta,
                      dotakne se nas kot naš bližnji, v trpljenju preizkušeni sosed. Spomnimo se,

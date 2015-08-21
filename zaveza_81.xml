@@ -47,14 +47,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -105,7 +105,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza </head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Obstaja stara in še vedno živa vera, da bodo iz celotnega trpljenja pod
                      totalitarnimi režimi vzniknile nove oblike umetnosti, novo zavestno razumetje
@@ -726,7 +728,8 @@
          </div>
          <div type="div1">
             <head>Mesto na gori</head>
-            <div type="div2"><head>Uvod</head>
+            <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Ob stodvajsetletnici rojstva slovenskega pisatelja Narteja Velikonja želimo
                      njegovi otroci osvetliti njegov spomin na drugačen način. Želimo povedati
@@ -1585,8 +1588,8 @@
                      takega. Kar lažje prenašamo, ko upamo na vašo vrnitev. Samo da se vrnete, potem
                      bodo gotovo tudi razmere drugačne. Večkrat pravimo, dragi France, da pridi kar
                      domov, pa menda ne gre nobeden, ko tudi Tebe ni. Saj ko bi drugi kdo šel, bi
-                     šel gotovo tudi Ti … Veš, ata mi večkrat pravijo, da sem jaz kriva, da si šel Ti
-                     tja gor. Če sem kaj kriva, mi odpusti, saj bi dala ne vem kaj, da bi Ti bil
+                     šel gotovo tudi Ti … Veš, ata mi večkrat pravijo, da sem jaz kriva, da si šel
+                     Ti tja gor. Če sem kaj kriva, mi odpusti, saj bi dala ne vem kaj, da bi Ti bil
                      varno doma. Ker pa v prihodnost ne vidimo, moramo samo reči, da je taka božja
                      volja. Mogoče Ti je res težko, ko nisi doma. Pa vedi, da bi jaz takoj zamenjala
                      s teboj, če bi bilo mogoče. Kar je naših fantov ostalo doma, mora biti vsak

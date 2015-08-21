@@ -38,21 +38,21 @@
       <publicationStmt>
         <publisher>
           <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+            <addrLine>Nova Slovenska zaveza</addrLine>
+            <addrLine>Beethovnova ul. 5</addrLine>
+            <addrLine>1000 Ljubljana</addrLine>
+            <addrLine>Slovenija</addrLine>
+            <lb/>
+            <addrLine>tel. 01/425-15-37</addrLine>
+            <addrLine>Spletna stran: www.zaveza.si</addrLine>
+          </address>
         </publisher>
         <availability>
           <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
           <p>© Avtorske pravice za besedila in slike: Nova Slovenska zaveza</p>
         </availability>
         <idno type="issue">4</idno>
-        <idno type="ISSN">xYxyxcc ???</idno>
+        <idno type="ISSN">?</idno>
         <date>2009-01-19</date>
       </publicationStmt>
       <sourceDesc>
@@ -96,6 +96,7 @@
     </front>
     <body>
       <div type="div1">
+        <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
         <div type="div2">
           <head>Genocid v dokumentih mednarodnega prava</head>
           <docAuthor>G. T.</docAuthor>
@@ -422,12 +423,12 @@
               zvoniku sta se vadila pritrkavati. Takoj sta se mi priljubila s svojim prijaznim in
               skromnim obnašanjem. Na veliki šmaren se je raznesla novica o njuni smrti. Govoril sem
               o njiju s tem in onim in vsakdo mi je rekel: Dobra fanta sta bila, da Dobrova nima
-              takih! Bratovsko sta se med seboj ljubila... Zdaj bosta pa skupaj počivala tukaj v
-              senci zvonika... Posebno veselje jima je bilo pritrkavanje. Za to sta žrtvovala vse:
+              takih! Bratovsko sta se med seboj ljubila … Zdaj bosta pa skupaj počivala tukaj v
+              senci zvonika … Posebno veselje jima je bilo pritrkavanje. Za to sta žrtvovala vse:
               prosti čas, počitek, spanje. Nikdar nista bila toliko utrujena, da bi pritrkavati ne
-              zmogla... Na veliki šmaren sta na vse zgodaj veselih src hitela, da se povzpneta v ta
+              zmogla … Na veliki šmaren sta na vse zgodaj veselih src hitela, da se povzpneta v ta
               visoki zvonik. Tedaj ju je Marija prestregla in ju peljala še više, prav pred prestol
-              svojega Sina... Počivajta v miru in prosita za nas.«</p>
+              svojega Sina … Počivajta v miru in prosita za nas.«</p>
             <p>Če vas pot kdaj zanese do dobrovske šole, se potrudite in stopite do lične Marijine
               kapelice, ki stoji na robu gozda, blizu Šimcove domačije. Spredaj v vogalu kapelice je
               vzidan kamen, na katerem sta vklesani imeni obeh bratov, datum njunega rojstva in
@@ -566,7 +567,7 @@
               obnavljali. Še enkrat, kar je zunaj dvoma, je to, da so ti fantje iz Šentvida odšli,
               domov pa jih ni bilo. In tudi nikamor drugam. Kaj se je z njimi zgodilo in kje so?</p>
             <p>To pa ni več področje spominov, pač pa stvar tistih informacij, ki se ponavadi
-              začenjajo: Ljudje pravijo... In res ljudje govorijo vse mogoče in v tem govorjenju
+              začenjajo: Ljudje pravijo … In res ljudje govorijo vse mogoče in v tem govorjenju
               padajo tudi imena krajev in ljudi. Mi jih ne bomo ponavljali, ker za nas ljudje niso
               tako važni in tudi kraji niso tako važni, čeprav bi svoje ljudi radi pokopali, kakor
               smo navajeni že več kot tisoč let. Važno pa je nekaj drugega, za našo prihodnost je
@@ -1416,11 +1417,11 @@
               <l>Takrat v dlani bom svoje vzel </l>
               <l>ročico tvojo kot nekdaj </l>
               <l>in si jo na prsi del. </l>
-              <l>Kot tiste dni...</l>
+              <l>Kot tiste dni … </l>
               <l>In ti se vdano boš smehljala </l>
               <l>v očeh bo tvojih spet sijaj, </l>
               <l>ki prvič zame ga prižgala </l>
-              <l>si tiste dni...</l>
+              <l>si tiste dni … </l>
             </lg>
             <lg>
               <l>Pa svojo glavo boš nagnila </l>
@@ -1496,7 +1497,7 @@
               še več, preventivno so pokončali tudi vse svoje morebitne bodoče nasprotnike, če so
               jim le bili na dosegu. Taka je bila direktiva partije in to partijo so usmerjali in
               vodili ljudje, ki jih je šolala in plačevala Moskva že dolgo pred začetkom vojne. Bili
-              so dobro podkovani in preizkušeni iz Rusije, Španije... Vnaprej so poznali domala vse
+              so dobro podkovani in preizkušeni iz Rusije, Španije … Vnaprej so poznali domala vse
               poteze nasprotnika, ves razvoj odpora.</p>
             <p>Začelo se je najhujše obdobje slovenskega naroda med okupacijo: boj proti komunizmu.
               Ko sem leta 1943 in 1944 kot petnajstletni fant prebiral knjige o grozodejstvih nad
@@ -1557,7 +1558,7 @@
               je v nekem smislu tudi moja pesem, njihova želja je tudi moja željasvoboda! Vendar »
               moja« svoboda, torej tudi svoboda duha, misli, različnosti, ustvarjanja, imetja,
               verovanja. Ostal sem razklan in žalosten. Cutil sem, da je v naš mali slovenski narod
-              posegla čudna, neizrekljivo močna sila, ki nosi na svojih krilih dih smrti...</p>
+              posegla čudna, neizrekljivo močna sila, ki nosi na svojih krilih dih smrti … </p>
           </div>
           <div type="div3">
             <head>***</head>
@@ -1684,7 +1685,7 @@
           <div type="div3">
             <head>***</head>
             <p>Ko sem prišel domov, me je mama objela in zajokala. Vrnil sem se ves droben in
-              preplašen, a vendar v njenem objemu – varen... Rahlo me je božala s svojimi hrapavimi
+              preplašen, a vendar v njenem objemu – varen … Rahlo me je božala s svojimi hrapavimi
               rokami in obema so tekle solze po licih.</p>
             <p>To izpoved, te misli pišem kot prispevek k naši spravi – kajti le s skupnimi močmi
               nam bo uspelo premagati vse težave. Pišem jih kot spomin in zahvalo vsem, ki so dali
@@ -1790,7 +1791,7 @@
               krivice ali pa trpeli, da se delajo drugim. Vse to je treba vedeti in soditi – brez
               razsojevanja v življenju sicer ni mogoče – uravnoteženo. Toda nekaj ostaja: tudi če se
               strinjamo z nedavno izraženim mnenjem, da »imamo med bivšimi komunisti ljudi, ki zelo
-              visoko kotirajo na lestvici... vrednot«, ostaja dejstvo, da so bili nosilci morda
+              visoko kotirajo na lestvici … vrednot«, ostaja dejstvo, da so bili nosilci morda
               najbolj odvratnega sistema v zgodovini. In da ni mogoče, po vsem, kar se je zgodilo,
               meni nič tebi nič enostavno presesti na drug vlak. Da so to storili, da to poskušajo
               storiti, to jim ravno jemlje kredibilnost. Po takšni zgodovini bi človek pričakoval
@@ -2048,7 +2049,7 @@
               si je drznil povedati publiki, organizatorjem in lavreatom, da ne more pričakovati
               spoštovanja od drugih, kdor sebe ne spoštuje.</p>
             <p>Pod tem vtisom razmišljam o Slovencih v samostojni državi.</p>
-            <p>Kdor sebe ne spoštuje...</p>
+            <p>Kdor sebe ne spoštuje … </p>
             <p>Človeka spoštovati pomeni človeku priznati vrednost, ki si jo je zaslužil. Če torej
               Slovenec Slovenca ne spoštuje, čuti, da ni vreden spoštovanja. Izgubljamo se v
               obsojanju, namesto da bi se skušali spreobrniti, da bi se lahko spoštovali.</p>
@@ -2084,13 +2085,13 @@
               Preživel je komunistično tiranijo in krivično zamolčanost in dočakal jutro
               pozabljenih, kakor to prebujanje imenuje prof. France Pibernik. V njegovih odkritjih
               je vodilo v našo prihodnost, ker nas opozarja na globino naših krščanskih korenin.</p>
-            <p>Tudi pesnik France Balantič se je takrat znašel na poti brez konca...</p>
+            <p>Tudi pesnik France Balantič se je takrat znašel na poti brez konca … </p>
             <p>Ko se na začetku poti v novo državo oziramo naokrog, se čudimo, da je tako malo
               ljudi, ki bi doživljali srečo v tem, da smo samostojni, ki bi se znali izogibati
               očitkom in obtoževanjem in bi vedeli, da je z odkrivanjem resnice o preteklosti mogoče
               ustvariti normalnejše medsebojne odnose.</p>
             <p>Novi čas kliče tudi umetnike, glasbenike, pisatelje in pesnike, slikarje, filozofe in
-              teologe... Ta čas ne sme ostati brez sledov v naši umetnosti in kulturi, ki dajeta naši
+              teologe … Ta čas ne sme ostati brez sledov v naši umetnosti in kulturi, ki dajeta naši
               majhnosti veličino. Z nezadovoljstvom in razočaranjem si spodkopavamo tla pod nogami.
               V vprašanju: Kdo sem? pesnika Daneta Zajca, slavnostnega govornika na Prešernovi
               proslavi, najdemo obupno nejasnost našega bivanja. Preplašeni in nezaupljivi ne bomo
@@ -2140,7 +2141,7 @@
             <p>Koliko doživetij je bilo treba naenkrat doživeti! In tako pozno! Kako drugačno je
               tvoje mirno, prozorno plavo morje od razburkanih valov našega oceana! In tista Sava,
               ki sem jo poznala le iz zemljevida, me sedaj spremlja po poti. Škoda, da ni čista, hči
-              Triglava! Škoda, da ni čista... Oh, saj bo spet, kaj ne! Tudi tvoja zgodovina mi je
+              Triglava! Škoda, da ni čista … Oh, saj bo spet, kaj ne! Tudi tvoja zgodovina mi je
               vedno bližja. Hodila sem po Prešernovi Vrbi, po Cankarjevi Vrhniki; jokala sem na
               Kočevskem Rogu; dolgo sem strmela v teharsko umetno jezero, zahvaljevala sem se Sveti
               Ani, da mi je rešila očeta, da sem se lahko rodila.</p>

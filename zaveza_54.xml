@@ -46,21 +46,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">54</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2009-01-14</date>
          </publicationStmt>
          <sourceDesc>
@@ -104,7 +104,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Resnica ima, kakor knjige, sua fata –različne usode. Danes je njena usoda ta,
                      da se na splošno misli, da je ni. Če jo boste vpletali v svoje stavke, se vam
@@ -644,7 +646,7 @@
                      kratkovidnosti, ampak daljnovidnosti; in z njim partija ni začela izgubljati,
                      ampak dobivati. Pahor tudi na izrazih, s katerimi je partija opremila svoj
                      jezik o nasprotnikih, ne vidi nič dialektičnega: ljudje, ki so maja 1945 prišli
-                     v Trst, so bili »sodelavci okupatorja, ki so se umaknili iz Ljubljane ... se
+                     v Trst, so bili »sodelavci okupatorja, ki so se umaknili iz Ljubljane … se
                      postavili na angleško stran, in jo prepričali, da so bili zmerom na njeni
                      strani.« /Nova revija, avgust, september, oktober 2003/. Boris Pahor je tudi v
                      televizijskem intervjuju 11. 7. letos ponovil tezo o Kocbeku, ki so mu partijci
@@ -1168,7 +1170,7 @@
                      nisem slišala, da bi bila tvoja mati pri tistem kaj vmešana.«</p>
                   <p>Vovkova Meri s Slap, ki so jo ubili skupaj z mojo mamo, je hodila z
                      italijanskim vojakom. Najprej so ji zagrozili, nato so jo ostrigli, nazadnje pa
-                     odpeljali. Tiger da ji je rekel: »Če te jaz ne bom ... te tudi Italijani ne
+                     odpeljali. Tiger da ji je rekel: »Če te jaz ne bom … te tudi Italijani ne
                      bodo.« Merikovi so mi rekli, da bo kaj vedel Karlo Jamšek, tudi doma iz Lož:
                      »Silvo, da kaj jaz vem. Eden jo je spravil v fašistično stranko. Da bi zaščitil
                      sebe, je dal ukaz za likvidacijo.« Ko sem ga vprašal, ali je bil to Tiger, ni
@@ -1812,7 +1814,7 @@
                      izdajalcih in zločincih – in beremo: »Obveščevalna služba OF je vseskozi
                      zbirala podatke o izdajalcih, posebno bolj znanih in nevarnih. Poleg
                      življenjepisa, značaja in hudodelstev je pri vseh zapisan osebni opis in v 80 %
-                     primerov je poročilu priložena slika ... Obveščevalni oddelek okrožne izpostave
+                     primerov je poročilu priložena slika … Obveščevalni oddelek okrožne izpostave
                      Škofja Loka je 26. maja in 14. junija 1944 poslal obveščevalnemu oddelku pri
                      oblastni izpostavi za Gorenjsko poročilo o desetih izdajalcih. Občinski odbor
                      ZZB NOV Škofja Loka in krajevni odbor ZB NOV Žiri sem zaprosil, naj preverijo,
@@ -2027,7 +2029,7 @@
                      kletvinah in pokanju goreče hiše je skočil čez mejo in globoko upognjen bežal
                      čez sosednji vrt do potoka. Tam se je skril pod bližnjo brv in malo počakal. Ko
                      se je nekoliko oddahnil, je pogledal okoli sebe in zopet bežal in bežal,
-                     prihuljen k tlom. Nato se je skril ... Tako si je ta fant rešil življenje in je
+                     prihuljen k tlom. Nato se je skril … Tako si je ta fant rešil življenje in je
                      še danes živ. Je pa še vedno prestrašen in o vsem tem nič ne govori. – Medtem
                      je cerkev že gorela, partizani so bili nanesli velike skladovnice smrekovih
                      desk od bližnjega lesnega trgovca Krajca, po domače Matjaža, na sredo cerkve in
@@ -2042,10 +2044,10 @@
                      hodnika srečal s tem partizanom, sem mu rekel, še vedno v roki držeč robček:
                      »Če mislite, da je kateri od domobrancev zaslužil smrt, prosim, mene pokličite
                      k njemu!« Takrat pa me je srepo pogledal in zakričal proti meni: »Kaj, za bele
-                     k ... « in je šel naprej po hodniku in vpil, za njim pa vsi drugi. Šli so po vseh
+                     k … « in je šel naprej po hodniku in vpil, za njim pa vsi drugi. Šli so po vseh
                      prostorih in odnesli, kar so hoteli. Najbolj sem žaloval za birmanskim robčkom,
                      ki mi ga je kupil boter na dan moje birme leta 1926. Čuval sem ga sedemnajst
-                     let, do nove maše, ko sem ga prvikrat in zadnjikrat rabil ... Moj birmanski
+                     let, do nove maše, ko sem ga prvikrat in zadnjikrat rabil … Moj birmanski
                      robček, bel z zelenim krajčkom ...</p>
                   <p>Šel sem iz župnišča. Postojanka je gorela z velikim plamenom, gorela je tudi
                      cerkev z gostim dimom. Neki partizan je bil na vrhu lestve, ki je slonela na
@@ -2116,7 +2118,7 @@
                      Gospodom pod podobo svetega Kruha v monštranci, ko je sprejemal krvavo daritev
                      vernih slovenskih vojakov iz plamenov ognja, ki ga je prižgala človeška
                      hudobija. Bodi jim opora v zadnji uri, sprejmi jih v nebeško slavo in mir.
-                     »Sprejmi, Gospod, daritev iz mojih rok ... !« Pozneje sem zvedel, da so imeli
+                     »Sprejmi, Gospod, daritev iz mojih rok … !« Pozneje sem zvedel, da so imeli
                      umirajoči domobranci križ v rokah in ga poljubljali, mnogi smrtno ranjeni od
                      nočne borbe. In tako so odhajali drug za drugim ti slovenski mučenci po
                      zasluženo plačilo pred prestol večnega in vsevednega Sodnika, ki jih je ljubeče
@@ -2240,7 +2242,7 @@
                      obraz sem razločno videl: bil je obraz skromnega čevljarja Zogarčka iz vasi,
                      enega tistih treh mož, ki so jih partizani vrgli na ogenj. Z obrazom je bil v
                      pepelu in ometu, bel obraz z zaprtimi očmi, tudi brez rok in nog. Ubogi
-                     Zogarček, kakor da bi se hotel še enkrat posloviti od nas ... </p>
+                     Zogarček, kakor da bi se hotel še enkrat posloviti od nas … </p>
                   <p>Naložen voz z ožganim bremenom se je premaknil ob vzdihovanju peska pod
                      železnimi kolesi voza s konjsko vprego, usmeril se je proti farnemu pokopališču
                      zunaj vasi. Tam je bila izkopana jama za dva metra kvadrat. Položili smo jih v
@@ -3293,7 +3295,7 @@
                      pogovarjajo z nekom, ki ga ni.</p>
                   <p>Skratka, dogaja se torej nekakšna lustracija, ki kaže, da smo nekakšna fevdalna
                      država. Zaslužnim državljanom dajejo oblastniki v upravljanje (beri:
-                     izkoriščanje) različne fevde, npr. Stanovanjski sklad, Zavarovalnico ... in ti
+                     izkoriščanje) različne fevde, npr. Stanovanjski sklad, Zavarovalnico … in ti
                      državljani potem neznansko obogatijo. Bivši vodja Stanovanjskega sklada je
                      arogantno izjavil, ko so ga vprašali, kaj bo zdaj počel, ko je zapustil vodilno
                      mesto v skladu, da je tako bogat, da mu ni treba ničesar početi. In vse te
@@ -3434,7 +3436,7 @@
                      pomagati in jih negovati. Morda pa bi komu pomagalo, če bi ga postavili pred
                      sodišče, kjer bi moral povedati resnico. Vsaj svoj košček. Zaključuje z
                      mislijo, naj bi razstava »pomagala ozavestiti in prekiniti negativen vzorec
-                     Slovencev in vseh ljudi na svetu, da bi prenehali z vojno ... «. Moj komentar k
+                     Slovencev in vseh ljudi na svetu, da bi prenehali z vojno … «. Moj komentar k
                      vsemu skupaj je: Z nasiljem nad nasilje!</p>
                </div>
             </div>
@@ -3785,7 +3787,7 @@
                      pokropil stene kapele in blagoslovil sveta znamenja.« Nato nas konstituira kot
                      skupnost: »Mi, ki v veri in ljubezni združeni sestavljamo živo Cerkev skupaj z
                      našimi tu pobitimi brati.« Potem se nad nami razlije stara in čudovita pesem:
-                     Presrečni bratje in sestre ... Katero srce se ob tem ne ogreje? </p>
+                     Presrečni bratje in sestre … Katero srce se ob tem ne ogreje? </p>
                   <p>Pred blagoslovom kapele je nekaj stavkov povedal državni sekretar Franc
                      Žnidaršič. Ob tem se spomnim, kako je kot predstavnik vlade utemeljeval
                      sprejetje Zakona o grobiščih, in pomislim: Kako se je upal priti sem pred te
@@ -3804,7 +3806,7 @@
                      v nekem intervjuju pozneje (17. julija v Delu) rekla, da se je v Kočevskem Rogu
                      »vpilo«. Vsak od šest tisoč ljudi, ki so bili tam, ve, da se tiste nedelje ni
                      zgodilo nič takega, da bi se moglo imenovati »vpitje«. A dr. Spomenka Hribar
-                     pravi, da se je tam »vpilo«. In če »prva dama slovenske politike« tako pravi ... </p>
+                     pravi, da se je tam »vpilo«. In če »prva dama slovenske politike« tako pravi … </p>
                   <p>Žal ji njeni informatorji niso sporočili nekega drugega prizora. Mimo mene sta
                      se skozi množico, že med mašo, rinila dva televizijca, eden s kamero na rami.
                      Med potjo je eden od njiju spravljal vase zadnje grižljaje jabolka, obedek pa
@@ -3986,7 +3988,7 @@
                      odpravila v to skrivno knjižnico. Zgodilo se je, da bi moral neko tako
                      skrivnostno knjižico že vrniti, pa je mami potarnal, da je še sploh ni utegnil
                      odpreti. Takrat sem se nevede zagovorila in jima povedala, da sem jo jaz pa že
-                     prebrala ... Kako so mi zabičevali, da ne smem nikomur ničesar povedati! Tako sem
+                     prebrala … Kako so mi zabičevali, da ne smem nikomur ničesar povedati! Tako sem
                      na svojo pest že pred prvim prihodom v Rog marsikaj spoznala.</p>
                   <p>Toda doživetje tega prostora in ljudi, ki so tukaj stopali svoje zadnje korake
                      – to doživetje je bilo in je še vedno silno pretresljivo. Od trenutkov
@@ -4316,7 +4318,7 @@
                      stvor začela ogledovati. Zraven tega skednja ali garaže sem opazila visok lesen
                      križ, enostaven, no ja. To bi še sprejela. Zraven pa zvonček na nekem kolu. No
                      ja, tisto nežno zvončklanje pri maši se prav lepo vključi v šelest gozda. Ja,
-                     tako si Janezek predstavlja ... saj ni bilo treba dolgo čakati, ko so začeli
+                     tako si Janezek predstavlja … saj ni bilo treba dolgo čakati, ko so začeli
                      zvoniti – to nikakor ni bilo nežno zvončkljanje, to je bil plat zvona, ki je do
                      skrajnosti sramotil ta sveti kraj. Pa tudi to še ni bilo dovolj. Tudi pri tisti
                      obokani zadevi se je oglasil z vso agresivno nesramnostjo še en zvon. In, ne
@@ -4441,7 +4443,7 @@
                      dajejo bolj jasno razumeti določeno dobo – in čase, ki ji sledijo.</p>
                   <p>V razpravi skušam osvetliti nekatera teh dogajanj: odporništvo, revolucijo in
                      kolaboracijo. Ne gre za faktografski opis, dogodki so bolj ali manj znani:
-                     objave Starič-Voduškove, Godeša, Mikola, Mlakarja, Griesser-Pečarjeve ... Na
+                     objave Starič-Voduškove, Godeša, Mikola, Mlakarja, Griesser-Pečarjeve … Na
                      osnovi zgodovinsko ugotovljenih dejstev bi rad ocenil njihovo odnosnost, pomen
                      in težo. Skušal bom pokazati nekaj detajlov in opozoriti na dejstva, ki bi jih
                      bilo treba obširneje raziskati. </p>
@@ -4702,7 +4704,7 @@
                      plenum OF izdal sklepe in odlok, anonimno (brez imen in podpisov!), da SNOO v
                      okviru OF »za časa osvobodilne borbe edini predstavlja, zastopa, organizira in
                      vodi ves slovenski narod na vsem njegovem ozemlju. Vsako organiziranje izven
-                     okvira OF je ... škodljivo borbi za narodno svobodo«. Zato je vsak, »ki dela na
+                     okvira OF je … škodljivo borbi za narodno svobodo«. Zato je vsak, »ki dela na
                      to, da na ozemlju slovenskega naroda nastane oborožena sila, ki ne raste pod
                      političnim in vojaškim vodstvom OF, narodni izdajalec«. Sankcija je smrtna
                      kazen: »Izdajalci se kaznujejo s smrtjo«. Sodijo posebna sodišča, naglo, ustno
@@ -4721,7 +4723,7 @@
                      samopostavitvijo, za katero ni imela nikakršne legitimacije, se je sama
                      izključila iz sistema političnega pluralizma in se izkazala za nedemokratično,
                      totalitarno stranko, ki se enači z narodom samim. Kidrič: »Pojem OF in pojem
-                     slovenskega naroda postajata istovetna ... Kdorkoli danes kakorkoli napada KPS,
+                     slovenskega naroda postajata istovetna … Kdorkoli danes kakorkoli napada KPS,
                      ta vrši protinarodno delo.«</p>
                   <p>Z omenjenimi sklepi je KPS/OF začela novo obdobje v zgodovini slovenskega
                      naroda: nikdar do tedaj namreč ni nobena politična stranka na Slovenskem svojih
@@ -4813,7 +4815,7 @@
                   <p>(Ferenc – samo ca. 350 »napak«, umorov v dobrih dveh (2) mesecih. – »Provincia
                      di Lubiana« je takrat štela ca. 350.000 prebivalcev, torej na 1000 ljudi 1
                      napaka = »umor«. Danes bi to pomenilo: na 2 milijona ljudi 2000 »napak« –
-                     umorov, politicidov, ... Dnevno torej 33 umorov vplivnih in vodilnih ... (Vse to
+                     umorov, politicidov, … Dnevno torej 33 umorov vplivnih in vodilnih … (Vse to
                         pred<emph> </emph>ustanovitvijo prve VS!)</p>
                   <p>Partijsko zgodovinopisje šteje revolucionarne pokole in mučenja poleti 1942 v
                      Ljubljanski pokrajini za »napake« tako imenovanega narodnoosvobodilnega boja.
@@ -4824,7 +4826,7 @@
                      očital preuranjenost in način mučenja in usmrtitve, pa še kak »nepotreben«
                      uboj, ne pa umorov samih ...</p>
                   <p>V tem neznosnem položaju so se poleti začele po ogroženih vaseh organizirati
-                     obrambne skupine mož in fantov ... (potem ko so zaprosili okupatorja v Begunjah,
+                     obrambne skupine mož in fantov … (potem ko so zaprosili okupatorja v Begunjah,
                      da jih pošlje v internacijo v notranjost Italije ...).</p>
                   <p>Primera prve samoiniciativne samoobrambe sta Loški Potok in Šentjošt nad
                      Vrhniko. Po zgledu teh dveh postojank so se vaške straže – tako so jih začeli
@@ -4841,12 +4843,12 @@
                      odgovor na teror in likvidacije, ki so jih partizani izvajali. V tem smislu
                      lahko celo rečemo, da je vaške straže »ustanovila« s svojim terorjem KPS/OF
                      sama (Bučar).</p>
-                  <p>»Čisto jasno je,« pravi Ahac, »da smo komunisti glede na svoje želje ... bili
-                     ‚veseli‘ bele garde ... samo pojav bele garde je omogočal hegemonijo KP ... Ni šlo
-                     za to, da bi nastala prava državljanska vojna ... potrebne so bile le zadostne
-                     količine bele garde ... Samo državljanska vojna je lahko povsem in v celoti
-                     potrdila projekcijo in samozasnutek KP ... in odpirala zanesljivo perspektivo
-                     zmage in prevzema oblasti ... « (Ahac - Dušan Pirjevec). Šele ko je nasprotnik
+                  <p>»Čisto jasno je,« pravi Ahac, »da smo komunisti glede na svoje želje … bili
+                     ‚veseli‘ bele garde … samo pojav bele garde je omogočal hegemonijo KP … Ni šlo
+                     za to, da bi nastala prava državljanska vojna … potrebne so bile le zadostne
+                     količine bele garde … Samo državljanska vojna je lahko povsem in v celoti
+                     potrdila projekcijo in samozasnutek KP … in odpirala zanesljivo perspektivo
+                     zmage in prevzema oblasti … « (Ahac - Dušan Pirjevec). Šele ko je nasprotnik
                      razpoznan in identificiran po številu in obsegu, ga je možno »narodno
                      bojkotirati«, opljuvati, moralno diskvalificirati, razglasiti za sovražnika in
                      narodnega izdajalca ter nato končno likvidirati oziroma »neusmiljeno
@@ -4867,8 +4869,8 @@
                      se pustim od obeh življenjsko oškodovati, celo likvidirati. Odločitvi za
                      sprejem orožja ni botrovalo kakršnokoli simpatiziranje z okupatorjem, temveč
                      gola življenjska nuja, obramba življenja – v mučni zavesti, da taka odločitev
-                     ne bo našla vedno razumevanja ... kljub temu in čeprav je bilo zaradi samoobrambe
-                     dejansko vedno manj revolucionarnega pobijanja in umorov ... </p>
+                     ne bo našla vedno razumevanja … kljub temu in čeprav je bilo zaradi samoobrambe
+                     dejansko vedno manj revolucionarnega pobijanja in umorov … </p>
                   <p>Odločitev politično ni imela daljnoročnih perspektiv. Po svojem bistvu je bil
                      to kratkoročen program, šlo je najprej za preživetje do konca vojne. Na
                      domobranski strani ta boj ni imel pozitivnega političnega programa, vsaj pri
@@ -4889,7 +4891,7 @@
                      in imetje pred terorjem komunistične revolucije, čeprav so s tem bile seveda
                      storjene usluge tudi okupatorju, a okupatorju, katerega vojaška moč je na vseh
                      frontah slabela in je njegov dokončni vojaški poraz že bil gotov – najpozneje
-                     po Stalingradu spomladi 1942 je vsakdo v Sloveniji to vedel ... in ne samo upal
+                     po Stalingradu spomladi 1942 je vsakdo v Sloveniji to vedel … in ne samo upal
                      ...</p>
                   <p>Naj omenim še domobransko prisego. Opozoril bi rad na dve študiji, ki sta bili
                      napisani doma, ne v emigraciji (Peršič, Mlakar) Oba avtorja poudarjata, da to
@@ -4915,11 +4917,11 @@
                   <p>Pogojna kolaboracija pomeni delno sprejetje idealov, načel in prakse
                      okupatorjeve ideologije in ustrezno, to je delno in pogojno sodelovanje pri
                      nekaterih družbenih spremembah, ki si jih tudi sam želim in ustvarjam (Pavelić
-                     NZH z Italijani, Petain v Franciji ... ).</p>
+                     NZH z Italijani, Petain v Franciji … ).</p>
                   <p>Nevtralna kolaboracija služi lastnemu preživetju brez priznavanja političnih in
                      ideoloških načel okupatorja. Ker na razmere ne morem in nočem vplivati, moram
                      čase preživeti tako ali drugače, seveda predvsem zase in sebi v dobro – in s
-                     tem posredno tudi v dobro okupatorja (Belgija, Danska, Nizozemska ... ).</p>
+                     tem posredno tudi v dobro okupatorja (Belgija, Danska, Nizozemska … ).</p>
                   <p>Taktična kolaboracija je sodelovanje z okupatorjem zaradi skrivanja in
                      zakrivanja odpora proti njemu. Čeprav se iz življenjske nuje spustim v
                      sodelovanje z njim, sem in ostanem njegov idejni nasprotnik in so moji cilji
@@ -4990,7 +4992,7 @@
                      za prav tiste letnike, za tisto plast prebivalcev, ki so neposredno kot otroci
                      ali mladoletniki na lastni koži doživljali revolucijo in t.i.
                      narodnoosvobodilni boj in nato kot naborniki v JLA prisegali, da bodo branili
-                     »tekovine socialističke revolucije« ... Sociolog dr. Vinko Potočnik takole
+                     »tekovine socialističke revolucije« … Sociolog dr. Vinko Potočnik takole
                      komentira: »O razlogih za tako visoko število samomorov pri nas si strokovnjaki
                      niso edini. Sam se najbolj strinjam s suicidologi, ki odgovor iščejo v
                      negativnem razmišljanju o sebi. Negativno razmišljanje o preteklosti sproža
@@ -5541,7 +5543,7 @@
                      2004 Alenka Puhar predstavila knjigo Stasiland, v kateri je Avstralka Anna
                      Funder dokumentirano obdelala vzhodnonemško tajno policijo in njene metode.
                      Mlada avtorica je zanjo prejela angleško nagrado Samuela Johnsona, ki jo
-                     podeljuje 4. program BBC in » ... uživa sloves najodličnejšega priznanja v
+                     podeljuje 4. program BBC in » … uživa sloves najodličnejšega priznanja v
                      kategoriji neleposlovnih knjig«. V najožji konkurenci za to nagrado je bila
                      tudi knjiga Gulag, ki pa je v ZDA dobila Pulitzerjevo nagrado v kategoriji
                      neleposlovnih knjig.</p>
@@ -5699,57 +5701,59 @@
                <list>
                   <item>
                      <label>I. ARGENTINA</label>
-                     <address><name>Lovro Jan</name>
-                                <addrLine>Albarracin 755</addrLine>
-                                <addrLine>8400 Bariloche</addrLine>
-                                <addrLine>Rio Negro</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                     <address>
+                        <name>Lovro Jan</name>
+                        <addrLine>Albarracin 755</addrLine>
+                        <addrLine>8400 Bariloche</addrLine>
+                        <addrLine>Rio Negro</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
 
                   <item>
                      <address>
-                                <name>Marjan Šušteršič</name>
-                                <addrLine>Gral. Vacca 995</addrLine>
-                                <addrLine>1686 Hurlingham</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                        <name>Marjan Šušteršič</name>
+                        <addrLine>Gral. Vacca 995</addrLine>
+                        <addrLine>1686 Hurlingham</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
 
                   <item>
                      <address>
-                                <name>Slavko Urbančič</name>
-                                <addrLine>Ramon L. Falcon 4158</addrLine>
-                                <addrLine>1047 Buenos Aires</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                        <name>Slavko Urbančič</name>
+                        <addrLine>Ramon L. Falcon 4158</addrLine>
+                        <addrLine>1047 Buenos Aires</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
 
                   <item>
                      <label>II. KANADA</label>
                      <address>
-                                <name>Anton Štih</name>
-                                <addrLine>20 Rufford Rd</addrLine>
-                                <addrLine>Toronto, Ontario</addrLine>
-                                <addrLine>MBW 4V6 CANADA</addrLine>
-                            </address>
+                        <name>Anton Štih</name>
+                        <addrLine>20 Rufford Rd</addrLine>
+                        <addrLine>Toronto, Ontario</addrLine>
+                        <addrLine>MBW 4V6 CANADA</addrLine>
+                     </address>
                   </item>
 
                   <item>
                      <label>III. ZDRUŽENE DRŽAVE</label>
                      <address>
-                                <addrLine>Slovenska pisarna</addrLine>
-                                <addrLine>Anton Oblak</addrLine>
-                                <addrLine>6114 Lausche Av.</addrLine>
-                                <addrLine>Cleveland, OHIO 44103, USA</addrLine>
-                            </address>
+                        <addrLine>Slovenska pisarna</addrLine>
+                        <addrLine>Anton Oblak</addrLine>
+                        <addrLine>6114 Lausche Av.</addrLine>
+                        <addrLine>Cleveland, OHIO 44103, USA</addrLine>
+                     </address>
                   </item>
                </list>
             </div>
          </div>
          <div type="div1">
             <head>Popravki</head>
-            <div type="div2"><head>Popravki</head>
+            <div type="div2">
+               <head>Popravki</head>
                <div type="div3">
                   <p>V prispevku Anka Koman – Ivanka Kozlevčar, Za ohranitev samospoštovanja, Zaveza
                      št. 53 je prišlo do sledečih napak: </p>
@@ -5763,7 +5767,8 @@
          </div>
          <div type="div1">
             <head>Edvard Kocbek – Tovarišija</head>
-            <div type="div2"><head>Edvard Kocbek – Tovarišija</head>
+            <div type="div2">
+               <head>Edvard Kocbek – Tovarišija</head>
                <div type="div3">
                   <p>14. oktober</p>
                   <p>V Natlačenovi likvidaciji doživljam zakonito porajanje novega prava,

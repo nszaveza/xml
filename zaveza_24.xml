@@ -45,14 +45,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -103,7 +103,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Ko se za potrebe vsakokratnega komentarja v tem časopisu razgledujemo po naši
                      kulturni in politični pokrajini; ko iščemo, kateri od dogodkov bi se smel
@@ -1084,9 +1086,9 @@
                      glede napada na oba dostojanstvenika, čeprav nista bila Italijana. Odkod tako
                      prepričanje, da sta škof Rožman in ban Natlačen njihova nasprotnika? Slovenski
                      narodnoosvobodilni odbor, ki je nastal iz Vrhovnega plenuma OF, je 16. 9. 1941
-                     izdal Odlok o zaščiti slovenskega ljudstva: »Izdajalci se kaznujejo s smrtjo
-                     ... S smrtjo se kaznuje, kdor izda neposredno ali posredno organizacijo, osebe,
-                     ki sodelujejo v narodnoosvobodilnem gibanju; kdor izstopi ali zapusti
+                     izdal Odlok o zaščiti slovenskega ljudstva: »Izdajalci se kaznujejo s smrtjo …
+                     S smrtjo se kaznuje, kdor izda neposredno ali posredno organizacijo, osebe, ki
+                     sodelujejo v narodnoosvobodilnem gibanju; kdor izstopi ali zapusti
                      narodnoosvobodilno gibanje in zakrivi katero izmed prej naštetih dejanj.
                      Dejanja sodijo v posebna sodišča. Postopanje je naglo, ustno in tajno.«
                      (Zbornik NOV VI/1, dok. št. 40).</p>
@@ -1555,7 +1557,7 @@
                      v šoli pri uršulinkah v Gorici. Božične praznike je preživela pri stricu v
                      Podbrdu in ko se je vrnila v šolo, so ji redovnice rekle, da mora takoj domov.
                      Niso ji povedale, kaj se je zgodilo. Sama takole opisuje: </p>
-                  <p>» ... S pogrebom smo čakali, da bi prišel stric, pa mu niso mogli sporočiti.
+                  <p>» … S pogrebom smo čakali, da bi prišel stric, pa mu niso mogli sporočiti.
                      Očeta je pokopal g. pater iz Vipavskega Križa. Očeta je spremljalo ob pogrebu
                      sedem njegovih mladoletnih otrok. Osmi otrok se je rodil 25. marca – po očetovi
                      smrti.</p>
@@ -1592,9 +1594,9 @@
                      prinesejo nov red. In kakšen bo ta? Veste, da bo držal desetletja, za vse naše
                      življenje! A da bo dober, srečen in po Božji volji – molimo! Če kdaj, me sedaj
                      poslušajte! Brez Boga je gorje! Z Bogom je vse!«</p>
-                  <p>29. aprila je še zapisal: » ... Ker pa se bodo prav te dni vršili usodni dogodki,
+                  <p>29. aprila je še zapisal: » … Ker pa se bodo prav te dni vršili usodni dogodki,
                      bodo šmarnice zjutraj pri sveti maši. In to, dokler ne bo šla nevihta mimo in
-                     se spet ne vzpostavi red in mir ... Molite! Molite!« </p>
+                     se spet ne vzpostavi red in mir … Molite! Molite!« </p>
                   <p>Šmarnic dr. Klinec ni dočakal. Z nekaterimi vipavskimi duhovniki se je umaknil
                      v Italijo in okusil begunstvo. Napisal je tudi spomine na tiste dni. Bil je
                      razočaran, ker zavezniki niso ravnali tako, kot je pričakoval. Ni se več vrnil
@@ -1940,7 +1942,7 @@
                   <p>Leta 1987 pa je prišel v Slovenijo eden od teh letalcev, prof. James Ashley. O
                      njegovem obisku se je v Nedeljskem dnevniku (4. januar 1987) obširno razpisal
                      partizanski fotoreporter Edi Šelhaus pod naslovom:« Ko so Amerikanci padali z
-                     neba ... «. Ashley je med drugim povedal tole: »Odskočil sem z višine 4000
+                     neba … «. Ashley je med drugim povedal tole: »Odskočil sem z višine 4000
                      metrov. Bil je moj prvi skok s padalom. Ves sem bil zaposlen z njim, zemlja pa
                      se mi je približevala. Srečno sem pristal na polju kakšnih sto metrov od neke
                      kmetije. Medtem ko sem pospravljal padalo, se je pojavil pred menoj neoborožen
@@ -2496,7 +2498,7 @@
                   <p>To se je odražalo tudi v procesu zoper škofa dr. Gregorija Rožmana. Cerkev ni
                      imela pravice niti možnosti, da bi mu preskrbela ustreznega odvetnika –
                      zagovornika. Sodišče mu je postavilo zagovornika po službeni dolžnosti – dr.
-                     Alojzija Vrtačnika. Ta je v začetku izjavil, da ima »težko nalogo ... ker nima
+                     Alojzija Vrtačnika. Ta je v začetku izjavil, da ima »težko nalogo … ker nima
                      nobenih informacij od obtoženca in tudi ne ve, kako bi se ta zagovarjal«.</p>
                   <p>Ob tem velja citirati, kar je dr. Lenič navedel v svojem poročilu (gl. Nova
                      revija, št. 96/99, str. 894): »Pri tem procesu škofija načrtno ni hotela
@@ -2654,7 +2656,7 @@
                      društvu »Straža«, katerega člani so sodelovali pri racijah in blokadah v
                      Ljubljani in kot konfidenti izdajali zavedne Slovence ter jih pošiljali v
                      zapore in internacijo. Vse to se je dogajalo z vednostjo in ob podpori
-                     obtoženega Rožmana in njegovih najožjih sodelavcev ... od njega so dobivali
+                     obtoženega Rožmana in njegovih najožjih sodelavcev … od njega so dobivali
                      navodila za svoje protinarodno delovanje.</p>
                   <p>Škofov odgovor: Škof je bil do te skupine v enakem razmerju kot do vseh drugih
                      katoliških dijaških organizacij. Ni res, da bi bila ta dijaška skupina
@@ -2743,7 +2745,7 @@
                   <p>Tako ostaja škofu dr. Rožmanu še enkrat tolažilna beseda, kot jo je zapisal že
                      leta 1946: »Končno odkrito izpričujem, da sem videl v brezbožnem komunizmu,
                      popolnoma v smislu enciklike »Divini Redemptoris«, največjo nevarnost za
-                     krščanstvo in za krščansko življenje mojega naroda ... Če sedaj pred Bogom prav
+                     krščanstvo in za krščansko življenje mojega naroda … Če sedaj pred Bogom prav
                      premislim, morem priti samo do enega in edinega zaključka: Tudi v drugo bi vse
                      to več ali manj enako storil.«</p>
                   <p>Zahteva za obnovo kazenskega postopka zoper škofa dr. Gregorija Rožmana na prvi
@@ -2925,7 +2927,7 @@
                      in njegovim zločinom, ki je za katoliškega škofa še bolj pričakovano in
                      normalno, pa sodišče Rožmanu šteje za vojni zločin.</p>
                   <p>Škof Rožman je bil med drugim obsojen, ker da je »organiziral, odrejal,
-                     izvrševal in zasnoval ... odvajanja v koncentracijska taborišča«. Za takšno
+                     izvrševal in zasnoval … odvajanja v koncentracijska taborišča«. Za takšno
                      obsodbo ni bilo prav nobenega dokaza. V zahtevi za obnovo je bila predložena
                      vrsta dokazov o nasprotnem, o škofovem prizadevanju za izpustitev internirancev
                      in zaprtih. Sodni sklep priznava, da je škof »dejansko pri okupacijskih
@@ -3342,7 +3344,7 @@
                      je lesketala »nepopisna sreča«. Pisatelj Miško Kranjec, ki se je tudi potopil v
                      množico, je podlegel navdihu, ki ga je dobil ob otroku v naročju preproste
                      matere, »ki je doslej znal dve najdražji besedi tega sveta, besedi mama in
-                     atek. Sedaj jima je pridružil še tretjo ... še večjo, še lepšo, pa tudi
+                     atek. Sedaj jima je pridružil še tretjo … še večjo, še lepšo, pa tudi
                      usodnejšo, besedo Tito«. Da je podlegel navdihu, imamo pravico reči tudi zato,
                      ker je povedal več, kot je hotel, ko mu je na usta prišla beseda o Titovi
                      usodnosti.</p>
@@ -3504,7 +3506,7 @@
                   <p>Med to govorico vzkipele narave so bili izrečeni tudi tisti trije ali štirje
                      stavki, ki so se neposredno dotikali Zločina. Z njimi je govornik najprej
                      obvestil poslušalce o nekem izvršenem in dokončnem dejstvu: »Kar se tiče onih
-                     izdajalcev ... to je stvar preteklosti. Roka pravice, roka maščevalka našega
+                     izdajalcev … to je stvar preteklosti. Roka pravice, roka maščevalka našega
                      ljudstva je že dosegla ogromno večino, a samo manjšemu delu izdajalcev se je
                      posrečilo pobegniti pod okrilje pokroviteljev izven naše dežele.« S temi
                      besedami je govornik mislil na vojake različnih armad in civiliste, ki so bili
@@ -4062,14 +4064,14 @@
                   <p>Posvečeni dnevi, ki se vrste vse leto, dnevi za vsakršne prilike, kar naj
                      poudarja pomembnost kake panoge, institucije in pomembnost spomina samega. V
                      tej množici pomembnih dni, namenjenih tehniki, znanosti, zdravstvu, veri in
-                     politiki, pa še ženski in šolstvu, vojski in mornarici ... imamo končno tudi
+                     politiki, pa še ženski in šolstvu, vojski in mornarici … imamo končno tudi
                      kulturni praznik, posvečen Prešernu. Torej vsaj ta dan in nekaj dni tam okoli
                      smo nasičeni s kulturo na proslavah in predstavitvah, predvsem v medijih, kajti
                      zavedamo naj se, da brez kulture vendarle ne moremo obstajati kot narod. Veste,
                      če mi že kateri dan ni pri srcu, mi ni prav ta dan, dan kulture. Vsiljiv je,
                      preveč kulturen! Kot bi ravno na ta dan malo postali sredi vsakdanjosti, se
                      potrkali na prsi, se posvetili vsaj v mislih - če že ne gremo kam proslavljat
-                     te kulture - višjim vrednotam, kot so humanost, estetika, morala. ... No, enkrat
+                     te kulture - višjim vrednotam, kot so humanost, estetika, morala. … No, enkrat
                      na leto, pa zares v mislih s Prešernom! Torej poglejmo vase in se vprašajmo:
                      Koliko knjig smo prebrali, kaj beremo, smo bili na kakšni razstavi, koncertu,
                      smo kupili kakšno knjigo, koliko smo sploh pismeni, ali res spoštujemo svoj
@@ -4079,7 +4081,7 @@
                   <p>Ne bi bilo napak, če bi res ta dan in seveda vse dni potem tudi kaj koristnega
                      storili: očistili svoje mesto neskončne tuje jezikovne navlake, prepovedali z
                      odlokom jezikovne spake, kot nam jih vsiljujejo napisi in lepaki, predvsem pa
-                     naj bi očistili svoje lastne pismene "umotvore" vseh vrst ... Toda danes je
+                     naj bi očistili svoje lastne pismene "umotvore" vseh vrst … Toda danes je
                      Prešernov dan, jutri ga ne bo več in bomo lahko spet živeli po svojih navadah,
                      za knjige in kulturne prireditve pač ne bo časa ne volje. Prešeren nas ne bo
                      več navdihoval in opominjal, sicer pa imamo televizijo in z njo raznovrstno
@@ -4090,7 +4092,7 @@
                      odnosi v vsakdanjem življenju. Srečni smo lahko bili, če smo imeli (imamo)
                      starše, ki so nas z zdravo pametjo vodili skozi otroštvo in mladost, če smo
                      živeli z njimi v sožitju in brez vzgojnih metod, ki bi izkrivljale zdravi vzpon
-                     razvojnega loka ... Če nam je kultura nasploh nepomembna, se nam življenje
+                     razvojnega loka … Če nam je kultura nasploh nepomembna, se nam življenje
                      izpridi, obvladuje nas pohlep po lastnini, po uveljavljanju za vsako ceno. S
                      pomanjkanjem kulture se izniči tudi morala, predvsem odgovornost za lastna
                      dejanja, kajti posledičnost le-teh nas ne pesti; s tem je prizadeta vest, ki
@@ -4105,7 +4107,7 @@
                      odtujujeta lastnemu in splošnemu blagru Duha. Danes dominirata svetu kot Oblast
                      Lastnine, ki slepi in obseda človeštvo kot edini izhod iz krize časa. Svet se
                      močneje kot kadarkoli prej loči na močne in slabotne, na velike in male, na
-                     bogate in revne. Srhljiva početja na ulicah, v šolah, poslovnem svetu ... so le
+                     bogate in revne. Srhljiva početja na ulicah, v šolah, poslovnem svetu … so le
                      odmevne poti iz velikih pretresov in peripetij tam zunaj - primitivizem
                      samodrštva in popolno zanikanje vseh načel nas peha iz ene vojne v drugo. Vse
                      kaže, da se ta nevarna razmerja ne bodo polegla ali izboljšala v prid
@@ -4122,12 +4124,12 @@
                   <p>Žal nam je petdesetletno samodrštvo v tem naredilo veliko škode. Prešerna smo
                      morali razumeti po čisto drugačnih načelih, kot nam jih je izpričal v svojih
                      Poezijah pesnik sam. Oblast nam je vsilila svojega Prešerna, idejno si ga je
-                     podredila kot vse drugo ... Poudarjala je njegov "borbeni" lik; ni ga
+                     podredila kot vse drugo … Poudarjala je njegov "borbeni" lik; ni ga
                      predstavljala predvsem kot izpovedovalca najnežnejših čustev, zatajila je
                      njegovo romantično vizijo svobode. V šoli je bil najmanj priporočljiv Krst,
                      razen junaškega Uvoda, najbolj pa je blestela Zdravljica, a brez poudarka na
                      združitvi vseh Slovencev, torej tudi onih tam čez, ki so se prav v času
-                     komunizma razseljevali ... najvišje nagrade za umetniška književna dela so se
+                     komunizma razseljevali … najvišje nagrade za umetniška književna dela so se
                      pričele podeljevati že med vojno na dan Prešernove smrti, vendar že ob prvi
                      podelitvi nagrad po vojni zamolčane, kot da je šele nova oblast spoznala
                      potrebo po takih priznanjih.</p>
@@ -4138,16 +4140,16 @@
                      ni dovolj dovzeten zanje, če se kulturi ne odzove, če ni dovolj ozaveščen.
                      Velika zavora je vsesplošna nizka in povprečna raven medijsko-kulturnega
                      sporočanja in predstavitev, kar služi predvsem okusu množic, namesto da bi jih
-                     vzgajala za kaj bolj kulturnega ... Tudi šola v tem smislu naredi premalo.</p>
+                     vzgajala za kaj bolj kulturnega … Tudi šola v tem smislu naredi premalo.</p>
                   <p>Povprečen Slovenec se sicer zaveda, da je Prešeren velik in pomemben za narod,
                      da se mu je dobro enkrat na leto posvetiti s praznikom, z govori, recitacijami
                      in petjem; lahko smo ponosni na himno Zdravljica, srečujemo se z njim po
                      mestnih ulicah in trgih, pozdravlja nas kot kip, hodimo po njegovi ulici, v
-                     njegovo šolo ... Pisal je pesmi, pil je in revež je bil vse življenje. S kulturo
-                     nasploh se res ni vredno ukvarjati, ni donosen posel ... Samozadostnosti večine
+                     njegovo šolo … Pisal je pesmi, pil je in revež je bil vse življenje. S kulturo
+                     nasploh se res ni vredno ukvarjati, ni donosen posel … Samozadostnosti večine
                      godi kulturni praznik, saj z njim opravi svoji kulturniško dolžnost. Kultura
                      pač mora biti, tako kot morajo biti šport, trgovina in obrt, tehnika in
-                     računalništvo ... Seveda obstaja le na obrobju potrošnikove miselnosti in
+                     računalništvo … Seveda obstaja le na obrobju potrošnikove miselnosti in
                      delovanja. Da je bistvo kulture humanost, mu ne seže v zavest. V tem je tudi
                      smisel vzgoje in z njo naravnanost v duhovno sfero našega bivanja. In prav z
                      njo se je Prešeren najmočneje izpovedal.</p>
@@ -4173,8 +4175,8 @@
                      človeka in tradicijam, katerim je ta še predan ...</p>
                   <p>Za kaj se torej danes razdajamo? Prednjačijo telesne zmogljivosti, neverjetne
                      akrobacije - vse za dosežek enega samega cilja: biti prvi, biti najboljši,
-                     najhitrejši, zmagati za vsako ceno. In ljudstvo navija in navija za najboljše ...
-                     V končni fazi je dobitnik zmage z navijači vred tudi denarno poplačan. Za
+                     najhitrejši, zmagati za vsako ceno. In ljudstvo navija in navija za najboljše
+                     ... V končni fazi je dobitnik zmage z navijači vred tudi denarno poplačan. Za
                      dosego cilja tvega celo življenje. Pomembno je zmagati, ne živeti. Imeti
                      torej.</p>
                   <p>Od Prešernovega rojstva nas ločita dve stoletji. Čas pesniku pač ni bil
@@ -4192,7 +4194,7 @@
                      smo pa nemočni.</p>
                   <p>Mar nam bodo v tretjem tisočletju zavladali teroristi in mafija? Državne
                      institucije niso zmožne, da bi nas resnično obvarovale pred njima. Pravo je
-                     nemočno, ker njegovi zakoni še vedno tolerirajo kriminal ... Ljudje, ki se bore
+                     nemočno, ker njegovi zakoni še vedno tolerirajo kriminal … Ljudje, ki se bore
                      za pravičnejšo ureditev, le minimalno uspejo; procesi spreminjanja in izboljšav
                      so dolgotrajni, saj jih zavirajo sile Oblasti. Torej se bomo morali navaditi
                      živeti, kolikor se že nismo, s terorjem, nasilstvom vseh vrst pod mogočno
@@ -4342,9 +4344,9 @@
                   <p>... in si zadali enak cilj. Izničiti Slovence kot narod. Izbrisati z obličja
                      zemlje. Tako eni kot drugi kot tretji so začeli z raznarodovalno politiko.
                      Nemci pričnejo mlade fante, toliko stare kot vi, mobilizirati v svojo vojsko.
-                     Vodijo jih na vzhodno fronto v Rusijo. ... Koncentracijska taborišča. Okupator je
+                     Vodijo jih na vzhodno fronto v Rusijo. … Koncentracijska taborišča. Okupator je
                      dobro vedel, kako uničiti narod. Tako, da mu vzameš srčiko, in srčika naroda so
-                     zavedni ljudje in inteligenca. Začne primanjkovati hrane ... Medtem pride do zelo
+                     zavedni ljudje in inteligenca. Začne primanjkovati hrane … Medtem pride do zelo
                      pomembnega dogodka, do ustanovitve OF. Ko vprašujem mladino, kaj je bilo
                      takrat, so odgovori zelo negotovi. Dozdeva se mi, zakaj. Ta dan sovpada s
                      prvomajskimi prazniki in takrat se žurira, ni treba v šolo, službo, vse se jim
@@ -4353,13 +4355,13 @@
                      namreč, da so ljudje v tistem trenutku vedeli, da mora biti vsak toliko
                      pameten, da majčkeno popusti v svojem prepričanju, če hoče dobro slovenskemu
                      narodu. Program te fronte, če se spomnite, je bil boj proti okupatorju. V tem
-                     boju je imela posebno mesto Ljubljana ... Po Sloveniji nastajajo partizanske
-                     čete, bataljoni, vojska je vedno bolj številna ... Ponovno reagirajo okupatorji,
+                     boju je imela posebno mesto Ljubljana … Po Sloveniji nastajajo partizanske
+                     čete, bataljoni, vojska je vedno bolj številna … Ponovno reagirajo okupatorji,
                      požigajo vasi, streljajo talce, Begunje na Gorenjskem, Stari pisker. Za enega z
                      našitki se maščujejo tako, da v Frankolovem na jablane ob cesti obesijo sto
                      Slovencev. Ljudi vozijo v koncentracijska taborišča. Kako lepo je v lagerjih,
                      vi veste. Brali ste literaturo, gledali filme, Schindlerjev seznam, krematoriji
-                     ... Taboriščniki so risali, šahirali, zakaj: zato, da so ohranili sebe in svoje
+                     … Taboriščniki so risali, šahirali, zakaj: zato, da so ohranili sebe in svoje
                      človeško trpljenje. Če prenesete vse to šikaniranje in trpljenje, ste nazadnje
                      vi moralni zmagovalec. S tako imenovano Dolomitsko izjavo je prej omenjena
                      fronta prenehala biti koalicija in vso komando vzame v roke KP. Takrat,
@@ -4377,17 +4379,18 @@
                      proti Nemčiji, proti Berlinu, oziroma rušila komunikacije, da čimbolj
                      onesposobi transport. OF je utrjevala svojo oblast, postavili so parlament,
                      vlado itd.. In ko je konec vojne, ko je Nemčija kapitulirala, pride ta vlada v
-                     Ljubljano ... Še besedo o tejle sceni. Prvo vojno namenoma kažemo tako, da ločimo
+                     Ljubljano … Še besedo o tejle sceni. Prvo vojno namenoma kažemo tako, da ločimo
                      zaledja od fronte. V drugi vojni je situacija drugačna. Najbolj trpi slovensko
-                     podeželje: požgana domačija, ni strehe nad glavo, živine ni ... žena, otroci. Kje
+                     podeželje: požgana domačija, ni strehe nad glavo, živine ni … žena, otroci. Kje
                      so moški? Ne vemo, kdo je požgal. Koliko možnosti! Kje je ta moški? Lahko
                      predvidevamo, imamo pravico. Morda so ga mobilizirali Nemci, morda je bil
                      streljan kot talec, morda je v koncentracijskem taborišču, mogoče pri
                      domobrancih, mogoče pri partizanih, ne vemo. Ampak tudi če bi vedeli, ga nimamo
                      pravice obsojati, da je, kjer je, ali pa ga ni. Kaj pa mi vemo, kakšna človeška
                      notranja stiska, kakšni zunanji dejavniki so silili tega človeka, da se je
-                     odločil za tiste, za katere seje, za ta rdeče, za ta črne, za ta kodrlajsaste ...
-                     Ta scena je apel, da se grozote druge svetovne vojne ne bi več ponovile.</p>
+                     odločil za tiste, za katere seje, za ta rdeče, za ta črne, za ta kodrlajsaste
+                     ... Ta scena je apel, da se grozote druge svetovne vojne ne bi več
+                     ponovile.</p>
                   <p>Multivizijski prikaz bi zahteval večkraten ogled z različnih strani. V taki
                      obliki ga odsvetujemo gledalcem, ki imajo težave z vratno hrbtenico. Slike se
                      naglo menjavajo v kronološkem zaporedju, kažejo vse tisto, kar smo povedali, pa

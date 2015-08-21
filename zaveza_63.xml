@@ -46,14 +46,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                   </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -104,7 +104,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Demokracija – politični sistem brez alternative</head>
                   <p>Ko je leta 1973 Martin Heidegger čestital nekemu prejemniku Burckhardtove
@@ -3057,7 +3059,7 @@
                      <head>Drevo po viharju <name type="author">Mirko Kambič</name></head>
                   </figure>
                   <p>Imeli smo se navado družiti, dvoriti dekletom, plesati; ampak fantje so se
-                     pogovarjali tudi o politiki. In o <emph>njem</emph>. ... Dva od nas sva se
+                     pogovarjali tudi o politiki. In o <emph>njem</emph>. … Dva od nas sva se
                      bojevala na fronti in sva po vojni pričakovala kaj drugega. V maju, ravno pred
                      izpiti, so nas zaprli, in dekleta tudi.</p>
                   <p>Solženicinovi <emph>zeki</emph> v taboriščih <emph>zato</emph>, ker so
@@ -3162,7 +3164,7 @@
                      vrhovi črnih jelš gledajo iz vode ob strugi. Če pa poplavi v poletju, je kmetom
                      hudo, da bi kleli. Uniči jim najboljšo košenino, kajti senožeti in strmine rode
                      tako slabo pašo. Ljudje ob Krki so dobri kakor pšenični hleb, ki jim ga zemlja
-                     tako malo rodi, da sanjajo o njem in gredo za njim daleč, daleč ... Kdo bi jim
+                     tako malo rodi, da sanjajo o njem in gredo za njim daleč, daleč … Kdo bi jim
                      zameril, zakaj v tistih nizkih hišicah zraste polno otrok, ki hočejo kruha, in
                      zemlja iz svojih poapnenih in okamenelih prsi ne more dojiti. In ko dorastejo,
                      gredo, ustnice stisnejo, grenko jim je, a morajo iti.</p>
@@ -3184,7 +3186,7 @@
                      edinec matere Marjete in očeta Janeza. Ni padel sam, še več jih je padlo,
                      fantov pesti in pesmi, fantov ljubezni v svojo poapneno grudo. Matije znorela
                      od žalosti, oče pa je umrl en mesec za njim. Težko je bilo z njim ob dvojni
-                     bolečini. Zaprl se je v zidanico in pil, pil ... Jesti ni mogel in ga je vrglo.
+                     bolečini. Zaprl se je v zidanico in pil, pil … Jesti ni mogel in ga je vrglo.
                      Ležal je teden dni, potem je umrl. Se pred smrtjo je vedno ponavljal: »Miha,
                      Miha, moj sin!« Jokati ga niso nikoli videli, sam s seboj je hotel biti trd.
                      Potem je Marjeta hodila na njuna grobova, nosila jima je rož in sveč, včasih je
@@ -3214,7 +3216,7 @@
                      Niso mogli spati.</p>
                   <p>Krka teče počasi in leno v krnicah, čez slapove pa je vsa razigrana. Njena
                      pesem je temna in težka, grozeča. Koliko strašnejša od tiste, ki so jo fantje
-                     peli na mostu: Oj zdaj gremo ... Takrat je v materah ostalo vsaj malo upanja. V
+                     peli na mostu: Oj zdaj gremo … Takrat je v materah ostalo vsaj malo upanja. V
                      bregu so koče, ponižne in tople. V njih ni več smeha in pesmi. Za kočami so
                      njive, mnogo je neobdelanih. Cesta skozi vas je ravna in pelje na vse strani.
                      Tam, kjer stoji poštna hiša, se razcepi. In v ovinku je njiva, Koška je,
@@ -3328,7 +3330,7 @@
                      nesmiselno. »Bogu kri ni všečna in kdor ravna nerazumno <emph>syn logo</emph>,
                      nasprotuje božjemu bistvu. Verovanje je sad duše, ne telesa. Kdor hoče torej
                      koga pripeljati do vere, potrebuje zmožnost dobrega govora in pravo mišljenje,
-                     ne pa nasilja in grožnje ... Če hočemo prepričati kako razumno dušo, ne
+                     ne pa nasilja in grožnje … Če hočemo prepričati kako razumno dušo, ne
                      potrebujemo ne roke ne udarnih naprav in tudi sicer nobenega od pripomočkov, s
                      kakršnimi lahko komu grozimo s smrtjo.«</p>
                   <p>Odločilni stavek v tem utemeljevanju zoper nasilno spreobračanje se glasi: Kdor
@@ -3664,7 +3666,7 @@
                      nanj.</p>
                   <p>Gre za to, ali bomo ostali do konca zavezani temeljnemu moralnemu načelu, da je
                      treba absolutno spoštovati vsako človeško življenje. Na to opozarja Jezus v
-                     evangeliju. »Kajti veliko več kakor mnogo vrabcev ste vredni vi ... « Vrednost
+                     evangeliju. »Kajti veliko več kakor mnogo vrabcev ste vredni vi … « Vrednost
                      vsakega človeškega življenja je neprecenljiva: tudi življenje nerojenega
                      človeka in življenje ranjenca ali bolnika, invalida ali ostarelega človeka je
                      absolutna vrednota, zato ga tudi Bog ščiti z vso svojo močjo in oblastjo, če ga
@@ -3690,7 +3692,7 @@
                      kristjani, ki verujemo v Jezusa Kristusa, od mrtvih vstalega, verujemo, da bo
                      na koncu ena sam svetel dan, dan Božje pravičnosti, usmiljenja in ljubezni.
                      Zadnjo besedo bo imel živi Bog, ki je pravičen, usmiljen, ki odpušča in ljubi
-                     vse, kar je ustvaril. »Tisti, ki vanj zaupajo, bodo spoznali resnico ... «, smo
+                     vse, kar je ustvaril. »Tisti, ki vanj zaupajo, bodo spoznali resnico … «, smo
                      slišali v prvem berilu. Zato nas Jezus vzpodbuja: »Ne bojte se!« Amen.</p>
                </div>
             </div>
@@ -3701,7 +3703,7 @@
                   <p>Zakaj prihajam leto za letom sem, ko ne jaz ne moji bližnji sorodniki nismo
                      neposredno občutili grozot, ki so se tu dogajale?</p>
                   <p>Za <emph>Teharje</emph> sem slišala že kot otrok – kakor za Kočevski rog in
-                     Turjak in Rab ... Starši niso molčali, čeprav so se zavedali, v kako nevarno
+                     Turjak in Rab … Starši niso molčali, čeprav so se zavedali, v kako nevarno
                      tveganje se spuščajo. Skoraj šepetaje so nam govorili o grozljivih pobojih in
                      nas bolj prosili kot ukazali, naj molčimo. Še zlasti v šoli, kjer je bilo vse
                      nasičeno od pretiranega poveličevanja zmagovalcev. Ob takih pogovorih mi je
@@ -4128,7 +4130,7 @@
                      in Boris Kraigher sta bila inteligentnejša, vendarle kot pijana v svoji
                      oblastiželjnosti. Nekaj podobnega bi rekel o Avblju in Ribičiču.</p>
                   <p>Zakaj so bili Slovenci bolj dovzetni za komunistični nalet? Morda zato, ker
-                     vodilnih ljudi niso nikoli imeli prav za svoje. »Grad gori, grof beži ... «
+                     vodilnih ljudi niso nikoli imeli prav za svoje. »Grad gori, grof beži … «
                      Zraven slovanska iluzija o Rusih in hud pritisk italijanskega fašizma na
                      Primorce. Pa pojmovanje znanosti kot šablone, brez potrebne mere skepse.</p>
                   <p>Hud boj s komunisti je bil tudi v Franciji, tam sem ga sam doživel. Leta 1944
@@ -4792,7 +4794,7 @@
                </div>
             </div>
             <div type="div2">
-               <head>Najprej ... , potem morala</head>
+               <head>Najprej … , potem morala</head>
                <docAuthor>Majda Lampič</docAuthor>
                <div type="div3">
                   <p>Eden prvih nenavadnih spominov iz mojega otroštva sega v dneve po razpadu
@@ -4807,7 +4809,7 @@
                      prišla na sled policija. To se je zgodilo spomladi, leta 1941. Iz takega naroda
                      naj bi se naredilo družbo, kjer bo vsak vzel po svojih potrebah! Prestrašile so
                      me pogoltne potrebe, nerazrešljiv mi je bil ta razpon plena od malih kantic do
-                     velikih vozov. Ah, beletristika: »kjer kruh delil bo z bratom brat ... « Že so se
+                     velikih vozov. Ah, beletristika: »kjer kruh delil bo z bratom brat … « Že so se
                      v politiki ločevali duhovi, ampak tukaj ni bilo mogoče ločiti levih od desnih!
                      Ali smo v vrtoglavici vseh nadaljnjih dogodkov prišli kam dlje? Vedno me obide
                      slabost, če se kdaj znajdem v nakupovalnem središču.</p>
@@ -5226,7 +5228,7 @@
                      tistimi, ki so se borili proti okupatorju in za osvoboditev Slovenije, in
                      tistimi, ki so bili na strani okupatorja in pomagali pri nasilju nad slovenskim
                      prebivalstvom in njenim uničenjem. Odpirajo se že povsem zaceljene rane in
-                     sovraštvo ... «</p>
+                     sovraštvo … «</p>
                   <p>Pismo je za tri leta zamrznilo vsa prizadevanja. Župan se je tako prestrašil,
                      da je dvignil roke in še bolj zvesto hodil na borčevske procesije in slavja.
                      Glavno slavje je prav vsakoletno praznovanje padca postojanke vaških stražarjev
@@ -5656,7 +5658,7 @@
                      V manj kot dveh letih je bil to že drugi kaplan, ki so ga odpeljali iz Hinj in
                      umorili. Našo kratko pripoved o njem smo takole zaključili:</p>
                   <p>»Ljudje se spominjajo, da je bil Kern dober pridigar in da je večkrat udaril po
-                     komunizmu. Razlogov za to je v Hinjah imel dovolj ... O njegovi sodbi, ki naj bi
+                     komunizmu. Razlogov za to je v Hinjah imel dovolj … O njegovi sodbi, ki naj bi
                      bila v Metliki, in smrti pa vemo razmeroma malo in bi bila potrebna posebna
                      raziskava. Morda se je bo lotil kdo od zgodovinarjev.«</p>
                   <p>V resnici je to raziskavo že opravila dr. Tamara Griesser Pečar, ki je v knjigi

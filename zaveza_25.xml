@@ -41,14 +41,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -99,8 +99,11 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
-               <div type="div3"><head>Uvod</head>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
+               <div type="div3">
+                  <head>Uvod</head>
                   <p>Mogoče je prav, da spet enkrat povemo, zakaj Zaveza domala že od začetka
                      svojega izhajanja vsakič seznani bralce s svojimi pogledi na kulturnopolitične
                      dogodke aktualnega časa. Da se ravno kulturnopolitični dogodki vedno znajdejo v
@@ -1421,7 +1424,7 @@
                      9. in 10. majem prespali pri Sv. Ani, popoldne pa se znašli pred Borovljami.
                      Kaj je s človeškim spominom? Ali je zares tako nezanesljiv? Ali pa se za
                      spačenimi zgodbami skrivajo posebni nameni, kot so želja po junaštvu,
-                     opravičevanje poraza, demonizacija nasprotnika ... </p>
+                     opravičevanje poraza, demonizacija nasprotnika … </p>
                   <p>Zgled, kako pišejo partizanski zgodovinarji, je do nerazpoznavnosti izmaličeni
                      opis Mirka Fajdiga (M. Fajdiga, Bračičeva brigada, 643–667, Obzorja, Maribor
                      1994). Res ga ni bilo zraven in je moral svoje vedenje pobirati pri drugih,
@@ -2046,7 +2049,7 @@
                   <p>
                      <emph>V hud boj se je 11. maja po glavnem bojnem neurju nepredvid</emph>
                      <emph>eno in nehote okoli 21. ure zapletel tudi oklepni oddelek motoriziranega
-                        odreda 4. armade JA poročnika Dragana Cirovića. ... s tanki in oklepnimi
+                        odreda 4. armade JA poročnika Dragana Cirovića. … s tanki in oklepnimi
                         vozili zašel v Svetni vasi blizu dravskih mostov med esesovske in
                         domobranske enote. Razvil se je oster boj, okrepljen s strahotnim
                         sovražnikovim topovskim ognjem. Enota je izgubila okoli petnajst sijajnih
@@ -3107,7 +3110,7 @@
                      komunisti v miru ne bi nikoli mogli izvesti revolucije in prevzeti oblasti.
                      Šele ko so nacistične in fašistične sile oslabile slovensko demokratično
                      politično substanco, je bilo na tako oslabljenem terenu mogoče izpeljati
-                     ustrezna revolucijska dejanja. In vse, kar spada zraven ... To je bilo mogoče
+                     ustrezna revolucijska dejanja. In vse, kar spada zraven … To je bilo mogoče
                      napraviti samo pri bistveno zmanjšani narodovi prisebnosti.</p>
                   <p>Množično ubijanje slovenskih protikomunistov leta 1945, za katero smo videli,
                      da ga imamo lahko za obliko genocidnega uničenja, je bilo uresničeno že v dobi
@@ -3291,7 +3294,7 @@
                   <p>Premišljevala sem, kako to, da mi vošči za god. Saj ni junij! Pa tudi januar
                      ne! Stara mama mi je namreč vedno pravila: Pavel – Savel, s konja padel. In mi
                      je zato tudi spekla mlečno štruco za 25. januar – na dan spreobrnjenja sv.
-                     Pavla. Torej vzamem v roke koledar ... in kaj vidim: Bil je pustni torek!</p>
+                     Pavla. Torej vzamem v roke koledar … in kaj vidim: Bil je pustni torek!</p>
                   <p>Ko je leta 1939 umrla še stara mama, je Ivan tudi poprijel za delo doma. Zlasti
                      dobro je obvladal košnjo in tudi Franceta uvajal v ta posel. V času košnje sta
                      vstajala pred peto uro in odšla kosit. Ob sedmih sem jima nosila zajtrk – dobre
@@ -3468,7 +3471,7 @@
                      laže najti priložnost za njihovo objavo. Res so pesmi priromale v Argentino.
                      Najprej smo jih prebirali v družini, nato sem jih pretipkala in s strahom
                      pokazala dr. Tinetu Debeljaku. On je bil zelo navdušen, ko jih je prebral. Tako
-                     je zapisal: »Listal sem te majhne, majhne lističe ... pa saj to ni 'petošolska
+                     je zapisal: »Listal sem te majhne, majhne lističe … pa saj to ni 'petošolska
                      pubertetna' poezija, to je umetnost, to je pesnik! Tako mlad, pa tako zrel! Ne,
                      ne iz pietete, iz dolžnosti do poezije naj bodo objavljene.«</p>
                   <p>
@@ -3548,8 +3551,8 @@
                      Ivan Merlak. Spomenik je odkril zastopnik predsednika Slovenske akademije
                      znanosti in umetnosti dr. Franceta Bernika akademik prof. dr. Janko Kos. V
                      govoru je razglabljal o Ivanovem mestu v okviru slovenske poezije. Poudaril je:
-                     » ... Ni obsežen njegov opus. Je pa vrsta pesmi, ki zaslužijo svoje mesto v
-                     antologiji najboljših slovenskih pesmi ... Spada med največje mojstre soneta.
+                     » … Ni obsežen njegov opus. Je pa vrsta pesmi, ki zaslužijo svoje mesto v
+                     antologiji najboljših slovenskih pesmi … Spada med največje mojstre soneta.
                      Hribovškovi soneti so zelo jasni, klasični, preprosti. Še bolj zanimiv je pa v
                      tistih pesmih, ki so narejene ali zložene v antičnih verznih oblikah in metrih,
                      to je pa sploh nekaj posebnega za slovensko poezijo. Vemo, da se je že Prešeren
@@ -3590,17 +3593,17 @@
                      obnošenim klobukom, potisnjenim na čelo. Strmel je vanj; šel je skozi, v dušo.
                      Nič se ni dalo skriti pred temi pogledi. Veš, je zamrmral, še enkrat ti moram
                      zabičati, da pazi na jezik, včasih si preveč ihtav in trmast, za vsako ceno,
-                     mora tvoje obveljati; toda rečem ti, da ne stori ... (Že na pamet je znal
+                     mora tvoje obveljati; toda rečem ti, da ne stori … (Že na pamet je znal
                      ničkolikokrat ponovljeno: Ne stori nikomur nič hudega, pa se ti ne bo treba
-                     kesati. Zapomni si, sinko, roke, srce in pamet so naše največje bogastvo ... )
+                     kesati. Zapomni si, sinko, roke, srce in pamet so naše največje bogastvo … )
                      Veš, vest je naš večni trdovratni neusmiljeni spremljevalec. Zato si jo večkrat
                      in temeljito izprašaj. Da boš čist. Pred seboj in svetom.</p>
                   <p>Sedel je na rob jame in zatisnil oči. Dračje pod njim je pokalo, kot bi se bil
                      pogrezal v jamo, v neznosno tišino, ki bruha vanj usedli grenki žolč. Zaškrtal
                      je, da bi se premagal, da ne bi izkričal bolečine spomina, ki v petdesetih
                      letih ni zatajila niti en dan.</p>
-                  <p>- Pa zatuli, sinko ... Odprl je oči in ga zagledal sedečega onkraj jame, z
-                     bingljajočimi škornji ... Zavijal in tulil ... Kar teži, mora ven. Osvobodiš se z
+                  <p>- Pa zatuli, sinko … Odprl je oči in ga zagledal sedečega onkraj jame, z
+                     bingljajočimi škornji … Zavijal in tulil … Kar teži, mora ven. Osvobodiš se z
                      besom ali s smrtjo, da odplavaš ...</p>
                   <p>- Kako je bilo, oče? Mi lahko poveš? Zdaj mi lahko poveš. Moraš povedati. Bom
                      lahko presojal, kaj in koliko so mi dolžni oni, ki so ti to storili. In ZAKAJ?
@@ -3618,7 +3621,7 @@
                      globel.</p>
                   <p>Veš, globoko spodaj sem. Vse lobanje so si podobne, zato sem nerazpoznan. Kot
                      vsi drugi, sinko. Šli smo eden za drugim, pravzaprav smo se opotekali, zvezani
-                     med seboj ... In zgodilo se je, da se ne morem nič spomniti, ker nisem nič
+                     med seboj … In zgodilo se je, da se ne morem nič spomniti, ker nisem nič
                      mislil. Tudi molil nisem, ne kričal, skratka nič. Samo pazil sem, da se ne bi
                      spotaknil in priklenjenega potegnil za seboj. Ne vem, čemu sem se tega bal. Na
                      smrt nisem pomislil, saj ne bi več zapopadel, kaj sploh je to. In kakšna da je.
@@ -3627,11 +3630,11 @@
                      urejenost in pravičnost stvari. V teh trenutkih pa mi je bila dana Milost
                      pozabe. Bog mi je stal ob strani in me vodil v konec z vsemogočno roko
                      Voditelja, da mi bo dano prestopiti z enega brega na drugega z milostjo
-                     neboleče vdanosti ... Tu spodaj je mir mrtvih, sinko, a ti ne veš za večnost, ne
+                     neboleče vdanosti … Tu spodaj je mir mrtvih, sinko, a ti ne veš za večnost, ne
                      veš za nesmisel dobrin, ki jih uživaš dan za dnem. Odšli smo in ne bo nas več
                      nazaj. Na tisoče nas je bilo in jame so nas kar goltale v tistih časih, tako
                      toplo, prijetno je sijalo sonce in majski zrak kot danes, to sem občutil
-                     mimogrede na vozu ... Torej se je izvršiteljem hudičevo mudilo, da čim prej
+                     mimogrede na vozu … Torej se je izvršiteljem hudičevo mudilo, da čim prej
                      zadostijo Pošasti, kot praviš. Da se krvolok končno umiri?</p>
                   <figure>
                      <graphic url="slike_z_25/z_25_32.png"/>
@@ -3643,7 +3646,7 @@
                   <p>- Ubijajo drug drugega zaradi posesti, lastnine ali zaradi Oblasti. Ta pa
                      uspeva v imenu neke Ideje.</p>
                   <p>- Veš, sinko, potem je to hudičeva ideja, če sem že moral zaradi nje v jamo ...
-                     Zdaj pa se grem spočit. Tako govorjenje nas utrudi ... Še me pokliči ... Morda se
+                     Zdaj pa se grem spočit. Tako govorjenje nas utrudi … Še me pokliči … Morda se
                      bom še česa spomnil.</p>
                   <p>Zdramil se je. Sonce ga je že grelo v hrbet, da se je zravnal. O očetu ni bilo
                      sledu.</p>
@@ -3659,8 +3662,8 @@
                      zadoščenje, hočeš ga jim iztrgati iz srca, iz glave: Priznajte! Če ste
                      desetletja molčali, če so Voditelji že odšli v grob brez trohice kesanja, morda
                      celo z zavestjo pravičnega ravnanja, saj so pokončali izdajalce (morda je bilo
-                     vmes tudi kaj nedolžnih, se zgodi ... ), potomci pa so živi kot jaz, ki se moram
-                     v očetovem imenu že desetletja spraševati, zakaj ste ga pokončali ... mar naj jih
+                     vmes tudi kaj nedolžnih, se zgodi … ), potomci pa so živi kot jaz, ki se moram
+                     v očetovem imenu že desetletja spraševati, zakaj ste ga pokončali … mar naj jih
                      zdaj terjam, da priznajo, kar so zagrešili njihovi očetje? Smejali bi se mi,
                      pravzaprav se mi že ali vsaj zamahnejo: Kaj nam morete? Zakaj rožljate s
                      kostmi? Pustite mrtve v miru!</p>
@@ -3685,11 +3688,11 @@
                      z vami? sem se zasmejal. Bili so vendar še otročaji. In smešno se mi je zdelo,
                      da bi šel z njimi. Zakaj neki? Zamahnil sem in se vrnil v hišo. Oni pa za
                      menoj. Dva sta stala pred durmi. Najstarejši pa me je kar s puško v hrbet:
-                     gremo, stari! Tedaj sem vzkipel. Da bi me takle smrkavec ... Pa je dvignil puško
+                     gremo, stari! Tedaj sem vzkipel. Da bi me takle smrkavec … Pa je dvignil puško
                      in me s kopitom. Padel sem. Zvlekli so me pred hišo in tam jih je bilo vse črno
                      in bili so tudi sosedje in nekdo je zavpil: Kaj je spet vojna? Ja, je zavreščal
-                     tisti pobec, ki me je udaril, za vas je še ... In so me vlekli in nekam naložili.
-                     Potem so me zvezali ... Na vozu nas je bilo še več. Zvezanih, sinko moj. To je
+                     tisti pobec, ki me je udaril, za vas je še … In so me vlekli in nekam naložili.
+                     Potem so me zvezali … Na vozu nas je bilo še več. Zvezanih, sinko moj. To je
                      bilo zjutraj. Zvečer smo bili že v jami. Zelo se jim je mudilo.</p>
                   <p>- Je bil tam Zvonarjev, oče?</p>
                   <p>- Misliš starega, ki sem ga nekoč ozmerjal za vohljača? Saj je bil res.
@@ -3698,13 +3701,13 @@
                   <p>- Jaz ga nisem hodil ne zmerjat ne lasat ...</p>
                   <p>- Ko sem zvedel, kako je bilo pravzaprav s tvojo smrtjo, sem poiskal starega
                      Zvonarja. Pri vas ste včasih zvonili, boter, sem mu dejal. A mojemu očetu ste
-                     pomagali na drug svet ... Zardel je in grdo pogledal. Nič ni vedel. A če bom še
+                     pomagali na drug svet … Zardel je in grdo pogledal. Nič ni vedel. A če bom še
                      kaj o tem govoril, me bo naznanil. Izdajalčev sin naj bo kar lepo tiho, drugače
-                     ... mi je še zabrusil.</p>
+                     … mi je še zabrusil.</p>
                   <p>Oče se je začudil in si spet potisnil klobuk na zatilje. - Le koga sem izdal?
                      Toda kar naprej so stikali po hišah, tu in tam koga odvlekli, grdo so nas
                      gledali, ker nismo bili vneti zanje. Takih, sinko, res nisem maral. Zaradi njih
-                     so gorele hiše in vasi ... Prišli so, pihnili kakega sovražnika in odnesli pete.
+                     so gorele hiše in vasi … Prišli so, pihnili kakega sovražnika in odnesli pete.
                      Vas pa je nastradala. Torej je bil le Zvonarjev? Dobro, sinko, pripelji
                      njegovega sina, pripelji ga k jami, saj je vseeno h kateri, v vseh jamah
                      domujem, nerazpoznan. Ukaži mu, naj se pokesa. Sin za svojega starega
@@ -3728,12 +3731,12 @@
                      izmeriti. Kot bi čez vso deželo zavladala ena sama smrtonosna rana, ki se je
                      vsekala globoko v meso in ji ni bilo videti dna. Čas pa je glasnost spremenil v
                      neslišnost, torej v samo gibanje in luči, kot v nemem filmu, nenehno pogrezanje
-                     ... Jama je goltala brez postanka.</p>
+                     … Jama je goltala brez postanka.</p>
                   <p>- Oče! je zavpil, kot bi bil star petnajst let in bi bil priča ...</p>
                   <p>- Kaj ti je, sinko? se je oglasilo v dalji.</p>
                   <p>- Strah me je. Peljejo jih. Zakaj, oče? Ko so te odgnali od doma, si še srajce
-                     nisi zataknil za pas ... Mama se je zmerom jezila, ker ti je doma visela srajca
-                     čez hlače do kolen ... Ženejo te. Kaj si se vendar pregrešil?</p>
+                     nisi zataknil za pas … Mama se je zmerom jezila, ker ti je doma visela srajca
+                     čez hlače do kolen … Ženejo te. Kaj si se vendar pregrešil?</p>
                   <p>- Pregrešil? je zarentačil. Tisti smrkavec me je s kopitom. Kdo mu je dal to
                      pravico?</p>
                   <p>- Višji mu je ukazal, da te aretirajo. A prilastil si je pravico, da te je
@@ -3745,19 +3748,19 @@
                      peljal na morišče.</p>
                   <p>- Rečem ti, sin moj, to so bedni stvori, ki se nič ne spominjajo, nič ne
                      kesajo, živi mrliči, ki so že ali še bodo odšli na oni svet s čistimi rokami, z
-                     nedolžnimi srci ... Danes se mi samo še smilijo ... Zato pa jezo prepuščam tebi. Ti
+                     nedolžnimi srci … Danes se mi samo še smilijo … Zato pa jezo prepuščam tebi. Ti
                      uredi, kar je treba urediti ...</p>
                   <p>- Dobro, je rekel sin. Čim bolj bomo odpuščali, več bo zločestnih. Čim manj jih
-                     bomo spominjali, bolj bodo pozabljali ... Zločin, ki vpije do neba, se ne more
+                     bomo spominjali, bolj bodo pozabljali … Zločin, ki vpije do neba, se ne more
                      pozabiti. Čas ga ne more izničiti. Kajti Storilci so zapisani v zgodovini,
                      kaznovani ali nekaznovani. Veš, tudi neprizadeti so moralno krivi. Saj jim je
                      vseeno, kaj se je dogajalo ...</p>
                   <p>Ko sta se vrnila k jami, obloženi s cvetjem in svečavo, je oče uperil prst
                      vanjo, rekoč: Mi ne spimo večnega spanja, sinko. Včasih se dvignemo in zatulimo
-                     ... Gozd pa je z nami. Z nami živi in jaz sem živel z njim in v njem umrl. To mi
+                     … Gozd pa je z nami. Z nami živi in jaz sem živel z njim in v njem umrl. To mi
                      je bilo torej dano.</p>
                   <p>Sin je sklonil glavo, postal je neznosno utrujen. Zato je legel s tem očetovim
-                     bremenom med cvetje na igličasta tla, ki so že dišale po večnosti ... Prisluhnil
+                     bremenom med cvetje na igličasta tla, ki so že dišale po večnosti … Prisluhnil
                      je. Gozd je šumel in ptice so pele v njem, zrak pomladi je prodiral skozenj
                      kljub mrakobni trohljivosti. Globoko je dihal, hoteč se preprosto razbremeniti
                      prividov, ki so se mu nenehno vsiljevali. Želel si je le odpočiti in
@@ -3770,8 +3773,8 @@
                   <p>Sin je imel navado, da si je večkrat otipaval obraz, misleč na očetovo lobanjo.
                      Če imaš lepo glavo, mora tudi lobanja odražati tvoj zunanji videz: visoko čelo,
                      krepke ličnice, podolgovat obraz, zdravo zobovje, zaobljeno brado, vse je na
-                     mestu, shranjeno v kosteh ... a v očesnih duplinah žarijo nepozabljene oči. Iz
-                     ustne votline donijo nepozabljene besede ... z rahlim pogrkovanjem. A še predno
+                     mestu, shranjeno v kosteh … a v očesnih duplinah žarijo nepozabljene oči. Iz
+                     ustne votline donijo nepozabljene besede … z rahlim pogrkovanjem. A še predno
                      si je mogel natančno ogledati očetovo lobanjo, če je res takšna, kot si jo je
                      predstavljal, ga je nekaj silovito potisnilo navzgor, kot bi ga bila izbruhnila
                      zemlja. In potem se je odprtina pričela nenadoma širiti, večati in ga odrivati
@@ -3779,7 +3782,7 @@
                      počasi in vztrajno pošiljala žrtve eno za drugo navzgor, dokler niso izginjale
                      v nerazpoznavnih senčnih lisah. Videl jih je z belimi in sivimi obrazi, toge,
                      razpotegnjene, kot bi bili dolgo viseli nekje med nebom in zemljo. Drseli so
-                     navzgor mimo njega, brez postanka, ure dolgo ... Mislil si je, da bi bilo bolje,
+                     navzgor mimo njega, brez postanka, ure dolgo … Mislil si je, da bi bilo bolje,
                      če bi vpili, se gibali, protestirali. A so samo nemo drseli, svinčeno sivi in
                      negibni. Gledal je mlade fante in može, celo starce. Ko je videl otroke v
                      materinih naročjih, je zajokal.</p>
@@ -4028,7 +4031,7 @@
                      nos in ne za vsako ceno. Mislim, da je bolje, da zaenkrat ostanemo na svojem
                      dvorišču, da skoncentriramo svoje znanje in svojo pamet, obdržimo svoje možgane
                      doma; če jih že izvažamo, jih posojajmo, ne podarjajmo, in izkoristimo svoj
-                     potencial v taki ali drugačni obliki zase. Prodajmo Evropi naše znanje ... in
+                     potencial v taki ali drugačni obliki zase. Prodajmo Evropi naše znanje … in
                      prej ali slej bomo imeli isti status kot druge evropske države.</p>
                   <p>Če nič drugega, bi se morali učiti pri vzhodnih Nemcih, ki so prišli v Evropo
                      skozi stranska vrata. Zahodna Nemčija je namenila veliko denarja za to, da bi
@@ -4933,7 +4936,7 @@
                      piše Grgič, da naj bi ne pobijala brez sodbe, ne mučila brez potrebe in pustila
                      pri miru vsaj mrliče. Morali se bodo vprašati, kaj je z misterijem krvi, ki ga
                      partizani tako radi obešajo svojim nasprotnikom, kot da smo se preselili v
-                     majevske čase in Srednjo Ameriko. Kaj je z geslom Za pet Kristusovih ran ... ,
+                     majevske čase in Srednjo Ameriko. Kaj je z geslom Za pet Kristusovih ran … ,
                      kaj z zgodbami o kastracijah mrtvih partizanov in partizank, kam s prerezanimi
                      vratovi in menažkami, napolnjenimi s krvjo, in kam z ritualnimi umori nosečih
                      ujetnic?</p>
@@ -5506,7 +5509,7 @@
          <div type="div1">
             <head>Na platnicah</head>
             <div type="div2">
-			<head>S pota v Ameriko</head>
+               <head>S pota v Ameriko</head>
                <div type="div3">
                   <p>V založbi raziskovalnega inštituta Studia slovenica sta izšli dve novi
                      knjigi:</p>

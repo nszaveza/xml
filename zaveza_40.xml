@@ -48,21 +48,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">40</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2010-11-16</date>
          </publicationStmt>
          <sourceDesc>
@@ -106,7 +106,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze </head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Stranka, ki si je dala ime Nova Slovenija, je morala imeti za svoj nastanek
                      zelo utemeljene razloge. Če nekoliko razmislimo izraz Nova Slovenija, če
@@ -2043,7 +2045,7 @@
                      In se je, zelo hrabro in dostojanstveno: ena proti štirim in je tudi krotko
                      priznala, da štirje proti enemu lahko narede vse. Bili pa so toliko pametni, da
                      so videli, kaj vse drže ta šibka pleča, in so jo pustili pri miru. »Prijazna«
-                     sovaščanka ji je hodila pod okno pet Vsi so prihajali ... Na robu obupa je
+                     sovaščanka ji je hodila pod okno pet Vsi so prihajali … Na robu obupa je
                      neštetokrat pomislila na samomor, otroke je nameravala zmetati v Savo. V šolo,
                      kjer so njene otroke zaradi očetove usode zelo poniževali, je prišla vprašat,
                      kaj naj naredi z njimi, če nimajo prostora pod soncem. V Savo da jih je
@@ -2313,8 +2315,8 @@
                      pa me je stražar takoj sunil od vrat. Tudi to se je šepetalo, da so vrnili vlak
                      z ranjenimi domobranci. </p>
                   <p>Dober mesec smo bile zaprte v tej sobi. Medtem niso nobene zasliševali. Vsake
-                     toliko časa so nas prihajali partizani zaničevat: »K...e bele, belogardistične
-                     s...e«. Kot da bi bile izvržek človeštva. Med nami je bila tudi noseča žena.
+                     toliko časa so nas prihajali partizani zaničevat: »K … e bele, belogardistične
+                     s … e«. Kot da bi bile izvržek človeštva. Med nami je bila tudi noseča žena.
                      Čim starejša postajam, tem bolj boleče podoživljam to krivico in trpljenje. Da
                      bi pa pozabila, kot nam govorijo politiki? Če se oni nočejo spominjati, se mi
                      vsega dobro spomnimo!</p>
@@ -2503,7 +2505,7 @@
                      Delo zunaj, v naravi! Hvala dobrim sosedom, ki so nama z mamo vsako pomlad
                      prišli orat, ker sva bili brez živine. Pa pokosit, ker sami ne bi zmogli, pa še
                      marsikaj drugega so nama pomagali. </p>
-                  <p>Službe nikoli nisem iskala, ni me mikala, stene delavnice bi me dušile ... Tudi
+                  <p>Službe nikoli nisem iskala, ni me mikala, stene delavnice bi me dušile … Tudi
                      dobrega fanta mi ni bilo treba šele poiskati, saj sva se poznala že izpred
                      vojne. Vedela sem, s kom se poročam, ko je prišel iz zapora še on. Da bi se
                      poročila s kakšnim bivšim partizanom, si še danes ne morem predstavljati. Z
@@ -3094,7 +3096,7 @@
                      ..., zu meinen lieben Kindern ...«<hi rend="sup">
                         <note place="foot" n="2">»Sestra Angelika, pišite moji ženi! Naj mi vse
                            odpusti in oprosti, da sem jo pustil samo. Če ostanem živ, se takoj vrnem
-                           domov, k moji ženi..., k mojim ljubim otrokom...«</note>
+                           domov, k moji ženi … , k mojim ljubim otrokom … «</note>
                      </hi>
                   </p>
                   <p>Kljub vsemu je operacija lepo uspela. Lienška bolnica je imela odlične kirurge
@@ -3955,8 +3957,8 @@
                      že niso! Žrtve morajo biti!« </p>
                   <p>Aleš je v letih šolanja spoznaval, za koga so se borili, saj je poslušal himne
                      ali jih moral celo sam prepevati: »Z ruskih step veliki Stalin kliče zmagovito,
-                     z naših se gora odziva mu tovariš Tito« – ali: »Slovenci kremeniti ... Čez
-                     gore, polja naj v širni svet doni: Slovenija junaška, sovjetska bodeš ti!« </p>
+                     z naših se gora odziva mu tovariš Tito« – ali: »Slovenci kremeniti … Čez gore,
+                     polja naj v širni svet doni: Slovenija junaška, sovjetska bodeš ti!« </p>
                   <p>Širili so laž in slepili kmete, da bodo živeli brez davkov, oznanjali so raj na
                      zemlji. V »svobodi« pa so najbolj trpeli prav kmetje, ko so jim začeli pobirati
                      pridelke ter pleniti njihovo zemljo in gozdove. Še danes se njihovi nasledniki
@@ -4481,8 +4483,8 @@
                      omejena s svobodo drugih posameznikov, kar pomeni, da na račun svoje svobode ne
                      ogroža drugih. To pa po drugi strani pomeni, da se mora ves čas zavedati
                      posledic rezultatov svojega raziskovanja. Kaj pa, če je znanstvenik pokvarjen?
-                     Kaj, če je za slavo in denar pripravljen narediti karkoli ... Spomnimo se samo
-                     vseh vrst nuklearnih bomb, bioloških orožij, nenazadnje ebole ... itd.</p>
+                     Kaj, če je za slavo in denar pripravljen narediti karkoli … Spomnimo se samo
+                     vseh vrst nuklearnih bomb, bioloških orožij, nenazadnje ebole … itd.</p>
                   <p>Najnovejša »igrača« so geni. Genetski inženiring. Klonirana ovca. Klonirane
                      opice. Opica, ki se sveti. Genetsko spremenjene rastline so vsakdanja stvar.
                      Seveda pa je vprašanje, kaj nam bo to prineslo. Če ne takoj, pa v naslednji
@@ -5380,18 +5382,19 @@
                   <l>O brat onstran smrti:</l>
                   <l>kdo je tu brat.</l>
                </lg>
-               <docAuthor>France Pibernik</docAuthor>
                <figure>
                   <graphic url="slike_z_40/z_40_48.png"/>
                   <head>V Rovtih <name type="author">Martin Benedik</name></head>
                </figure>
+               <docAuthor>France Pibernik</docAuthor>
             </div>
          </div>
       </body>
       <back>
          <div type="div1">
             <head>Dodatek</head>
-            <div type="div2"><head>Dodatek</head>
+            <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <p>Narcis je bil sin rečnega boga Kefisa in nimfe Liriope. Bil je nenavadno lep, a
                      bojazljiv mladenič, in se je najraje sam potikal po gozdovih. Ker mu ni bilo za
@@ -5457,92 +5460,96 @@
                      prevladovati tako obilno. Narcis brez kraja, narcise vsepovsod. Čudovito je
                      bilo, to pomladansko sveže zelenje, nad njim pa vsa ta na visokih steblih
                      pozvanjajoče in kinkajoče, opojno dišeča nedolžno bela cvetna krasota. Vzpenjal
-                     sem se na pravo pravcato narcisno goro ... </p>
+                     sem se na pravo pravcato narcisno goro … </p>
                   <p>In prihajal sem skozi bele narcisne vrtove na vrh Golice iz leta v leto, kot na
                      božjo pot k cvetnemu oltarju. </p>
                   <docAuthor>Dr. Julius Kugy </docAuthor>
                </div>
             </div>
          </div>
-         <div type="div1"><head>Poverjeniki Zaveze v zdomstvu</head>
-            <div type="div2"><head>Poverjeniki Zaveze v zdomstvu</head>
+         <div type="div1">
+            <head>Poverjeniki Zaveze v zdomstvu</head>
+            <div type="div2">
+               <head>Poverjeniki Zaveze v zdomstvu</head>
                <list>
                   <item>
                      <label>I. ARGENTINA</label>
-                     <address><name>Lovro Jan</name>
-                                <addrLine>C.C 907</addrLine>
-                                <addrLine>8400 Bariloche</addrLine>
-                                <addrLine>Rio Negro</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                     <address>
+                        <name>Lovro Jan</name>
+                        <addrLine>C.C 907</addrLine>
+                        <addrLine>8400 Bariloche</addrLine>
+                        <addrLine>Rio Negro</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
                   <item>
                      <address>
-                                <name>Joža Markeš</name>
-                                <addrLine>Virrey Loreto 3365</addrLine>
-                                <addrLine>1605 Carapachay</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                        <name>Joža Markeš</name>
+                        <addrLine>Virrey Loreto 3365</addrLine>
+                        <addrLine>1605 Carapachay</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
                   <item>
                      <address>
-                                <name>Marjan Šušteršič</name>
-                                <addrLine>Gral. Vacca 995</addrLine>
-                                <addrLine>1686 Hurlingham</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                        <name>Marjan Šušteršič</name>
+                        <addrLine>Gral. Vacca 995</addrLine>
+                        <addrLine>1686 Hurlingham</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
 
                   <item>
                      <address>
-                                <name>Slavko Urbančič</name>
-                                <addrLine>Ramon L. Falcon 4158</addrLine>
-                                <addrLine>1047 Buenos Aires</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                        <name>Slavko Urbančič</name>
+                        <addrLine>Ramon L. Falcon 4158</addrLine>
+                        <addrLine>1047 Buenos Aires</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
 
                   <item>
                      <label>II. KANADA</label>
                      <address>
-                                <name>Anton Štih</name>
-                                <addrLine>20 Rufford Rd</addrLine>
-                                <addrLine>Toronto, Ontario</addrLine>
-                                <addrLine>MBW 4V6 CANADA</addrLine>
-                            </address>
+                        <name>Anton Štih</name>
+                        <addrLine>20 Rufford Rd</addrLine>
+                        <addrLine>Toronto, Ontario</addrLine>
+                        <addrLine>MBW 4V6 CANADA</addrLine>
+                     </address>
                   </item>
                   <item>
                      <address>
-                                <name>Ema Pogačar</name>
-                                <addrLine>57 Anderson Ave.</addrLine>
-                                <addrLine>Toronto, Ontario</addrLine>
-                                <addrLine>M5P 1H6 CANADA</addrLine>
-                            </address>
+                        <name>Ema Pogačar</name>
+                        <addrLine>57 Anderson Ave.</addrLine>
+                        <addrLine>Toronto, Ontario</addrLine>
+                        <addrLine>M5P 1H6 CANADA</addrLine>
+                     </address>
                   </item>
                   <item>
                      <label>III. ZDRUŽENE DRŽAVE</label>
                      <address>
-                                <addrLine>Slovenska pisarna</addrLine>
-                                <addrLine>(Anton Oblak)</addrLine>
-                                <addrLine>c/o Str. Vitus Church</addrLine>
-                     <addrLine>6104 Glass Ave.</addrLine>
-                                <addrLine>Cleveland, OHIO 44103, USA</addrLine>
-                            </address>
+                        <addrLine>Slovenska pisarna</addrLine>
+                        <addrLine>(Anton Oblak)</addrLine>
+                        <addrLine>c/o Str. Vitus Church</addrLine>
+                        <addrLine>6104 Glass Ave.</addrLine>
+                        <addrLine>Cleveland, OHIO 44103, USA</addrLine>
+                     </address>
                   </item>
                   <item>
                      <address>
-                                <name>Franjo Mejač</name>
-                                <addrLine>7042 West Tripoli Ave</addrLine>
-                                <addrLine>Milwaukee Visconsin 53220</addrLine>
-                                <addrLine>USA</addrLine>
-                            </address>
+                        <name>Franjo Mejač</name>
+                        <addrLine>7042 West Tripoli Ave</addrLine>
+                        <addrLine>Milwaukee Visconsin 53220</addrLine>
+                        <addrLine>USA</addrLine>
+                     </address>
                   </item>
                </list>
             </div>
          </div>
          <div type="div1">
             <head>Na platnicah</head>
-            <div type="div2"><head>Voščilo</head>
+            <div type="div2">
+               <head>Voščilo</head>
                <div type="div3">
                   <p>Vsem bralcem Zavete!</p>
                   <p>Vsem članom Nove Slovenske zaveze!</p>
@@ -5569,7 +5576,6 @@
                </div>
             </div>
          </div>
-
       </back>
    </text>
 </TEI>

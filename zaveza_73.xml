@@ -44,14 +44,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -102,7 +102,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza </head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Za naklepni umor Nine Dobrič je bil Boštjan Koprivnikar obsojen na 30 let,
                      Simon Trančar pa na 15 let. »Za <emph>umor na grozovit način</emph>, saj je
@@ -432,7 +434,7 @@
                      tem ničesar ne pove?) Agitpropovsko zveni tudi denunciacija naporov za pravično
                      rešitev: da pomeni »politično manipulacijo«. Zlonamerno – ali nedopustno
                      nepremišljeno – je sprevračanje popolnoma naravnih reči, kot na primer, »da so
-                     hipoteke pobitih po državljanski vojni ... politično orožje, ki se pod krinko
+                     hipoteke pobitih po državljanski vojni … politično orožje, ki se pod krinko
                      pietete uporablja zoper političnega nasprotnika«. Potem je tu nedopustna
                      splošnost, ki tiči v stavku, da imajo spravo v programu vse stranke, »posebno
                      zainteresirane pa skrbno pazijo, da do sprave le ne bi prišlo«. Zakaj nam ni
@@ -462,7 +464,7 @@
                      nikoli ni bilo; tudi partijska država ni bila nikoli <emph>sui iuris</emph>. V
                      resnici je <emph>bila</emph> samo partija. Samostojna Slovenija je bila in je
                      popolnoma nova država. </p>
-                  <p>Bučar zmagoslavno zaključi: »Program OF je bil ... osamosvojitev Slovenije.« Ni
+                  <p>Bučar zmagoslavno zaključi: »Program OF je bil … osamosvojitev Slovenije.« Ni
                      mogel biti, ker, kot smo rekli, OF v temeljnem pomenu te besede, ni bilo. Še
                      enkrat: bila je samo partija. Ta pa je bila zgodovinsko poražena in si je
                      zagotovila nadaljnji obstoj le tako, da se je priličila demokratičnim normam.
@@ -1446,7 +1448,7 @@
                      panslavistično, oba pa izvrstna pedagoga. V to življenje je udaril 6. april
                      1941. V nekaj dneh so vdrli Nemci. Spomin mi postreže z žalostno sliko vojske
                      kraljeve Jugoslavije: vozovi s konjsko, a tudi volovsko vprego, na vozovih
-                     ranjenci, orožje in strelivo na slami ... , ob vozovih vojaki s čutaricami ob
+                     ranjenci, orožje in strelivo na slami … , ob vozovih vojaki s čutaricami ob
                      pasu, predolgimi puškami na ramenih, v povaljanih uniformah, z ovijačami in
                      grdimi polvisokimi čevlji na nogah in prevelikimi šajkačami na glavah, na
                      obrazih pa obup in popolna apatija. Umik, beg pred Nemci, zadnji vojak je
@@ -1476,8 +1478,8 @@
                      Mama je majorju potožila o izgubi domovine, na turški mlinček pa je mlela pravo
                      kavo, čemur se je major čudil in rekel: »Kaj vi še imate pravo kavo, pri nas je
                      že zdavnaj ni več.« Mami so se roke tresle od vznemirjenja, major je pristopil,
-                     jo prijel za roko in dejal: »Nas se vam ni treba bati ... ampak tega, kar za nami
-                     pride ... Bil je namreč tudi učitelj, rezervist in pogovor je stekel v skoraj
+                     jo prijel za roko in dejal: »Nas se vam ni treba bati … ampak tega, kar za nami
+                     pride … Bil je namreč tudi učitelj, rezervist in pogovor je stekel v skoraj
                      prijateljskem vzdušju. Zunaj pri studencu so se do pasu slečeni vojaki umivali,
                      šalili, smejali in brili. Po dveh urah so se osveženi odpravili naprej, vasi
                      sploh niso pregledali. </p>
@@ -1522,7 +1524,7 @@
                      Med vožnjo s strani vojaškega spremstva ni bilo nobenega nasilja, razen vpitja
                      »šnel, šnel, marš, marš,« ko je vlak obstal za WC in da smo si natočili vodo.
                      Vozili smo se skozi gorato Bosno /186 tunelov/ in mladi izgnanci so poskakali z
-                     vlaka, tekli v hrib, na vrhu pa vlak počakali in vstopili ... Vožnja je bila
+                     vlaka, tekli v hrib, na vrhu pa vlak počakali in vstopili … Vožnja je bila
                      zaradi strmih vzponov izredno počasna in zaradi slikovitosti divje pokrajine
                      nepozabna, zanimiva. Vojaško spremstvo je to početje mladih le opazovalo.
                      Nikomur se ni skrivil niti las, zdi se, da jih je to početje prav zabavalo.
@@ -1568,7 +1570,7 @@
                      bila velika, štela je dva tisoč duš, tako rečejo Srbi. Za naše pojme eno samo
                      bogastvo. Tu zemlja rodi, ne da bi jo gnojili. Če vzamem v misli naše Haloze,
                      Slovenske gorice, tam v Jagnilu revščine nisem videla. Dodelili so nas bojda
-                     revnim ... A imeli so dve hiši, veliko gospodarsko poslopje, ogromno dvorišče s
+                     revnim … A imeli so dve hiši, veliko gospodarsko poslopje, ogromno dvorišče s
                      sadovnjakom, vinograd, polja, konje, svinje, perjad, izredno stanovanjsko
                      kulturo, opazni so bili olika, omika in spoštovanje do starosti. Naše bivališče
                      je bila nedograjena hiša iz butane ilovice. Trije prostori: levo, desno in
@@ -1601,12 +1603,12 @@
                      otrobih. Dohodkov nobenih, le priložnostni zaslužki, delo na polju, pastirska
                      opravila /ovce in svinje sem pasla jaz/. Sicer sem pa bila za pestunjo pri
                      šolskem upravitelju, vsaj najedla sem se. To je bilo zelo grenko, saj sem
-                     vedela, da doma nimajo. Ta moja služba je bila kratka. Mama je zbolela ... Želela
+                     vedela, da doma nimajo. Ta moja služba je bila kratka. Mama je zbolela … Želela
                      si je belo kavo. Kje neki! Ni mleka, tako bogata vas, a mleka nismo dobili, ni
                      sladkorja, le črna kava, iz česa je bila, ne vem. Bila je grenka in vodena. Ob
                      tem, da zaradi suše ni bilo vode, dobili smo je le nekaj litrov na dan, je bilo
-                     pranje in umivanje razkošje ... Poleti je še nekako šlo, kar zadeva hrano. Bile
-                     so buče, slive, kuhana koruza in pšenica. A zima ... ni bilo kurjave, le sveže
+                     pranje in umivanje razkošje … Poleti je še nekako šlo, kar zadeva hrano. Bile
+                     so buče, slive, kuhana koruza in pšenica. A zima … ni bilo kurjave, le sveže
                      podrto trnje, samo vejevje, dodeljeno od občine, kot tudi fižol in moka.
                      Vejevje je bilo obdano s trnjem in ledom. In mraz, mraz, mraz ...</p>
                   <p>Prišla je pomlad in z njo uporniške horde. Noč za nočjo, bilo jih je po osem do
@@ -1672,12 +1674,12 @@
                      težko strojnico. Razbijanje po vratih: »Odprite! Narodna vojska! Nedićeva.«
                      Vprašujejo za tisto strašno noč. Kdo so bili, kaj so govorili, kako so bili
                      oblečeni. Povedali smo in tolpo opisali. V pogovoru so zvedeli, kdo smo, da je
-                     oče jugoslovanski rezervist, kapetan prve klase in hoteli so ga mobilizirati ...
-                     Mama je razprla očetu srajco, da se je videl šiv od operacije na želodcu in tak
-                     ni bil primeren za boj. To je bila Nedićeva redna vojska. Bili so prvi, ki se
-                     je dalo z njimi pogovarjati. Očeta so pustili pri miru. Kmalu za tem obiskom je
-                     začelo pokati: brzostrelke pa puške in ročne bombe tik ob hiši. Vsi smo bili na
-                     tleh in na mamin predlog smo si dali pernice čez glavo. Kmalu je streljanje
+                     oče jugoslovanski rezervist, kapetan prve klase in hoteli so ga mobilizirati
+                     ... Mama je razprla očetu srajco, da se je videl šiv od operacije na želodcu in
+                     tak ni bil primeren za boj. To je bila Nedićeva redna vojska. Bili so prvi, ki
+                     se je dalo z njimi pogovarjati. Očeta so pustili pri miru. Kmalu za tem obiskom
+                     je začelo pokati: brzostrelke pa puške in ročne bombe tik ob hiši. Vsi smo bili
+                     na tleh in na mamin predlog smo si dali pernice čez glavo. Kmalu je streljanje
                      potihnilo, le v daljavi so se slišali še posamezni streli. Zunaj je nekdo
                      klical: »Otvaraj brzo vrata, privremena ambulanta.« Vrata so bila v hipu
                      odprta, prinesli so ranjenca. Dumdumka ga je zadela v desno stran trebušne
@@ -1685,7 +1687,7 @@
                      Mladenič je bil star kakih osemnajst let. Položili so ga na ležišče počez.
                      Zdravnik je poskušal ustaviti kri. Zunaj so pripravljali voz za prevoz. Voz naj
                      bi ga peljal po cesti, ki je bila bolj podobna globoko zorani njivi in polna
-                     blata, blata. In noč, hladna noč. Mladenič ni dočakal jutra ... Prizor te noči mi
+                     blata, blata. In noč, hladna noč. Mladenič ni dočakal jutra … Prizor te noči mi
                      ostaja v spominu do danes in ne bo šel v pozabo. Prostor v naši hiši: štiri
                      ležišča, miza, stoli, ni kam stopiti, vojaki, ranjenec, sveča – parafin v
                      kozarcu, na parafinu plava stenj. Pri tej razsvetljavi se je vršila operacija
@@ -1697,7 +1699,7 @@
                      ilovnatih tleh. Ob svitu je Nedićeva vojska odšla in tudi mrtvega je vzela s
                      seboj. Boj je potekal med partizani in redno Nedićevo srbsko vojsko. Dva
                      partizana sta padla in vaščani so ju pokopali po stari, uveljavljeni navadi, a
-                     brez popa ... Ni ga bilo, saj je odšel v Mladenovac. Kaj je tam počel, so le
+                     brez popa … Ni ga bilo, saj je odšel v Mladenovac. Kaj je tam počel, so le
                      domneve. Bil je proti partizanom, vedel je, da prinašajo zametke revolucije.
                      Partizanska enota se je umaknila. Nedićevi so bili v premoči. Bili so edini, ki
                      se jih ni bilo treba bati. Bili naj bi legalni varuhi Srbije. </p>
@@ -1720,7 +1722,7 @@
                   <p>Pomlad, topleje je. Omislimo si lahko zopet »kuhinjo«. Z ilovnatih tal je bilo
                      treba posneti debelo plast ilovice zaradi krvi in možganov nesrečnega
                      Nedićevega vojaka, kar ni bilo enostavno, čeprav so vojaki počistili, kajti kri
-                     je pronicala v tla ... Namestili smo tisto majavo mizo, stole in štedilnik. Slamo
+                     je pronicala v tla … Namestili smo tisto majavo mizo, stole in štedilnik. Slamo
                      ob podboju vrat, spleteno v kite, smo pustili, noči so bile še hladne. Notranja
                      okna smo odprli, kajti namesto stekel je bil nameščen ovojni papir. Steklo je
                      bilo le na zunanjih oknih.</p>
@@ -1749,17 +1751,17 @@
                      gost /ej, od kod ve?/. »Pa ve, mlade dame,« vpraša sestri? »Klasična gimnazija
                      je za nama.« »O, potem pa znate francosko« in pogovor je tekel v francoščini,
                      tako malo za pokušino. Predstavil se je. Zdravnik iz Beograda, partizan. »Čuli
-                     smo, da ste izdajalci. Imamo nalog za likvidacijo vseh šest ... a dvomim,
+                     smo, da ste izdajalci. Imamo nalog za likvidacijo vseh šest … a dvomim,
                      izdajalec ne živi tako, kakor tu vidim.« Mama mu je izročila dopisnico. Vzame,
                      pogleda datum, žig, bere, seveda je obvladal tudi nemščino. »A kdaj greste,«
-                     vpraša. Mama pravi, da smo nameravali odpotovati čez štiri dni ... a kot kaže ...
+                     vpraša. Mama pravi, da smo nameravali odpotovati čez štiri dni … a kot kaže ...
                      »Mene se ne bojte, bdel bom nad vami, pojdite čim prej! Prvega maja začnemo
                      minirati vse proge. Pa denar?« vpraša. Segel je po listnico in nam dal 100
                      dinarjev, več da nima, je rekel z obžalovanjem in se v zadregi nasmehnil. Mama
                      se je denarja branila, da tega ne more sprejeti, on pa ji je rekel, da se naj
                      zanje ne bojimo, ker ga bodo že pobrali Nemcem. Mi pa naj bomo mirni, ker bodo
                      tu okrog in bodo pazili na nas, kajti zgodi se nam lahko vse mogoče. Govoril
-                     nam je o partizanski poštenosti, o boju proti Nemcem in domačim izdajalcem ... V
+                     nam je o partizanski poštenosti, o boju proti Nemcem in domačim izdajalcem … V
                      slovo se je z nami rokoval, bratu dal roko na ramo z besedami: »Drži se, mladi
                      junak,« mene pobožal po laseh, sestri sta bili deležni galantnega poklona,
                      stisk roke mami in spoštljiv poklon: »Moje duboko poštovanje, gospodjo
@@ -1798,7 +1800,7 @@
                      pospremil na vlak še pred policijsko uro. Sedeli smo v kavarni blizu kolodvora.
                      Prišel je čas odhoda. Vstali smo od mize, od orkestra pa se je oglasil
                      napovedovalec: »Za naše izbeglice, Slovence, ki se vračajo domov. Želimo jim
-                     srečno pot. Živi zdravi nam bili!« In zaigrali so Vrati se ... Mi pa vsi v jok.
+                     srečno pot. Živi zdravi nam bili!« In zaigrali so Vrati se … Mi pa vsi v jok.
                      Krčevit jok. Pa pravi gospod Turin v svoji štajerščini, bil je doma iz
                      Cirkovcev: »Otroci, ne jokajte, saj greste domov.«</p>
                   <p>Še zadnji stisk rok skozi okno vlaka in vlak je potegnil v temo.</p>
@@ -1817,8 +1819,8 @@
                      Slovenijo. Za tega drugega pa ne vem. Berem vrstice v II. knjigi Metoda Mikuža,
                      Pregled zgodovine NOB v Sloveniji, stran 148 povelje Kardelja Mačku v oktobru
                      1942.</p>
-                  <p>»Belo gardo uničujte neusmiljeno ... kmete, ki se bodo uporno borili,
-                     postreljajte ... Duhovne v četah vse postreljajte. Prav tako oficirje,
+                  <p>»Belo gardo uničujte neusmiljeno … kmete, ki se bodo uporno borili,
+                     postreljajte … Duhovne v četah vse postreljajte. Prav tako oficirje,
                      intelektualce /starša sta bila učitelja/ itd. ter zlasti tudi kulake in kulaške
                      sinove.«</p>
                   <p>Koliko družin so v tem času v Sloveniji že postrelili? Tu vidim vzporednico in
@@ -2206,7 +2208,7 @@
                      je bil na svojih kurirskih poteh in ga ves ta čas ni bilo pri Sv. Lenartu,
                      vedel pa je, kaj snujejo mama, Božo in Rado. Zato je Rado Božu odpisal tudi v
                      imenu Zdravka. Pismo je datirano z dnem 29. maja. Vendar Božo pisma ni nikoli
-                     prejel ... </p>
+                     prejel … </p>
                   <p>Povedali smo že, da je bil Rade po naravi drzen, pogumen in iznajdljiv; čudimo
                      pa se, da je bil tako nepreviden in ni računal na vohune in izdajalce med
                      partizani samimi. On, ki je poznal delovanje VOS-a! Vendar premalo! Radovo
@@ -2215,9 +2217,9 @@
                   <p>Med drugim naj bi Rado napisal bratu Božu na postojanko: »Prišla bova lahko,
                      ker imava kurirske prepustnice in nama partizani ne bodo mogli delat kakih
                      posebnih ovir. Morala v naši vojski je zelo slaba, vsak dan se vršijo pobegi in
-                     dezertacije iz naših bataljonov in čet ... Civilno prebivalstvo se je tukaj že
-                     močno streznilo in je le še nekaj takih bajt, kjer se partizani vedno držijo ...
-                     Pa tudi to vem, kje imajo terenski svoje bunkerje; tukaj okoli Sv. Lenarta
+                     dezertacije iz naših bataljonov in čet … Civilno prebivalstvo se je tukaj že
+                     močno streznilo in je le še nekaj takih bajt, kjer se partizani vedno držijo
+                     ... Pa tudi to vem, kje imajo terenski svoje bunkerje; tukaj okoli Sv. Lenarta
                      imajo svojo glavno postojanko in se nahaja tukaj okrožna OF, rajonska OF, vsi
                      okrožni in rajonski funkcionarji KPS, kar bi bilo potrebno vse poloviti in
                      pobiti. Tukaj okrog se velikokrat zadržuje kaka brigada ali pa bataljon in ako
@@ -2285,7 +2287,7 @@
                      prve besede še danes pomnim: 'Ali ti je znano,' je dejala, 'da so Nemci zaprli
                      vašo družino in jo poslali v izgnanstvo. Izgnali so tvojo mamo, očeta, sestro
                      Ivanko in brata Lovrenca. ki se je pred nekaj dnevi vrnil iz nemškega
-                     ujetništva' ... Murnikova je opazila, da me je novica močno prizadela. V trenutku
+                     ujetništva' … Murnikova je opazila, da me je novica močno prizadela. V trenutku
                      sem pozabil, zakaj sem sploh prišel v tisto hišo. Načrti, kako bom skušal
                      Murnikovo pretehtati, na čigavi strani je, so se razpršili. Mislil sem le na
                      domače. </p>
@@ -2295,7 +2297,7 @@
                   <p>Njene besede so me zdramile, ker je poudarila dejstvo, da so jih izselili
                      'zaradi mene'. To mi je povrnilo razsodnost, da sem lahko sledil njenim
                      besedam: 'Saj starše vendar lahko rešiš, če se javiš Nemcem in zapustiš
-                     partizane' ... Preden sem prišel h Gabrčanu, me je resno skrbelo, kako naj
+                     partizane' … Preden sem prišel h Gabrčanu, me je resno skrbelo, kako naj
                      napeljem pogovor. Zgodilo se je, kar sem najmanj pričakoval. Sama je začela
                      polagati karte kot najslabši igralec.</p>
                   <p>Med nama se je razvijal približno takle pogovor: 'Seveda bi rad rešil starše
@@ -2305,7 +2307,7 @@
                   <p>Prisedla je bliže in me z zaupljivim glasom potolažila: 'Če resnično to želiš,
                      potem lahko tako uredim, da ne boš niti en dan zaprt.' Glej jo, zlomka, kakšno
                      moč ima ta ženska. 'Tega ne verjamem,' sem ji namerno odgovoril, 'saj ženske v
-                     vojni nimate nobene veljave. 'Stane, ti lahko rešiš sebe in svojo družino ... Kdo
+                     vojni nimate nobene veljave. 'Stane, ti lahko rešiš sebe in svojo družino … Kdo
                      pa pravi, da se javi Nemcem. Javil se boš mojemu sinu Božu, ki je domobranski
                      oficir. Veš, včeraj sem ga obiskala. Pameten sin, zelo pameten. No, saj je
                      lahko, ko pa je bil študent. On zagotovo ve, da partizani ne bodo zmagali.'
@@ -2469,7 +2471,7 @@
                      nepremišljeni,« ugotavlja danes gospod Božo. »Lahko bi računali s tem, da so
                      Rada in Zdravka Nemci o vsem zaslišali! Morda pa vsi niti vedeli niso, da je
                      Rado zbežal in ostal živ, prav tako Zdravko. Zelo verjetno tudi niso vedeli, da
-                     Nemci pripravljajo že dolgo načrtovano hajko ... « </p>
+                     Nemci pripravljajo že dolgo načrtovano hajko … « </p>
                   <p>Naredili so jo 11. junija 1944 v zgodnjih jutranjih urah. Rado je moral z
                      njimi, da jim pokaže pot in lokacijo bunkerjev. Bratu Božu je Rado kasneje
                      povedal le za napad na bunker v bližini Zakrašnikove domačije. Bunker s
@@ -2675,7 +2677,7 @@
                      pri vsakokratnih volitvah s pomočjo medijev uspeli doseči medijski umor
                      konkurentov na volitvah.</p>
                   <p>Nismo izvajali lustracije, kot v nekaterih drugih bivših komunističnih
-                     diktaturah (npr. Poljska, Češka ... ).</p>
+                     diktaturah (npr. Poljska, Češka … ).</p>
                   <p>V naši državi visoki politični funkcionarji KPS zasedajo pomembna mesta in v
                      parlamentu slišimo, da nas ti poslanci KP – po nekajkratnem preimenovanju v
                      današnjo SD – učijo demokracije.</p>
@@ -2722,7 +2724,7 @@
                   <p>Partija je za svoje delovanje izrabljala različne osebnosti, kot na primer
                      priznanega filozofa dr. Slavoja Žižka, ki mu leta 1973 ni dala službe, v letih
                      vladavine LDS pa ga deklarirala kot svojega ideologa. On vidi svojo vlogo
-                     takole: »Zapravljal sem čas, ... , jaz želim, da bi moje ime povsem izginilo iz
+                     takole: »Zapravljal sem čas, … , jaz želim, da bi moje ime povsem izginilo iz
                      te godlje.«</p>
                   <p>Ves čas po osamosvojitvi pa Partija usmerja pozornost prebivalcev slovenskega
                      intelektualnega in moralnega močvirja na obdobje druge svetovne vojne, desnica
@@ -2817,7 +2819,7 @@
 
                   <figure>
                      <graphic url="slike_z_73/z_73_31.png"/>
-                     <head> ... melišče, z divjim soncem posejano <name type="author">Mirko
+                     <head> … melišče, z divjim soncem posejano <name type="author">Mirko
                            Kambič</name></head>
                   </figure>
                </div>
@@ -3010,8 +3012,8 @@
                   <p>Pomislite še naslednje. Ste že bili kdaj na pogrebu, kjer pokojnik ni bil
                      imenovan z imenom? Verjetno bi se vam to zdelo nezaslišano, saj vendar vsak
                      normalen človek, pa naj bo definicija normalnosti taka ali drugačna, ve, da se
-                     pokojnik poimenuje, poleg imena se mu praviloma doda še ... naš dragi,
-                     spoštovani, cenjeni ... Ste kdaj pomislili, kaj pomeni človeka pokopati brez
+                     pokojnik poimenuje, poleg imena se mu praviloma doda še … naš dragi,
+                     spoštovani, cenjeni … Ste kdaj pomislili, kaj pomeni človeka pokopati brez
                      imena? Domobrancev niso poimenovali. Nihče jih ni imenoval, nihče. Smo o tem
                      dovolj razmišljali? Vemo, da to ni vaša, ki očitate, da se preveč govori, in
                      tudi naša krivda ne. Je pa vseeno treba razmisliti, kaj to pomeni. </p>
@@ -3148,7 +3150,7 @@
                      Mnogim od nas tudi ta strahota ni odprla oči. Gredo mimo in očitno tega ne
                      razumejo. Če bi rekli, da nočejo, bi se morda motili. Upoštevati moramo naravno
                      danost – pravzaprav pomanjkljivost človeškega razuma, ki jo je videl že
-                     Prešeren in je v pesmi vzkliknil: » ... kako strašna slepota je človeka!« To je
+                     Prešeren in je v pesmi vzkliknil: » … kako strašna slepota je človeka!« To je
                      večno veljavna misel in k njej ni kaj dodati. Nič nam ne pomaga izkušnja, ki to
                      kar naprej potrjuje. Ostajamo slepci.</p>
                   <p>Za revolucionarje in zmagovalce v državljanski vojni so protirevolucionarji
@@ -3216,7 +3218,7 @@
                   <p>tvoj duh je zginil, kar nad tvojo jamo,</p>
                   <p>pozabljeno od vnukov, veter brije. </p>
                   <p>Obložile očetov razprtije</p>
-                  <p>s Pipinovim so jarmom sužno ramo ... «</p>
+                  <p>s Pipinovim so jarmom sužno ramo … «</p>
                   <p>Že lastne zgodovinske izkušnje, ki so žalostne in poučne, bi nam morale biti
                      dovolj in nas kaj naučiti, da ne gledamo drugih zgledov v zgodovini. Mnogo
                      večji narodi, kot je naš, so izginili, ker so se vdajali medsebojnim
@@ -3598,7 +3600,7 @@
                      obletnice zločinov kot najvišje vrednote. O tem smo se lahko prepričali ob
                      pravkar minulih praznikih. In kaj smo poslušali te dni ob državnih praznikih.
                      Poslušali smo, kako smo se uprli okupatorju, ga ustrahovali in če ne bi bilo
-                     domačih pomagačev ... »bi okupatorje najbrž kar hitro premagali« – če verješ,
+                     domačih pomagačev … »bi okupatorje najbrž kar hitro premagali« – če verješ,
                      pravijo Štajerci. Slavnostni govorniki so na vseh krajih hvalili herojstva
                      partizanov, vsi so bili enotni, da so takrat postavili temelj samostojni
                      Sloveniji. Ne vem, kaj mi je bilo, kar poslušala sem, namesto da bi ugasnila
@@ -4546,8 +4548,8 @@
                      leksikona Slovenije (1971) napisal naslednje: »Po kapitulaciji Italije je
                      nemška vojska pripravljala veliko ofenzivo na Gorjance. Tik pred njo je Gubčeva
                      brigada napadla v Kostanjevici nemško postojanko, kar je Nemce in belogardiste
-                     razbesnelo. Med pripravami na ofenzivo so Nemci s pomočjo domačih izdajalcev ...
-                     delno odkrili organizacijo OF, nakar so 21. oktobra 1943 v Kostanjevici
+                     razbesnelo. Med pripravami na ofenzivo so Nemci s pomočjo domačih izdajalcev
+                     ... delno odkrili organizacijo OF, nakar so 21. oktobra 1943 v Kostanjevici
                      aretirali 70 moških in jih 25 na Malencah ustrelili kot talce.« </p>
                   <p>V resnici pred ofenzivo, ki se je začela 21. oktobra, Nemcev v Kostanjevici ni
                      bilo. Kako je bilo s 3. bataljonom, izvemo iz pisanja Naceta Kastelica,
@@ -4965,7 +4967,7 @@
                      Koroškem. </p>
                   <p>Nikolaj Tolstoy v knjigi Minister in pokoli navaja zapis iz Macmillanovega
                      dnevnika:</p>
-                  <p>» ... med podanimi Nemci je kakih 40.000 Kozakov in belih Rusov z njihovimi
+                  <p>» … med podanimi Nemci je kakih 40.000 Kozakov in belih Rusov z njihovimi
                      ženami in otroki. Če jih vrnemo Rusom, se pravi obsoditi jih v suženjstvo,
                      mučenje in verjetno smrt. Če jih ne, bomo hudo razjezili Ruse in pravzaprav
                      prelomili jaltsko pogodbo. Odločili smo, da jih vrnemo (general Keightley je v
@@ -5156,7 +5158,7 @@
                         so začeli kričati, kajti vedeli so, da jih bodo pobili, toda ničesar več
                         niso mogli storiti.</emph>«</p>
                   <p>Podobna je tudi izjava kasnejšega konservativnega poslanca Nigela Nicholsona v
-                     istem članku: »<emph> ... To je bila najgrozljivejša izkušnja v mojem
+                     istem članku: »<emph> … To je bila najgrozljivejša izkušnja v mojem
                         življenju.</emph>« </p>
                   <p>V Daily Telegraphu je 18. 10. 2008 kasnejši minister laburistične vlade Tony
                      Crosland, takrat častnik v armadi, opisal vračanje kot »<emph>najbolj ogabno in
@@ -6327,13 +6329,14 @@
                      poslušajo svoje človeške pameti, najsi je še tako omejena, jim vendar kaže
                      škodo, ki jo s tem narodu delajo, tega ne razumem. In ne razumem, da nimajo nič
                      ljubezni v sebi ne do svojega brata, ne do narodne celote.</p>
-                  <p>... Če resnica osvobojuje, potem zmota, laž zasužnjuje! Kdor se hoče osvoboditi,
-                     mora najprej verige zmote in laži razdreti, drugače resnično svoboden ne bo,
-                     četudi bi mu kdo zunanjo svobodo velikodušno podaril. Ko o svobodi govorimo
-                     večina ljudi misli bolj na pest in orožje, s čemer naj bi svobodo izvojevali,
-                     kakor pa na luč resnice, ki s svobodo sveti. Da je najtežja veriga, ki človeku
-                     prostost ovira, zmota in laž, tega večina ljudi ne spozna, ne čuti – zato je pa
-                     toliko sužnjev na svetu, ki se samim sebi zde svobodni. </p>
+                  <p>... Če resnica osvobojuje, potem zmota, laž zasužnjuje! Kdor se hoče
+                     osvoboditi, mora najprej verige zmote in laži razdreti, drugače resnično
+                     svoboden ne bo, četudi bi mu kdo zunanjo svobodo velikodušno podaril. Ko o
+                     svobodi govorimo večina ljudi misli bolj na pest in orožje, s čemer naj bi
+                     svobodo izvojevali, kakor pa na luč resnice, ki s svobodo sveti. Da je najtežja
+                     veriga, ki človeku prostost ovira, zmota in laž, tega večina ljudi ne spozna,
+                     ne čuti – zato je pa toliko sužnjev na svetu, ki se samim sebi zde svobodni.
+                  </p>
                </div>
                <div type="div3">
                   <head>Narod je na tem, da pogine – ljudje slovenski, streznite se v skrajni
@@ -6436,11 +6439,11 @@
                </div>
             </div>
             <div type="div2">
-			<head>Dodatek</head>
+               <head>Dodatek</head>
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_73/z_73_65.png"/>
-                     <head></head>
+                     <head/>
                   </figure>
                   <figure>
                      <graphic url="slike_z_73/z_73_66.png"/>
@@ -6470,7 +6473,7 @@
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_73/z_73_68.png"/>
-                     <head></head>
+                     <head/>
                   </figure>
                </div>
             </div>

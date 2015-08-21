@@ -46,14 +46,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                       <addrLine>Nova Slovenska zaveza</addrLine>
-                       <addrLine>Beethovnova ul. 5</addrLine>
-                       <addrLine>1000 Ljubljana</addrLine>
-                       <addrLine>Slovenija</addrLine>
-                       <lb/>
-                       <addrLine>tel. 01/425-15-37</addrLine>
-                       <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                   </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -107,7 +107,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Živeti je postalo nemogoče,<lb/>ker hočemo samo živeti</p>
                   <p>(Eugène Ionesco, Facing the Inferno)</p>
@@ -284,8 +286,8 @@
                   <p>Boljševiki, tudi ali predvsem slovenski, so jeziku tudi sicer posvečali veliko
                      pozornosti. Eden od posebno uspešnih trikov je nekaj, čemur bi lahko rekli
                      večravninska semantika. Na nekem partijskem posvetovanju (4. oktobra 1943) je
-                     Kardelj povedal tudi naslednjo misel: » ... pri čemer uživa izdajalska evropska
-                     reakcija vso pomoč angleške in ameriške izdajalske reakcije ... «. Vsi nekoliko
+                     Kardelj povedal tudi naslednjo misel: » … pri čemer uživa izdajalska evropska
+                     reakcija vso pomoč angleške in ameriške izdajalske reakcije … «. Vsi nekoliko
                      vemo, kaj pomeni beseda »izdajalski« in zato vemo tudi, da angleška in ameriška
                      reakcija jeseni 1943 ni bila izdajalska v tehničnem pomenu te besede. Kardelj
                      je preprosto mislil, da sta angleška in ameriška reakcija preprosto proti njemu
@@ -361,12 +363,12 @@
                      sta živela dva druga brezovška mladca, doktorand germanist Janko Novak (1919)
                      in Zdravko Novak (1923). Mati jima je prigovarjala, naj gresta v Ljubljano, ker
                      je nevarno, a sta vedno odgovarjala, da je to res, a ne vesta pravzaprav, zakaj
-                     bi odhajala. Tisti večer, 14. avgusta, pa ju je nekdo poklical z vrta, in ko sta
-                     šla odpret, so ju zgrabili in odpeljali – tudi na Ključ – kjer so ju morda še
-                     isti večer ali pa drugi dan, torej na veliki šmaren, umorili. Da bi bila slika
-                     kolikor toliko popolna, je morda treba povedati tudi to, da so očeta Janeza
-                     (48), ki ni bil ne pri vaški straži ne pri domobrancih, že maja 1945 aretirali
-                     in za vedno odpeljali.</p>
+                     bi odhajala. Tisti večer, 14. avgusta, pa ju je nekdo poklical z vrta, in ko
+                     sta šla odpret, so ju zgrabili in odpeljali – tudi na Ključ – kjer so ju morda
+                     še isti večer ali pa drugi dan, torej na veliki šmaren, umorili. Da bi bila
+                     slika kolikor toliko popolna, je morda treba povedati tudi to, da so očeta
+                     Janeza (48), ki ni bil ne pri vaški straži ne pri domobrancih, že maja 1945
+                     aretirali in za vedno odpeljali.</p>
                   <p>Od drugih mladcev, ki so jih boljševiki pomorili že pred majem 1945, naj omenim
                      še dva. Ivan Pavčič je bil doma v Bizoviku. Maja 1942 so ga nekega večera, ko
                      je odhajal od šmarnic, prijeli, odpeljali v gozd in nekje na Polici umorili.
@@ -1307,7 +1309,7 @@
                      grad tudi dobrepoljska vaška straža pod poveljstvom Toneta Perneta. – Na Turjak
                      sem prišel okoli dveh popoldne. Ravno tedaj se je začel posvet vodilnih mož, ki
                      je bil nekajkrat zelo oster in glasen. Ko sem vse to gledal in poslušal, me je
-                     prešinila misel: nič dobrega se nam ne obeta ... V ponedeljek, 13. septembra, se
+                     prešinila misel: nič dobrega se nam ne obeta … V ponedeljek, 13. septembra, se
                      je začela borba za življenje in smrt. Vaški stražarji so imeli odlične uspehe
                      okoli Rašice in so popolnoma razbili partizansko brigado. Na večer so se borci
                      vrnili v grad, kar je bila gotovo velika taktična napaka. Od Cerkvenika, ki je
@@ -1333,7 +1335,7 @@
                      težke topove, ki so jih upravljali Italijani. »V petek in soboto je bil v gradu
                      pravi pekel. Samo v dveh urah so Italijani iz svojih tankov in topov izstrelili
                      395 granat, ki so eksplodirale v gradu. Vse je bilo v ruševinah, toda borci
-                     niso odnehali. Nekaj je bilo mrtvih in mnogo ranjenih.« (V primežu ... , str. 55)
+                     niso odnehali. Nekaj je bilo mrtvih in mnogo ranjenih.« (V primežu … , str. 55)
                      S pomočjo turjaškega gostilničarja Prajerja so prišli v grad in ga zažgali.
                      Ogenj je prišel do skladišča municije. Vode za gašenje ni bilo. »Dve beli
                      zastavi sta se pojavili, ena na dvorišču, druga pa na zunanji strani obzidja.
@@ -1346,9 +1348,9 @@
                      kjer so na tleh ležali ranjenci. Z njimi sta bila dr. Kožuh in kaplan Ivan
                      Sitar. Ko sem šel mimo Ludvika Hrena iz Dobrepolja, mi je dejal: 'Gospod
                      kaplan, vi imate samo sandale, jaz pa imam dobre čevlje. Sezujte me in jih
-                     vzemite, saj jaz bom itak ustreljen!' Seveda čevljev nisem vzel ... Ko so
+                     vzemite, saj jaz bom itak ustreljen!' Seveda čevljev nisem vzel … Ko so
                      ranjence naslednji dan streljali, je Ludvik ušel. Kar zavalil se je v dolino po
-                     grapi in si rešil življenje. Ustrelili so 28 ranjencev.« (V primežu ... , str.
+                     grapi in si rešil življenje. Ustrelili so 28 ranjencev.« (V primežu … , str.
                      55, 56)</p>
                   <p>Prav je, da si sliko streljanja ranjencev pogledamo nekoliko bolj natančno.
                      Grad je gorel in v ognju je pokala municija. Ranjence so znosili ali pa so se
@@ -1380,7 +1382,7 @@
                      ponehalo, da smo jih v miru pokopali. Naredili smo vsem enake grobe z oklepi in
                      križi, na njih so bile prislonjene bele plošče z njihovimi podatki in slikami.
                      V svobodi 1945 je prišel nalog, da moramo vse to razdreti, nasade populiti in
-                     grobe zravnati ... « (Dobrepoljska Hirošima, str. 137)</p>
+                     grobe zravnati … « (Dobrepoljska Hirošima, str. 137)</p>
 
                   <figure>
                      <graphic url="slike_z_77/z_77_14.png"/>
@@ -1755,7 +1757,7 @@
                      junija 1944 lahko med drugim preberemo: »Sicer se kar dobro počutim, le z
                      vsakim dnem sem bolj daleč od svoje ženke, kar gotovo tudi tebi ni po volji,
                      prav tako kot tudi meni ne preveč. Časi so pač taki in storiti je treba vsakemu
-                     svoje, če hočemo, da bo kaj uspelo.« ... »Kako se imaš Ti kaj, ženka? Upam, da je
+                     svoje, če hočemo, da bo kaj uspelo.« … »Kako se imaš Ti kaj, ženka? Upam, da je
                      z zdravjem vse v redu in prosiva Boga, da bi se srečno končalo; če bi bila
                      punčka, bi bilo tebi gotovo zelo všeč. Vem pa, da bi bila prav tako srečna, če
                      bi bil fantek. Bog daj, da bi bilo kaj kmalu vojne konec, da bi človek lahko
@@ -1907,7 +1909,7 @@
                      je, da jim ne bi bili kos. Partizani so bili vsi v črnih oblekah, oboroženi z
                      avtomatskimi puškami, in če bi takrat Radova četa tam vztrajala, bi vsi padli.
                      Tako je Rado sam povedal kasneje domačim. O tem je pisal tudi Jože v pismu
-                     svoji ženi 25. junija 1944. » ... Tako minevajo dnevi, od katerih pa redki
+                     svoji ženi 25. junija 1944. » … Tako minevajo dnevi, od katerih pa redki
                      prinesejo kaj dobrega ali razveseljivega, slabega in žalostnega pa veliko. Rado
                      je moral v Ljubljano na grad (vojaški zapor). Pravijo, da je kriv, ker je na
                      Slivnici (hrib nad Cerknico) premalo odločno vojaško zdržal in da bo moral pred
@@ -2760,7 +2762,7 @@
                      misli bežati, čeprav je tu v bližini doma. Za sebe ve, da mu kot mladcu, česar
                      ne bo prikrival, enako kot ni njegov tovariš Grozde, grozi smrt, na katero se
                      pripravlja z molitvijo in sedanjim trpljenjem. Njemu je najljubša molitev
-                     »Zgodi se Tvoja volja, kakor v nebesih tako na zemlji ... «</p>
+                     »Zgodi se Tvoja volja, kakor v nebesih tako na zemlji … «</p>
                   <p>Največ kakšen teden po tem so ga poklicali in ni se vrnil med nas, niti se ni
                      javil doma. Takoj za njim je odšla ven skupina za »kiblo«. Ko so se vrnili, sem
                      vprašal enega od njih, če je videl tega, ki je bil pred njimi klican. Rekel je,
@@ -3122,7 +3124,7 @@
                      sodniki in vsi najvišji državni funkcionarji tisti, ki so ostali zvesti
                      Kučanovi pravi politični opciji.</p>
                   <p>Ogabno, vendar nas prav ta človek že dvajset let vehementno poučuje o
-                     demokraciji, enakopravnosti, strpnosti, dialogu ... in o »več resnicah«, ki so
+                     demokraciji, enakopravnosti, strpnosti, dialogu … in o »več resnicah«, ki so
                      priročno pokrivalo za vse laži in neresnice! Ena od njih je tudi zgovorno
                      Kučanovo razumevanje sodnega kazenskega postopka, kot ga izraža v navedenem
                      odgovoru. Pravi, da je Brezigarjeva »obravnavala nekaj zelo spornih zadev, pri
@@ -3395,7 +3397,7 @@
                      <l>krivda me boli</l>
                      <l>za spomin in odpuščanje</l>
                      <l>jočem nad ljudmi ...</l>
-                     <l>domovina, ti si kakor mati ... ena in edina ...</l>
+                     <l>domovina, ti si kakor mati … ena in edina ...</l>
                      <l>Rad bi segel ti v roko,</l>
                      <l>gledal v oči,</l>
                      <l>Tvoja nema prošnja v meni</l>
@@ -3405,7 +3407,7 @@
                      <l>Konec vašega je spanja,</l>
                      <l>Konec je laži ...</l>
                      <l>Čas za nova je spoznanja,</l>
-                     <l>boljše je ljudi ... dobre ljudi ...</l>
+                     <l>boljše je ljudi … dobre ljudi ...</l>
                   </lg>
                </div>
             </div>
@@ -3811,8 +3813,8 @@
                      življenje. In v tej gorečnosti se morajo menihi vaditi v najbolj vneti
                      ljubezni; naj prehitevajo drug drugega v izkazovanju časti drug drugemu, naj se
                      podpirajo s kar največjo potrpežljivostjo v spreminjanju svojih telesnih in
-                     duševnih slabosti ... Naj ljubijo eden drugega z bratovsko ljubeznijo ... Naj se v
-                     ljubezni bojijo Boga ... Popolnoma ničesar naj ne postavljajo pred Boga, ki lahko
+                     duševnih slabosti … Naj ljubijo eden drugega z bratovsko ljubeznijo … Naj se v
+                     ljubezni bojijo Boga … Popolnoma ničesar naj ne postavljajo pred Boga, ki lahko
                      vse pripelje v večno življenje.« (Poglavje 72)</p>
                </div>
             </div>
@@ -4037,7 +4039,7 @@
                      ustanoviteljev NSZ ne bo več. Naš narod jo potrebuje sedaj in jo bo nujno
                      potreboval tudi v prihodnosti. Pomislite na lokalne volitve, ki bodo jeseni.
                      Kako koristne bi lahko bile občinske organizacije NSZ tako za Novo Slovenijo
-                     kot za druge demokratične politične stranke ... Potrudimo se in storimo, kar smo
+                     kot za druge demokratične politične stranke … Potrudimo se in storimo, kar smo
                      doslej zamudili!</p>
                </div>
             </div>
@@ -4515,7 +4517,7 @@
                      navidezno neznatnih predmetov in nenehno ponavljajočih se opravil. Ponekod so
                      našteti kar celi seznami malenkosti, ki so v normalnih razmerah samoumevne, v
                      taborišču pa neznansko pomembne – to se še posebej občuti, ko se obrabi od doma
-                     prinesena zobna ščetka, glavnik, škarjice ... V spremni besedi k romanu Živalsko
+                     prinesena zobna ščetka, glavnik, škarjice … V spremni besedi k romanu Živalsko
                      srce Urška P. Černe govori o drugačnem, »müllerskem pogledu«, pogledu kakor
                      skozi povečevalno steklo, v katerem predmeti in dogodki dobijo drugačne
                      razsežnosti, kakor jih imajo v naši vsakdanji stvarnosti.</p>

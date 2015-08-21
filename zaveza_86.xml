@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="tei-zaveza.rnc" type="compact"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -51,13 +51,13 @@
       <publicationStmt>
         <publisher>
           <address>
-						<addrLine>Nova Slovenska zaveza</addrLine>
-						<addrLine>Beethovnova ul. 5</addrLine>
-						<addrLine>1000 Ljubljana</addrLine>
-						<addrLine>Slovenija</addrLine>
-						<addrLine>tel. 01/425-15-37</addrLine>
-						<addrLine>Spletna stran: www.zaveza.si</addrLine>
-					</address>
+            <addrLine>Nova Slovenska zaveza</addrLine>
+            <addrLine>Beethovnova ul. 5</addrLine>
+            <addrLine>1000 Ljubljana</addrLine>
+            <addrLine>Slovenija</addrLine>
+            <addrLine>tel. 01/425-15-37</addrLine>
+            <addrLine>Spletna stran: www.zaveza.si</addrLine>
+          </address>
         </publisher>
         <availability>
           <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -120,7 +120,9 @@
       <pb n="001"/>
       <div type="div1">
         <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
-        <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+        <div type="div2">
+          <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+          <docAuthor>Justin Stanovnik</docAuthor>
           <div type="div3" subtype="intro">
             <p>
               <hi rend="italic">»Če pa oči upremo v stvari, ki jih obseva sonce, potem jasno vidijo.

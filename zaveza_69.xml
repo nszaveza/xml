@@ -47,14 +47,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -105,7 +105,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Izobčenost Roga</head>
                   <p>Na prvi pogled bi človek rekel, da je imelo dogajanje, ki ga poimenujemo s
@@ -500,7 +502,7 @@
                   <p>S takim zelotskim elanom se je dr. Hribarjeva lotila katoliške obrambe ali
                      katoliškega upora proti boljševiškemu terorizmu. Iz tega je nastal stavek: »Če
                      je šlo do osnovanja MVAC le za okupatorsko in partizansko nasilje, je šlo z
-                     ustanovitvijo MVAC ... le še za več nasilja.« Neskladnost, ki smo ji tu priča,
+                     ustanovitvijo MVAC … le še za več nasilja.« Neskladnost, ki smo ji tu priča,
                      ima večji domet, kot bi se na prvi pogled zdelo. Onemogoča namreč vsako
                      obrambo. S tem pa postavlja v območje vprašljivosti celotni enobejevski mit, ki
                      bi naj bil konec koncev tudi nekakšna obramba. Ali se bodo sedaj gojenci
@@ -1225,21 +1227,21 @@
                   <p>V pripovedi Mrakovih je izjemno pretresljiv prizor, ko ranjencem sporočijo, da
                      vlak ne more nikamor več, in jih večina spremstva zapusti. Naj ga tu navedem.
                      »Zjutraj 9. 5. je letalo preletavalo naš vlak. Poskrili smo se pod vagone,
-                     ranjenci pa so ostali v njih in čakali na svojo usodo. ... Dr. Stane Grapar je
+                     ranjenci pa so ostali v njih in čakali na svojo usodo. … Dr. Stane Grapar je
                      odšel na kolodvor v Lesce in zahteval odhod vlaka. Povedali so mu, da je
                      partizanska zaseda spredaj in zadaj in da vlak ne bo odpeljal. Vrnil se je
-                     potrt. Zavedel se je, da smo izigrani. ... Brez mikrofona (le kdo ga je imel) je
+                     potrt. Zavedel se je, da smo izigrani. … Brez mikrofona (le kdo ga je imel) je
                      bil zdravnikov glas v napeti tišini vsem slišen: »Zaseda spredaj, zaseda zadaj.
                      Kdor hoče ostati, naj ostane, kdor ne more, naj gre; vsak naj se odloči po
                      svoji vesti.« Nastala je panika.</p>
                   <p>In zgodilo se je: z vlaka so poskakali vsi, ki so mogli ali hoteli. Stali sva v
                      vagonu (s sestro) ob nepokretnih ranjencih in se gledali. Ostali sva nemi brez
-                     besed, ničesar več nisva razumeli. ... Ranjenci so se zganili, poslušali so in
+                     besed, ničesar več nisva razumeli. … Ranjenci so se zganili, poslušali so in
                      vse razumeli. Oglasil se je prvi, drugi, tretji, vsi: »Je sploh kdo ostal?«» Ne
-                     veva,« sva odgovorili.« ... «Kaj bosta naredili, nas bosta zapustili tudi vedve?«
+                     veva,« sva odgovorili.« … «Kaj bosta naredili, nas bosta zapustili tudi vedve?«
                      Stiska ob pogledu na te mlade fante s trpečimi obrazi je bila grozna. Še enkrat
                      sva zaslišali: »Nas bosta zapustili tudi vedve?« »Ne, fantje, ne bom vas
-                     zapustila,« se je odločila Krista. ... K nama je prišla najina prijateljica Magda
+                     zapustila,« se je odločila Krista. … K nama je prišla najina prijateljica Magda
                      Dolničar. Tudi ona se je odločila tako kot medve in ostala zvesta nepokretnim,
                      v mavec zabetoniranim fantom. Naenkrat je bilo vse tiho in mirno, fantje so
                      jokali. Pred vagoni smo stali župnik Janez Jenko iz Žužemberka, bogoslovca
@@ -1251,7 +1253,7 @@
                      zavestno smo se odločili, da gremo lahko tudi v smrt, zavestno v neznano.«
                      Molili smo za umirajoče, dal nam je odvezo in blagoslov. Zavestno, zavestno je
                      odmevalo v ušesih in srcu. Molitev nas je združila v očenaševi prošnji: in
-                     odpusti nam naše dolge, kakor tudi mi odpuščamo ... «</p>
+                     odpusti nam naše dolge, kakor tudi mi odpuščamo … «</p>
                   <p>Ob tej sliki se nam postavi vprašanje, kdo so bili ti ljudje, ki so se zavestno
                      odločili, da za ceno življenja ostanejo pri ranjencih, čeprav so jih zapustili
                      vsi zdravniki in vsi drugi, ki so bili v takem stanju, da so jih lahko. Izdalo
@@ -1299,7 +1301,7 @@
                      samostan (1923), čeprav si jo je oče želel doma, da bi jim bila v pomoč, in je
                      to omenil škofu Jegliču. Kmalu je postala subpriorica in voditeljica novink.
                      »Odlikovala sta jo natančnost v redovnih predpisih in globoko molitveno
-                     življenje. ... Živela je iz vere in kakšne čustvene pobožnosti ni marala.« (iz
+                     življenje. … Živela je iz vere in kakšne čustvene pobožnosti ni marala.« (iz
                      osmrtnice). Življenje je naneslo, da je bila na koncu edina opora svojim
                      staršem, ki so jim leta 1945 vzeli vse premoženje, sina Janeza, duhovnika,
                      nekje umorili, sin Bogomir (1902–1945), ki je edini imel družino, pa je umrl
@@ -1994,13 +1996,13 @@
                      progresivnih mišljenj. To je kazal zlasti, ko se je nahajal v odboru za
                      preskrbo pred začetkom vojne (priča Juhant Ivan). V začetku vojne se je
                      obtoženec še nekam dobro držal in ni kazal nasprotja proti narodno
-                     osvobodilnemu gibanju ... Propaganda protinarodnega pokreta pa ga je tako
+                     osvobodilnemu gibanju … Propaganda protinarodnega pokreta pa ga je tako
                      omrežila, kot sam priznava, da je prostovoljno vstopil v vrste domobrancev –
-                     narodnih sovražnikov ... Po poročilu domačega krajevnega odbora OF je obtoženec
-                     kot oseba neodkrit, hinavski in sam v sebe zaprt ... Obtoženec priznava, da je
+                     narodnih sovražnikov … Po poročilu domačega krajevnega odbora OF je obtoženec
+                     kot oseba neodkrit, hinavski in sam v sebe zaprt … Obtoženec priznava, da je
                      vodil obrambo zloglasne cerkljanske postojanke proti NOV, zagovarja pa se, da
                      je to storil na željo domačih vaščanov in se sploh prikazuje kot Slovenec, ki
-                     je hotel v domobranskem vodstvu izključiti nemški vpliv ... « (KO 200/45)/27)</p>
+                     je hotel v domobranskem vodstvu izključiti nemški vpliv … « (KO 200/45)/27)</p>
                   <p>V 25 točkah, ki jih je sodišče nanizalo kot Osenarjevo krivdo, so zajeti
                      dogodki, ki so se v času domobranske postojanke zgodili v Cerkljah in okolici;
                      precej le-teh se je dogodilo preden je Osenar postal poveljnik postojanke.
@@ -2310,11 +2312,11 @@
                      strel. Krogla je zadela ata v vrat in tam obtičala. Ata je pograbil kladivo, ga
                      vrgel za neznancem, toda ta je bil urnejši in ni ga bilo nikjer več. Ata je
                      stekel za njim, preskočil sosedov plot, a tudi soseda Zotlarja ni bilo nikjer
-                     več ... Ata je hotel steči do orožniške postaje, a se je po nekaj korakih zgrudil
+                     več … Ata je hotel steči do orožniške postaje, a se je po nekaj korakih zgrudil
                      na tla. Nemški orožniki so ga z rešilcem odpeljali na Golnik. Tam je ostal šest
                      tednov in ves čas so bili otroci sami doma. Toda to ni bilo najhujše. Zdaj so
                      vse dni v strahu in trepetu čakali, če se morda spet ne pojavi neznani moški s
-                     pištolo v roki ... Na srečo krogla atu ni poškodovala žil in živcev, ampak samo
+                     pištolo v roki … Na srečo krogla atu ni poškodovala žil in živcev, ampak samo
                      glasilke. Samo? Ata od takrat naprej ni mogel več govoriti. Konec je bilo
                      pogovorov z njim, konec atovega pripovedovanja, ki so mu otroci vedno radi
                      prisluhnili. Tako zanimivo jim je znal praviti o svojem otroštvu, mladosti,
@@ -2380,7 +2382,7 @@
                      <head>Sin Janez Tonejc</head>
                   </figure>
                   <p>Opogumim se in grem v hišo. Pletilni stroji so bili razbiti, kosi pohištva
-                     razmetani vsevprek in prazni. Stopim skozi vhodna vrata pred hišo ... Ata leži
+                     razmetani vsevprek in prazni. Stopim skozi vhodna vrata pred hišo … Ata leži
                      vznak, ob njem Gustl in Drago. Beton je bil razstreljen in ves krvav. V nas so
                      zvečer vrgli ročno bombo. Ne vem, ali so bili vsi trije takoj mrtvi. Stopim
                      bliže in vidim, da so ata zatem še prerešetali s streli, oba bratca, Gustl in
@@ -2602,7 +2604,7 @@
                      pustil trepljati. Pokazal mi je vse, kar ga je gospodar naučil z dresuro. Vse
                      to je nekoč znal tudi Tonejčev obstreljeni pes, ki so ga imeli doma v Gorjah.
                      »Vsaj en živ in otipljiv spomin na dom,« sem pomislila in opazovala gospodarja,
-                     s kakšnim veseljem se je smehljal psu. Kot otrok ... Danes si človek ne more
+                     s kakšnim veseljem se je smehljal psu. Kot otrok … Danes si človek ne more
                      predstavljati, da so se lahko borci narodnoosvobodilne vojske s takim
                      maščevalnim besom izživljali nad nedolžnimi otroki. V eni sami družini so
                      zločinsko ubili dečka dvanajstih in devetih let, štiri pa psihično dotolkli za
@@ -2610,7 +2612,7 @@
                      brez matere, ubiti so jim morali še očeta. Po vojni sta Milan in Janez okušala
                      le partijski pekel. Do šestnajstega leta Janez ni bil socialno zavarovan in ko
                      mu je pri delu padlo na tla stekleno oko, ki so mu ga vstavili še med vojno v
-                     Celovcu, ga je lahko le pobral in dal v žep ... Danes se preživlja z invalidsko
+                     Celovcu, ga je lahko le pobral in dal v žep … Danes se preživlja z invalidsko
                      pokojnino nekvalificiranega delavca. Za šolanje, za izučitev v poklicu zanj ni
                      bilo mesta.</p>
                   <p>Zakon o popravi krivic še vedno ni sprejet. Zdi se, kot da bi nekateri tovariši
@@ -3244,7 +3246,7 @@
                      <l>po najbolj samotnih poteh. </l>
                      <l>Bilo je v maju in juniju, </l>
                      <l>trave so opojno dišale, </l>
-                     <l>a sem moram naprej ... </l>
+                     <l>a sem moram naprej … </l>
                      <l>Zadaj je ostal Stražnji vrh, </l>
                      <l>Kot</l>
                      <l>in vse drugo.</l>
@@ -4274,7 +4276,7 @@
                      sovražnosti ali nasilja, ki jih je pustila za seboj dediščina preteklih napak;
                      gre za prenovljeno zgodovinsko in teološko ovrednotenje dogodkov, ki naj – če
                      je pravično – vodi do ustreznega priznanja napak ter prispeva k resnični poti
-                     sprave. Takšen proces lahko pomembno vpliva na sedanjost ... in pomeni dejanje
+                     sprave. Takšen proces lahko pomembno vpliva na sedanjost … in pomeni dejanje
                      poguma in ponižnosti«<note place="foot" n="1">Spomin in sprava: Cerkev in
                         napake v preteklosti, v: Communio 10 (2000), 5.</note>, je zapisano v
                      uvodnem delu dokumenta »Spomin in sprava: Cerkev in napake preteklosti«, ki ga
@@ -4326,7 +4328,7 @@
                      ne bo ozdravel, dokler se ne bo soočil z vsem zlom, ki se je nakopičilo med
                      nami, dokler ne bo skušal obrisati vseh solza s trpečih obrazov in poravnati
                      vseh krivic, ki smo jih prizadeli drug drugemu. Narodna sprava je ena najbolj
-                     nujnih nalog, pred katerimi stojimo ... je cena za slovensko prihodnost. Brez
+                     nujnih nalog, pred katerimi stojimo … je cena za slovensko prihodnost. Brez
                      sprave smo narod brez prihodnosti«<note place="foot" n="5">F. Rode,
                            <emph>Spomin, zavest, načrt C</emph>
                         <emph>erkve na Slovenskem,</emph> Ljubljana 1995, 133.</note>, je zapisal
@@ -4497,7 +4499,8 @@
                   <p>Trpljenje, ki zadene človeka zaradi krivičnega dejanja, deluje nanj zelo
                      različno. Nekateri se po udarcu, ki ga doživijo, zakrknejo in vztrajajo pri
                      krivičnem dejanju. Druge pa trpljenje omehča, da spoznajo svoje meje, se
-                     solidarizirajo z drugimi ljudmi in želijo začeti na novo.<note place="foot" n="10">Prim. J. Krašovec, n. d., 843.</note> Priznanje krivde je torej
+                     solidarizirajo z drugimi ljudmi in želijo začeti na novo.<note place="foot"
+                        n="10">Prim. J. Krašovec, n. d., 843.</note> Priznanje krivde je torej
                      dejanje poguma, notranje moči in iskrene ponižnosti, je tudi izraz človekove
                      volje, da zopet zaživi v večji pristnosti in harmoniji. Pri tem je izrednega
                      pomena soočenje z resnico, ki pa jo omogoča dialog in s tem priznavanje in
@@ -4533,7 +4536,8 @@
                      hkrati solidarnost Boga z vsemi žrtvami zgodovine. Ta solidarnost ni v tem, da
                      bi Bog spodbujal k revoluciji in uporu, ampak v tem, da omogoča nove odnose med
                      ljudmi in s tem prenavlja svet. Božje odpuščanje je naznanjanje Božjega
-                     kraljestva, ki prihaja prek spreobrnjenja, ne prek menjave oblastnikov.<note place="foot" n="12">Prim. C. Duquoc, n. d., 109–110.</note>
+                     kraljestva, ki prihaja prek spreobrnjenja, ne prek menjave oblastnikov.<note
+                        place="foot" n="12">Prim. C. Duquoc, n. d., 109–110.</note>
                   </p>
                   <p>Kar pogosto slišimo trditev, da zares odpusti le tisti, ki tudi pozabi. A
                      dogaja se, da se ravno zaradi močne želje, da bi pozabili, ohranja živ spomin
@@ -4584,7 +4588,8 @@
                      namreč na ravni milosti. Doživetje odpuščanja je za človeka odkritje, da ni sam
                      izvor svojega življenja, ampak da mu je le-to podarjeno. Značilno je, da je
                      glagol odpustiti v mnogih jezikih blizu glagolu »dati«. Izkustvo</p>
-                  <p>odpuščanja je hkrati izkustvo podarjenosti bivanja.<note place="foot" n="15">Prim. J. Peters, <emph>Die Funktion der Vergebung in sozialen
+                  <p>odpuščanja je hkrati izkustvo podarjenosti bivanja.<note place="foot" n="15"
+                        >Prim. J. Peters, <emph>Die Funktion der Vergebung in sozialen
                            Beziehungen</emph>, v: <emph>Concilium</emph> 22 (1986), 87.</note>
                   </p>
                   <figure>
@@ -4617,7 +4622,8 @@
                      krivičnim dejanjem in krivičnikom in kljub odporu do zla priznavati 'notranje'
                      dostojanstvo tistega, ki počenja zlo. To načelo izvrstno prikazuje Avguštin, ko
                      pravi, da Bog človeka hkrati ljubi in sovraži. Sovraži človeška lastna dejanja,
-                     torej greh, ljubi pa njega, ki ga je ustvaril po svoji podobi.«<note place="foot" n="17">J. Krašovec, n. d., 838; za Avguština glej Sermo XLII,
+                     torej greh, ljubi pa njega, ki ga je ustvaril po svoji podobi.«<note
+                        place="foot" n="17">J. Krašovec, n. d., 838; za Avguština glej Sermo XLII,
                         caput IV – PL XXXVIII, 780.</note>
                   </p>
                   <p>Bog človeka, ki je relativno bitje, ne sodi po svojih absolutnih merilih. Ko
@@ -4671,7 +4677,8 @@
                      mogoče samo z nasilno kaznijo zadostiti za nasilen zločin. Če sem užaljen, se
                      moja jeza ne umiri prej, preden hudobnež ne dobi, kar menim, da zasluži. Toda
                      dejstvo je, da tudi potem ne najdem miru, ko je prejel svojo kazen. Spomin na
-                     zlo ostaja vir jeze in nemira. Ostaja grenkoba in razočaranje.<note place="foot" n="19">Prim. B. Dolenc, <emph>Sprava kot krščanska obveza in
+                     zlo ostaja vir jeze in nemira. Ostaja grenkoba in razočaranje.<note
+                        place="foot" n="19">Prim. B. Dolenc, <emph>Sprava kot krščanska obveza in
                            možnost</emph>, v: <emph>Na poti k resnici in spravi</emph> (ur. Janez
                         Juhant), Družina, Ljubljana 1997, 13.</note>
                   </p>
@@ -4705,7 +4712,7 @@
                      sebi nekakšen duhovni rak, ki razjeda življenje žrtve in jo dela takšno,
                      kakršna sploh noče biti. Sv. Pavel opisuje takšno stanje, ko pravi: »Saj ne
                      razumem niti tega, kar delam: ne delam namreč tega, kar hočem, temveč počenjam
-                     to, kar sovražim ... Jaz nesrečnež! Kdo me bo rešil tega telesa, ki je zapisano
+                     to, kar sovražim … Jaz nesrečnež! Kdo me bo rešil tega telesa, ki je zapisano
                      smrti?« (Rim 7, 15–24)<note place="foot" n="20">Prim. B. Dolenc, n. d.,
                         13.</note>
                   </p>
@@ -4824,7 +4831,7 @@
                      pasti niže od tega, kar je najnižjega v vas. In kakor ni mogoče, da en sam list
                      orumeni brez tihega soglasja celega drevesa, ne more zlikovec storiti zla brez
                      skrite privolitve vseh. Kakor v eni procesiji vsi skupaj stopate proti božjemu
-                     jazu v vas ... In ko pade eden izmed vas, pade za te, ki stopajo za njim, in jih
+                     jazu v vas … In ko pade eden izmed vas, pade za te, ki stopajo za njim, in jih
                      opozarja na kamen spotike. Da, pade tudi za te, ki so pred njim: čeprav so
                      hitrejši in bolj gotovo ubirajo korak, vendar kamna spotike niso odstranili ...
                      Ne morete ločiti pravičnega in krivičnega ter dobrega od zlobneža; oba se
@@ -4846,15 +4853,15 @@
                      poslanstvo Cerkve in različnih oblik civilne družbe, kot poudarja papež Janez
                      Pavel II.: »Toda luč in moč evangelija, iz katerega Cerkev živi, imata
                      sposobnost, da kakor iz prekipevajočega preobilja razsvetljujeta in podpirata
-                     izbire in dejanja civilne družbe, v polnem spoštovanju njihove avtonomije ... Na
+                     izbire in dejanja civilne družbe, v polnem spoštovanju njihove avtonomije … Na
                      pragu tretjega tisočletja smemo upati, da se bodo odgovorni politiki in
                      ljudstva, predvsem tisti, ki so vpleteni v dramatične konflikte, ki jih
                      nahranjata sovraštvo in spomin na pogosto zelo stare rane, dali voditi tistemu
                      duhu odpuščanja in sprave, za katerega pričuje Cerkev, in se bodo trudili za
-                     rešitev nasprotij s pomočjo iskrenega in odkritega dialoga ... In priznana
+                     rešitev nasprotij s pomočjo iskrenega in odkritega dialoga … In priznana
                      resnica je izvir sprave in miru«, kajti, kakor trdi isti papež, »ljubezen do
                      resnice, iskane s ponižnostjo, je ena velikih vrednot, sposobnih, da znova
-                     združuje današnje ljudi ... «<note place="foot" n="24">Spomin in sprava: Cerkev
+                     združuje današnje ljudi … «<note place="foot" n="24">Spomin in sprava: Cerkev
                         in napake preteklosti (Mednarodna teološka komisija), v: Communio 10 (2000),
                         53.</note>
                   </p>
@@ -5171,7 +5178,7 @@
                      panje in dolge ure premišljeval. Z zanimanjem si sledil razvoju čebelarstva na
                      Slovenskem, marsikatera slovenska matica »sivka« je odšla za teboj v
                      Patagonijo. Veliko si raziskoval in prebral o čebelarstvu. Radodarno si delil
-                     svoje znanje med Bariločani. Zadnja leta si se zanimal tudi za čmrlje, ose ... Še
+                     svoje znanje med Bariločani. Zadnja leta si se zanimal tudi za čmrlje, ose … Še
                      par ur pred tvojim odhodom si šel pogledati v Trebol, v upanju, da bo po tvoji
                      večmesečni odsotnosti in predolgi zimi s čebelami vse v redu.</p>
                   <figure>
@@ -5198,7 +5205,7 @@
                      Plešivem, kjer se je rodila naša mama.</p>
                   <p>Pokloniti si se želel spominu svojih sotrpinov in prijateljev. Stari Hrastnik,
                      Teharje, Šentvid, Podutik, Turjak, Brezno pri Konfinu, Kočevski rog, Lajše,
-                     Vetrinj ... povsod si jih iskal. Globoko si spoštoval vse, ki si iskreno
+                     Vetrinj … povsod si jih iskal. Globoko si spoštoval vse, ki si iskreno
                      prizadevajo za mir in spravo – upehane romarje, ki prižigajo luč v globelih
                      teme. Stari Hrastnik! – hrib nad Dolinškovo gostilno, domom tvoje mame. Ko si
                      bil v teharskem taborišču, si slutil, da peljejo jetnike na Stari Hrastnik. In
@@ -5529,7 +5536,7 @@
                         socialno revolucijo in prišla na oblast. V ta namen je organizirala
                         Osvobodilno fronto. Na podlagi enciklike Pija XI, 'Divini Redemptoris' o
                         brezbožnem komunizmu smo spoznali, da je to največja nevarnost, ki je kdaj
-                        grozila slovenskemu ljudstvu ... Da smo imeli prav, dokazuje sedanje stanje v
+                        grozila slovenskemu ljudstvu … Da smo imeli prav, dokazuje sedanje stanje v
                         domovini, kjer vlada čisti in pravi komunizem, kar jasno spričujejo razmere,
                         o katerih govori skupno pismo jugoslovanskih škofov.«</emph> (J. Kolarič
                      III, str. 255)</p>

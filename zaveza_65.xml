@@ -49,14 +49,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -107,7 +107,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza </head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>
                      <emph>Samo umirajoče civilizacije se ne menijo za svoje mrtve. </emph>
@@ -604,7 +606,7 @@
                      Čez štirinajst dni, 24. junija, je bil v sobotni prilogi Dela intervju z dr.
                      Francetom Bučarjem. Neko astenično in preplašeno žurnalistično bitje mu je
                      potožilo, da njegova generacija sicer želi izstopiti »iz vsepovsodnega
-                     ideološkega boja in delitve na partizane in domobrance ... toda aktualna politika
+                     ideološkega boja in delitve na partizane in domobrance … toda aktualna politika
                      jih grobo vleče nazaj, takorekoč v grobove«. V odgovoru mu je Bučar pritrdil,
                      da ga razume, da se mlajše generacije za »oslarije« starejših ne zanimajo, in
                      da je tudi to res, da se te dileme zadnje čase »vse bolj profilirajo«. Potem pa
@@ -1356,7 +1358,7 @@
                      skrivaj žalovali za svojimi brati ali sinovi.</p>
                   <p>Ozna odnosno partija je tako lahko prevzela popolno oblast nad prestrašenimi
                      prebivalci, brez težav so organizirali razne mitinge v svojo podporo in
-                     postavljali spomenike v svojo slavo ... </p>
+                     postavljali spomenike v svojo slavo … </p>
                   <p>
                      <emph>Gospod Janez Raztresen, zahvaljujemo se vam, da ste nam dovolili vpogled
                         v vaše Spomine in iskrena hvala za odgovore na naša dodatna
@@ -1501,7 +1503,7 @@
                      spremeniti. Državno cenzuro so najbrž zmotili določeni stavki, ki so bili
                      preveč narodnostno obarvani. Vendar to ni zmedlo režiserja in nastopajočih. Ko
                      je škof Rožman v sklepnem govoru izrekal zahvale je za igro dejal, da » ...
-                     takšne igre naš narod še ni videl in ne igral ... «. </p>
+                     takšne igre naš narod še ni videl in ne igral … «. </p>
                   <p>Ob mnogih manj znanih dogodkih je Ivo pomembneje sodeloval še pri biserni maši
                      škofa Jegliča, na njegovem pogrebu, kjer je prevzel rediteljsko službo na
                      pokopališču, na pogrebu dr. Antona Korošca, s katerim sta bila v prijateljskih
@@ -2786,7 +2788,7 @@
                      nato usmerila skozi Gorenjo vas in Stranje proti Grmadi in po grebenu proti
                      Luži in Občinam. Na Občinah sem se poslovil in se vrnil v Knežjo vas.</p>
                   <p>Zvečer, ko sem legel, nisem mogel zaspati. Še vedno sem bil pod vtisom
-                     nevarnosti na Ravnah ... Smilili so se mi domači. Jurčkovi so imeli vsa živila
+                     nevarnosti na Ravnah … Smilili so se mi domači. Jurčkovi so imeli vsa živila
                      poskrita in so jih dnevno previdno jemali iz skrivališča. Zato niso gladovali.
                      O sebi sem sprevidel, kako bi se nevede skoraj ujel v past na Ravnah, a sem se
                      ji prav tako nevede izognil. Ko ne bi bil takoj reagiral na materino svarilo,
@@ -3571,7 +3573,7 @@
                      tudi naslednje: »Pišem Vam iz Rima, s škofovske sinode, kjer sta prišla k meni
                      dva katoliška nadškofa iz Slovenije v zvezi s knjigo, ki bo izšla v drugi
                      polovici meseca in navaja tragične dogodke, ki so se zgodili maja 1945 v
-                     britanski coni zasedene Avstrije ... Kakih dvanajst tisoč slovenskih katoliških
+                     britanski coni zasedene Avstrije … Kakih dvanajst tisoč slovenskih katoliških
                      vojakov, ki so se umikali pred prihodom komunistov tako, da so se zatekli v
                      Avstrijo, so Britanci naložili na vlak, češ da jih peljejo v Rim, v resnici pa
                      so jih poslali v Slovenijo. Ko so ti vojaki tja prispeli, so nad njimi izvedli
@@ -3589,7 +3591,7 @@
                      trpljenja, skozi katero so v tedanjem času šli vsi narodi, tudi mi spominjamo
                      tragedije, ki je zadela slovenski narod.« </p>
                   <p>Vsakomur je jasno, da to ni noben odgovor. Če pa je to diplomacija, je slaba
-                     diplomacija. Spet: prav ali ne prav ... Kakor je Daily Mirror zapisal v
+                     diplomacija. Spet: prav ali ne prav … Kakor je Daily Mirror zapisal v
                      dresdenskem primeru: »Britanci, ki redko začnejo kako vojno, vedno pa vedo,
                      kako jo je treba končati, se nimajo česa sramovati.« V našem primeru so jo
                      končali z zločinom. (FAZ, 2. nov. 2004) Nekdo je nekje zapisal: »Do naroda, ki
@@ -3837,7 +3839,8 @@
          </div>
          <div type="div1">
             <head>Slovenska duhovna in politična drama 20. stoletja</head>
-            <div type="div2"><head>Uvod</head>
+            <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>V petek, 20. aprila, so v Cankarjevem domu Slovenski katoliški izobraženci
                      skupaj z založniško hišo Družino predstavili knjigo Slovenska duhovna in
@@ -4063,7 +4066,7 @@
                   <head>*</head>
                   <p>Načelen odnos partije do Cerkve razviden iz »Dela«, uradnega partijskega
                      glasila, v članku Cerkev in fašizem, leta 1932:</p>
-                  <p>»Danes se bije boj dveh svetov ... Cerkev se v tem boju postavlja na stran
+                  <p>»Danes se bije boj dveh svetov … Cerkev se v tem boju postavlja na stran
                      krvavega fašizma. Komunisti moramo imeti to dejstvo pred očmi in posebno v
                      Sloveniji, kjer je vpliv cerkve še velik, neumorno in vztrajno voditi boj proti
                      temu sovražniku ...« </p>
@@ -4095,7 +4098,7 @@
                      množice.«</p>
                   <p>Tako se je glasila osnovna teza, ki jo je še z drugimi razmišljanji in navodili
                      iz Moskve zapisal in poslal junija 1936 Jožetu Vilfanu v Slovenijo:</p>
-                  <p>»Kako bi prišli do osnovnih slovenskih množic? ... Prišli bodemo do njih preko
+                  <p>»Kako bi prišli do osnovnih slovenskih množic? … Prišli bodemo do njih preko
                      akcij za osnovne slovenske zahteve. Akcije so pot, ki vodi v množice ...«</p>
                   <p>Nato: »Prišli bodemo do osnovnih slovenskih množic preko JSZ (Jugoslovanske
                      strokovne zveze = »krščanski socialisti«, op. p.) </p>
@@ -4275,7 +4278,7 @@
                      dne 21. 1.1946, je bilo v preteklosti – tako je enotno ugotovila tudi Mešana
                      krovna komisija Rimskokatoliške cerkve in vlade republike Slovenije leta 1996 –
                         »<emph>razumljeno predvsem v negativnem smislu izločitve cerkve iz javnega </emph>
-                     <emph>življenja</emph>.« In tako jo razume marsikdo še danes ... Kot je pred
+                     <emph>življenja</emph>.« In tako jo razume marsikdo še danes … Kot je pred
                      kratkim na posvetu na SAZU poudaril Dr. Ivan Štuhec, je v javnosti pravica do
                      neverovanja postavljena nad pravico do verovanja in izpovedovanja vere.</p>
                   <figure>
@@ -4308,9 +4311,9 @@
                   <p>Komunistična oblast je skušala Cerkev tudi ekonomsko uničiti: z zaplembami pri
                      sodbah, z agrarno reformo, z razlastitvami itd. Posebni instrument prisile so
                      bili davki. Državni sekretar Mitja Ribičič je v strogo zaupnem pismu leta 1954
-                     poučil svoje podrejene, da je »<emph>pravilno obdavčevanje duhovščine ... eden
+                     poučil svoje podrejene, da je »<emph>pravilno obdavčevanje duhovščine … eden
                         izmed osnovnih instrumentov za izvajanje ekonomskega pritiska na duhovščino
-                        ... Ekonomski pritisk je bil doslej najuspešnejši za izvajanje
+                        … Ekonomski pritisk je bil doslej najuspešnejši za izvajanje
                         diferenciacije.</emph>« </p>
                   <p>Oblast je sistematično nadzorovala vernike – predvsem tiste, ki so imeli
                      odgovorne službe ali bili zaposleni v državnih službah. Pod posebnim
@@ -4656,9 +4659,9 @@
                      tiči od Slovenskega doma in je deležen enake usode kakor njegov prednik v
                      Ljubljani, po katerem se skuša ravnati, kar se tiče poglavja o resnici in
                      zdravi pameti. To se pravi, da ima dosti zamer, pa še več prijateljev. Žal
-                     imamo naklado omejeno, ker nam material zanj dajejo f... plutokrati. Sicer bi
-                     ga morali pošiljati po vsej Italiji. Zdaj gre v Senigalijo, Servigliano, Jesi
-                     (?), Bologno, Modeno, Rim, Trst in Napoli. En izvod pa se špara za Vaju.
+                     imamo naklado omejeno, ker nam material zanj dajejo f … plutokrati. Sicer bi ga
+                     morali pošiljati po vsej Italiji. Zdaj gre v Senigalijo, Servigliano, Jesi (?),
+                     Bologno, Modeno, Rim, Trst in Napoli. En izvod pa se špara za Vaju.
                      Zunanjepolitične novice bosta zvedela iz njega. Drugih, razen teh, skoraj ni.
                      Iz Rima sem zvedel, da v Vatikanu računajo s splošnim evropskim preobratom za
                      konec letošnjega leta. V Jugoslaviji da se bo preobrnilo ne zaradi zunanje
@@ -4672,7 +4675,7 @@
                      izročili nobenega zahtevanega. Da jim na seji Združenih narodov v Londonu ne bi
                      delala škandala, so to storili zdaj, in pa, da bi Tita pripravili do tega, da
                      prizna razne prejšnje jugoslovanske gospodarske obveznosti, ki so velike. Zanje
-                     je to majhna reč, za nas pa ... Hudo je, ker bo ta reč demoralizirala ljudi doma.
+                     je to majhna reč, za nas pa … Hudo je, ker bo ta reč demoralizirala ljudi doma.
                      Veliko so krivi naši politiki, ki niso za nobenega od teh poštenjakov niti s
                      prstom zmignili, nasprotno najbrž še pomagali, da se znebe popularnih tekmecev.
                      Zanima me, če bo izročen Pavelić (Ante Pavelić, predsednik hrvatske države med
@@ -4698,9 +4701,9 @@
                      po liste, informacije, na razgovor z Ludvikom, iskat zvez z Ljubljano, ki so
                      zdaj zelo skope in težavne, in nesel je pakete, če jih bo mogel poslati v
                      Ljubljano. Danes pričakujemo iz Rima Žebota za neko določeno posvetovanje in
-                     čez kak mesec dni bomo dali, če pojde vse po sreči, kaj slišati od sebe. [...] Ne
-                     zamerita, da sem danes preveč čenčav in nič literaren. Včeraj smo junačili z
-                     Begunjci, Johanom in Ličetom, pa sem danes nekam f... stvaren in se mi vse
+                     čez kak mesec dni bomo dali, če pojde vse po sreči, kaj slišati od sebe. [...]
+                     Ne zamerita, da sem danes preveč čenčav in nič literaren. Včeraj smo junačili z
+                     Begunjci, Johanom in Ličetom, pa sem danes nekam f … stvaren in se mi vse
                      skupaj neumno zdi. Včeraj je prišla Mima na obisk in prinesla karto od žene, ki
                      je kar tja v tri dni pisala za božič Versarijevim (?), pa je prišlo pred dvema
                      dnevoma in tako vem, da je doma še vse v redu. Zdaj bova z Mimo pisala kot
@@ -4711,11 +4714,11 @@
                      ljudje. Zdaj ga bom temeljito strojil, ker sem dobil zvezo za letalsko pošto.
                      Pisal sem tudi Gabrovšku za posredovanje, ker imam pri ameriških listih še iz
                      dobrih časov 1000 dolarjev honorarja, če bom kaj dobil. Če mi rata, bom jaz
-                     začel kako podjetje, npr. privatni sanatorij za politike ... Tu se zdaj pa zdaj
+                     začel kako podjetje, npr. privatni sanatorij za politike … Tu se zdaj pa zdaj
                      kateri od njih zaleti. Z nekaterimi smo navezali gostilniške stike, zlasti z
-                     liberalci, ki kar strmijo, kakšni fejst fantje smo. [...] Predstavljali so si nas
-                     kot zverine, pa vidijo, da smo naravnost spodobni. Rudolfu Žitniku pravimo kar
-                     stric. Zadnjič smo jih na moč frapirali. Imeli so nekak kongres in so
+                     liberalci, ki kar strmijo, kakšni fejst fantje smo. [...] Predstavljali so si
+                     nas kot zverine, pa vidijo, da smo naravnost spodobni. Rudolfu Žitniku pravimo
+                     kar stric. Zadnjič smo jih na moč frapirali. Imeli so nekak kongres in so
                      sestavljali dve noči dolgo resolucijo. Niso imeli ne stroja ne papirja, pa smo
                      jim mi vse dali brez kakih načelnih pomislekov ...</p>
                   <p>Pikantno za Vaju bo, da so za Titove volitve izdali ljubljanski kulturniki
@@ -4725,15 +4728,15 @@
                      dosti dal nanj [...]</p>
                   <p>Ves čas, ko pišem, čutim v duhu Danovo moralno oko, kako sumljivo šteje,
                      kolikokrat omenjam krok in oštarijo. Bodi potolažen, Dano, vedi: »tvoj sinko je
-                     pal, ali vselej je vstal« in stoji jako solidno ... Včasih ga boli srce, pa kaj
+                     pal, ali vselej je vstal« in stoji jako solidno … Včasih ga boli srce, pa kaj
                      bi bili sentimentalni. Spomnite se včasih name, ki Vas vse tri, posebno gospo,
                      lepo lepo pozdravljam.</p>
                   <p>Vaš Mirko</p>
                   <p>[...]</p>
                   <p>Draga dečka!</p>
                   <p>Riccione 21, I. 1946</p>
-                  <p>Prejel obe pismi. Hvala lepa [...] Žal mi je, da Vama posel ne gre tako, kakor bi
-                     bilo prav. Toda po mojem je bolje počasi, pa solidno ali pa rajši celo nič,
+                  <p>Prejel obe pismi. Hvala lepa [...] Žal mi je, da Vama posel ne gre tako, kakor
+                     bi bilo prav. Toda po mojem je bolje počasi, pa solidno ali pa rajši celo nič,
                      kakor pa kaka srbska posla [...]</p>
                   <p>Iz Rima ni posebnih novic. Kar je politikov in nepolitikov doli, so se po
                      večini javili Angležem za stražarje kasarn, rekviriranih vil, skladišč itd. Med
@@ -4786,9 +4789,9 @@
                   <p>Draga Dano in Franci!</p>
                   <p>Riccione, 22. II. 1946.</p>
                   <p>Prejel sem obe Vajini pismi in, kakor vidim, je vse nekako v redu. Čiro je bil
-                     tu 14 dni. [...] Političnega ni povedal dosti. Kocbek je ostal na svoji katoliški
-                     liniji, kar ga je zdaj veljalo mesto – izpadel je iz vlade v Beogradu in
-                     mislim, da gre nezadržno naproti usodi, ki je namenjena sleherni pripregi
+                     tu 14 dni. [...] Političnega ni povedal dosti. Kocbek je ostal na svoji
+                     katoliški liniji, kar ga je zdaj veljalo mesto – izpadel je iz vlade v Beogradu
+                     in mislim, da gre nezadržno naproti usodi, ki je namenjena sleherni pripregi
                      komunizma, slehernemu Kerenskemu. Če ne bo takoj ušel, bo prej ali slej končal
                      v ječi, če ne še kje drugje. Sploh so krščanski socialisti vsi sila zagrenjeni,
                      ker ne igrajo nobene vloge več. Pravosodni minister dr. Pokorn (dr. Jože
@@ -4872,23 +4875,23 @@
                   <p>Čiro je bil v Gorici in v Trstu. Opravil ni nič – ni dobil ne dela ne kake
                      zveze za čez. [...] Pač pa je zvedel, da so v teku upa polna prizadevanja za
                      njegovo in mamino vrnitev. On se bo ob prvi priliki vrnil. Torej vesta, koliko
-                     je ura. Jaz sem z njim dosti govoril. [...] V bistvu obsoja samo nas, komunizma,
-                     ki je kriv našega dela in naših napak, nikdar. Zanj je dobra stvar tista, ki
-                     uspe. Če bi bili mi uspeli, bi bili pač veliki ljudje tudi zanj. Prav na dnu
-                     njegovega filozofiranja je drobcen, poniglav materializem, ki se boji sleherne
-                     žrtve na račun lastnega udobja. Ne rečem, da je slab človek ali pokvarjen, pač
-                     pa podpovprečno mero majhen in mu je spričo neke doslednosti nerodno, dasi tega
-                     ne mara priznati in vso stvar omalovažuje. [...]</p>
+                     je ura. Jaz sem z njim dosti govoril. [...] V bistvu obsoja samo nas,
+                     komunizma, ki je kriv našega dela in naših napak, nikdar. Zanj je dobra stvar
+                     tista, ki uspe. Če bi bili mi uspeli, bi bili pač veliki ljudje tudi zanj. Prav
+                     na dnu njegovega filozofiranja je drobcen, poniglav materializem, ki se boji
+                     sleherne žrtve na račun lastnega udobja. Ne rečem, da je slab človek ali
+                     pokvarjen, pač pa podpovprečno mero majhen in mu je spričo neke doslednosti
+                     nerodno, dasi tega ne mara priznati in vso stvar omalovažuje. [...]</p>
                   <p>Od doma – iz Ljubljane – ne dobim nobene pošte, dasi poskušam na legalne in
                      druge načine. Drugi vsi dobe, jaz nimam sreče. Ne vem, kaj bi to bilo. Lepe
                      pozdrave Vama in Johanu</p>
                   <p>Vaš Mirko</p>
                   <p>Dragi Franci! </p>
                   <p>Riccione, 29. III. 1946 </p>
-                  <p>[...] Kakor običajno bosta tudi to pot javno politiko brala iz lista. Izza kulis
-                     bi veljalo povedati naslednje. Pred tednom dni se je na lepem zglasil pri meni
-                     poglavar Stražarjev dr. Čiro Žebot. Prav za prav ne tako na lepem: jaz sem mu
-                     dal prav razločno sporočiti, da sem njegovih obljub sit in da vidim, da nas
+                  <p>[...] Kakor običajno bosta tudi to pot javno politiko brala iz lista. Izza
+                     kulis bi veljalo povedati naslednje. Pred tednom dni se je na lepem zglasil pri
+                     meni poglavar Stražarjev dr. Čiro Žebot. Prav za prav ne tako na lepem: jaz sem
+                     mu dal prav razločno sporočiti, da sem njegovih obljub sit in da vidim, da nas
                      samo vleče, da ne moremo sami začeti s kakim delom. Na to je prišel in sva
                      imela dolge pogovore, katerih jedro je bilo: Krek zaradi naslonitve na najožjo
                      klerikalno kliko izgublja na vseh straneh in dobiva od povsod nezaupnice.
@@ -5551,7 +5554,7 @@
                      tiskali v Parizu za založbo YMCA Press.</p>
                   <figure>
                      <graphic url="slike_z_65/z_65_50.png"/>
-                     <head></head>
+                     <head/>
                   </figure>
                   <p>V Švici je tudi uredil glede honorarjev za tuje izdaje svojih del, ki naj se
                      stekajo v poseben bančni sklad za podpiranje ruskih političnih zapornikov:
@@ -5831,7 +5834,7 @@
                      z bodečo žico, čeprav je svojo hčer znala dobro varovati pred nevšečnostmi.</p>
                   <figure>
                      <graphic url="slike_z_65/z_65_51.png"/>
-                     <head></head>
+                     <head/>
                   </figure>
                   <p>V Švici so bili užaljeni ob novici, da so kar ušli. Priznava, da bi jim moral
                      napisati prijazno pismo, preden je bomba eksplodirala. Zapisal je, da so mu

@@ -47,14 +47,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -105,7 +105,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove slovenske zaveze </head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Vsi vemo, da se v življenju dogajajo pričakovane in nepričakovane stvari. Tudi
                      v zgodovini. Nekatere stvari so pričakovane, druge pa izstopajo iz rutine
@@ -1055,7 +1057,7 @@
                      straža, ki ga je bil Oven izdajal od januarja 1937 do marca 1941, je dovolj
                      jasno pokazal svoje prepričanje. V 1. številki drugega letnika je na primer
                      zapisal: Kaj pa imamo mi skupaj s fašisti, nacisti, reksisti, ksaristi,
-                     falangisti, marksisti in vsemi ostalimi Antikristi ... Bodimo korajžni optimisti.
+                     falangisti, marksisti in vsemi ostalimi Antikristi … Bodimo korajžni optimisti.
                      In za svojo barvo si vzemimo rožnato. Rožnate naj bodo naše srajce! In naša
                      srca polna dobre volje. Demokracijo hočemo! In dosegli jo bomo. V oktobrski
                      številki istega leta je objavil svoj Credo: Verujem v svobodo in pravico. Po
@@ -1338,7 +1340,7 @@
                      na jermence. V izrezano znamenje srpa in kladiva so natresli soli, ga dvignili
                      še višje in pod njim zanetili ogenj, da je v strašnih mukah umiral.« (Bela
                      krajina joka, str. 107.) Jože Javoršek je zapisal naslednje: »Ko smo stopili v
-                     taborišče, smo vsi trije osupnili ... Duh po ožganem človeškem mesu me je silil
+                     taborišče, smo vsi trije osupnili … Duh po ožganem človeškem mesu me je silil
                      na bruhanje. Na konjski odeji je ležal popolnoma nag človek. Dvigal je napol
                      sivo glavo in hlipal in ječal in skušal izreči prošnje besede, a mu je
                      zmanjkalo moči. Z grozo v srcu sem ugotovil: suhorski župnik Janez Raztresen.
@@ -1384,7 +1386,7 @@
                      likvidacij in predvsem glede načina likvidacij. To se je dogajalo posebno v
                      partizanskih enotah, kjer se je uporabljalo tudi mučenje sumljivih civilistov.
                      Stvari so prišle v javnost in precej pomagale resnični beli gardi«. (T. F.,
-                     Ljudska oblast ... , str. 367)</p>
+                     Ljudska oblast … , str. 367)</p>
                   <p>Na naslednjih straneh že navedene knjige beremo, da so bili zaradi omenjenih
                      napak nekateri partizanski funkcionarji celo kaznovani, vendar so bile kazni
                      manjše, kot bi pričakovali. Med tako kaznovanimi je imenovan Dušan Pirjevec -
@@ -1393,7 +1395,7 @@
                      11. oktobra 1978, ko je povedal: »Tudi pri nas ni manjkalo takih strahot.
                      Pirjevca smo poslali pred partizansko sodišče zaradi sadističnega mučenja ljudi
                      – na žerjavici jih je pekel. On je sicer bil potem oproščen, nekateri drugi pa
-                     so zaradi takih zločinov bili ustreljeni.« (T.F. Ljudska oblast ... , str.
+                     so zaradi takih zločinov bili ustreljeni.« (T.F. Ljudska oblast … , str.
                      374-375) </p>
                   <p>Kot primer takih zločinov nad ljudmi in njihovim premoženjem večkrat omenjajo
                      komandirja udarne čete dolomitskega odreda Petra Cafuta - Gada. Od spomladi
@@ -1502,14 +1504,14 @@
                      kapitulaciji Italije premajhni, saj se je nova oblast lotila zadev, ki so
                      drugod lahko prišle na vrsto šele maja 1945. P. Jože Žabkar nam je v svojih
                      Izpovedih zapustil nekaj slik o delovanju te nove oblasti. Poglejmo vsaj
-                     nekatere! 29. marca 1944 ... Mavsar me je prišel iskat: »Trije so bili obsojeni
+                     nekatere! 29. marca 1944 … Mavsar me je prišel iskat: »Trije so bili obsojeni
                      na smrt, ali bi jih šel spovedat.« Hitim v ječo v poltemi, vodi me straža,
                      ropot zapahov, rožljanje ključev celice št. 5. Moški okoli 40 let, oče petih
                      otrok, joka in mi stiska roko, dve dekleti v črno oblečeni. Solza in strah mi
                      silita v oči, ko sem sedel na prično, objel spovedance, na smrt obsojene, in
-                     jih absolviral. »Ego te absolvo ... « In pa nedolžni smo, nič nismo krivi,
+                     jih absolviral. »Ego te absolvo … « In pa nedolžni smo, nič nismo krivi,
                      pozdravite mi ženo in otroke, pozdravite mi mater. – Moral sem iz ječe. Čez
-                     nekaj ur bodo ta življenja strta. Spal nisem celo noč ... 30. marca. Meni je
+                     nekaj ur bodo ta življenja strta. Spal nisem celo noč … 30. marca. Meni je
                      prišel sodnik dr. Boris Kocjančič javit, da so bili oni trije ustreljeni in
                      zakopani na pokopališču na Butoraju včeraj ob 9. zvečer. Obisk, ki mi je še teh
                      par las dvignil pokonci. Sem od Majerja pa je prišel s puško na rami Mavsar s
@@ -1517,17 +1519,17 @@
                      nedelja. Imel sem prvo mašo, takoj nato pa v sodne zapore v ljudski šoli, kjer
                      sem previdel na smrt obsojenega župnika Josipa Pravharja. Povedal sem mu, da je
                      bila njegova prošnja za pomilostitev zavrnjena in da bova poravnala račune z
-                     ljubim Bogom ... Ko sem odhajal, mi je krepko stisnil roko, pogoltnil vso bol v
+                     ljubim Bogom … Ko sem odhajal, mi je krepko stisnil roko, pogoltnil vso bol v
                      srcu, se mi nasmehnil, dvignil roko proti nebu in rekel: »Tam se vidimo!« Takoj
                      nato sem se odpeljal k podružnici v Rodine na žegnanje. Ko sem se proti večeru
                      vrnil v Črnomelj, me je čakalo naročilo, naj hitro grem v zapore, ker me župnik
                      želi še enkrat videti. Vedel je: nocoj me bodo odpeljali na zadnjo pot. Jamo so
                      naročili ob 10h in sicer »za nekega Švaba, ki da je mrtev«. Pa na takem
-                     prostoru, ki je proč od naših ljudi. Opet je skopal jamo ob zidu ... Zadnjikrat
+                     prostoru, ki je proč od naših ljudi. Opet je skopal jamo ob zidu … Zadnjikrat
                      sva se še vse pomenila: bil je zelo miren, bolj kakor pred odhodom vlaka kakšen
                      železničar. Do vrat me je spremil in še enkrat stisnil roko: »Na svidenje nad
                      zvezdami.« In potem sem šel domov. Čudno tesno mi je bilo pri srcu. Ob 9.10
-                     zvečer je padel lahen strel ... Celo noč nisem spal, tako sem bil razburjen.
+                     zvečer je padel lahen strel … Celo noč nisem spal, tako sem bil razburjen.
                      Ivanka ga je srečala, ko so ga peljali v Vojno vas. Imel je roki zvezani na
                      hrbtu in šel je pogumno smrti naproti. Vrgli so ga v izkopano jamo, slekli so
                      ga, samo srajco in spodnje hlače so mu pustili in rožni venec dali na prsi.
@@ -1600,9 +1602,9 @@
                      agresorja ali njunih sodelavcev. V 8. odstavku 2. člena isti zakon še določa,
                      da je ob pogojih iz 1. člena žrtev vojnega nasilja tudi otrok, katerega
                      roditelj je bil ubit zaradi sodelovanja v NOB ali je izgubil življenje v
-                     pogojih za priznanje žrtve vojnega nasilja ali je bil ubit kot talec ... Iz
+                     pogojih za priznanje žrtve vojnega nasilja ali je bil ubit kot talec … Iz
                      potrdila Arhiva RS je razvidno, da je bil oče prosilca ubit 15. 7. 1942, ker je
-                     simpatiziral z be-ga ... Ker stranka torej ne izpolnjuje pogojev iz 1. člena
+                     simpatiziral z be-ga … Ker stranka torej ne izpolnjuje pogojev iz 1. člena
                      zakona o žrtvah vojnega nasilja, saj so njegovega očeta ubili partizani, je
                      upravni organ odločil, kot izhaja iz izreka te odločbe.«</p>
                   <p>Upravni organ seveda ni mogel odločiti drugače, kot predpisuje zakon. Za nas v
@@ -1776,7 +1778,7 @@
                      vzpodbudilo, da sem bila bolj pozorna na to, kaj kje piše o medvojnih dogodkih
                      v tej fari. V Šolskem muzeju v Ljubljani sem tako našla nepodpisan popis
                      medvojnih dogodkov v višenjskem šolskem okolišu pod naslovom Podatki o dogodkih
-                     na šolah za časa domovinske vojne (odslej Podatki ... ). Temu zapisu se pozna, da
+                     na šolah za časa domovinske vojne (odslej Podatki … ). Temu zapisu se pozna, da
                      je bil delan v času, ko se o nekaterih stvareh ni moglo govoriti, zato je
                      marsikaj izpuščeno. Iz izkušnje pri pisanju članka Spopad na Gorenjem Brezovem
                      16. januarja 1943 (Zaveza št. 26) pa vem, da tudi podatki v tako imenovanih
@@ -1816,7 +1818,7 @@
                      Breznikarjeva. Nekatere nasprotujoče si podatke je pomagal prekontrolirati
                      Milan Jevnikar. Na razpolago mi je bil tudi dnevniški zapisek Mihaela Omahna,
                      ki mi ga je posredovala njegova vnukinja Mihaela Zajc. Dogodek je omenjen tudi
-                     v Podatkih ... , pri Ferležu in drugod. </p>
+                     v Podatkih … , pri Ferležu in drugod. </p>
                   <p>Italijani so še isti dan pod večer prišli s policijskimi psi v vas in ugotovili
                      sledi. Partizani so res prejšnji dan prišli na Brezovo po hrano, Škufčeva
                      (Breznikarjeva) pa pravi, da so pri njih prejšnje dneve v kovačnici celo
@@ -1839,7 +1841,7 @@
                      Gledali so proti svoji vasi in videli, kako gori. Zjutraj so šli domov in že od
                      daleč je smrdelo po ožganem. Opustošenje je bilo hudo, vendar so ljudje iz
                      neprizadetih hiš na obrobju vasi takoj po odhodu vojakov fašistov reševali, kar
-                     se je dalo, prej jim namreč fašisti niso pustili. Trditev v Podatkih ... , da so
+                     se je dalo, prej jim namreč fašisti niso pustili. Trditev v Podatkih … , da so
                      ženske najprej pobegnile v gozd, nato pa se vrnile in začele puliti vojakom
                      kante bencina iz rok, je malo verjetna in nisem dobila potrditve. Spuščali so
                      živino iz hlevov in gasili. Pri Koščarjevih je Lojzka Javornik pogasila ogenj
@@ -1969,7 +1971,7 @@
                      točna.Tako je Gubčeva brigada imela nalogo, da očisti območje okrog Police in
                      Dednega Dola (Prim. Ambrožič).</p>
                   <p>Napad se je začel 18. oktobra (po spominu pripovedovalcev, po Ambrožiču in po
-                     Slovenskem domu z dne 30. okt. 1942 – Smrt Jožeta Radeljna, v Pdatki ... dogodek
+                     Slovenskem domu z dne 30. okt. 1942 – Smrt Jožeta Radeljna, v Pdatki … dogodek
                      ni omenjen). Sama se spominjam, da smo otroci, teta in mama sedeli okrog peči
                      in na peči (to je bilo na Gornjem Brezovem na nasprotni strani dednodolske
                      doline, kot je Spodnje Brezovo), ko je stric (oče je bil takrat zaprt) potrkal
@@ -2029,7 +2031,7 @@
                      vodiča pri napadu na Polico, kjer je bil eden ubit, eden pa je pobegnil.
                      Obrukarjevo hišo so zažgali, misleč, da bosta stražarja zgorela, vendar sta
                      ostala živa (Podrobneje o tem glej sestavek Ivanka Kozlevčar, Spopad na
-                     Gorenjem Brezovem 16. januarja 1943, Zaveza, št.26. Ta dogodek v Podatki ... ni
+                     Gorenjem Brezovem 16. januarja 1943, Zaveza, št.26. Ta dogodek v Podatki … ni
                      omenjen.)</p>
                   <p>Po italijanski kapitulaciji je bilo področje okrog Višnje Gore svobodno
                      ozemlje. Stražarji so bili razbiti in moški iz okolice Višnje Gore so se
@@ -2046,7 +2048,7 @@
                   <p>Do prvega vdora je prišlo 22. sept. To pot se je zgrnilo gorje na samo Višnjo
                      Goro. Nemci so jo bombardirali. Na nagrobniku žrtvam tega bombardiranja je
                      datum 21. 9. 1943. Ivica Bašar, ki se bombardiranja zelo živo spominja, pa
-                     meni, da velja datum 22. 9. Ta drugi datum je naveden tudi v Podatki ... in
+                     meni, da velja datum 22. 9. Ta drugi datum je naveden tudi v Podatki … in
                      potrdila ga je tudi Kristina Petrovčič, roj. Puš. Ob tem dogodku je bila Ivica
                      v trgovini v domači hiši. Neka ženska z Vrhov jim je prinesla jajčka v
                      trgovino. Mama ju je prišla opozorit, da so avioni in naj gredo v klet, ker bi
@@ -2084,7 +2086,7 @@
                   <p>Do drugega vdora je prišlo ob nemški ofenzivi o vsesvetih (1. nov.) 1943. Ta se
                      je na tem področju začel z obstreljevanjem vasi Sela. O tem dogodku sta mi
                      pripovedovali Marija Kozlevčar, roj. Dremelj (Kavščekova) in Jožefa Zajc, roj.
-                     Traven (Belentinova). V Podatki ... ta dogodek ni omenjen. Dopoldne, ko so bili
+                     Traven (Belentinova). V Podatki … ta dogodek ni omenjen. Dopoldne, ko so bili
                      nekateri pri maši, ker so bili Vsi sveti, se je začelo obstreljevanje z
                      minometi. Obstreljevali so s planjave Hladno pri Metnaju, od koder se vas Sela
                      zelo lepo vidi. Takrat ni bilo partizanov in ni bilo nobenega pravega vzroka za
@@ -2115,7 +2117,7 @@
                   <p>Hiše so v enem letu toliko obnovili, da so ljudje lahko živeli doma. Veliko je
                      bilo solidarnostne pomoči, dosti sta zidala Jurjev in Vrbetov oče z Gorenjega
                      Brezovega, skoraj zastonj, kot je rekla Kavščekova. </p>
-                  <p>Samo Višnjo Goro je ob tem vdoru pretresel poboj talcev. 21 mož (Podatki ... ) so
+                  <p>Samo Višnjo Goro je ob tem vdoru pretresel poboj talcev. 21 mož (Podatki … ) so
                      pripeljali od drugod in jih 11. nov. pobili na travniku pod Codellijevim
                      gradom, pokopani pa so na pokopališču, kjer je spomenik partizanskim žrtvam.
                      Tega dogodka se spominja tudi Stane Potokar, ki jih je videl, preden so jih
@@ -2140,7 +2142,7 @@
                      manj nepretrgoma do junija 1944, ko so jo zasedli domobranci. Partizani pa so
                      se zavedali, da tega področja ne bodo mogli obdržati, zato so se odločili za
                      uničenje pomembnejših stavb in drugih objektov. Nastopila je zadnja faza
-                     uničevanja. Tako je prišlo 1. decembra (Podatki ... ) do požiga šole,
+                     uničevanja. Tako je prišlo 1. decembra (Podatki … ) do požiga šole,
                      Codellijevega in Auerspergovega gradu in stavbe pri železniški postaji, kjer je
                      zdaj pošta, kar je moralo biti nezaslišano dejanje. Pojavlja se vprašanje, kako
                      da se domačini niso uprli. Datuma se osebe, ki sem jih spraševala, niso
@@ -2881,7 +2883,7 @@
                      Palmanovo, ampak izročajo Titu! Pohitel sem k našim v samostan in z grozo
                      odkril, da jih ni več. Ne očeta ne mame ne Mime. Povedali so mi, da je bila
                      sestrična tista, ki jih je s svojo ihto pregovorila, da so se pridružili
-                     transportu. Kar naprej je ponavljala: »Gremo s fanti, gremo s fanti ... !«
+                     transportu. Kar naprej je ponavljala: »Gremo s fanti, gremo s fanti … !«
                      Ubogali so jo in šli na kamione, samo iz Menišije dvajset ali trideset. Pa sem
                      jih prejšnjega dni sklical, ne samo naših, ampak vse begunce iz begunjske fare
                      in jim strogo razložil: »Nobeden na vojaški kamion. Vsi morate iti prav ta
@@ -3259,7 +3261,7 @@
                   <p>Od ponedeljka, 18. junija, do velikega šmarna, 15. avgusta</p>
                   <p>Dobili smo se še z drugimi, v Otavah, Kožljeku, iz vse begunjske občine do
                      Krimske jame. Povedal sem jim: »Fantje, tako je bilo.« V našem domu pri
-                     Begunjah ni bilo nikogar. Šel sem k sorodnikom ... Čeprav smo bili prej vsak dan
+                     Begunjah ni bilo nikogar. Šel sem k sorodnikom … Čeprav smo bili prej vsak dan
                      skupaj, me niso prepoznali: »Ni ga doma, je šel na Koroško!« so me podili.
                      Komaj sem jih prepričal, da sem jaz. Povedal sem jim tudi, kaj se dogaja in da
                      so domobrance in civiliste po goljufiji vrnili s Koroške in skoraj vse pobili.
@@ -3382,18 +3384,18 @@
                      svetilkami, ki so bile obešene po grmovju in drevju. Tja so nas odpeljavali po
                      dva in dva. Zvezan sem bil s sotrpinom, nekim bogoslovcem, v prvem paru.
                      Stopiti sva morala na rob jame. Za nama sta se postavila partizana z
-                     brzostrelko. Da bi ustrelila istočasno, sta štela: »En, dva, tri ... « Ker pa je
+                     brzostrelko. Da bi ustrelila istočasno, sta štela: »En, dva, tri … « Ker pa je
                      bil bogoslovec prej zadet, mi je krogla samo siknila mimo glave. Smrtno ranjeni
                      me je potegnil s seboj. Ker pa je bilo čez jamo postavljeno zadrto bruno, sva
                      zletela zvezana čezenj vsak na svojo stran.Vez se je ob padcu pretrgala. Tako
-                     sem padel v jamo cel in obležal nezavesten ... K zavesti so me spravila trupla,
+                     sem padel v jamo cel in obležal nezavesten … K zavesti so me spravila trupla,
                      ki so padala name. Jama je bila globoka tri do štiri metre, dolga približno
                      petindvajset in dva do tri metre široka. Iz zgornje strani jo je zasipaval
                      pesek. Na drugem koncu je postajala vedno plitvejša, ob robu pa je rastlo
                      grmičevje. Tja sem se priplazil in čakal na priložnost, da uidem stražarjema,
                      ki sta streljala na drugem koncu. Videl sem prihajati naslednjo skupino. Iz nje
                      sta se iztrgala dva fanta in pobegnila. Moja partizana sta nehala streljati,
-                     eden od njiju pa je zavpil: »Glej ga, hudiča, k... belega!« V hipu se je pognal
+                     eden od njiju pa je zavpil: »Glej ga, hudiča, k … belega!« V hipu se je pognal
                      za njima. Izkoristil sem priložnost, skočil iz jame in povzročil zmedo še med
                      stražarji. Sedeli so skriti v senci za svetilkami in zanje nisem vedel. Čeprav
                      sem stal sredi njih, si niso upali streljati, da ne bi zadeli svojih. Pognal
@@ -4764,7 +4766,7 @@
                <docAuthor>Blaža Cedilnik</docAuthor>
                <div type="div3">
                   <p>Jolandi Čeplak so se zasolzile oči od sreče, ko je stopila na stopničke, potem
-                     pa, ... saj veste, kako je šlo naprej.</p>
+                     pa, … saj veste, kako je šlo naprej.</p>
                   <p>Z možem sva obiskala World trade center v Baltimoru. Kljub pozornemu
                      ogledovanju zastav nisva našla slovenske zastave. Ko sva zatežila receptorju,
                      sva mu morala najprej razložiti, kaj je to za ena država, potem je pogledal v
@@ -5437,7 +5439,7 @@
                         bo nedeljsko dolžnost opravila v cerkvi ali v nakupovalnem centru. Ne, tukaj
                         ni tiste medle slovenske duše, ki – morda tik po maši – obkroža številko
                         pred potuhnjenim zatiralcem svobode.</p>
-                     <p>Roška duša ve, kaj se je dogajalo na naši zemlji ... Sesutje newyorških
+                     <p>Roška duša ve, kaj se je dogajalo na naši zemlji … Sesutje newyorških
                         dvojčkov se kljub grozljivosti, ki je osupnila svet, ne da primerjati z
                         dovršenim terorizmom slovenskih komunistov – niti po številu smrtnih žrtev
                         niti po gigantskem obsegu zločinov nad živimi.</p>
@@ -5637,7 +5639,7 @@
                         Tudi Slovenska škofovska konferenca je izrazila »pripravljenost priznati in
                         obžalovati vse, kar se je na katoliški strani in še posebej v imenu
                         katolištva zgodilo nemoralnega, zločinskega in protinarodnega«. (v.: France
-                        Dolinar, Resnici na ljubo ... ). Ko to danes presojamo iz zgodovinske
+                        Dolinar, Resnici na ljubo … ). Ko to danes presojamo iz zgodovinske
                         perspektive, vidimo, da nobena ponujena roka ni bila sprejeta. Vendar, pred
                         nami je sedaj čisto nov izziv.</p>
                      <figure>
@@ -5992,7 +5994,7 @@
                   <p>Dr. Meršol je zapisal: »31. maja, na dan Sv. Rešnjega Telesa, ob drugi uri
                      popoldne smo se major Barre, Miss Halding, šofer in jaz odpeljali z avtom v
                      Podljubelj, kjer je bila ženska bolnišnica. Tam smo obiskali vse begunke, ki so
-                     bile tam zaradi bolezni ali poroda ... Okrog pete ure popoldne smo se vrnili v
+                     bile tam zaradi bolezni ali poroda … Okrog pete ure popoldne smo se vrnili v
                      taborišče. Pri pisarni nas je čakal g. Krištof, tolmač pri lt. (poročniku)
                      Amesu (Krištof navaja Hames), ki je naročil, da mora Barre čimprej priti v
                      pisarno k njemu, ker gre za vrnitev civilnih beguncev v Jugoslavijo. Tedaj sem
@@ -6015,9 +6017,9 @@
                      nasedali lažnivim vestem. (Dan ali dva pred tem je najbrž kakšen slovenski
                      begunec v Celovcu slišal, da se Hrvatom pri Pliberku hudo godi, a vest se v
                      taborišču ni kaj bolj razširila. J. G.). Nikomur se ni bati, da bi jih Britanci
-                     vrnili Titu ... Prosil je, naj se to javno razglasi vsem našim ljudem, da
+                     vrnili Titu … Prosil je, naj se to javno razglasi vsem našim ljudem, da
                      slovenski begunci stoje pod britansko zaščito v vetrinjskem in v vseh
-                     taboriščih, kjerkoli bodo ... Vsakogar, ki bi prišel motit red od zunaj ali pa bi
+                     taboriščih, kjerkoli bodo … Vsakogar, ki bi prišel motit red od zunaj ali pa bi
                      med nami poskušal sejati razdor, moramo energično odstraniti iz taborišča.«
                      Tako je poročal taboriščni list Domovina v taborišču 19. maja.</p>
                   <figure>
@@ -6117,7 +6119,7 @@
                      razveljavila ukaz ‘poveljnika divizije’ (ukaz je bil dan od korpusa, J. G.) in
                      ustavila premišljeno izdelan načrt – na željo nekega zaničevanega begunca
                      (Meršol) in majorja ‘iz kolonij’ (kanadski Barre), ki je bil dodeljen ne zelo
-                     upoštevani vojaški vladi. Kanadski in škotski major (Johnson) ... prav gotovo ne
+                     upoštevani vojaški vladi. Kanadski in škotski major (Johnson) … prav gotovo ne
                      bi mogla rešiti vsega problema le na svojo odgovornost. Nekaj se je pač moralo
                      dogajati za kulisami.« (John Corsellis, »Uspešen odpor proti prisilnemu
                      vračanju«, predavanje v Tinjah 1995, v slovenskem prevodu objavljeno v brošuri
@@ -6173,36 +6175,38 @@
                      <label>I. ARGENTINA</label>
                   </item>
                   <item>
-                     <address><name>Lovro Jan</name>
-                     <addrLine>C.C. 907</addrLine>
-                     <addrLine>8400 Bariloche</addrLine>
-                     <addrLine>Rio Negro</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
-                  </item>
-                  <item>
-                     <address><name>Joža Markeš</name>
-                  <addrLine>Virrey Loreto 3365</addrLine>
-                     <addrLine>1605 Carapachay</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
+                     <address>
+                        <name>Lovro Jan</name>
+                        <addrLine>C.C. 907</addrLine>
+                        <addrLine>8400 Bariloche</addrLine>
+                        <addrLine>Rio Negro</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
                   <item>
                      <address>
-                     <name>Marjan Šušteršič</name>
-                     <addrLine>Gral. Vacca 995</addrLine>
-                     <addrLine>1686 Hurlingham</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
+                        <name>Joža Markeš</name>
+                        <addrLine>Virrey Loreto 3365</addrLine>
+                        <addrLine>1605 Carapachay</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
+                  </item>
+                  <item>
+                     <address>
+                        <name>Marjan Šušteršič</name>
+                        <addrLine>Gral. Vacca 995</addrLine>
+                        <addrLine>1686 Hurlingham</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
 
                   <item>
                      <address>
-                     <name>Slavko Urbančič</name>
-                     <addrLine>Ramon L. Falcon 4158</addrLine>
-                     <addrLine>1047 Buenos Aires</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
+                        <name>Slavko Urbančič</name>
+                        <addrLine>Ramon L. Falcon 4158</addrLine>
+                        <addrLine>1047 Buenos Aires</addrLine>
+                        <addrLine>Argentina</addrLine>
+                     </address>
                   </item>
 
                   <item>
@@ -6210,11 +6214,11 @@
                   </item>
                   <item>
                      <address>
-                     <name>Anton Štih</name>
-                     <addrLine>20 Rufford Rd</addrLine>
-                     <addrLine>Toronto, Ontario</addrLine>
-                     <addrLine>MBW 4V6 CANADA</addrLine>
-                  </address>
+                        <name>Anton Štih</name>
+                        <addrLine>20 Rufford Rd</addrLine>
+                        <addrLine>Toronto, Ontario</addrLine>
+                        <addrLine>MBW 4V6 CANADA</addrLine>
+                     </address>
                   </item>
 
                   <item>
@@ -6222,19 +6226,19 @@
                   </item>
                   <item>
                      <address>
-                     <addrLine>Slovenska pisarna</addrLine>
-                     <addrLine>(Anton Oblak)</addrLine>
-                     <addrLine>c/o St. Vitus Church</addrLine>
+                        <addrLine>Slovenska pisarna</addrLine>
+                        <addrLine>(Anton Oblak)</addrLine>
+                        <addrLine>c/o St. Vitus Church</addrLine>
                         <addrLine>6104 Glass Ave.</addrLine>
-                     <addrLine>Cleveland, OHIO 44103, USA</addrLine>
-                  </address>
+                        <addrLine>Cleveland, OHIO 44103, USA</addrLine>
+                     </address>
                   </item>
                   <item>
                      <address>
-                     <addrLine>Franjo Mejač</addrLine>
-                     <addrLine>7042 West Tripoli Ave.</addrLine>
-                     <addrLine>Milwaukee Visconsin 53220 USA</addrLine>
-                  </address>
+                        <addrLine>Franjo Mejač</addrLine>
+                        <addrLine>7042 West Tripoli Ave.</addrLine>
+                        <addrLine>Milwaukee Visconsin 53220 USA</addrLine>
+                     </address>
                   </item>
                </list>
             </div>

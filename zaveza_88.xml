@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="tei-zaveza.rnc" type="compact"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -59,7 +59,7 @@
 					<p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
 				</availability>
 				<idno type="issue">88</idno>
-				<idno type="ISSN">xYxyxcc ??</idno>
+				<idno type="ISSN">?</idno>
 				<date>2013-07-15</date>
 			</publicationStmt>
 			<sourceDesc>
@@ -3747,7 +3747,7 @@
 							Trajalo je kakšen mesec, da so 'pospravili' celo skupino. Ujetnikom v
 							barakah je bilo rečeno, da jih odvažajo v Rusijo, na delo v rudnike.
 							Kasneje so izvedeli kruto resnico, da so jih peljali v bližnje rudnike,
-							Hudo jamo, Barbarin rov ... in ne na delo.</p>
+							Hudo jamo, Barbarin rov … in ne na delo.</p>
 					</div>
 					<div type="div3">
 						<head>Sojenje A-jevcem in B-jevcem</head>
@@ -6167,7 +6167,8 @@
 					</div>
 				</div>
 				<pb n="096"/>
-				<div type="div2"><head>Voščilo</head>
+				<div type="div2">
+					<head>Voščilo</head>
 					<div type="div3">
 						<figure>
 							<graphic url="slike_z_88/z_88_54.png"/>
@@ -6189,7 +6190,8 @@
 		<back>
 			<div type="div1">
 				<head>Na platnicah</head>
-				<div type="div2"><head>Milko Mikola: Rdeče nasilje</head>
+				<div type="div2">
+					<head>Milko Mikola: Rdeče nasilje</head>
 					<div type="div3">
 						<p>»Če skušamo na podlagi vseh do sedaj navedenih dejstev in podatkov podati
 							pregled komunističnega nasilja v Sloveniji, je mogoče zapisati

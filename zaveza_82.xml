@@ -48,21 +48,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova Slovenska zaveza</p>
             </availability>
             <idno type="issue">82</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2012-03-03</date>
          </publicationStmt>
          <sourceDesc>
@@ -106,7 +106,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza </head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Slovenska nelagodnost in nedorečenost</head>
                   <p>Če hoče biti tudi pričujoče razmišljanje o sedanjih slovenskih zadevah
@@ -1036,7 +1038,7 @@
                      postregli, kadar je kaj potreboval. Še vedno je bil zelo onemogel. V Radomljah
                      v župnišču sem jaz med Doktoričevimi knjigami odkrila Jurčičeve spise. Tako sem
                      prebrala ''Jurija Kozjaka«, pa »Desetega brata« in sem se seznanila s
-                     »Sosedovim sinom« ... Tam se mi je odprl svet literature. Našla sem tudi
+                     »Sosedovim sinom« … Tam se mi je odprl svet literature. Našla sem tudi
                      Kersnikove zgodbe.</p>
                   <p>Iz Radomelj smo romali na Brezje. Mama se je zaobljubila, da bo šla peš na
                      Brezje, če se očetu zdravje izboljša. Tako smo hodili peš iz Radomelj na
@@ -1114,8 +1116,8 @@
                      po slamnjačah, ki smo jih sicer vsako jutro nakopičili ob steno, in si
                      pripovedovali zgodbe iz raznih filmov, ki smo jih videli med letom. Bilo nam je
                      strašno lepo, varno in prijetno. Zapeli smo »Kje so tiste stezice« in veselo
-                     »Če student na rajžo gre« ... , končno pa še »Zabučale gore ... oj mladost ti
-                     moja, kam odšla si, kje si«!</p>
+                     »Če student na rajžo gre« … , končno pa še »Zabučale gore … oj mladost ti moja,
+                     kam odšla si, kje si«!</p>
                </div>
                <div type="div3">
                   <head>Na Goriškem</head>
@@ -2641,8 +2643,8 @@
                      Kocbeka lahko izključimo iz vseh organizacij, kadarkoli hočemo, in to pojasnimo
                      našim ljudem brez vsakih resolucij in brez tega, da bi ga delali za politično
                      figuro ali pa celo za mučenika. Zdi se mi, da je treba Kocbeka pred slovenskim
-                     ljudstvom predvsem osmešiti, ker je dejansko smešna figura ... in mu povedati,
-                     da Kocbek spada na Studenec in pa v zapor, če bo nadaljeval s takimi stvarmi.«
+                     ljudstvom predvsem osmešiti, ker je dejansko smešna figura … in mu povedati, da
+                     Kocbek spada na Studenec in pa v zapor, če bo nadaljeval s takimi stvarmi.«
                      (O., str. 88)</p>
                   <p>Po Kardeljevi oceni na plenumu je Miha Marinko naročil Vidmarju, naj se s
                      Kocbekom dogovori glede odstopa. Kocbek je pristal, da odstopi z obeh
@@ -2722,8 +2724,8 @@
                      nismo mogli privoliti v slabitev vodilne vloge Komunistične partije Slovenije v
                      narodnoosvobodilni vstaji. Bili smo pripravljeni sprejeti odkrito politično
                      konfrontacijo z vsakim, ki bi od nas zahteval take koncesije.« Nato se je
-                     dotaknil bele garde. »Vso zgodovinsko krivdo nosijo organizatorji bele garde.
-                     ... Zato smo v tem času prav tem organizatorjem napovedali neusmiljen boj do
+                     dotaknil bele garde. »Vso zgodovinsko krivdo nosijo organizatorji bele garde. …
+                     Zato smo v tem času prav tem organizatorjem napovedali neusmiljen boj do
                      uničenja.« (O., str. 152) Te Kardeljeve trditve so Kocbeka silile, da mora
                      odgovoriti. </p>
                   <p>Za 70-letnico je urednik Dela Mitja Gorjup naročil jubilejni <emph>članek
@@ -4238,7 +4240,7 @@
                   <p>Bolni papež Pij XI. je zapisal, da so mu nemški škofje poročali o življenju
                      svojih rojakov in njihovi zvestobi kljub nasprotovanjem. V daljšem odstavku o
                      mladini je zapisal npr.: »Le pojte svoje pesmi o svobodi, toda ne pozabite ob
-                     njih svobode otrok božjih! ... Veliko vam govore o veličini junaštva, ki jo
+                     njih svobode otrok božjih! … Veliko vam govore o veličini junaštva, ki jo
                      vedoma in napačno devajo v nasprotje s ponižnostjo in potrpežljivostjo … Veliko
                      vam govore o človeških slabostih v zgodovini Cerkve. Zakaj vam pa zamolčujejo
                      velika dela, ki jo spremljajo na njeni poti skozi stoletja?« Že ti stavki
@@ -6230,7 +6232,8 @@
       <back>
          <div type="div1">
             <head>Dodatek</head>
-            <div type="div2"><head>Dodatek</head>
+            <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <p>Hacin navaja dr. Marka Natlačena:</p>
                   <p>Danes se se premislil. Seznam se mora uničiti. Zakaj tudi oni se bodo borili za

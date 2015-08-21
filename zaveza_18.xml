@@ -29,14 +29,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -87,7 +87,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Selektivni spomin zmagovalcev</head>
                   <p>Jubilejno leto 1995 se je nagnilo v drugo polovico. Ker so se leta 1945
@@ -778,8 +780,8 @@
                      podatkov o »slovenski legiji«, ki so jo začeli organizirati po terenu. Ko smo
                      se o tem pogovarjali, smo prišli mimogrede na misel, naj bi se poskušal vsaj za
                      nekaj časa vriniti med organizatorje legije, pa bi znabiti utegnil dobiti več
-                     vpogleda v njihove načrte ... Erjavec je res uspel prepričati župana Kastelica v
-                     svojo privrženost, tako da ga je le-ta priporočil vodstvu v Ljubljani ... « (R.
+                     vpogleda v njihove načrte … Erjavec je res uspel prepričati župana Kastelica v
+                     svojo privrženost, tako da ga je le-ta priporočil vodstvu v Ljubljani … « (R.
                      Polič, <emph>Čudežna pomlad</emph>, str. 24–25).</p>
                   <p>Znano je, da je bila Slovenska legija ilegalna vojaška organizacija Slovenske
                      ljudske stranke. Njen namen je bil v okupirani deželi vzpostaviti vojaško
@@ -1217,7 +1219,7 @@
                      opuščene rudniške jaške, jih dviguje visoko nad vse pojmljivo. Niso prosili
                      milosti, zaradi lakote, žeje in udarcev jih je v tistih omotičnih mukah
                      prevzemala predvsem želja, naj bo že enkrat vsega konec, in misel, ki jo je
-                     bilo mogoče takrat misliti, da božji mlini meljejo ... </p>
+                     bilo mogoče takrat misliti, da božji mlini meljejo … </p>
                   <p>Zagonetna in sporna stvar, s kakršno v taki obliki še nikdar ni imela opraviti
                      mednarodna zakonodaja, ki ureja razmere v času okupacije, in ki jo komunistična
                      stran ponavlja kar naprej in z njo spušča umetno meglo, je in bo ostala, da so
@@ -1580,7 +1582,7 @@
                      z radijsko oddajno postajo. Spominjam se, da je bilo to v sobi v prvem
                      nadstropju Vzajemne zavarovalnice in da je ta imela okno, ki je gledalo na
                      ulico med poslopjem in sodnijo. Naenkrat zakriči Šmajd: Iščejo nas (Nemci) z
-                     iskalnim vozom ... Godina je zagrabil aparat, zaklenil vrata in vsi trije smo
+                     iskalnim vozom … Godina je zagrabil aparat, zaklenil vrata in vsi trije smo
                      odšli v klet in po kletnih hodnikih čisto na drug konec poslopja in nato v
                      sobo, katere okna so gledala proti kolodvoru. Ko sem se nekoč drugič vračal iz
                      Gorice in Vidma, stopil z vlaka na glavnem kolodvoru in se napotil po
@@ -1885,8 +1887,10 @@
                </div>
             </div>
          </div>
-         <div type="div1"><head>Slišal sem žerjava glas</head>           
-            <div type="div2" subtype="poem"><head>Slišal sem žerjava glas</head>
+         <div type="div1">
+            <head>Slišal sem žerjava glas</head>
+            <div type="div2" subtype="poem">
+               <head>Slišal sem žerjava glas</head>
                <lg>
                   <l>Slišal sem žerjava glas;</l>
                   <l>ostri krik njegov oznanja,</l>
@@ -2445,7 +2449,7 @@
                      obzirnosti do drugih sester. Zvečer pa se je le pogosto zaslišala pesem:</p>
                   <p>Tiha luna jasno sije,</p>
                   <p>duh moj misli na svoj dom. </p>
-                  <p>Daleč, daleč so planine ... </p>
+                  <p>Daleč, daleč so planine … </p>
                   <p>Marija je tu pokazala, kakšen človek je. S Pustote je prinesla delavnost, v
                      besedilu za vlogo, ki si jo je v življenju izbrala, pa so besede potrpljenje,
                      skromnost, požrtvovalnost vidno izpisane. Sestra Ermina Maria Boznar je vzela
@@ -2618,7 +2622,7 @@
                      sredi Argentine kupiti zemljo ob rečici za prvo počitniško kolonijo slovenskih
                      otrok? Tiha vzajemna pomoč med rojaki in težko pritrgani prihranki so omogočali
                      delo, ki je imelo za nas globok smisel, kajti po božji volji smo ostali živi,
-                     da z življenjem pričamo. »Nekoč bo ... « smo upali proti upanju.</p>
+                     da z življenjem pričamo. »Nekoč bo … « smo upali proti upanju.</p>
                   <p>Poljski pesnik je zapisal, da je »rodoljubu na tujem umreti«. Sam je to izkusil
                      in ni pretiraval. V starem Rimu je bilo izgnanstvo, odvzetje pravice bivanja v
                      domovini, najtežja kazen za usmrtitvijo, kajti odrezala je človeku korenine. Mi
@@ -2728,7 +2732,7 @@
                      Slovenije v svetu.</p>
                   <p>Takrat bo življenje zdomcev postalo lažje, občutili bodo, da so kljub razdaljam
                      z veseljem sprejeti v veliko slovensko družino, da so prepoznani ne le kot
-                     vest, marveč kot živ ud narodnega telesa. To morda ne bo kmalu, a nekoč bo ... </p>
+                     vest, marveč kot živ ud narodnega telesa. To morda ne bo kmalu, a nekoč bo … </p>
                   <p>Medtem pa moramo še naprej nositi križ begunstva, ki smo ga sprejeli in ki ga
                      predajamo iz roda v rod. Težak je, a Bog daj, da bo kot vsak križ tudi ta
                      plodovit.</p>
@@ -2968,7 +2972,7 @@
                      z Newmanovimi besedami: »Ko bi videl dečka lepe postave in duha, z znaki
                      plemenite narave, vrženega v svet brez imetja in nesposobnega povedati, od kod
                      prihaja in kdo so njegovi sorodniki, bi sklepal, da mora biti povezana z
-                     njegovo zgodovino neka skrivnost ... Samo tako bi lahko razložil nasprotje med
+                     njegovo zgodovino neka skrivnost … Samo tako bi lahko razložil nasprotje med
                      obljubami, ki so njem, in njegovim dejanskim stanjem«. Misel, da zemlja ni
                      človekov pravi dom, je središčna krščanska misel. Toda, odkar krščanstvo ne
                      obvladuje Evrope v celoti, tudi ta misel ni več tako vsenavzoča. Če malo
@@ -3024,7 +3028,7 @@
                      <l>In slišim glas, ki noč ga ta poji, </l>
                      <l>srce pod mojim srcem pokopano, </l>
                      <l>molčanje biti slišim že pijano: </l>
-                     <l>ta jezik ne vprašuje, le slavi ... </l>
+                     <l>ta jezik ne vprašuje, le slavi … </l>
                   </lg>
                   <lg>
                      <l>Molčeče zvezde tvojega srca, </l>
@@ -3061,47 +3065,47 @@
                      »pesem naj zapojem, ki ko v snu mračno nosim jo v iskanem dnu.« Poznal je
                      mitološko verovanje starih Grkov, da je Palas Atena boginja umetnosti in
                      pravične vojne, pa je drzno – in zdi se mi, smehljaje se – zapel: »Kar je bog
-                     zavrgel, človek tega ne dotikaj se ... Ali ... pesem naj zapojem ... Potlej mirno me
-                     za vek prekolni ... bil sem kakor bog, za trenutek v sebi sklenjen krog!« V pesmi
+                     zavrgel, človek tega ne dotikaj se … Ali … pesem naj zapojem … Potlej mirno me
+                     za vek prekolni … bil sem kakor bog, za trenutek v sebi sklenjen krog!« V pesmi
                         <emph>Rast</emph> si otožno želi: »Skoz mene zdaj tipaje naj gredo vsa dobra
                      semena,« In v Popotni jutranjici ugotavlja: »Kakor slepec sem se opotekel, k
                      soncu dvigal sem obraz bolno. Kot puščice žarki so prebodli me v oči in dobro
-                     je bilo. Zdaj ni luči več in tudi ran ni več v očeh ... « Strašno si želi, da bi
+                     je bilo. Zdaj ni luči več in tudi ran ni več v očeh … « Strašno si želi, da bi
                      njegova slovenska pesem postala »sonce, ki nič več ne zajde, in seme svetu, ki
                      zdaj v nas spočet je«. Znova in znova butne skoz njegovo pesem slutnja, da je
                      vse to zorenje »v bolečini« zorenje, ki bi nas moralo najti nekoč »pripravljene
                      in zbrane« in ki bi razodelo končni smisel naših »blodenj« – zaman. V pesmi Ura
-                     napoveduje: »Vsi sužnji, vsi pred nami, vsi za nami ... trinog nam uravnava
-                     misli, delo, besede, slutnje in življenje celo ... « V svoji šestdelni simfoniji
-                     izpoveduje: » ... slutnja zla, neizprosnejša kot skala je v nočni čas nad mano
-                     zastrmela. Zakaj tak grenka z lepim je zaveza, zakaj življenje ... za dobrim,
+                     napoveduje: »Vsi sužnji, vsi pred nami, vsi za nami … trinog nam uravnava
+                     misli, delo, besede, slutnje in življenje celo … « V svoji šestdelni simfoniji
+                     izpoveduje: » … slutnja zla, neizprosnejša kot skala je v nočni čas nad mano
+                     zastrmela. Zakaj tak grenka z lepim je zaveza, zakaj življenje … za dobrim,
                      svetim nam iskati brani?« In proti koncu svojih zvočnih stavkov pravi: »Kakor
-                     da ... več nisem zdrav« zaradi svetu poznanega gorja, »sam bom ljubil zemljo to
-                     izdano, osramočeno drago nam zemljo ... voljno trohnim«, ker smrt pravzaprav ne
+                     da … več nisem zdrav« zaradi svetu poznanega gorja, »sam bom ljubil zemljo to
+                     izdano, osramočeno drago nam zemljo … voljno trohnim«, ker smrt pravzaprav ne
                      zna umreti kot »zaročenka zvesta«. Sredi življenja imenuje sebe »davnega
                      mrtvega, z zemljo zasutega« (<emph>Mrtvec med zidovi</emph>). Plamen je, ki »si
                      tla nam izpodjedla«, in »poslednji zvok«, »nato nas noč zasuje« sredi otrplih
                      sten, ni raztrgal »kovinastega mraka« in ni dosegel višav »nebes in sonce«.
-                     Srečo drevesa primerja s seboj in pri sebi ugotovi deficit: » ... trudno iščemo
-                     resne poti, dokler zaman ne izkrvavi naših src hrepenenje ... čutimo ... bolno, da
+                     Srečo drevesa primerja s seboj in pri sebi ugotovi deficit: » … trudno iščemo
+                     resne poti, dokler zaman ne izkrvavi naših src hrepenenje … čutimo … bolno, da
                      smo vedno bolj zapuščeni. « V pesmi Nada tako rekoč poslednjič vabi in kliče in
-                     prosi nado, da bi »prišla in rasla in ... nas potešila«, a prosi za druge, ker je
+                     prosi nado, da bi »prišla in rasla in … nas potešila«, a prosi za druge, ker je
                      njemu le »bolna tišina« in ga zmeraj vara. Pesem Slutnja vse pove: »O ljubezen,
                      nosim te v sebi za žalostno smrt, odšla boš tiho, počasi, s krvjo, ki tekla v
                      prst bo nekoč.« In vendar ga ni sram, ker trpi za »vse zasramovane, izgnane v
                      razdejani domovini«, za »to izdano, osramočeno, drago nam zemljo«, za vse v »
                      suženjstvu«, »v uri prekušnje, ko bodo obmolknili vsi«
                      (<emph>Trepetanje</emph>). Nekje na dnu srca ve, da njegova življenjska pesem
-                     ni zaman in da služi resnični bodočnosti Slovencev: » ... kako mi je iz dna
+                     ni zaman in da služi resnični bodočnosti Slovencev: » … kako mi je iz dna
                      rastočemu lepo.« »Vse lepše ljubil bom iz globočin, ko bodo zemlje se oklenili
-                     prsti.« » ... voljno trohnim za svojo srčno rano, za prst spokojno, ki rodila bo
-                     ... Ne bo se dvigniti mi pretežko ... « » ... kot ponevedoma bomo odprli dremotne
+                     prsti.« » … voljno trohnim za svojo srčno rano, za prst spokojno, ki rodila bo
+                     … Ne bo se dvigniti mi pretežko … « » … kot ponevedoma bomo odprli dremotne
                      veke, da zalil bo dan svetlo duha in razkopano dlan, in ko na zemljo bomo se
-                     ozrli, ne bomo vedeli, da smo umrli.« » ... vsa zemlja v jutri kliče: vstani!«
+                     ozrli, ne bomo vedeli, da smo umrli.« » … vsa zemlja v jutri kliče: vstani!«
                      »Ko mi bodo od vsega le ustne ostale, previdno se deklice bodo sklonile in jih
                      prah tiho, strastno poljubile, da znenada, ko v strune zadeli bi prsti, se v
                      meni bo velika pesem zbudila in mi bo z vonjem ves dom napolnila.« V Vrču se
-                     dotakne skrivnostne moči v sebi: » ... zveneča radost mirno kaplja vame, in nove
+                     dotakne skrivnostne moči v sebi: » … zveneča radost mirno kaplja vame, in nove
                      cvete v srcu mi zasaja.«</p>
                   <p>Hribovšek se je odločil za revolucijo v znamenju domobranstva, ki bi se lahko
                      razvilo v resnično gverilstvo proti nacizmu in fašizmu, ko ne bi bilo
@@ -3114,7 +3118,7 @@
                      Beogradu in pozval svojih okrog 10.000 članov v boj.</p>
                   <p>Mimogrede: prva okrožnica Kominterne za boj proti nacizmu, 22. junija 1941, je
                      KPJ opomnila, da je prva naloga tega boja ohranitev sovjetskega komunizma, ne
-                     pa uvedba lastne socialistične revolucije ... Pa naj navedem še zgodovinsko
+                     pa uvedba lastne socialistične revolucije … Pa naj navedem še zgodovinsko
                      študijo Walterja R. Robertsa, ki jo je pred dvema letoma izdala založba Rutgers
                      University Press v New Brunswicku, N. J.: »Nemalo spora je sprožilo vprašanje o
                      vlogi KPJ med 25. marcem (ko se je Jugoslavija pridružila Osi) in 22. junijem,
@@ -3136,7 +3140,7 @@
                      zadnjem stavku namesto »potem« – istočasno? KPJ se je tolkla za Stalina in
                      njegov sistem. V 20. pismu Stalinove hčere Svetlane Alijujeve je zapisano: »
                      Zdi se mi, da je bil moj oče sredi črnega kroga in kdor si je upal vanj, je
-                     izginil, poginil ali pa bil uničen tako ali drugače ... Dokler je oče živel,
+                     izginil, poginil ali pa bil uničen tako ali drugače … Dokler je oče živel,
                      pravzaprav zame ni moglo biti normalnega življenja.« (Citirano po angl. prevodu
                      iz leta 1967, Harper and Row izd., str. 222–223) Naj me nihče napak ne razume:
                      ni komunizem slab zaradi Stalina, ampak Stalin zaradi komunizma in njegove
@@ -3174,20 +3178,20 @@
                      pesmi Jabolko na mizi se skloni nad mizo in nad krvaveče srce jabolka, da loči
                      »sladko upanje od sile«. V Pomladni rasti iz srca želi, »naj v višino, naj v
                      globino se požene naša rast, naj vzkipi kot mlado vino, naj bo naša moč in
-                     slast«. Spomladi mu je veter »prešerno odkril ... čudno temna razodetja ... oj,
+                     slast«. Spomladi mu je veter »prešerno odkril … čudno temna razodetja … oj,
                      človek, zdaj se mi odkrij, zrastem se v tvojo tišino in pesem bodočih bom dni.
-                     Boj nad Življenjem dobljen je ... « V <emph>Strmenju</emph> opisuje naše hiše:
+                     Boj nad Življenjem dobljen je … « V <emph>Strmenju</emph> opisuje naše hiše:
                      »Hiše k zemlji sklonjene ždijo, kakor da bi hranile skrivnost, v svoja brezna
                      strmijo, v sebi nosijo novo mladost.« V <emph>Iskanju</emph> kljub trpljenju
-                     priznava: »Ko sem zašel v najhujši mrak, so se odprle mi skrivnostne duri ... ko
+                     priznava: »Ko sem zašel v najhujši mrak, so se odprle mi skrivnostne duri … ko
                      mečejo vsi vame kamne, dobivam od človeka ključ.« V <emph>Noči</emph> ne ve,
                      kako naj dvigne zaklad na dnu zalitega brezna, a bitje lastnega srca mu je v
                      odgovor. Tesnobo prosi, da mu kot ljubimka razodene svoje skrivnosti
-                        (<emph>Tesnoba</emph>). »Mogočne vere ... ne zasuje ne kamenje ne človek ne
-                     minute ... up jo napolnjuje ... ko sok pomladni ... « (<emph>Ura</emph>, 1942). Celo
-                     na očetovem grobu najde »prostor«, ki se »vse bolj in bolj ... razteza ... «
+                        (<emph>Tesnoba</emph>). »Mogočne vere … ne zasuje ne kamenje ne človek ne
+                     minute … up jo napolnjuje … ko sok pomladni … « (<emph>Ura</emph>, 1942). Celo
+                     na očetovem grobu najde »prostor«, ki se »vse bolj in bolj … razteza … «
                      (štiridelna <emph>Na očetovem grobu</emph>). Veter nosi pod nebo, »kar se ne da
-                     v besedo ukleniti; o tem viharji v grozi naj pojo ... « (<emph>Razgovor</emph>).
+                     v besedo ukleniti; o tem viharji v grozi naj pojo … « (<emph>Razgovor</emph>).
                      »Počasi v zrenje se zavest mi staplja« (<emph>Deževna noč</emph>, 1943, ko si
                      želi, da bi bil tako enostaven doprinos k rasti, kot je kaplja, prav zdaj, ko
                      ga je »tema podsula«). »Kakor obraz teh sivih skal, ki sem nanje prikovan, je
@@ -3195,13 +3199,13 @@
                      Štiri pesmi: <emph>Žalost</emph>, <emph>Pomladna pesem</emph>
                      <emph>1944</emph>, <emph>Osamelost</emph> in <emph>Molitev</emph> so strahoten
                      opis uboge Slovenije, strahoten tudi zaradi slutnje tragedije nad zemljo, »ki
-                     sem v te položil ljubezen svojo, polno nad, strahu ... Bog vedi, kaj že vse sem
-                     bil izgubil ... O to prekletstvo; ko bi hotel rasti, razpeti sile ... pa moraš brez
+                     sem v te položil ljubezen svojo, polno nad, strahu … Bog vedi, kaj že vse sem
+                     bil izgubil … O to prekletstvo; ko bi hotel rasti, razpeti sile … pa moraš brez
                      besede bedno pasti.« In vendar se ne vda obupu: »Morda v molčanju mrtvega srca
-                     spet pesem vdano mi zatrepeta. Povedat pridem, ko jo bom obudil.« »O, človek ...
-                     od te ure iskal boš svobodo in mir ... in točil sovražnikom svojo kri.« » ... dobri
-                     Bog ... ozdravi me ... vsega zla ... Reši ... me ... obupa grenkega, ki se v grlo mi
-                     zaganja.«</p>
+                     spet pesem vdano mi zatrepeta. Povedat pridem, ko jo bom obudil.« »O, človek
+                     ... od te ure iskal boš svobodo in mir … in točil sovražnikom svojo kri.« » …
+                     dobri Bog … ozdravi me … vsega zla … Reši … me … obupa grenkega, ki se v grlo
+                     mi zaganja.«</p>
                   <p>Hribovškova <emph>Pomladna pesem 1944</emph> se mi zdi ena najlepših slovenskih
                      medvojnih pesmi. Obenem nekako simbolično povzema vse Hribovškovo pesniško
                      ustvarjanje in nam v sklopu prvin pesmi razodeva Hribovškovo veličino, ko se je
@@ -3231,31 +3235,31 @@
                      pisateljev na vrhu narodovega ustvarjanja; da baje merijo veličino vsakega
                      naroda po številu njegovih politikov in gospodarstvenikov, znanstvenikov in
                      tehnikov; da se menda čutijo v zadregi, ko se tujci čudijo tako velikemu
-                     številu pesnikov v tako drobnem narodu, kot so Slovenci ... Toda: »možno je, da
-                     se naša tako zmagoslavna civilizacija zruši, umetnikova vloga pa ostane ista ...
-                     S svojim ustvarjanjem – katerekoli zvrsti – more zajeti in ohraniti resnične
-                     vrednote, četudi je doba na prelomnici, tako da postane kvas ustvarjanja v
-                     naslednji dobi, ne mrtva tradicija.« Tako je pred šestdesetimi leti zagovarjal
-                     umetnika Ralph Adams Cram pred široko ameriško javnostjo, ki je javno in
-                     zasebno oboževala predvsem materialistični napredek. (Cramove konference so
-                     izšle v knjigi <emph>The Ministry of Art</emph>, pri Houghton Miffelin Co., v
-                     Bostonu in New Yorku leta 1914, na 258 straneh. Ta citat je na str. XII.) Isti
-                     Cram pravi tudi: »Mar niso umetniki kakor preroki, ki govore v binkoštnih
-                     jezikih umetnosti, tako da jih vsak človek čuje v lastnem jeziku, čuje in
-                     razume? Vsakemu (resničnemu) umetniku je dano, da izpove, kar je najboljšega,
-                     najvrednejšega v človeku. Vsaka umetnost se poslužuje njej lastnih sredstev
-                     ustvarjanja, a vsaka je le diktat tistega skupnega jezika, ki odkriva – po
-                     znamenjih in v zmeraj enako skrivnostni lepoti – človekovega duha spoznanja v
-                     svetu Cele Resnice in Cele Lepote, ki presegata zgolj umsko formuliranje.«
-                     (str. 113) Na drugem mestu razlaga: »Pravo pojmovanje umetnosti daje čudovit
-                     vpogled v bogastvo umetniške funkcije. Umetnost razodeva, umetnost pa tudi
-                     podžiga k dejanju. Kakor cvet je umetnost, a tudi kakor seme ... Najbrž je
-                     umetnost največji civilizacijski dejavnik sveta. Če pa je umetnost kakor seme,
-                     ne sme pasti med trnje in ne na skalo, pa tudi ne na zemljo, ki se ponaša z
-                     morilskim plevelom.« (str. 127) In končno: »Nekaj borih krajcarjev je morda
-                     vse, kar umetnik po navadi prejme; a nanj čaka krona zasluženja ... krona za
-                     božjo službo, ker je služil bitjem, ustvarjenim po božji podobi in odrešenim ...
-                     v temi Kalvarije.« (str. 139)</p>
+                     številu pesnikov v tako drobnem narodu, kot so Slovenci … Toda: »možno je, da
+                     se naša tako zmagoslavna civilizacija zruši, umetnikova vloga pa ostane ista
+                     ... S svojim ustvarjanjem – katerekoli zvrsti – more zajeti in ohraniti
+                     resnične vrednote, četudi je doba na prelomnici, tako da postane kvas
+                     ustvarjanja v naslednji dobi, ne mrtva tradicija.« Tako je pred šestdesetimi
+                     leti zagovarjal umetnika Ralph Adams Cram pred široko ameriško javnostjo, ki je
+                     javno in zasebno oboževala predvsem materialistični napredek. (Cramove
+                     konference so izšle v knjigi <emph>The Ministry of Art</emph>, pri Houghton
+                     Miffelin Co., v Bostonu in New Yorku leta 1914, na 258 straneh. Ta citat je na
+                     str. XII.) Isti Cram pravi tudi: »Mar niso umetniki kakor preroki, ki govore v
+                     binkoštnih jezikih umetnosti, tako da jih vsak človek čuje v lastnem jeziku,
+                     čuje in razume? Vsakemu (resničnemu) umetniku je dano, da izpove, kar je
+                     najboljšega, najvrednejšega v človeku. Vsaka umetnost se poslužuje njej lastnih
+                     sredstev ustvarjanja, a vsaka je le diktat tistega skupnega jezika, ki odkriva
+                     – po znamenjih in v zmeraj enako skrivnostni lepoti – človekovega duha
+                     spoznanja v svetu Cele Resnice in Cele Lepote, ki presegata zgolj umsko
+                     formuliranje.« (str. 113) Na drugem mestu razlaga: »Pravo pojmovanje umetnosti
+                     daje čudovit vpogled v bogastvo umetniške funkcije. Umetnost razodeva, umetnost
+                     pa tudi podžiga k dejanju. Kakor cvet je umetnost, a tudi kakor seme … Najbrž
+                     je umetnost največji civilizacijski dejavnik sveta. Če pa je umetnost kakor
+                     seme, ne sme pasti med trnje in ne na skalo, pa tudi ne na zemljo, ki se ponaša
+                     z morilskim plevelom.« (str. 127) In končno: »Nekaj borih krajcarjev je morda
+                     vse, kar umetnik po navadi prejme; a nanj čaka krona zasluženja … krona za
+                     božjo službo, ker je služil bitjem, ustvarjenim po božji podobi in odrešenim
+                     ... v temi Kalvarije.« (str. 139)</p>
                   <p>Tokio, 13. maja 1975</p>
                </div>
             </div>
@@ -3600,8 +3604,8 @@
                      sramoto. Naj bo to narodno izdajstvo gotovo najbolj gnusno dejanje vseh kultur
                      in civilizacij zgodovine človeštva ali pa način povojnega obračuna s to
                      gnusobo, s tem lahko obletnico državne samostojnosti proslavlja res le kak
-                     konjušnik ... In ko črede derejo v Rog, ko zvonijo vsi zvonovi in se bleščijo vsi
-                     zvoniki ... «</p>
+                     konjušnik … In ko črede derejo v Rog, ko zvonijo vsi zvonovi in se bleščijo vsi
+                     zvoniki … «</p>
                   <p>Tako piše novinar in odgovorni urednik slovenskega tednika za naš državni
                      praznik. Človek srednjih let, ki ga na srečo vojna ni z ničimer zaznamovala, a
                      vendar z neverjetno lahkotnostjo ožigosa žrtve, krive in nekrive, se cinično
@@ -3632,7 +3636,7 @@
                   <p>Zgodovina človeštva nam tisočletja nenehno odkriva grozljivo podobo prelivanja
                      krvi. Glede tega se rodovi niso prav nič naučili. Razne ideologije in vere, ki
                      povzročajo vojne in sovraštvo, ki delijo človeštvo na nasprotne tabore, iz
-                     ozadja pa spretno manevrirajo trgovci z novci, trgovina orožja ... tega ni moč
+                     ozadja pa spretno manevrirajo trgovci z novci, trgovina orožja … tega ni moč
                      ustaviti. Ni sile, ki bi to zmogla. Ker vse zlo izvira iz človeka. Iz njegovega
                      sovraštva, ki je močnejše od ljubezni. Iz njegove zaslepljenosti, sle po
                      oblasti in denarju, egoizma torej. Odteguje se naravi, ki ji ustvarjena zanj.
@@ -4038,7 +4042,7 @@
                      <l>Prišel sem, ne kot tujec, ki se ustavi </l>
                      <l>in gre naprej, ne da bi pogledal vanje, </l>
                      <l>v tolmun oči, kjer skrite sanje </l>
-                     <l>še spijo nad previsi. Več jih ni ... </l>
+                     <l>še spijo nad previsi. Več jih ni … </l>
                   </lg>
                   <lg>
                      <l>Prišel sem vprašat le, kaj te boli.</l>
@@ -4139,7 +4143,7 @@
                      se znašli pod »varstvom« zahodnih zaveznikov. O slovenski tragediji pa tedaj –
                      to me je kar sram priznati – nisem vedel ničesar. Sele okrog leta 1980 me je
                      nanjo opozoril članek v neki reviji, ki ga je napisal moj prijatelj David Floyd
-                     ... </p>
+                     … </p>
                   <p><hi rend="bold">Katera revija je bila to?</hi></p>
                   <p>Revija <emph>Now</emph>. V članku je citiral besede visokega uradnika na
                      zunanjem ministrstvu, ki je dejal: »To je bila grozljiva napaka. « Takoj sem
@@ -4218,7 +4222,7 @@
                   <p><hi rend="bold">Je bil lord Aldington navzoč na procesu? Sta bila skupaj v
                         dvorani?</hi></p>
                   <p>Da, sedela sva prav blizu drug drugega.</p>
-                  <p><hi rend="bold">Kakšne vrste človek ... Ne, to najbrž ne bi bilo za
+                  <p><hi rend="bold">Kakšne vrste človek … Ne, to najbrž ne bi bilo za
                      objavo.</hi></p>
                   <p>Zakaj ne? Mirno lahko objavite vse, kar povem. Preden sem prišel na sodišče,
                      sem pričakoval, da se bom soočil s starim gospodom in da mi bo kar nerodno, da
@@ -4243,7 +4247,7 @@
                      <graphic url="slike_z_18/z_18_33.png"/>
                      <head>Nikolai Tolstoy kot predavatelj</head>
                   </figure>
-                  <p><hi rend="bold">In ta prepoved še ... </hi></p>
+                  <p><hi rend="bold">In ta prepoved še … </hi></p>
                   <p>Ta prepoved še velja. Od leta 1989 ne sme v Angliji nihče pisati o tej stvari.
                      To je prepovedana tema. Jaz objavljam v tujini, tam me ne morejo ustaviti. Toda
                      v Angliji je to prepovedano. Mojo knjigo so umaknili iz vseh knjižnic; celo
@@ -4351,7 +4355,7 @@
                      priznati zmoto. Vsi imamo nekakšen obrambni mehanizem, da ne uvidimo svoje
                      zmote. Tudi jaz ga imam. Prav zato pa se pri svojem delu ves čas sprašujem: Si
                      prepričan, da je tako? Kaj, če se motiš? Motil si se že, lahko da se zdaj spet
-                     ... Človek, ki ni zmožen priznati, da je naredil kaj narobe, je zame pomilovanja
+                     … Človek, ki ni zmožen priznati, da je naredil kaj narobe, je zame pomilovanja
                      vreden. Kako preprosta stvar bi bila za lorda Aldingtona vstati in reči:
                      »Storil sem nekaj groznega. Bil sem še mlad, edino to lahko povem v svoj
                      zagovor, dejanja samega pa ne opravičujem.« In vsi bi ga spoštovali. Toda on
@@ -4370,7 +4374,7 @@
                   <p>Da. Zavezniki so bili že na robu vojne s Titom zaradi Trsta. Po vsem tem trdim,
                      da je bilo dejanje, o katerem govoriva, najokrutnejši in povsem nepotreben
                      vojni zločin.</p>
-                  <p><hi rend="bold">To pa odpira vprašanja ... </hi></p>
+                  <p><hi rend="bold">To pa odpira vprašanja … </hi></p>
                   <p>Da. In to jim ni prav.</p>
                   <p><hi rend="bold">Dovolite še eno širše vprašanje. Ali je kakšna zveza med
                         »umikom Boga« in izgubo moralnega spomina? Je kakšna analogija med
@@ -4465,7 +4469,7 @@
                      religija in je zato pritegnil ljudi, ki so izgubili religiozno vero; obljubljal
                      je vse, kar obljubljajo religije: da bodo njegovi verniki končno dospeli v
                      obljubljeno deželo, da se bo zgodovina tedaj končala in bo na svetu zavladala
-                     trajna blaginja ... </p>
+                     trajna blaginja … </p>
                   <p><hi rend="bold">Utopija.</hi></p>
                   <p>Da. In ni čudno, da je zamikala prav Ruse v tej velikanski brezoblični državi,
                      kakršna je bila Rusija in kakršna je v precejšnji meri še danes.</p>
@@ -4753,7 +4757,7 @@
                      pomorjenih so metre visoko naloženi industrijski odpadki. Prerašča jih trava.
                      Na zaprte in umorjene spominja velik križ. Na kovinski tabli je skica, kako in
                      kje so stale barake. V nekaterih so bili domobranci, v drugih duhovniki, Nemci,
-                     ženske ... </p>
+                     ženske … </p>
                   <p>Nedelja, julija 1995. V Šoštanju, majhnem slovenskem industrijskem mestu, se po
                      maši pod žgočim soncem odpravi nekaj sto ljudi na bližnji grič. Tam stoji velik
                      lesen križ, ob njem manjša granitna piramida. Župnik govori: »Ta zemlja je
@@ -4793,7 +4797,8 @@
                      očitajo, da preštevajo kosti.</p>
                </div>
             </div>
-            <div type="div2"><head>Dodatek</head>
+            <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <p>Johann Georg Reissmuller je soizdajatelj in eden vodilnih časnikarjev nemškega
                      dnevnika Frankfurter allgemeine Zeitung. Časopis ni prvi po nakladi, je pa
@@ -4862,7 +4867,7 @@
                      najbolj tragičnih vrhov. Naj ta veliki slovenski grob postane in ostane sveti
                      kraj narodove katarze in dopolnitve.</p>
                   <p>Kako že stoji vklesano na plošči pri lipi na Žalah? »Postoj ob meni, brat, in
-                     skupaj bova našla pot ... «</p>
+                     skupaj bova našla pot … «</p>
                   <figure>
                      <graphic url="slike_z_18/z_18_38.png"/>
                      <head>Kočevski Rog 25. junija 1995 – Fantje ob slovenski narodni zastavi</head>
@@ -4883,7 +4888,7 @@
                   <p>Vse skupaj je usklajeno z lepoto in divjino gozda ter veličino dogodka. Dejal
                      bi, da sta jo postavila arhitekta narava in zgodovina, saj je videti, kot da je
                      cerkvica zrasla iz skalnatih tal, prav tako kot je zrasel iz njih prostrani
-                     gozd, ki jo obdaja. Gozd, tla, cerkvica pričajo o dogodkih ... </p>
+                     gozd, ki jo obdaja. Gozd, tla, cerkvica pričajo o dogodkih … </p>
                   <p>Danes se je z njimi nekaj zgodilo, da jih komaj prepoznamo. Podrasti, praproti
                      in razsejanih skal skoraj ni opaziti. Samo množica ljudi, obraz pri obrazu,
                      debla, ljudje, mladi les, skale, ljudje in drevje in zopet ljudje, kamor seže
@@ -4908,7 +4913,7 @@
                   <p>V celovitosti človeka in njegove zemlje je bila na krajih, kjer se je
                      revolucija najbolj razdivjala, narodna miselnost usmerjena k najbolj žgočim
                      vprašanjem na duhovnem, umskem in etičnem višku, kakor je plemeniteje ne bi
-                     mogel izraziti noben narod Evrope ... </p>
+                     mogel izraziti noben narod Evrope … </p>
                   <p>Pod neznosnim moralnim bremenom, ki mu ga je naložila revolucija, tako njena
                      izpeljava kot večdesetletno vzdrževanje oblasti in kopičenje bogastva v rokah
                      požigalcev, pod bremenom, ki nas zaradi zasebnih interesov iste skupine, kot
@@ -4973,7 +4978,7 @@
                      naslednjem: »Zbrati in popisati imena ljudi, ki so umrli pred pol stoletja in
                      imajo uničene dokumente ter so se jim sorodniki in znanci razgubili ali nočejo
                      več slišati zanje, je utrujajoče in nadležno delo. Matične knjige, ki so jih
-                     vodili po župniščih, so nove oblasti pobrale ... Zato smo večino podatkov dobili
+                     vodili po župniščih, so nove oblasti pobrale … Zato smo večino podatkov dobili
                      tako, da smo hodili od vasi do vasi, od hiše do hiše, trkali na vrata,
                      vpraševali in iskali. Če smo bili prvič zavrnjeni, nismo odnehali, vztrajno smo
                      poizvedovali po izginulih ljudeh, ki so že davno mrtvi in se jih komaj kdo še
@@ -5121,7 +5126,7 @@
                      besede). Ob dogovarjanju s predstavniki Slovencev po svetu je odbor prevzel
                      nalogo pripraviti in objaviti Poziv državnemu zboru in pristojnim oblastem
                      države Slovenije o popravi krivic. Zbrali smo več kot 26000 podpisov, ki so
-                     bili oddani v Državnem zboru, a do danes ni odgovora ... </p>
+                     bili oddani v Državnem zboru, a do danes ni odgovora … </p>
                   <p>Če bi sodili po odmevih in sadovih, ki jih je v letu dni pokazal Slovenski
                      spominski odbor, lahko zatrdimo, da je dosegel veliko tistega, kar si je
                      zastavil. Še zdaleč pa ne vsega. Tisti, ki smo se od vsega začetka udeleževali
@@ -5134,7 +5139,7 @@
                   <p>Prav je, da se njihova imena ohranijo zapisana, saj so nekateri vložili zares
                      veliko truda in potrpljenja. Marijan Štefančič je od vsega začetka prevzel
                      odgovornost za pripravo akademije v Cankarjevem domu (dogovarjanja s
-                     skladatelji, z vodstvom Cankarjevega doma, zborovodji, orkestrom ... ). Društvo
+                     skladatelji, z vodstvom Cankarjevega doma, zborovodji, orkestrom … ). Društvo
                      Slovenija v svetu se je zavzelo za pripravo in izpeljavo akademije v Škofovih
                      zavodih 23. junija. Janez Rihar je prevzel pripravo zahvalnega romanja
                      Slovencev po svetu na Brezje v soboto, 24. junija. Tam so Slovenci iz Združenih
@@ -5162,7 +5167,7 @@
                      blagajne, je Slovenski spominski odbor, kjer je bilo vse delo na ramenih
                      prostovoljcev, prireditev pa se je udeležilo neprimerljivo več ljudi, s
                      prostovoljnimi darovi pokril stroške, čeprav ni dobil niti beliča iz državnih
-                     virov ... </p>
+                     virov … </p>
                   <p>Slovenski spominski odbor je sicer z izvedbo vseh načrtov končal svoje delo.
                      Spoznanje ob koncu pa je bilo: tudi v prihodnje bo treba tako usklajeno
                      pripravljati različne prireditve, ko gre za predstavitev ali počastitev

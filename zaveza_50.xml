@@ -33,21 +33,21 @@
       <publicationStmt>
         <publisher>
           <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+            <addrLine>Nova Slovenska zaveza</addrLine>
+            <addrLine>Beethovnova ul. 5</addrLine>
+            <addrLine>1000 Ljubljana</addrLine>
+            <addrLine>Slovenija</addrLine>
+            <lb/>
+            <addrLine>tel. 01/425-15-37</addrLine>
+            <addrLine>Spletna stran: www.zaveza.si</addrLine>
+          </address>
         </publisher>
         <availability>
           <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
           <p>© Avtorske pravice za besedila in slike: Nova Slovenska zaveza</p>
         </availability>
         <idno type="issue">50</idno>
-        <idno type="ISSN">xYxyxcc ??</idno>
+        <idno type="ISSN">?</idno>
         <date>2009-01-12</date>
       </publicationStmt>
       <sourceDesc>
@@ -95,7 +95,9 @@
     <body>
       <div type="div1">
         <head>Aktualni kulturnopolitični komentar Nove slovenske zaveze</head>
-        <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+        <div type="div2">
+          <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+          <docAuthor>Justin Stanovnik</docAuthor>
           <div type="div3">
             <head>Zakon o grobiščih in njegov pomen</head>
             <p>Zgodi se včasih, da kak zelo važen dogodek postane ogledalo, ki pokaže obraz času in
@@ -202,7 +204,7 @@
               prebivati pa v njej ni več mogoče. Tako je z nami sedaj. Brez bistvenega jezika pa ne
               moremo bivati v polisu. To je en razlog za našo nepolitičnost. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_01.jpg"/>
+              <graphic url="slike_z_50/z_50_01.png"/>
               <head>Klicanje duha in srca <name type="author">Simon Dan</name></head>
             </figure>
           </div>
@@ -292,7 +294,7 @@
               zgodovinskih razlogov. Bil je nosilec oblasti v totalitarni državi – njena ikona –
               potem pa je postal predsednik demokratične države, ki se je iz totalitarne izvila, ne
               prav lahko, poleg tega pa je to bila država, v kateri so bili mnogi ljudje zelo, zelo
-              žaljeni. Prav, bil je legalno izvoljen, toda ... Toda vseeno je ta zamenjava stolov
+              žaljeni. Prav, bil je legalno izvoljen, toda … Toda vseeno je ta zamenjava stolov
               delovala nekoliko nedostojno. Skoraj bi rekli obsceno. (Pri tem bo koristno vedeti, da
               obsceno pomeni »proti sceni« - nekaj, kar ni za javnost!). Kučan kot človek s tem nima
               veliko opraviti, a nekateri koraki v življenju so vendar takšni, da pozneje nekih
@@ -433,7 +435,7 @@
               Najraje bi rekli, virtuozni mojstri, a bi s tem dali preveč poudarka veščosti in
               premalo začetnemu navdihu: za vsem je namreč moral biti neki začetni navdih. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_02.jpg"/>
+              <graphic url="slike_z_50/z_50_02.png"/>
               <head>Pot navzgor – modra in premišljena <name type="author">Mirko
                 Kambič</name></head>
             </figure>
@@ -557,7 +559,7 @@
               oblast, ne tri. Z obnovo demokracije pa je načelo delitve oblasti dobilo ustavno
               veljavo. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_03.jpg"/>
+              <graphic url="slike_z_50/z_50_03.png"/>
               <head>Pot navzgor – strma in zahtevna <name type="author">Mirko Kambič</name></head>
             </figure>
             <p>V drugi polovici 20. stoletja pa se je začela vpeljavati misel o četrti veji oblasti.
@@ -749,7 +751,7 @@
               bi vodilo k spravi«. Vidimo, da je beseda sprava dobila nov pomen: nedotakljivost
               tiste verzije preteklosti, ki so jo uveljavili postkomunisti. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_04.jpg"/>
+              <graphic url="slike_z_50/z_50_04.png"/>
               <head>Klicanje božjega Simon Dan</head>
             </figure>
             <p>Glede jezika, odnosno jezika v postkomunistični retoriki bi se splačalo nekoliko
@@ -892,7 +894,7 @@
               <lb/>ustanov terja. Če seveda niso ustanovili »komisije za etiko in integriteto« prav
               zato, ker tega ali ne morejo več ali še vedno nočejo?</p>
             <figure>
-              <graphic url="slike_z_50/z_50_05.jpg"/>
+              <graphic url="slike_z_50/z_50_05.png"/>
               <head>Klicanje k zadnjim stvarem <name type="author">Simon Dan</name></head>
             </figure>
           </div>
@@ -1022,7 +1024,7 @@
               tisto skoraj nerazumljivo evforijo za Nemce opravičevali kot »protiklerikalni
               upor«.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_06.jpg"/>
+              <graphic url="slike_z_50/z_50_06.png"/>
               <head>Hrib nad Šentjoštom, junija in julija 1942 taborišče štajerskega
                 bataljona</head>
             </figure>
@@ -1076,7 +1078,7 @@
               pri svojem delu niso poznali nobenih obzirov in predsodkov. V takih razmerah so bile
               možnosti delovanja nacionalne ilegale silno omejene, če jih je sploh še kaj bilo. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_07.jpg"/>
+              <graphic url="slike_z_50/z_50_07.png"/>
               <head>Šmihelsko-stopiški župan Franc Brulc kot avstrijski vojak</head>
             </figure>
             <p>Komunistična partija je že septembra 1941 pod »firmo« Osvobodilne fronte dosegla
@@ -1095,7 +1097,7 @@
               Kakšna sprevrženost! Še večja sprevrženost pa je, če zgodovinarji tega še danes ne
               vidijo oziroma nočejo videti in še vedno pišejo o sodiščih in justifikacijah.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_08.jpg"/>
+              <graphic url="slike_z_50/z_50_08.png"/>
               <head>Lojze Brulc, eden prvih članov nacionalne ilegale iz stopiške fare</head>
             </figure>
           </div>
@@ -1130,7 +1132,7 @@
               noč previdno obkolita taborišče in ob prvem svitu 16. julija od vseh strani planeta v
               napad.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_09.jpg"/>
+              <graphic url="slike_z_50/z_50_09.png"/>
               <head>Pred Brulčevo hišo petdeset let po umoru – hči Marija, mož Jože Mervar, sin
                 France</head>
             </figure>
@@ -1163,7 +1165,7 @@
               skozi surovi čas beremo, da »sta dva voda iz partizanske čete, ki je zasledovala
               gibanje belogardistične legije, padla v zasedo med Temenico in Češčo vasjo.
               Belogardisti so pobili 19 partizanov, dva sta utonila v Temenici, eden pa je – čeprav
-              hudo ranjen – ostal živ in so ga prepeljali na Brezovo Reber«. (Z ljubeznijo..., str.
+              hudo ranjen – ostal živ in so ga prepeljali na Brezovo Reber«. (Z ljubeznijo … , str.
               91) No, dva voda partizanske čete seveda nista padla v zasedo, ampak sta se skrajno
               neprevidno približevala robu gozda, kjer sta lahko pričakovala odpor.</p>
             <p>Poglejmo še, kako je napad in situacijo po napadu prikazal Franček Saje, ki je bil v
@@ -1283,7 +1285,7 @@
               kapelico so blagoslovili v Prečni in ga v procesiji pospremili v Bršljin. Med štirimi
               fanti, ki so pri tisti slovesnosti nosili Marijo, je bil tudi Franček Saje.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_10.jpg"/>
+              <graphic url="slike_z_50/z_50_10.png"/>
               <head>Janeza Murglja so umorili aprila 1942</head>
             </figure>
             <p>OF je v Komljančevi fari že zgodaj pokazala svoj pravi obraz. Janez Murgelj iz
@@ -1320,7 +1322,7 @@
               tisti dan ni hotel nič slišati o tem, da bi se za nekaj časa umaknil iz Prečne, čeprav
               so ga mnogi k temu nagovarjali.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_11.jpg"/>
+              <graphic url="slike_z_50/z_50_11.png"/>
               <head>Župnik Janko Komljanec s prvoobhajanci</head>
             </figure>
             <p>Ko je cerkovnik in organist Rigler tisti večer odzvonil avemarijo, je stopil v
@@ -1358,7 +1360,7 @@
               Gerčar. Ko jo beremo, nam nehote zbudi pozornost, da ni v njej niti z besedico nakazan
               vzrok župnikove smrti.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_12.jpg"/>
+              <graphic url="slike_z_50/z_50_12.png"/>
               <head>Zakrito časopisno sporočilo o smrti</head>
             </figure>
             <p>O Komljancu, bratih Murgljih in Lojzetu Pašiču je Slovenec spet pisal 8. aprila 1943.
@@ -1408,7 +1410,7 @@
               potem so partizani spet prišli, ga odvlekli v gozd in okrutno umorili. (V znamenju
               Osvobodilne fronte, str. 38)</p>
             <figure>
-              <graphic url="slike_z_50/z_50_13.jpg"/>
+              <graphic url="slike_z_50/z_50_13.png"/>
               <head>Kristijan Novak je bil vrnjen iz Vetrinja in umorjen</head>
             </figure>
 
@@ -1561,7 +1563,7 @@
               sodelovanja so kasneje izvršili revizijo blagajniškega poslovanja in ugotovili, da je
               v blagajni 19 din preveč! Seveda jih blagajniku niso vrnili.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_14.jpg"/>
+              <graphic url="slike_z_50/z_50_14.png"/>
               <head>Franc Bertoncelj z družino, žena Antonija, sinova Dinko (levo) in Berti, v sredi
                 fotografija odsotne Francke</head>
             </figure>
@@ -1609,7 +1611,7 @@
               Križnarja »prva ustanova nastajajoče nove države.« Lahko torej mirno trdimo, da se je
               ustanavljala na krvi mnogih pobitih!) </p>
             <figure>
-              <graphic url="slike_z_50/z_50_15.jpg"/>
+              <graphic url="slike_z_50/z_50_15.png"/>
               <head>V prvi vrsti na sredi Franc Bertoncelj z Orliči, za njim brat Janez z
                 Orli</head>
             </figure>
@@ -1757,7 +1759,7 @@
               roko, od katere kaplja kri, pod risbo pa je bil pripis: To naj Vam bo zadnje
               opozorilo. O.F.« </p>
             <figure>
-              <graphic url="slike_z_50/z_50_16.jpg"/>
+              <graphic url="slike_z_50/z_50_16.png"/>
               <head>Dinko Bertoncelj na Antarktiki 1958</head>
             </figure>
             <p>Potem šele je bilo zaslišanj brez konca in kraja. Toda končno so Francki dovolili, da
@@ -1824,7 +1826,7 @@
               spominja na Roberta-Boja Petrička, pa Cerro Vivod, ki so ga poimenovali po smrtno
               ponesrečenem Božidarju Vivodu. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_17.jpg"/>
+              <graphic url="slike_z_50/z_50_17.png"/>
               <head>Veličastni tabor katoliških Slovencev ob desetletnici Krekovega društva 30.
                 avgusta 1936</head>
             </figure>
@@ -1880,7 +1882,7 @@
               veličastno prireditev, kakršno je bilo proslavljanje na Jesenicah za »delitev duhov«?
               Še liberalno Jutro je tokrat molčalo, z nobenim člankom razdvajalo.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_18.jpg"/>
+              <graphic url="slike_z_50/z_50_18.png"/>
               <head>Narodne noše na taboru</head>
             </figure>
             <p>Poročevalec zaključi z besedaami: »Krekov dom je žarel še dolgo v noč, ko so odhajale
@@ -1903,7 +1905,7 @@
               baronu, Grofici Marici in drugih«, se še danes spominja njena znanka Mimi Arnež por.
               Grum. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_19.jpg"/>
+              <graphic url="slike_z_50/z_50_19.png"/>
               <head>Gostje na taboru, z desne župnik Kastelic, dr. Korošec in dr. Krek (v senci),
                 drugi z leve v prvi vrsti Aleš Stanovnik</head>
             </figure>
@@ -1954,7 +1956,7 @@
               premoženje, če ga je sploh kaj imel, domače pa obsodili na sramotno životarjenje? </p>
 
             <figure>
-              <graphic url="slike_z_50/z_50_20.jpg"/>
+              <graphic url="slike_z_50/z_50_20.png"/>
               <head>Rdeča roka grozi</head>
             </figure>
 
@@ -1996,7 +1998,7 @@
               gozdov. Njen brat Milan je bil na istem transportu kot moj stric Janez in oba je
               doletela ista usoda. To mi je dalo pobudo, da napišem spomin na strica in njegove. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_22.jpg"/>
+              <graphic url="slike_z_50/z_50_22.png"/>
               <head>Družina Por, v zadnji vrsti stojijo Tone, Frenk, zet Tone, Vida, Helena, Milka,
                 Vera, spredaj Ančka, oče, vnuk Toni, mama, sedijo Jože, Marjan, Janez, Pavel</head>
             </figure>
@@ -2084,7 +2086,7 @@
               začeli ubijati lastne brate, sinove vernih slovenskih družin. Nikakršnih domobrancev
               še ni bilo. Šele po teh dogodkih so se organizirali v odpor. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_23.jpg"/>
+              <graphic url="slike_z_50/z_50_23.png"/>
               <head>Ob petdesetletnici poroke leta 1958 v Zeleni Jami – Prisotni trije rodovi
                 družine Por: desno od obeh slavljencev sinovi, desno hčere; v zadnjih dveh vrstah
                 zetje, snahe in starejši vnuki; spredaj mlajši vnuki (danes že vsi solidni
@@ -2121,7 +2123,7 @@
               približa. Fani mu je svetovala, naj ji nese rože. To se je res zgodilo. Deklica jih je
               sprejela. Ves srečen je svakinji to povedal. </p>
             <figure>
-              <graphic url="slike_z_50/z_50_21.jpg"/>
+              <graphic url="slike_z_50/z_50_21.png"/>
               <head>Janez Por</head>
             </figure>
             <p>Ko stojimo ob Krimski jami, se sprašujemo, kako so mogli ubiti tako sončnega in
@@ -2133,7 +2135,7 @@
         </div>
         <div type="div2" subtype="poem">
 
-          <head>To jutro ... </head>
+          <head>To jutro … </head>
           <docAuthor>France Balantič</docAuthor>
 
           <lg>
@@ -2152,10 +2154,10 @@
           <lg>
             <l>V slovo zaklal sem svojo ovco belo, </l>
             <l>razlil sem kri čez čelo jim veselo, </l>
-            <l>da videli bi mojo bol v temi ... </l>
+            <l>da videli bi mojo bol v temi … </l>
           </lg>
           <lg>
-            <l>Spomini ... Ni več bratov ne krvi </l>
+            <l>Spomini … Ni več bratov ne krvi </l>
             <l>in kakor v mirno žalostnih obredih, </l>
             <l>bom vedno tožil v jutru v zvokih bledih. </l>
           </lg>
@@ -2200,7 +2202,7 @@
             Bavdkovi niso dovolili več prisostvovati. Ker je malo ljudi, ki bi o tem lahko pričevali
             kot očividci, sem prosila Kati Breznik, da še enkrat obnovi boleči spomin na ta dogodek. </p>
           <figure>
-            <graphic url="slike_z_50/z_50_24.jpg"/>
+            <graphic url="slike_z_50/z_50_24.png"/>
             <head>Turjaški grad – ruševine</head>
           </figure>
           <p>Kati Breznik je doma iz Rafolč pri Lukovici. Njen oče je bil daljni sorodnik
@@ -2220,7 +2222,7 @@
             ni mogla iz Ljubljane. Leta 1943 je končala sedmi razred klasične gimnazije. Ostati je
             morala v Ljubljani, ker so bile razmere zelo zapletene.</p>
           <figure>
-            <graphic url="slike_z_50/z_50_25.jpg"/>
+            <graphic url="slike_z_50/z_50_25.png"/>
             <head>Na prostoru, kjer je sedaj lovski dom, so bile nekoč tri stavbe, v srednji so bili
               ranjenci</head>
           </figure>
@@ -2232,7 +2234,7 @@
             sprevidel, da grad ne bo vzdržal, in sta šla iz gradu po levi strani od glavnega vhoda
             in prišla že do Ščurkov. Potem je Lojze ugotovil, da je pozabil dokumente. Vrnil se je
             na grad, vendar se je spopad medtem že tako razvnel, da ni mogel več ven. <figure>
-              <graphic url="slike_z_50/z_50_26.jpg"/>
+              <graphic url="slike_z_50/z_50_26.png"/>
               <head>Kati Breznik ob izhodu, po katerem bi se Lojze še lahko rešil</head>
             </figure> V župnišču smo ostale še kuharica, gospodinjska pomočnica in jaz. Spat smo
             hodile k sosedu. V noči po porazu sta dva partizana prišla Bavdkovi Faniki povedat, da
@@ -2261,11 +2263,11 @@
             partizana, ki so ju vaški stražarji ujeli. Tudi ta dva je doletela usoda vaških
             stražarjev. Iz druge sobe, ki je bila dlje od glavnega vhoda, je prišel moj brat na
             hodnik in rekel: »Kati, zbogom in nasvidenje v nebesih!« <figure>
-              <graphic url="slike_z_50/z_50_27.jpg"/>
+              <graphic url="slike_z_50/z_50_27.png"/>
               <head>Bogoslovec Lojze Breznik</head>
             </figure> V njegovi sobi so bili še vsi fantje. Stopila sem še v njegovo sobo in
             vprašala, če ima kdo kako naročilo za domače. Rekli so: »Kaj nas zdaj brigajo domači,
-            ker je pred nami ... Sledil je molk. Tedaj mi je v glavi zabrnela ena sama misel: Rešiti
+            ker je pred nami … Sledil je molk. Tedaj mi je v glavi zabrnela ena sama misel: Rešiti
             se moram, da bom povedala, kaj se je zgodilo z bratom in ranjenci. Še te misli se živo
             spominjam: Če bom kdaj v življenju še tako zabredla, me bo ta dogodek reševal in me bodo
             ti fantje za lase potegnili v nebesa. Imela sem občutek svetosti trenutka in začutila
@@ -2289,7 +2291,7 @@
             travo in bruhnila v jok. Nisem mogla več nikamor. Ne vem, kako sem prišla v župnišče. Še
             več let sem imela občutek, da bom dobila strel v tilnik.</p>
           <figure>
-            <graphic url="slike_z_50/z_50_28.jpg"/>
+            <graphic url="slike_z_50/z_50_28.png"/>
             <head>Skrivaj prineseno cvetje na turjaškem pokopališču na Vsesvete 1943</head>
           </figure>
           <p>Pomorjene ranjence so na lojtrskem vozu takoj prepeljali na turjaško pokopališče. Od
@@ -2336,7 +2338,7 @@
             ugotavljanju njegove mučeniškosti. Bog ve, zakaj je bila potrebna njegova žrtev, morda
             da bi vsaj kaj malega razumeli.</p>
           <figure>
-            <graphic url="slike_z_50/z_50_29.jpg"/>
+            <graphic url="slike_z_50/z_50_29.png"/>
             <head>Kati Breznik ob Farnih spominskih ploščah na Brdu</head>
           </figure>
           <p>Tako se končuje Katina pripoved. Šli sva še enkrat po poteh, ki jih je prehodila
@@ -2380,13 +2382,13 @@
           <l>za tolikšno vero v naše. </l>
           <l>In ko smo se razšli, </l>
           <l>niso peli kot fantje na vasi – </l>
-          <l>čas je bil tak ... </l>
+          <l>čas je bil tak … </l>
           <l>Nisem jih videl več, </l>
           <l>dolgo je že, </l>
           <l>a smo skupaj še danes. </l>
 
           <figure>
-            <graphic url="slike_z_50/z_50_30.jpg"/>
+            <graphic url="slike_z_50/z_50_30.png"/>
             <head>A smo skupaj še danes Mirko Kambič</head>
           </figure>
         </div>
@@ -2419,7 +2421,7 @@
               kako človeka na zunaj oblikuje in določa misel – ali pa zgolj občutje – ki je znotraj.
               Kako nič ne ostane skrito.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_33.jpg"/>
+              <graphic url="slike_z_50/z_50_33.png"/>
               <head>Rog 18. junij 2000 – četrti z desne Franc Dejak</head>
             </figure>
             <p>Letos je bila ena od tistih redkih roških spominskih nedelj, ko smo že mislili, da
@@ -2443,7 +2445,7 @@
               se komu zasvetijo oči. A včasih se le, zato vedno znova poizkušamo. Mi tukaj pa vemo
               vse. Ko se naše oči srečajo, vemo drug za drugega, da so v njih tudi naše zgodbe.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_31.jpg"/>
+              <graphic url="slike_z_50/z_50_31.png"/>
               <head>Rog 2003 – množica pri maši <name type="author">Jože Pavlič</name></head>
             </figure>
             <p>Ali je res, kar se je letos govorilo po slovesnosti na Rogu: da je bila nekaj
@@ -2457,7 +2459,7 @@
               so bili zadovoljni zato, ker so v sebi čutili, da so mislili prave misli. Kaj bi moglo
               človeka bolj zadovoljiti?</p>
             <figure>
-              <graphic url="slike_z_50/z_50_34.jpg"/>
+              <graphic url="slike_z_50/z_50_34.png"/>
               <head>Rog 2003 – mašo vodi nadškof in metropolit dr. Franc Rode <name type="author"
                   >Jože Pavlič</name></head>
             </figure>
@@ -2548,7 +2550,7 @@
             desetletja so nato dan za dnem, mesec za mesecem, leto za letom ponavljali svojo
             osvoboditveno resnico. Mnogi so jim verjeli, žal jim mnogi verjamejo še danes.</p>
           <figure>
-            <graphic url="slike_z_50/z_50_35.jpg"/>
+            <graphic url="slike_z_50/z_50_35.png"/>
             <head>Govori Helena Jaklitsch</head>
           </figure>
           <p>Toda nobena laž ne more živeti večno. Še posebno, če je resnica tako močna, tako
@@ -2605,7 +2607,7 @@
             preteklosti, sedanjosti in prihodnosti, da si želimo še več modrosti in življenjske
             volje.</p>
           <figure>
-            <graphic url="slike_z_50/z_50_36.jpg"/>
+            <graphic url="slike_z_50/z_50_36.png"/>
             <head>Govori Marija Šterbenc</head>
           </figure>
           <p>Da imamo dovolj zdravja duha, telesa in duše; dovolj občestvenosti, da bi lahko delali
@@ -2658,7 +2660,7 @@
             pa se ga navadimo in ga nazadnje sploh ne opazimo več. Temu pravimo pohujšanje
             uresničenega.</p>
           <figure>
-            <graphic url="slike_z_50/z_50_37.jpg"/>
+            <graphic url="slike_z_50/z_50_37.png"/>
             <head>Govori Justin Stanovnik</head>
           </figure>
           <p>To sem povedal zato, da si bomo rekli: Ne smemo se vdati, ne smemo dovoliti času, da
@@ -2740,7 +2742,7 @@
             stotisočev. Tudi teh, ki ležijo pomorjeni na Rogu in se jih danes spominjamo. Zgodbo o
             Haagu sem omenil pravzaprav zato, ker so z njo dobili nekakšno zadoščenje.</p>
           <figure>
-            <graphic url="slike_z_50/z_50_32.jpg"/>
+            <graphic url="slike_z_50/z_50_32.png"/>
             <head>Rog 2003 - mlada družina <name type="author">Andrej Zgonc</name></head>
           </figure>
           <p>Za nas pa Haag prinaša dobro vest. Govori o tem, da na situ zgodovine pride vse na
@@ -2871,7 +2873,7 @@
               Škofji Loki to ne bilo mogoče. Bog je hotel imeti priče, kot je večkrat rekel
               France.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_38.jpg"/>
+              <graphic url="slike_z_50/z_50_38.png"/>
               <head>Domobranec France Dejak</head>
             </figure>
           </div>
@@ -2952,7 +2954,7 @@
               nevarnih situacij, vendar so ob svitu srečno prestopili jugoslovansko-avstrijsko mejo
               in končno bili v tako zaželeni svobodi.</p>
             <figure>
-              <graphic url="slike_z_50/z_50_39.jpg"/>
+              <graphic url="slike_z_50/z_50_39.png"/>
               <head>Franc Dejak z družino 1966 – France, žena Metka, otroci Franky 1952, Edi 1954,
                 Tony 1956, Christy 1963</head>
             </figure>
@@ -3003,7 +3005,7 @@
             izstopili na končni železniški postaji na slovenski Koroški. Bila sem v planinski opremi
             in imela s seboj kolo in dva nabasana nahrbtnika.</p>
           <figure>
-            <graphic url="slike_z_50/z_41_.jpg"/>
+            <graphic url="slike_z_50/z_41_.png"/>
             <head>Hiša Tepkovih tet, kamor je mama Angela po vojni hodila spat; tu je povedala, da
               je France doma in od kod je prišel</head>
           </figure>
@@ -3022,7 +3024,7 @@
             hrane. Jaz pa na hrano niti pomislila nisem, zato sem že malo oslabela. Dva begunca sta
             mi ponudila kos kruha in malo slanine.</p>
           <figure>
-            <graphic url="slike_z_50/z_42_.jpg"/>
+            <graphic url="slike_z_50/z_42_.png"/>
             <head>Včasih se je Dejak skrival pri Goršetovih v Zapužah; gospodar je bil zaradi tega
               zaprt osem mesecev</head>
           </figure>
@@ -3039,7 +3041,7 @@
             malo planjavo, nam je posadka čestitala z besedami: »Rešeni ste!« Bili smo svobodni v
             Avstriji. Oddahnili smo se, obenem pa začutili utrujenost in lakoto.</p>
           <figure>
-            <graphic url="slike_z_50/z_40_.jpg"/>
+            <graphic url="slike_z_50/z_40_.png"/>
             <head>Pred to hišo je Dejak odvrgel listek s sporočilom, da jih peljejo v Kočevje</head>
           </figure>
         </div>
@@ -3062,16 +3064,16 @@
             svojega življenja ga bom vračal.</p>
           <p>France je bil preprost slovenski fant, doma tam od Ribnice in do zadnjega je ohranil
             slikovit ribniški naglas. Od prvih dni bivanja med clevelandskimi Slovenci, ko se je za
-            njegovim hrbtom šepetalo »Ta je eden od treh...«, pa do poslednjih tednov svojega drugega
-            življenja je bil vselej pripravljen priskočiti na pomoč na ta ali drugačen način. Ko je
-            med nami obležal ubogi Tone, ki ga je popolna paraliza priklenila na posteljo za dolgih
-            dvajset let in več, je bil France med tistimi, ki so ga zvesto obiskovali v Starostnem
-            domu in mu lajšali neizmerno trpljenje; s težko, žuljavo roko mu je podajal kosce
-            narezanega sadja in Tone, ki ni nikdar potožil nad svojo usodo, ga je sprejemal kot
-            prijatelja ... Potem se je Tone poslovil in kmalu za njim je bil tudi Francetu poslan
-            »glas«: prišel je čas.</p>
+            njegovim hrbtom šepetalo »Ta je eden od treh … «, pa do poslednjih tednov svojega
+            drugega življenja je bil vselej pripravljen priskočiti na pomoč na ta ali drugačen
+            način. Ko je med nami obležal ubogi Tone, ki ga je popolna paraliza priklenila na
+            posteljo za dolgih dvajset let in več, je bil France med tistimi, ki so ga zvesto
+            obiskovali v Starostnem domu in mu lajšali neizmerno trpljenje; s težko, žuljavo roko mu
+            je podajal kosce narezanega sadja in Tone, ki ni nikdar potožil nad svojo usodo, ga je
+            sprejemal kot prijatelja … Potem se je Tone poslovil in kmalu za njim je bil tudi
+            Francetu poslan »glas«: prišel je čas.</p>
           <figure>
-            <graphic url="slike_z_50/z_43_.jpg"/>
+            <graphic url="slike_z_50/z_43_.png"/>
             <head>Hiša Dolinarjevih, starih staršev, v Dolenjih Lazah – Tu so se v glavnem skrivali,
               od tu so šli v tujino</head>
           </figure>
@@ -3115,7 +3117,7 @@
           <div type="div3">
             <docAuthor>Justin Stanovnik</docAuthor>
             <figure>
-              <graphic url="slike_z_50/portr_06_stan.jpg"/>
+              <graphic url="slike_z_50/portr_06_stan.png"/>
             </figure>
             <p rend="ital">Slikarju Henriku Krnecu se zahvaljujemo za to, da je omogočil, da stopimo
               pred bralce takorekoč dvakrat</p>
@@ -3201,7 +3203,7 @@
           <div type="div3">
             <docAuthor>Blaža Cedilnik</docAuthor>
             <figure>
-              <graphic url="slike_z_50/portr_05_cedil.jpg"/>
+              <graphic url="slike_z_50/portr_05_cedil.png"/>
             </figure>
             <p>Vsako leto štiri številke Zaveze. To gre pravzaprav zelo počasi. Dve leti in pol za
               deset številk. To ne gre nikamor. Pa vendar. Prišli smo do petdesete številke. Saj
@@ -3271,7 +3273,7 @@
           <div type="div3">
             <docAuthor>Anton Drobnič</docAuthor>
             <figure>
-              <graphic url="slike_z_50/portr_10_drobn.jpg"/>
+              <graphic url="slike_z_50/portr_10_drobn.png"/>
             </figure>
 
             <p>Že ob pripravah za ustanovitev Nove slovenske zaveze je bilo dogovorjeno, da bo
@@ -3356,7 +3358,7 @@
           <div type="div3">
             <head>Mirko Kambič</head>
             <figure>
-              <graphic url="slike_z_50/portr_09_kamb.jpg"/>
+              <graphic url="slike_z_50/portr_09_kamb.png"/>
             </figure>
             <p>Trčimo s kozarci! Čast jubilejni petdeseti številki Zaveze! S prvo številko ni imela
               nobenega jamstva za dolgo in uspešno življenjsko pot. Z veseljem smemo čestitati
@@ -3380,7 +3382,7 @@
           <div type="div3">
             <head>Ivanka Kozlevčar</head>
             <figure>
-              <graphic url="slike_z_50/portr_08_kozlev.jpg"/>
+              <graphic url="slike_z_50/portr_08_kozlev.png"/>
             </figure>
             <p>Ob osamosvojitvi smo bili zaradi uresničitve tako rekoč stoletnih pričakovanj v
               večini v privzdignjenem razpoloženju in za svojo domovino bi bili pripravljeni
@@ -3447,7 +3449,7 @@
           <div type="div3">
             <head>Vanja Kržan</head>
             <figure>
-              <graphic url="slike_z_50/portr_03_krzan.jpg"/>
+              <graphic url="slike_z_50/portr_03_krzan.png"/>
             </figure>
             <p>Ali pišem zato, ker me je k sodelovanju povabil urednik Zaveze? To še zdaleč ni edini
               razlog. Čim dlje poslušam pretresljive življenjske izpovedi v trpljenju in bolečini
@@ -3550,7 +3552,7 @@
           <div type="div3">
             <head>Janko Maček</head>
             <figure>
-              <graphic url="slike_z_50/portr_07_macek.jpg"/>
+              <graphic url="slike_z_50/portr_07_macek.png"/>
             </figure>
 
             <p>Ob jubilejni številki Zaveze smo veseli in ponosni tudi njeni sodelavci, saj smo z
@@ -3642,7 +3644,7 @@
           <div type="div3">
             <head>Nada Matičič</head>
             <figure>
-              <graphic url="slike_z_50/portr_04_matic.jpg"/>
+              <graphic url="slike_z_50/portr_04_matic.png"/>
             </figure>
             <p>Devetega maja petinštiridesetega. Svoboda. Zato se je treba pražnje obleči, v nekaj
               temno modrega. Ob treh sem se odpravila v mesto. V center. Ulice so bile izumrte.
@@ -3657,15 +3659,15 @@
               hitela domov v zavetje svojih sten. Tik pred vrati me je dohitela znanka iz soseščine.
               Pomolila mi je pest pod brado: Zdaj se bomo pa takole pozdravljali!! Potem sem se
               pogreznila v tišino pozabe noči. Do jutra. Tedaj je pobutalo po vnanjih vratih. Neki
-              prst je bil vperjen v hišo in tulil: Tisto cunjo dol, drugače ... Naša slovenska zastava
+              prst je bil vperjen v hišo in tulil: Tisto cunjo dol, drugače … Naša slovenska zastava
               – cunja? Oče se je razhudil in poslal gledat po soseščini: Zvezda! Potem je mama
               šivala zvezdo. Nov simbol? Sovjetski simbol, ki je vladal dolga desetletja in še danes
               ni povsem izdihnil. Potem je rekel oče: Iz ene ječe, prekleti zlomek, smo se znašli v
               drugi. Toda slovesni deveti maj je bil samo uvod v tragedijo, kakršno pozna vsa dolga,
               mračna zgodovina Zmagovalcev. Ki so svoje poražence izropali, mučili, ubijali – jih z
-              Lažjo prisilili, da so jim vdano služili ... Krvava svoboda je šele zaživela kmalu po
+              Lažjo prisilili, da so jim vdano služili … Krvava svoboda je šele zaživela kmalu po
               devetem maju. Prišla je k nam gospa Malči in potem so po hiši odmevali njeni ranjeni
-              kriki: Moj Duško, ubili so ga. Mečejo jih v jame ... Nismo ji povsem verjeli. Mnogi pa
+              kriki: Moj Duško, ubili so ga. Mečejo jih v jame … Nismo ji povsem verjeli. Mnogi pa
               so vedeli in molčali. Ni bilo Nürnberga. Bo Haag? Bodo krvavi Zmagovalci (in teh ni
               malo) prišli pred sodišče? To bi bilo zadoščenje in bilo bi pravičneje od
               kakršnegakoli Spomenika. Petdeset let Krvave svobode je dolga doba, ki je ljudem
@@ -3691,7 +3693,7 @@
           <div type="div3">
             <head>Brane Senegačnik </head>
             <figure>
-              <graphic url="slike_z_50/portr_02_senegac.jpg"/>
+              <graphic url="slike_z_50/portr_02_senegac.png"/>
             </figure>
             <p>»Ampak razmislite o posledicah, ki jih lahko ima objavljanje v Zavezi za vas v
               prihodnosti!« mi je pred leti prijazno položil na srce urednik, ko sem mu prinesel
@@ -3755,7 +3757,7 @@
           <div type="div3">
             <head>Tine Velikonja</head>
             <figure>
-              <graphic url="slike_z_50/portr_01_velikonja.jpg"/>
+              <graphic url="slike_z_50/portr_01_velikonja.png"/>
             </figure>
             <p>Spomladi leta 1991 smo se ustanavljali kot društvo. Jasno nam je bilo, da moramo
               imeti tudi revijo. Prva številka je imela šestnajst strani, na ovitku zadaj pa
@@ -3800,7 +3802,7 @@
               da bi bilo vseeno treba urediti z njimi. Pa se je nasmehnil in odvrnil: »Zakaj pa? Se
               bomo pogovarjali, ali je bog ali ne?« </p>
             <figure>
-              <graphic url="slike_z_50/z_50_44.jpg"/>
+              <graphic url="slike_z_50/z_50_44.png"/>
               <head>Vse je prodano – Ložarjevi Marija, France, Vida, Fani in Malči. Marija Zgonc in
                 urednik samo dokazujeta, da je veselje nalezljivo</head>
             </figure>
@@ -3820,7 +3822,7 @@
             revolucionarnim delovanjem in 16. septembra 1941 z zloglasnim odlokom Osvobodilne fronte
             o zaščiti naroda revolucionarno nasilje tudi javno ukazali in razglasili. </p>
           <p>Revolucionarnemu nasilju so partizani že na začetku vojne peli slavo: Čez ves svet
-            razpnite vešala, naš bog so rop, požig, umor ... Revolucije niso samo častili in opevali,
+            razpnite vešala, naš bog so rop, požig, umor … Revolucije niso samo častili in opevali,
             ampak so jo na najbolj krvav način tudi izvrševali. Na narodovem pogorišču, ki ga je
             povzročila sovražna okupacija, so pod zaščito okupatorjev sami pobili tisoče Slovencev,
             z namernim izzivanjem zločinskih okupatorjevih represalij pa odločilno sodelovali pri
@@ -3832,7 +3834,7 @@
             biti. Svoje zasluge so merili s tem, koliko »žrtev so dali«, kar pomeni, koliko smrti so
             prinesli Slovencem, ne okupatorjem. </p>
           <figure>
-            <graphic url="slike_z_50/z_45_.jpg"/>
+            <graphic url="slike_z_50/z_45_.png"/>
             <head>Revolucija pred državnim zborom</head>
           </figure>
           <p>Z neznosnim ustrahovanjem in grozovitimi umori so partizani pri prebivalcih, poldrugo
@@ -3929,7 +3931,7 @@
             napisi na grobiščih ne omenja napisov, ki slavijo komunistično revolucionarno nasilje,
             ker takšnega nasilja zakon sploh ne pozna in ne priznava (16. člen).</p>
           <figure>
-            <graphic url="slike_z_50/z_46_.jpg"/>
+            <graphic url="slike_z_50/z_46_.png"/>
             <head>V ustavo so zapisali »skupaj z narodi in narodnostmi Jugoslavije«, sedaj se pa
               delajo francoze</head>
           </figure>
@@ -4163,7 +4165,7 @@
               obsodbe, po vojni z montiranimi procesi s številnimi ostrimi kaznimi s prisilnim delom
               v taboriščih in z usmrtitvami. </p>
             <figure>
-              <graphic url="slike_z_50/z_52_.jpg"/>
+              <graphic url="slike_z_50/z_52_.png"/>
               <head>Tamara Griesser-Pečar</head>
             </figure>
             <p>Razpoke, ki so tu zazijale – tako rekoč v duši slovenskega naroda – učinkujejo deloma
@@ -4510,8 +4512,8 @@
             v Polju«. </p>
           <p>Nekaj besed k zasliševanju. Vsak aretirani je bil zaslišan in pri tem nihče ni bil
             mučen. Temu je pritrdil tudi Ernest H. v pismu, ki sem ga pred kratkim prejel. Navedel
-            pa mi je malo izjemo k moji trditvi: »Nekdo je predrzno odgovarjal in prejel zaušnico ...
-            Oče Govše je morda res pretrdo ravnal s Petačem«. To je vse, kar bi danes mogel kdo
+            pa mi je malo izjemo k moji trditvi: »Nekdo je predrzno odgovarjal in prejel zaušnico
+            ... Oče Govše je morda res pretrdo ravnal s Petačem«. To je vse, kar bi danes mogel kdo
             očitati VS v Polju. K Petaču naj pripomnim, da so ga kaj hitro prevzeli Italijani, ga
             dalj časa zasliševali in ustrelili. </p>
           <p>Streljanje od vaških stražarjev aretiranih so Italijani pridržali sebi, in to dosledno.
@@ -4537,7 +4539,7 @@
             novo streho in popravil vodnjak. Drugi je imel v dobrem spominu našo mamo, da je z njo
             hodil v staro poljsko šolo, tretji je navajal težave in probleme v družini priprtega
             itd. Vsi so trdili, da se prijeti ne ukvarja s politiko in da je bil krivično
-            denunciran, da ne dela za partizane ... </p>
+            denunciran, da ne dela za partizane … </p>
           <p>Posebej neprijeten je bil tale primer. Ko se je s prvo skupino rešenih z Raba vrnil
             nekdo, ki ni bil predlagan za vrnitev, a je bil mišljen nekdo drug z istim imenom, so ga
             Italijani poslali nazaj v internacijo. Bil je daljni sorodnik naše družine. Končno je
@@ -4731,7 +4733,7 @@
             slutiti že pojmi kot tale, da je šlo pri komunizmu za »modernizacijski in emancipacijski
             projekt slovenske levice«. </p>
           <figure>
-            <graphic url="slike_z_50/z_47_.jpg"/>
+            <graphic url="slike_z_50/z_47_.png"/>
             <head>Farna spominska plošča pod križem <name type="author">Simon Dan</name></head>
           </figure>
           <p>Ob tem, ko sta do komunizma skrajno obzirna, pa sta neizprosna do tistih, ki so se mu
@@ -5019,7 +5021,7 @@
               vojskovanja. Bin Laden ima preko multinacionalne teroristične organizacije El Kaida
               svoje »vojake« po vsem svetu. Svetovna politika je do l. 2000 živela iz izkušenj
               hladne vojne. Ukvarjala se je z državami nekdanjega vzhodnega bloka, s problemi
-              tretjega sveta, s Kitajsko in njeno preobrazbo ... Po 11. septembru 2001 se je slika
+              tretjega sveta, s Kitajsko in njeno preobrazbo … Po 11. septembru 2001 se je slika
               spremenila in že v letu 2002 je tudi Rusija uvidela, da se svet sooča z novo obliko
               vojne.</p>
           </div>
@@ -5050,8 +5052,8 @@
           <label>Prevod besedila: <name type="author">Tone Pretnar</name>; glasb. priredba: <name
               type="author">Jože Žitnik</name></label>
           <figure>
-            <graphic url="slike_z_50/z_50_50.jpg"/>
-            <graphic url="slike_z_50/z_50_51.jpg"/>
+            <graphic url="slike_z_50/z_50_50.png"/>
+            <graphic url="slike_z_50/z_50_51.png"/>
           </figure>
         </div>
 
@@ -5060,67 +5062,68 @@
           <list>
             <item>
               <label>I. ARGENTINA</label>
-              <address><name>Lovro Jan</name>
-                                <addrLine>Albarracin 755</addrLine>
-                                <addrLine>8400 Bariloche</addrLine>
-                                <addrLine>Rio Negro</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+              <address>
+                <name>Lovro Jan</name>
+                <addrLine>Albarracin 755</addrLine>
+                <addrLine>8400 Bariloche</addrLine>
+                <addrLine>Rio Negro</addrLine>
+                <addrLine>Argentina</addrLine>
+              </address>
             </item>
 
             <item>
               <address>
-                                <name>Joža Markež</name>
-                                <addrLine>Virrey Loreto 3365</addrLine>
-                                <addrLine>1605 Carapachay</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                <name>Joža Markež</name>
+                <addrLine>Virrey Loreto 3365</addrLine>
+                <addrLine>1605 Carapachay</addrLine>
+                <addrLine>Argentina</addrLine>
+              </address>
             </item>
 
             <item>
               <address>
-                                <name>Marjan Šušteršič</name>
-                                <addrLine>Gral. Vacca 995</addrLine>
-                                <addrLine>1686 Hurlingham</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                <name>Marjan Šušteršič</name>
+                <addrLine>Gral. Vacca 995</addrLine>
+                <addrLine>1686 Hurlingham</addrLine>
+                <addrLine>Argentina</addrLine>
+              </address>
             </item>
 
             <item>
               <address>
-                                <name>Slavko Urbančič</name>
-                                <addrLine>Ramon L. Falcon 4158</addrLine>
-                                <addrLine>1047 Buenos Aires</addrLine>
-                                <addrLine>Argentina</addrLine>
-                            </address>
+                <name>Slavko Urbančič</name>
+                <addrLine>Ramon L. Falcon 4158</addrLine>
+                <addrLine>1047 Buenos Aires</addrLine>
+                <addrLine>Argentina</addrLine>
+              </address>
             </item>
 
             <item>
               <label>II. KANADA</label>
               <address>
-                                <name>Anton Štih</name>
-                                <addrLine>20 Rufford Rd</addrLine>
-                                <addrLine>Toronto, Ontario</addrLine>
-                                <addrLine>MBW 4V6 CANADA</addrLine>
-                            </address>
+                <name>Anton Štih</name>
+                <addrLine>20 Rufford Rd</addrLine>
+                <addrLine>Toronto, Ontario</addrLine>
+                <addrLine>MBW 4V6 CANADA</addrLine>
+              </address>
             </item>
 
             <item>
               <label>III. ZDRUŽENE DRŽAVE</label>
               <address>
-                                <addrLine>Slovenska pisarna</addrLine>
-                                <addrLine>Anton Oblak</addrLine>
-                                <addrLine>6114 Lausche Av.</addrLine>
-                                <addrLine>Cleveland, OHIO 44103, USA</addrLine>
-                            </address>
+                <addrLine>Slovenska pisarna</addrLine>
+                <addrLine>Anton Oblak</addrLine>
+                <addrLine>6114 Lausche Av.</addrLine>
+                <addrLine>Cleveland, OHIO 44103, USA</addrLine>
+              </address>
             </item>
 
             <item>
               <address>
-                                <name>Franjo Mejač</name> 
-                                <addrLine>7042 West Tripoli Ave</addrLine>
-                                <addrLine>Milwaukee, Visconsin 53220, USA</addrLine> 
-                            </address>
+                <name>Franjo Mejač</name>
+                <addrLine>7042 West Tripoli Ave</addrLine>
+                <addrLine>Milwaukee, Visconsin 53220, USA</addrLine>
+              </address>
             </item>
 
           </list>
@@ -5140,16 +5143,14 @@
           <div type="div3">
             <head>Priporočamo</head>
             <figure>
-              <graphic url="slike_z_50/z_50_48.jpg"/>
+              <graphic url="slike_z_50/z_50_48.png"/>
               <head>Prva knjiga - Občinski komiteji ZKS celjskega območja</head>
-              <graphic url="slike_z_50/z_50_49.jpg"/>
+              <graphic url="slike_z_50/z_50_49.png"/>
               <head>Druga knjiga - Občinski komiteji ZKS Posavja in Zasavja</head>
             </figure>
             <p>Zbral in uredil: dr. Milko Mikola</p>
           </div>
-
         </div>
-
       </div>
     </back>
   </text>

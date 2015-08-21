@@ -34,14 +34,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -92,7 +92,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Moč in nemoč kulture</head>
                   <p>Kultura predstavlja duhovno vez med posameznikom in skupnostjo. Po tej vezi
@@ -2689,7 +2691,7 @@
                      kateri smo med drugim razpravljali tudi o usmrtitvi Marka Natlačena. Ta primer
                      bivšega bana je bil edini v celi vrsti likvidacij narodnih izdajalcev, ki je
                      bil nemara zaradi Natlačenove politične važnosti predložen Izvršnemu odboru v
-                     razsodbo ... Obtožno gradivo pa se meni ni zdelo dovolj tehtno, zato sem obsodbo
+                     razsodbo … Obtožno gradivo pa se meni ni zdelo dovolj tehtno, zato sem obsodbo
                      odklonil. Kardelj, ki je bil navzoč, stvari ni hotel dramatizirati in je po
                      krajšem razgovoru predlog umaknil.« (Josip Vidmar, Edvard Kardelj, Obrazi,
                      1985, 485)</p>
@@ -2814,7 +2816,7 @@
                      potomcem želite življenje, lepše in boljše, kot ga ponuja brezbožni komunizem –
                      združite se in preprečite, da tisti, ki so z vami sicer iste krvi, a s tujo
                      blodno miselnostjo zaslepljeni, ne bodo mogli več pokončevati najboljših in
-                     najplemenitejših bratov in sestra ... « Tako se pove! Danes nam je žal, da ni
+                     najplemenitejših bratov in sestra … « Tako se pove! Danes nam je žal, da ni
                      izkoristil priložnosti in z enako jezo obsodil streljanja talcev.</p>
                   <p>Dogodku je bila posvečena celotna številka Slovenskega poročevalca (24.
                      oktober, 111, 41). Na prvi strani imena štiriindvajsetih talcev, na drugih treh
@@ -2919,15 +2921,16 @@
                      o čemer je kasneje poročal londonski vladi (Božo Repe, Mimo odprtih vrat,
                      Borec, 1988, 28–42), so bile pošteno mišljene. Gnala ga je želja, olajšati
                      Slovencem breme okupacije. 12. aprila leta 1942 ni šel v Celje s prošnjo, naj
-                     Nemci zasedejo vso Slovenijo, ampak, ker se je čutil odgovornega za ves slovenski narod. Med
-                     drugim je prosil, da bi izpustili slovenske vojne ujetnike. Od Mussolinija je
-                     celo zahteval, naj izpusti Slovence s Primorske, ki jih je imel v zaporu. Ni se
-                     zavedal, s kom ima opravka, saj so neuspešna pota hudo škodovala njegovemu
-                     ugledu. Nihče ni v njih videl iskrene želje, pomagati narodu v stiski, ampak
-                     hlapčevstvo prilagodljivega človeka, pripravljenega za vsakršne kompromise. Ni
-                     imel političnega občutka, kakšno sme biti ravnanje predstavnika naroda do tako
-                     surovih in brezobzirnih zavojevalcev, saj je do konca naivno upal, da bi se
-                     dalo v korist naroda s ponižnim ravnanjem kaj iztržiti.</p>
+                     Nemci zasedejo vso Slovenijo, ampak, ker se je čutil odgovornega za ves
+                     slovenski narod. Med drugim je prosil, da bi izpustili slovenske vojne
+                     ujetnike. Od Mussolinija je celo zahteval, naj izpusti Slovence s Primorske, ki
+                     jih je imel v zaporu. Ni se zavedal, s kom ima opravka, saj so neuspešna pota
+                     hudo škodovala njegovemu ugledu. Nihče ni v njih videl iskrene želje, pomagati
+                     narodu v stiski, ampak hlapčevstvo prilagodljivega človeka, pripravljenega za
+                     vsakršne kompromise. Ni imel političnega občutka, kakšno sme biti ravnanje
+                     predstavnika naroda do tako surovih in brezobzirnih zavojevalcev, saj je do
+                     konca naivno upal, da bi se dalo v korist naroda s ponižnim ravnanjem kaj
+                     iztržiti.</p>
                </div>
                <div type="div3">
                   <head>Kdo so bili atentatorji?</head>
@@ -2981,8 +2984,8 @@
                      vprašuje: »Kaj boste konkretnega ukrenili, da se čimprej ugotovi, kam so
                      tedanji oblastniki vrgli pozemeljske ostanke mojega očeta, njegove prve žene
                      Vide roj. Kos (matere mojega polbrata Stanka) in mojih dveh bratov Vladimirja
-                     in Bogumila ... «</p>
-                  <p>Na odgovor še vedno čaka ... </p>
+                     in Bogumila … «</p>
+                  <p>Na odgovor še vedno čaka … </p>
                </div>
             </div>
          </div>
@@ -3105,7 +3108,7 @@
                      Slovenija prvič naredila nekaj po svoje. (Prej smo bili »bolj papeški od
                      papeža«; veljal je rek: V Beogradu odločijo, v Zagrebu preberejo, v Ljubljani
                      izvajajo.) Beograd se je zelo razkokodakal, vendar je takrat Jugoslavija že
-                     močno pokala po vseh šivih, armada pa je še čakala na pravi ukaz, povod ... In je
+                     močno pokala po vseh šivih, armada pa je še čakala na pravi ukaz, povod … In je
                      šlo. Ljudje so plašno hodili na volitve in niso bili povsem prepričani, da se
                      res lahko svobodno odločijo (brez posledic!).</p>
                   <p>Opazila sem starejšo žensko. Vzela je volilne plahte. Ni šla v kabino. Kar tam,
@@ -3127,7 +3130,7 @@
                      Socialistična zveza delovnega ljudstva ni imela nikoli kaj prida veljave in
                      moči, tudi stranka ni kaj prida dosegla. Še najbolje jo je odnesla ZSMS.
                      Poistovetili so se z revijo Mladina, ki jo je bralo staro in mlado, še posebej,
-                     ker je bila pogosto prepovedana, ker je razbijala tabuje ... Preimenovala se je
+                     ker je bila pogosto prepovedana, ker je razbijala tabuje … Preimenovala se je
                      (ZSMS namreč) v LDS, trdila, da je premlada (vodilni člani so trdili, da so
                      premladi), da bi imela karkoli s starim režimom; vsi so se šli borce za
                      demokracijo, za novi družbeni red, za gospodarski razcvet Slovenije, skratka za
@@ -3168,14 +3171,14 @@
                      kratkem času predvolilne kampanje kot popolnoma anonimen pridobil simpatije
                      mnogih ljudi, tako je še v krajšem času te simpatije zapravil. Naredil medvedjo
                      uslugo svoji stranki, sesul Janšo in obilno koristil LDS in ZL (Združena lista
-                     alias ... alias ... ... alias komunisti).</p>
+                     alias … alias … ... alias komunisti).</p>
                   <p>Odstavitev Puharjeve – zaradi obilice in pomembnosti dela je ministrovala še
-                     dolgo in na koncu so jo spet vzeli nazaj; potem je sama odšla. ... Zamenjava
+                     dolgo in na koncu so jo spet vzeli nazaj; potem je sama odšla. … Zamenjava
                      Janše se je zgodila čez noč. Veliko ljudi se je zbralo pred skupščino (?) v
                      njegovo podporo. Pa se je temu reklo ulica. Ampak kdor je pošteno in
                      nepristransko opazoval to zborovanje, bodisi na mestu samem ali pa po TV (celo
                      tam!), je videl, da je bilo zborovanje zares kulturno, če ga primerjamo na
-                     primer z obnašanjem žensk na zborovanju v podporo splavu v Ustavi ... pa saj se
+                     primer z obnašanjem žensk na zborovanju v podporo splavu v Ustavi … pa saj se
                      ne da. Obnašale so se tako, da me je bilo sram, da sem ženska. Pa se temu
                      takrat ni reklo ulica, ampak legitimna zahteva žensk. (Vedno so bila dvojna
                      merila in kaže, da bo vedno tako.)</p>
@@ -3533,7 +3536,7 @@
                      globoke sledove kot malokateri od zgodovinarjev«.</p>
                   <p>Tudi ne več tiste pionirske vznesenosti nad možnostmi, ki jih daje stroka in na
                      katere je opozoril Sperans, ko je »pokazal slovenskemu zgodovinopisju in
-                     zgodovinarju še eno pot, pot napovedovanja prihodnosti ... « Sedaj pač ni več
+                     zgodovinarju še eno pot, pot napovedovanja prihodnosti … « Sedaj pač ni več
                      tistega, za mnoge nedvomno nedolžnega časa, ko je zgodovinar mogel, ne da bi mu
                      za vrat sedali neprijetni pomisleki, občudovati Kardeljevo marljivost, ko je
                      »razkrinkaval slovensko protiljudsko reakcijo«, in njegov smisel za delikatnost
@@ -3809,12 +3812,12 @@
                      Kogeja s slovesnosti v Rogu leta 1992, starejši domobranec pa je ponovil
                      naročilo iz Slovenske sprave: »Glejte, če imaš koga za zločinca, ga ti ne
                      pokopavaj, če ima svoje. Za določene obrede so nekatere roke svete in druge
-                     nesvete. Te naj se mrtvih ne dotikajo ... V tej sveti uri naj nas pustijo same,«
-                     da žalujemo za svojimi dragimi ... </p>
+                     nesvete. Te naj se mrtvih ne dotikajo … V tej sveti uri naj nas pustijo same,«
+                     da žalujemo za svojimi dragimi … </p>
                   <p>Ko se je slovesnost že nagnila h koncu, je še enkrat na kratko spregovoril
                      pater Kalist. Otroci so medtem prižgali svečke ob simboličnem grobu. Na
                      povabilo patra Kalista je cela dvorana zmolila Gospodovo molitev. Na koncu so
-                     vsi pevci in občinstvo skupaj zapeli: Oče, mati ... Spominska slovesnost je
+                     vsi pevci in občinstvo skupaj zapeli: Oče, mati … Spominska slovesnost je
                      izzvenela v odločno izpoved: Junaki – mučenci, vaš spomin je živ med nami.
                      Vedno bolj ste nam pri srcu. Verjamemo, da bo vaša žrtev kmalu dozorela in
                      prinesla Sloveniji pravo svobodo in pravičnost.</p>
@@ -4193,7 +4196,7 @@
                      pričakovanjem, da se bo morda le še kdo rešil, in med strahom in skrbjo – kaj
                      se je z našimi brati, zaročenci, prijatelji zgodilo. Koliko resnih življenjskih
                      načrtov se je zrušilo v prah in koliko lepih mladih dekliških sanj se je
-                     razblinilo kot megla v vetru ... – To ve samo Bog.</p>
+                     razblinilo kot megla v vetru … – To ve samo Bog.</p>
                   <p>In koliko mladih, neizkušenih deklet, je moralo v tuji svet, samih! Trdo je
                      bilo življenje v mrzli tujini, brez varstva družine, brez pomoči domačega
                      človeka. O, kako bridko smo vas, bratje, vsa ta leta pogrešali, nikoli
@@ -4580,7 +4583,7 @@
                      pokoren, da bom v skupnem boju z nemško oboroženo silo, stoječo pod poveljstvom
                      vodje velike Nemčije, SS četami in policijo vestno izpolnjeval svojo dolžnost
                      za svojo slovensko domovino kot del svobodne Evrope proti banditom in komunizmu
-                     ter njegovim zaveznikom ... « Prisega ne vsebuje obljube zvestobe (Treugelöbnis),
+                     ter njegovim zaveznikom … « Prisega ne vsebuje obljube zvestobe (Treugelöbnis),
                      Hitler v njej ni imenovan, naloga domobrancev pa je omejena na domovinsko borbo
                      proti komunizmu in zaveznikom. Zavezniki komunizma so bili partizani, OF in
                      njihov NOB. Pri prisegi je seveda bila tudi nemška prisila. Zahteval jo je
@@ -4668,7 +4671,7 @@
                      okupacijo otokov«. Churchillov odnos do kolaboracije je razviden tudi iz pisma
                      Rooseveltu z dne 20. junija 1940: »Če bo Amerika prepustila Anglijo usodi, ne
                      bo imel nihče pravice obtoževati tiste, ki bodo skušali doseči najboljše
-                     razmere za preživelo prebivalstvo ... Ne morem odgovarjati za svoje naslednike,
+                     razmere za preživelo prebivalstvo … Ne morem odgovarjati za svoje naslednike,
                      ki se bodo morali prilagoditi nemški volji.«</p>
                   <p>S podobnimi besedami bi lahko zavrnili očitke, da so se naši politiki in javni
                      delavci hodili klanjat okupatorju. Ob okupaciji je povsem naravno in nujno, da
@@ -4708,7 +4711,7 @@
                      so se sklepali od začetka revolucije. Množični so bili posebno v zadnjih letih
                      vojne. Zelo številni so bili na Gorenjskem, manj na Štajerskem. Slovenski
                      partijski organi so se ravnali po Titovem navodilu: »Boj proti okupatorju bodo
-                     izbojevali Sovjeti in zavezniki ... naš glavni nasprotnik je domača reakcija.«
+                     izbojevali Sovjeti in zavezniki … naš glavni nasprotnik je domača reakcija.«
                      Premirje, dogovor večjega obsega, so sklenili partizani z Italijani še pred 9.
                      septembrom 1943. Rezultat je bil dober: partizanom na Dolenjskem so dostavili
                      vagone orožja. Omejil se bom na pomemben primer kolaboracije partizanov in
@@ -5054,16 +5057,16 @@
                      sem večkrat omenjal, da sem imel mnogo prijateljev med mladimi komunisti –
                      slovenskimi, francoskimi in nemškimi. Vse to pa je treba gledati iz takratnega
                      zornega kota, ko se še nikomur ni sanjalo o Stalinovih grozotnih procesih in
-                     pokolih kulakov. Sam sem bil prepričan, da sem proti komunizmu imun ... «
+                     pokolih kulakov. Sam sem bil prepričan, da sem proti komunizmu imun … «
                      »Katoliški levičarji doma in na tujem so bili prepričani, da bodo z njimi
                      vštric korakajoče komuniste lepega dne pokristjanili.« Ali (str. 450/1): »Soba
                      je bila res kolektivna za vse in kot tako so jo razglasili prijatelji
                      komunisti, s katerimi smo se vsak dan srečvali na obvezni promenadi.« Str. 455:
                      »Tovariše iz komunističnih vrst smo res smatrali za prijatelje; sam sem nanje
-                     zrl kot na žrtve navdušenja za zmoto ... Ker nismo dvomili, da so zagovorniki
+                     zrl kot na žrtve navdušenja za zmoto … Ker nismo dvomili, da so zagovorniki
                      demokracije, smo upali, da bodo pripravljeni podrejati se njim vzporedni
                      večini.« Na str. 501 celo piše: »Imel sem vtis, da prihajam zelo blizu
-                     komunizmu in da sem nekako že v njegovem vrtincu ... « Če pomislimo, kakšen je
+                     komunizmu in da sem nekako že v njegovem vrtincu … « Če pomislimo, kakšen je
                      bil Jurčec pozneje, moramo verjeti, da so bila ta mladostna doživetja silno
                      močna, da jih je bil pripravljen priznavati tudi pozneje, ko je bil povsem
                      drugačen.</p>
@@ -5191,7 +5194,7 @@
             <head>Dodatek</head>
             <div type="div2">
                <head>Dodatek</head>
-			   <docAuthor>Milan Komar</docAuthor>
+               <docAuthor>Milan Komar</docAuthor>
                <div type="div3">
                   <p>Delitev dela – kjer ni poštenosti, ni delitve dela, kajti človek mora vse
                      vedeti, da ga ne okradejo. Če kupuje meso, mora poznati različne vrste mesa. Če
@@ -5216,7 +5219,7 @@
                </div>
             </div>
             <div type="div2">
-			<head>Slike</head>
+               <head>Slike</head>
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_14/z_14_34.png"/>
@@ -5241,7 +5244,7 @@
          </div>
          <div type="div1">
             <head>Na platnicah</head>
-            <div  type="div2">
+            <div type="div2">
                <div type="div3">
                   <head>Sonce že doli gre – ljudska</head>
                </div>

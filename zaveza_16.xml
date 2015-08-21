@@ -29,14 +29,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -87,7 +87,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Biti narod – biti eno</head>
                   <p>Pogosto se zgodi, da kak dogodek šele iz večje časovne razdalje, čeprav mu tudi
@@ -2453,7 +2455,7 @@
                      policije in SS na slovenskem ozemlju z izjemo Primorske. Pri tem ga je podprl
                      tudi general Rupnik, čeprav on prisege kasneje ni ocenjeval pozitivno, oba pa
                      sta takšen akt ocenjevala za povsem normalen, saj »vsak vojak, ki se bori pod
-                     kako komando, mora priseči ... « To je sicer v glavnem bilo res, toda ostaja
+                     kako komando, mora priseči … « To je sicer v glavnem bilo res, toda ostaja
                      dejstvo, da niso prisegli primorski domobranci, ki so bili pod poveljstvom
                      generala Odila Globocnika in tudi ne gorenjski domobranci, katerih vrhovni
                      poveljnik pa je bil prav Roesener. Očitno je, da je odločitev za zapriseganje
@@ -2532,7 +2534,7 @@
                      navadi navaden vojak ali častnik, ki prisegata drugemu – po navadi določenemu
                      poveljniku ali poveljniku na splošno, toda tudi državnemu poglavarju.</p>
                   <p>Pri tem se obljubljajo zvestoba, poslušnost, hrabrost, predanost, boj do smrti
-                     ... </p>
+                     … </p>
                   <figure>
                      <graphic url="slike_z_16/z_16_17.png"/>
                      <head>O čem razmišljaš, Antigona?</head>
@@ -2562,8 +2564,8 @@
                      prisegajočih domobrancih, toda ta problem ostaja tudi pri drugih elementih in
                      vidikih prisege.</p>
                   <p>Vsebinsko bistveni in značilni osrednji del prisege je bila obljuba, da »bom v
-                     skupnem boju z nemško oboroženo silo ... vestno izpolnjeval svoje dolžnosti za
-                     svojo slovensko domovino ... proti banditom in komunizmu ter njegovim
+                     skupnem boju z nemško oboroženo silo … vestno izpolnjeval svoje dolžnosti za
+                     svojo slovensko domovino … proti banditom in komunizmu ter njegovim
                      zaveznikom«. Najprej je torej šlo za izpolnjevanje dolžnosti do slovenske
                      domovine, ki se je pri domobrancih gotovo razumela kot celotno slovensko
                      ozemlje, kot njeno celotnost in vsaj simbolično združenost. Vprašljivo pa je
@@ -2576,7 +2578,7 @@
                      za kolaboracionistično oboroženo silo. Slovensko domobranstvo je ustanovljeno
                      za bojevanje na notranji fronti, ne pa izrecno za podporo okupatorju kot
                      takemu. Domobranska prisega torej predvsem opredeljuje protirevolucionarni boj
-                     in s tem tudi državljansko vojno ... Toda besedilo vsebuje tudi elemente, ki
+                     in s tem tudi državljansko vojno … Toda besedilo vsebuje tudi elemente, ki
                      domobranstvo vpenjajo v mednarodni okvir. Predvsem se v njem omenja slovenska
                      domovina »kot del svobodne Evrope«, kar je v tedanjem izrazoslovju pod
                      okupacijo pomenilo po nemškem načrtu urejeno Evropo. Domobranci so pri tem
@@ -2626,7 +2628,7 @@
                      OF, samo dr. Franc Škerl »zagovarjal svoje stališče«, ki ni bilo v skladu s
                      partijskim ocenjevanjem. Delovanje KPS je označil z naslednjimi besedami:
                      »Komunistična partija je vse svoje akcije uravnavala z vidika zadnje etape.
-                     Tudi njen odnos do skupin v OF je bil podvržen temu cilju ... « (Naši razgledi,
+                     Tudi njen odnos do skupin v OF je bil podvržen temu cilju … « (Naši razgledi,
                      14. maja 1966).</p>
                   <p>Da bi KPS dosegla to zadnjo etapo, je bila od vsega začetka odločena imeti in
                      obdržati upor proti okupatorju izključno v svojih rokah. Se pravi, KP je ta
@@ -2717,7 +2719,7 @@
                      priskočiti na pomoč Sovjetski zvezi, če je napadena od protirevolucionarnih
                      sil. To je slovenska partizanska pesem izrazila z besedami: »Na klic Kominterne
                      združite se v čete / v boj za svobodo, v boj za Sovjete. / Rdeče smo fronte
-                     bojevniki mi ... / ker naše je geslo: Sovjeti sveta!« Druga pesem pa: »Naglo
+                     bojevniki mi … / ker naše je geslo: Sovjeti sveta!« Druga pesem pa: »Naglo
                      puško smo zgrabili / in odločno z doma šli / ko sovjetski so junaki / skupni
                      boj oklicali.« – Pripomniti pa je, da je CK KPJ postavil Tita za komandanta
                      vseh načrtovanih partijskih oboroženih sil na vsem jugoslovanskem ozemlju pet
@@ -2736,21 +2738,21 @@
                   <p>Na isti seji (22. VI.) je CK KPS pod vodstvom Kardelja pripravil razglas
                      »Slovenskemu narodu«. V njem beremo: »Delavci, kmetje, intelektualci, vse
                      delovno ljudstvo Slovenije!« Hitlerjev napad na SSSR je »napad na delavski
-                     razred vsega sveta! ... napad na kmečko ljudstvo vseh narodov v Evropi in
-                     kolonijah! ... barbarski napad na kulturo vsega človeštva! ... napad na celokupno
-                     človeštvo! ... Slovenci! Veličastna borba, ki jo bije herojska slavna Rdeča
-                     armada ... pod genialnim vodstvom svojega in našega velikega Stalina, je tudi
-                     sveta nacionalna vojna slovenskega naroda ... Slovenci! Komunistična partija
-                     Slovenije vas poziva ... v enotno osvobodilno borbo proti imperialističnim
+                     razred vsega sveta! … napad na kmečko ljudstvo vseh narodov v Evropi in
+                     kolonijah! … barbarski napad na kulturo vsega človeštva! … napad na celokupno
+                     človeštvo! … Slovenci! Veličastna borba, ki jo bije herojska slavna Rdeča
+                     armada … pod genialnim vodstvom svojega in našega velikega Stalina, je tudi
+                     sveta nacionalna vojna slovenskega naroda … Slovenci! Komunistična partija
+                     Slovenije vas poziva … v enotno osvobodilno borbo proti imperialističnim
                      okupatorjem za enoten blok vseh zatiranih narodov pod vodstvom SSSR in
                      Delavsko-kmečke rdeče armade, za popolno uničenje fašističnih zločincev ...
-                     Komunisti! ... pokažite, da ste dostojni velike časti biti junak v armadi, ki ji
-                     stoji na čelu naš veliki Stalin! ... Živela zveza sovjetskih socialističnih
-                     republik ... Živela slavna Delavsko-kmečka armada SSSR – nepremagljiva avantgarda
-                     osvobodilne vojske zatiranih narodov ... Živela sveta nacionalna vojna
-                     slovenskega naroda ... Živel Stalin, genialni voditelj osvobodilne borbe
+                     Komunisti! … pokažite, da ste dostojni velike časti biti junak v armadi, ki ji
+                     stoji na čelu naš veliki Stalin! … Živela zveza sovjetskih socialističnih
+                     republik … Živela slavna Delavsko-kmečka armada SSSR – nepremagljiva avantgarda
+                     osvobodilne vojske zatiranih narodov … Živela sveta nacionalna vojna
+                     slovenskega naroda … Živel Stalin, genialni voditelj osvobodilne borbe
                      človeštva za svobodo, bratstvo med narodi in ljudmi, blagostanje delovnega
-                     človeka, napredek in kulturo! ... « Razglas je bil izdan kot letak z datumom 22.
+                     človeka, napredek in kulturo! … « Razglas je bil izdan kot letak z datumom 22.
                      junija 1941. – Po 35 letih so pisci obširne knjige »NOV« in njihovi številni
                      svetovalci temu letaku prisodili izreden pomen, da je »bil vojna napoved, ki jo
                      je CK KPS v imenu slovenskega naroda naslovil okupatorjem slovenske dežele«
@@ -2760,7 +2762,7 @@
                   <p>Na istem posvetu na dan 22. junija je CK KPS sklenil priobčiti gesla
                      osvobodilnega boja, ki jih je dober teden pred tem sestavil Kidrič. Vseh gesel
                      je sedem. Naj omenim le četrto in šesto: »Sovjetska zveza je vodilna sila in
-                     glavna opora v osvobodilni borbi slovenskega naroda ... « – »Brez boja proti
+                     glavna opora v osvobodilni borbi slovenskega naroda … « – »Brez boja proti
                      izdajalski 'lastni' kapitalistični gospodi se zatirani narod ne more
                      osvoboditi.«</p>
                   <p>Čez teden dni (29. junija) je CK KPS dal sklicati sejo vrhovnega plenuma
@@ -2779,7 +2781,7 @@
                      bili člani CK KPS, druga dva pa iz vrst krščanskih socialistov in sokola. Glede
                      na to sestavo pravijo pisci knjige NOV: »Takšna organizacijska sestava glavnega
                      poveljstva kaže skrb CK KPS, da bi tudi v vojaškem poveljstvu zavaroval
-                     enotnost in širino osvobodilnega gibanja ... , hkrati pa kaže, da je KPS že tedaj
+                     enotnost in širino osvobodilnega gibanja … , hkrati pa kaže, da je KPS že tedaj
                      imela v osvobodilni vojski dejansko vodilno vlogo« (Narodnoosvobodilna vojna na
                      Slovenskem 1941–1945, 3. izd. 1978, str. 91).</p>
                   <figure>
@@ -2795,7 +2797,7 @@
                      smernicah OF! – »je glavno poveljstvo slovenskih partizanskih čet na svoji
                      seji, ki je bila med 14. in 16. julijem, razpravljalo o začetku vstaje po vsej
                      Sloveniji in o prehodu k akcijam. Sklenilo je, naj se organizirane akcije začno
-                     povsod 20. julija. Toda zaradi težav pri obveščanju ... so to dejansko začele 22.
+                     povsod 20. julija. Toda zaradi težav pri obveščanju … so to dejansko začele 22.
                      julija, ponekod pa še kasneje« (str. 99).</p>
                   <p>Da bi komunisti v Sloveniji, kakor tudi v ostalih predelih razbite Jugoslavije,
                      zagotovo dosegli monopol v odporu proti okupatorju na terenu, so pozvali člane
@@ -2863,14 +2865,14 @@
                      zbiranja informacij je VOS tudi uničevala ljudske izdajalce in tako izvajala
                      sklepe slovenske osvobodilne justice.« M. Mikuž pa je zapisal: »Težko je najti
                      v zgodovini revolucij primere, da bi s tako rigorozno tenko vestnost j o
-                     obračunavali s kontrarevolucijo ... kakor ravno v narodnoosvobodilni vojni«
+                     obračunavali s kontrarevolucijo … kakor ravno v narodnoosvobodilni vojni«
                      (Pregled NOB, L, str. 207).</p>
                   <p>Malo kasneje je Delo priobčilo dva Kardeljeva članka, ki jima levičarski
                      zgodovinarji pripisujejo precejšen pomen: »V partizane« in »Iz obrambe v
                      napad«. Bebler pa je napisal članek »Organizirajmo vaško zaščito«. V Slovenskem
                      poročevalcu (13. septembra) je nato Kidrič priobčil članek »Vsenarodni značaj
                      Osvobodilne fronte« in v njem zapisal: «Skupnost v OF je danes najvišja narodna
-                     skupnost ... Poskusi katerekoli druge skupine izven OF so protinarodni poskusi«
+                     skupnost … Poskusi katerekoli druge skupine izven OF so protinarodni poskusi«
                      (Dok. L str. 114/115).</p>
                   <figure>
                      <graphic url="slike_z_16/z_16_20.png"/>
@@ -3081,39 +3083,39 @@
                      združevanja kmetov. V ta namen je potrebno sistematično nadaljevati graditev
                      industrijske baze za kmetijstvo ter se lotiti po predelih in panogah
                      specializiranega proučevanja in sestavljanja orientacijskih planov za razvoj
-                     kmetijstva za daljša obdobja ... «</p>
+                     kmetijstva za daljša obdobja … «</p>
                   <figure>
                      <graphic url="slike_z_16/z_16_22.png"/>
                      <head>Predvojna vaška druščina – Škofije na Dolenjskem</head>
                   </figure>
                   <p>Ponesrečeno epizodo KDZ je na kongresu prikazal V. Bakarič:</p>
-                  <p>- ... tov. Tito je poudaril, tov. Tempo pa ponovil, daje kmetijstvo najbolj
-                     zaostala panoga našega gospodarstva ... </p>
-                  <p>- ... Po prejšnjem kongresu, zlasti pa po drugem plenumu CK, se je razvilo v naši
+                  <p>- … tov. Tito je poudaril, tov. Tempo pa ponovil, daje kmetijstvo najbolj
+                     zaostala panoga našega gospodarstva … </p>
+                  <p>- … Po prejšnjem kongresu, zlasti pa po drugem plenumu CK, se je razvilo v naši
                      državi široko gibanje za ustanavljanje kmečkih zadrug. Čeravno to ni bila
                      partijska linija, je v praksi veljalo, da so KDZ temeljna oblika, s katero bomo
                      na vasi zgradili socializem. In tu smo doživljali in preživljali razne
-                     peripetije, najprej velike uspehe, nato manjše uspehe, potem določene uspehe ...
-                     (Podčrtal DK.)</p>
-                  <p>- ... Stvar ni v tem, da smo se zmotili ... Raziskati moramo, zakaj smo se mogli
+                     peripetije, najprej velike uspehe, nato manjše uspehe, potem določene uspehe
+                     ... (Podčrtal DK.)</p>
+                  <p>- … Stvar ni v tem, da smo se zmotili … Raziskati moramo, zakaj smo se mogli
                      zmotiti. Zakaj so nam kmetje – če hočete, da tako rečem – dovolili, da smo
                      napravili to napako? Zakaj smo jih mogli, kakor nam pravijo kritiki, prisiliti,
                      da ustanovijo delovno zadrugo, ki je že sama po sebi zgrešena koncepcija ...
                      ?</p>
-                  <p>- ... Ne pravim, da ni bilo nasilja, toda nasilja so izvajale prav tiste
-                     organizacije, ki so bile izraz teh in takih kmečkih teženj ... itd. (Vir citatov:
+                  <p>- … Ne pravim, da ni bilo nasilja, toda nasilja so izvajale prav tiste
+                     organizacije, ki so bile izraz teh in takih kmečkih teženj … itd. (Vir citatov:
                      Borba komunistov Jugoslavije za socialistično demokracijo. VI. kongres KPJ, CZ
                      52.) (Opomba pisca: Tudi za poboje po vojni, kot pričajo pred Pučnikovo
-                     komisijo, poglavarji niso vedeli ... )</p>
+                     komisijo, poglavarji niso vedeli … )</p>
                   <p>Akcija KDZ je torej doživela popolno katastrofo, vendar se osnovnemu cilju niso
                      nikoli odpovedali. Leta 1959 je E. Kardelj tako opredelil kmetijsko in s tem
                      tudi zemljiško politiko:</p>
-                  <p>» ... zakaj smo vselej poudarjali, da so problemi pospeševanja kmetijske
+                  <p>» … zakaj smo vselej poudarjali, da so problemi pospeševanja kmetijske
                      proizvodnje in problemi socialistične preobrazbe vasi en sam problem in
                      kompleksna naloga. Smoter rekonstrukcije kmetijstva je en sam in nespremenljiv:
                      z ustanavljanjem velikih socialističnih proizvodnih enot, ki so sposobne
                      organizirati na temelju sodobne tehnike in znanstvenih dognanj – družbeni
-                     proces dela hkrati s postopnim podružbljanjem zemlje ... «</p>
+                     proces dela hkrati s postopnim podružbljanjem zemlje … «</p>
                   <p>»Pri vprašanju, ali sprejemamo kolektivizacijo ali ne, moramo najprej
                      razjasniti, kaj razumemo pod tem pojmom: ali določeno zgodovinsko označeno
                      metodo, ki se identificira s kolektivizacijo stalinističnega tipa, ali splošno
@@ -3146,7 +3148,7 @@
                   <head>Izgradnja agroindustrijskega kompleksa</head>
                   <p>V letu 1958 se je ponovno pričela vsedržavna akcija za povečanje kmetijske
                      proizvodnje, seveda vse po že navedenem Kardeljevem načelu o »ustanavljanju
-                     velikih socialističnih proizvodnih enot ... in hkrati s postopnim podružbljanjem
+                     velikih socialističnih proizvodnih enot … in hkrati s postopnim podružbljanjem
                      zemlje«. Temeljne smeri uresničevanja nove kmetijske politike lahko na kratko
                      povzamemo:</p>
                   <p>- izgradnja velikih obratov za proizvodnjo mleka in govejih pitancev (odprti
@@ -3178,12 +3180,12 @@
                   <p>- z oddajanjem zemlje v najem zadrugam in posestvom – po oceni je v Sloveniji
                      take zemlje okoli 5000 ha – razbremenjujejo poldelavci-polkmetje sebe v
                      svojstvu garaške in malo produktivne delovne sile na svojih raztresenih
-                     parcelah ... </p>
+                     parcelah … </p>
                   <p>- na tako pot razvoja stopajo tudi razni mali in nekateri bolj razgledani
-                     srednji kmetje ... </p>
-                  <p>- ... naši aktivisti morajo torej budno spremljati razvoj gospodarskih pogojev,
+                     srednji kmetje … </p>
+                  <p>- … naši aktivisti morajo torej budno spremljati razvoj gospodarskih pogojev,
                      jih razumeti in v skladu z njimi razvijati svojo socialistično dejavnost na
-                     vasi ... </p>
+                     vasi … </p>
                   <p>Kmetijska zemljišča so v praksi pridobivali na več načinov. Arondacije,
                      komasacije, dolgoročni zakup in odkup so bili osnova za pridobivanje zemljišč
                      splošnega ljudskega premoženja (SLP). Lastniki zemlje, predvsem polkmetje in
@@ -3456,8 +3458,8 @@
                      da bi nas prepričali o koncu komunizma. Gledam mladinsko oddajo »Male sive
                      celice« in skoraj padem na trepalnice ob vprašanju, kaj imajo skupnega
                      komunizem, kri in Rdeča kapica. Odgovor: rdečo barvo. Po drugi strani pa ZLSD
-                     alias ... ... ... komunisti praznujejo svojo ustanovitev na Čebinah. Prlek bi zapel:
-                     Saj ste lüdi čisto nori! ... da ne spregledate.</p>
+                     alias … ... … komunisti praznujejo svojo ustanovitev na Čebinah. Prlek bi
+                     zapel: Saj ste lüdi čisto nori! … da ne spregledate.</p>
                   <p>Torej, kot sem napisala, so žal ostali isti ljudje na oblastnih in vodstvenih
                      mestih. Zato je razvoj počasen in celo zablokiran. (Kako kazati razvoj in
                      napredek s statističnimi podatki, pa tako lepo pripoveduje George Orwell v
@@ -3843,7 +3845,7 @@
                      »kritično opozarjal vse strani na njihove napake in na škodo, ki jo povzročajo
                      temeljnim interesom slovenskega naroda v celoti. Osnovno usmeritev OF je
                      podpiral, toda z mnogimi rezervami in opozorili, od katerih so marsikatera
-                     objavljena prav v tej knjigi ... Kritiziral je neutemeljeno forsiranje boja ter
+                     objavljena prav v tej knjigi … Kritiziral je neutemeljeno forsiranje boja ter
                      se spraševal po vzrokih in posledicah takega ravnanja.«</p>
                   <p>Kolikor bolj se je razkol med OF in njenimi nasprotniki zaostroval, toliko bolj
                      si je Ude prizadeval, da bi enim in drugim odprl oči za pogubnost njihovega
@@ -3856,7 +3858,7 @@
                   <p>Lahko si zamislimo obup domoljuba, kakršen je bil Lojze Ude, ko je videl, kako
                      Slovenci vse bolj tonejo v brezna državljanske vojne. V pismu Albinu Šmajdu
                      piše 21. aprila 1943: »Za vsak narod je državljanska vojna zlo, za narod v taki
-                     situaciji, kakor smo Slovenci, pa je državljanska vojna blaznost, samomor ... V
+                     situaciji, kakor smo Slovenci, pa je državljanska vojna blaznost, samomor … V
                      tej situaciji je državljanska vojna izključno samo medsebojno uničevanje, samo
                      usluga okupatorju, utrjevanje njegove oblasti, duhovna kapitulacija.«</p>
                   <p>Vsakdo bi moral brati te Udetove spise, da bi videl, kako je med bratomorno
@@ -4054,14 +4056,14 @@
                      zapisal v svoji izjavi, vendar »se je vprašanje za nas zastavljalo nekako
                      takole: Ali odklonimo to delo in ostanemo sicer človeško čisti, ali pa se
                      odrečemo temu položaju« (ki bi ga potem prevzeli kriminalni jetniki) »in
-                     postanemo tako posredno morivci naših lastnih tovarišev ... Ker pa so nam bili
+                     postanemo tako posredno morivci naših lastnih tovarišev … Ker pa so nam bili
                      naši tovariši vredni več kakor vsi drugi, smo torej morali narediti ta korak
                      skupaj z SS.«</p>
                   <p>Toda kakor lahko beremo v naslednjem stavku, so šli še korak naprej in niso
                      ostali le pri izvrševanju usmrtitvenih ukazov, ki so jih odrejali esesovski
                      zdravniki. Jetnik je to formuliral takole: »Čeprav je bilo čisto človeško
                      gledano težko vse to opravljati, pa smo zato uničili sleherno nevarnost, ki smo
-                     jo zapazili v taborišču ... Ni bilo zastonj, da se je partija lahko vsa ta leta
+                     jo zapazili v taborišču … Ni bilo zastonj, da se je partija lahko vsa ta leta
                      obdržala v ilegali, ne da bi se bil celotni aparat raztreščil«. Na ta način
                      niso bili »likvidirani« samo vohuni in ovaduhi, temveč naj bi na željo »ruskih
                      tovarišev« umrlo tudi 1000 jetnikov, ki so bili v taborišču izrekli
@@ -4163,7 +4165,7 @@
                      kot »vodilni človek KPD« določen neki tovariš iz Stuttgarta. Tovariš iz
                      Dresdna, ki mu je bila zaupana ustanovitev taboriščne straže, je izjavil pred
                      esedejevskim preiskovalnim odborom: »Moje premišljanje in prizadevanje je bilo
-                     ... , kako sestaviti organizacijo, podobno naši prejšnji bojevniški zvezi Rdeči
+                     … , kako sestaviti organizacijo, podobno naši prejšnji bojevniški zvezi Rdeči
                      fronti.«</p>
                   <p>»Ali ti je znano, da so pripadniki taboriščne straže na novo pripeljane jetnike
                      oskubili,« je bila vprašana neka nadaljnja priča. Da, z denarjem, ki je bil
@@ -4215,7 +4217,7 @@
                      celo sestanek za aktiviste horjulskega področja, ki ga je sklical Marijan
                      Brecelj, krščanski socialist. Naivno smo mislili, da smo tu na najbolj varnem
                      kraju. Dejansko pa so nas prav tam opazovali naši najhujši nasprotniki, zavedni
-                     šentjoški mladci ... Tako je nastala prva in najhujša »bela trdnjava« v Šentjoštu
+                     šentjoški mladci … Tako je nastala prva in najhujša »bela trdnjava« v Šentjoštu
                      in se nato razširila po vseh Dolomitih. Poboj naših štirih aktivistov v
                      Šentjoštu pa je bil prvi tovrsten zločin Bele garde v Sloveniji.«</p>
                   <p>Pod naslovom Osvobodilni boj v Dolomitih je dr. Logar leta 1973 v reviji Borec
@@ -4406,7 +4408,7 @@
                      komunizem in ga ni maral privoščiti svojim otrokom. A so ga, žal, morali
                      okusiti, najprej ob izgubi očeta in pozneje ob vseh krivicah in poniževanju.
                      Vse so prenesli, vse so znali odpustiti, zato so njih noči mirne. Nič jih ne
-                     grize. Nikomur niso nič dolžni ... Za nekatere pa bodo noči polne nemira, očitkov
+                     grize. Nikomur niso nič dolžni … Za nekatere pa bodo noči polne nemira, očitkov
                      in prividov, ki jim ne bodo pustili spati. Razbite plošče jih ne bodo
                      pomirile.</p>
                </div>
@@ -4489,7 +4491,7 @@
                      leta 1945. To, kar je rečeno o dobrem imenu brezimnih žrtev, ki nimajo niti
                      mrliških listov iz medvojnega časa, je seveda nekaj, kar je samoumevno in je za
                      nas vse velika sramota, da to že zdavnaj ni bilo urejeno. Torej, mi smo tukaj
-                     konfrontirani s tem, kar se je delalo ( ... ), kar so opravljali organi države,
+                     konfrontirani s tem, kar se je delalo ( … ), kar so opravljali organi države,
                      organizirano, načrtovano, sistematično, z vsemi silno pogubnimi posledicami
                      tega sistematičnega delovanja komunistične države po vojni. Zato bi rad zelo
                      jasno povedal: poslanci naše stranke ne moremo sprejeti nazorov, stališč, ki se
@@ -4506,14 +4508,14 @@
                   <p>Ne smemo pozabiti tudi, če gremo v vrednostne sodbe, kdo je začel državljansko
                      vojno v Sloveniji. Ne smemo se delati, ko da ni bilo likvidacij že leta 1941.
                      Ne moremo se delati, ko da ni bilo Kardeljevega povelja. Vendar ta zakon o
-                     ničemer takem ne govori. ( ... ) Torej, zakon v ničemer niti ne posega v
+                     ničemer takem ne govori. ( … ) Torej, zakon v ničemer niti ne posega v
                      vrednostno oceno državljanske vojne nobene strani. Naj to opravijo zgodovinarji
                      na podlagi dejstev. Zakon pa obsoja totalitarni povojni režim in v preambuli
                      pravi, da se od tega distancira. Menim, da je to minimum, ki ga moramo storiti.
                      Menim pa, da bomo tudi mi morali dozoreti do tega, da bomo praznovali konec
                      delovanja tudi komunističnih koncentracijskih taborišč, tako kot nacističnih in
                      fašističnih, in jasno povedati sebi in svetu, da se je to žal dogajalo tudi pri
-                     nas in da se kot narod odločamo, da se ne bo nikoli ponovilo. ( ... )</p>
+                     nas in da se kot narod odločamo, da se ne bo nikoli ponovilo. ( … )</p>
                   <p>Zelo rad bi videl, da bi zgodovinarji že opravili svoje in da bi se naši otroci
                      pri zgodovini v osemletki, v srednjih šolah pa na univerzah učili zgodovino,
                      tudi novejšo zgodovino, na podlagi zgodovinskih dejstev in ne neke ideološko
@@ -4528,7 +4530,7 @@
                   <docAuthor>Lojze Peterle</docAuthor>
                   <p>Želel pa bi, da bi prešli zelo resno z razpravo na temo, ki se vleče pet let,
                      dejansko iz območja revolucije, ker če ne bomo prišli do tega, potem ne morem
-                     drugače kot trditi, da smo še v njej in da še traja. ( ... ) Za to govornico sem
+                     drugače kot trditi, da smo še v njej in da še traja. ( … ) Za to govornico sem
                      enkrat že dejal, da gre tukaj v osnovi za moralno vprašanje. Politični naboj pa
                      se veča iz dneva v dan, zato ker se to moralno vprašanje noče rešiti. In čim
                      dlje bo to trajalo, tem bolj bo to politično vprašanje in tem bolj bo verjetno
@@ -4548,7 +4550,7 @@
                   <docAuthor>Dr. Jože Pučnik</docAuthor>
                   <p>Poglejte, po vojni so odvzeli majhne otroke, stare leto, dve, tri, štiri, pet,
                      šest, sedem, osem let; dali so jih v neko posebno zastraženo taborišče pri
-                     Celju in od tam so jih razpošiljali v posamezne domove. ( ... ) Tudi tukaj ni
+                     Celju in od tam so jih razpošiljali v posamezne domove. ( … ) Tudi tukaj ni
                      nobene moralne občutljivosti pri Združeni listi, da bi se ta zadeva rešila. To
                      so v nebo kričeče krivice, ki jih nekatere politične sile v Sloveniji tako
                      rekoč zavestno tolerirajo, ker so se odločile podpirati samo svojo klientelo.
@@ -4618,7 +4620,7 @@
                      novinarjev, na prepoved tiska kakršnekoli publikacije, ki ni bila v politbiroju
                      odobrena itd. To je bilo hkrati izredno žalostno leto za slovenski narod in za
                      slovensko kulturo.</p>
-                  <p>( ... ) če praznujemo, lahko praznujemo 50-letnico le z enim smejočim se očesom
+                  <p>( … ) če praznujemo, lahko praznujemo 50-letnico le z enim smejočim se očesom
                      in z drugim, v katerem je žalost. Žalost nad tem, kar seje dogajalo v Sloveniji
                      po vojni. Dejstvo, da se je ta režim humaniziral, liberaliziral postopoma, da
                      je bil v 60. letih, v 70., 80. nekaj čisto drugega kakor po vojni – to dejstvo

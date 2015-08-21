@@ -46,14 +46,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -104,7 +104,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
-            <div type="div2"><head>Aktualni politični komentar Nove Slovenske zaveze</head><docAuthor>Justin Stanovnik</docAuthor>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Še nekaj dni, pa bodo minili štirje meseci od letošnje spominske slovesnosti v
                      Kočevskem Rogu. Štirje meseci niso ne vem kako velika doba, a se vseeno čudimo,
@@ -1099,7 +1101,7 @@
                      štiriletnemu fantku je šrapnel odtrgal polovico glave, učiteljica Pavla Sedej,
                      ki je še mene učila v osnovni šoli, je ležala mrtva sredi ceste pred šolo. Hiša
                      na drugi strani ceste je bila kup ruševin, v kleti blizu šole so bila zasuta
-                     človeška trupla ... « Še huje kot ob nemškem bombardiranju pa je bilo v Grahovem
+                     človeška trupla … « Še huje kot ob nemškem bombardiranju pa je bilo v Grahovem
                      23. novembra 1943 ob partizanskem napadu na komaj ustanovljeno domobransko
                      postojanko. Vinko Šega je bil tisto noč v župnišču. Spominja se, da se je
                      streljanje začelo okrog devetih zvečer: »Čez približno eno uro sem zaslišal, da
@@ -1109,7 +1111,7 @@
                      Pripovedovali so potem, da so bili okrog Grahovega trije obroči partizanov in
                      da so tisti domobranski avto nalašč pustili v vas. Domobranci iz Cerknice
                      skupaj s svojim komandantom so našli smrt v ognju zažgane postojanke v Grahovem
-                     ... Vso noč sem hodil v župnišču od okna do okna, da bi dognal, kdo zmaguje. Nič
+                     … Vso noč sem hodil v župnišču od okna do okna, da bi dognal, kdo zmaguje. Nič
                      nisem mogel ugotoviti, ker je bila tema nepredirno gosta.«</p>
 
                   <figure>
@@ -1121,7 +1123,7 @@
                      stavba je gorela s prasketaj očimi zublji; avto, ki je zvečer pripeljal
                      domobrance iz Cerknice, je na vozovni vagi pred postojanko gorel z visokim
                      plamenom naravnost proti nebu, kakor iztegnjene roke žrtev s prošnjo k Bogu za
-                     pomoč in usmiljenje ... Dvignil sem roke in z balkona dal nesrečnim žrtvam božjo
+                     pomoč in usmiljenje … Dvignil sem roke in z balkona dal nesrečnim žrtvam božjo
                      odvezo grehov.«</p>
                   <p>»Moralo je biti že zjutraj, ko se je skupina domobrancev odločila za izpad iz
                      obkoljene postojanke. Ni se jim posrečil. Vse, mislim, da jih je bilo šest, so
@@ -1477,21 +1479,21 @@
                      povedal, da so Tineta ustrelili, ker ni izvršil povelja.</p>
                   <p>V upanju, da se partizan moti in ne da bi povedal svojemu prijatelju (kovaču),
                      je naslednji dan s patruljo osmih mož in z ubežnikom odšel v hribe, kjer naj bi
-                     bila izvršena likvidacija ... /... / Sledi so bile v novem snegu skoraj izgubljene
-                     ... /.../ Že je dal povelje, da se vrnejo, /.../ ko je partizan opazil visečo pečino
-                     in drevesna debla, preluknjana s streli.</p>
+                     bila izvršena likvidacija … /... / Sledi so bile v novem snegu skoraj
+                     izgubljene … /.../ Že je dal povelje, da se vrnejo, /.../ ko je partizan opazil
+                     visečo pečino in drevesna debla, preluknjana s streli.</p>
                   <p>Začeli so kopati ob skali in odkrili štiri trupla, ki so bila pred kratkim v
                      naglici in površno zasuta in ki so kljub mrazu že kazala znake razkroja. Vsi
                      mrtvi so bili ustreljeni v glavo, med njimi tudi Tine; njihova trupla pa so
-                     bila gola. /... / Peter je poslal nekaj vojakov do najbližje kmetije po konje in
-                     voz. Zavili so trupla v odeje in jih prepeljali v Domžale. Ker so bila
+                     bila gola. /... / Peter je poslal nekaj vojakov do najbližje kmetije po konje
+                     in voz. Zavili so trupla v odeje in jih prepeljali v Domžale. Ker so bila
                      zmrznjena, so jih na pokopališču položili v mrtvaško kapelico.</p>
                   <p>Preden seje zvečer patrulja vrnila v mesto, je kovaču nekdo prišepnil, da je
-                     šel Čebelarjev Peter v gozd in tam ustrelil njegovega sina. /... /Kovač ni hotel
-                     videti trupla in ni šel za sinovim pogrebom. Ostal je v hiši in žaloval, jokal
-                     in ponoči kričal v prazni kovačnici, opuščal delo in prepovedal ženi, da bi
-                     govorila s sosedi. Odslovil je vse dobronamerne sorodnike in znance in se zaprl
-                     v lastno mučenje, v svoj pekel. Tako mu je ostala samo še zagrenjenost in
+                     šel Čebelarjev Peter v gozd in tam ustrelil njegovega sina. /... /Kovač ni
+                     hotel videti trupla in ni šel za sinovim pogrebom. Ostal je v hiši in žaloval,
+                     jokal in ponoči kričal v prazni kovačnici, opuščal delo in prepovedal ženi, da
+                     bi govorila s sosedi. Odslovil je vse dobronamerne sorodnike in znance in se
+                     zaprl v lastno mučenje, v svoj pekel. Tako mu je ostala samo še zagrenjenost in
                      kričanje.</p>
                   <p>Nadaljujem s spomini, napisanimi za Zavezo:</p>
                   <p>Leta 1943 so nam partizani izropali hlev in odpeljali najboljšo živino, junija
@@ -1526,7 +1528,7 @@
                      Čebelarjeve. Do konca, do konca življenja!«</p>
                   <p>Ana je poskočila kakor prestrašena žival in začela teči. Tudi drugi otroci so
                      pospešili korake, dokler niso tudi oni tekli. Mara je začela hoditi hitreje,
-                     prehitela Mino in nato tudi sama tekla ... Mina je hodila, kakor hitro je z
+                     prehitela Mino in nato tudi sama tekla … Mina je hodila, kakor hitro je z
                      berglami mogla. Hodila je s hitrostjo, ki je ni bila vajena, in zavestno pazila
                      na korake. Nujno je hotela obdržati ravnotežje.</p>
 
@@ -1550,7 +1552,7 @@
                      Peter začel odpirati vrata v sobo, kjer so bili štirje partizani, je Savo vanj
                      sprožil rafal iz brzostrelke in ga smrtno ranil v trebuh. Medtem ko je
                      domobrance prizadela poveljnikova nesreča in so ga reševali iz hiše, so
-                     partizani vrgli nekaj bomb skozi okno in ušli ... Med streljanjem domobrancev za
+                     partizani vrgli nekaj bomb skozi okno in ušli … Med streljanjem domobrancev za
                      partizani je bil Savo ranjen v uho in hrbet, drugi partizani pa samo v hrbet.
                      Nemci iz Volčjega Potoka so pri prehodu čez Kamniško Bistrico enemu partizanu z
                      dumdum kroglo poškodovali koleno. Iz bojazni, da bi ga dobili živega, se je sam
@@ -1612,13 +1614,13 @@
                      prošnje vendar prišel kaplan in od kovača zahteval, da je pred vsemi prisotnimi
                      ženi naročil, naj me v njegovem imenu prosi za odpuščanje, preden mu je dal
                      odvezo. Potem je z istimi besedami, kot so v knjigi, zaprosila: »Saj mu
-                     odpustiš, kajne, ... ker ni mislil, te ni hotel tako žaliti ... « Tudi vse drugo,
+                     odpustiš, kajne, … ker ni mislil, te ni hotel tako žaliti … « Tudi vse drugo,
                      kako sta bila z očetom prijatelja, kakor brata; kako so mu zastrupili srce;
                      kako jih je moj oče dobro poznal, bolj kot vsi drugi; če mislim, da mu je tudi
-                     moj oče odpustil, ko ga je tako obdolžil ... ker mu je sam nekoč rekel: sina si
-                     mi ubil; kako je hotela pred vsem svetom pokazati, da njen mož ni bil tak ... da
-                     mu je bilo vedno žal, da je hotela, da bi šli midve skupaj za pogrebom, ... da se
-                     je tako bala, da bo trpel na drugem svetu ... Skozi vse to me je držala za roko
+                     moj oče odpustil, ko ga je tako obdolžil … ker mu je sam nekoč rekel: sina si
+                     mi ubil; kako je hotela pred vsem svetom pokazati, da njen mož ni bil tak … da
+                     mu je bilo vedno žal, da je hotela, da bi šli midve skupaj za pogrebom, … da se
+                     je tako bala, da bo trpel na drugem svetu … Skozi vse to me je držala za roko
                      in me nazadnje objela.</p>
 
                   <figure>
@@ -1936,7 +1938,7 @@
                      kurirji morali strogo držati konspiracije: čim manj si vedel, tem bolje je
                      bilo; najbolje pa, da nisi ničesar vedel, še manj, da bi se za kaj zanimal,
                      najmanj pa za likvidacije. »Nisi smel biti radoveden in razgledan. Če si se
-                     preveč zanimal, so te poslali v brigado ... « Ni mi mogel odgovoriti na
+                     preveč zanimal, so te poslali v brigado … « Ni mi mogel odgovoriti na
                      vprašanje, ali je bil strah župnika Hitija, da bi utegnili v Radovni partizani
                      likvidirati Resmanovo Anico, upravičen ali ne.</p>
                   <p>Nek drug domačin mi je omenil, da je bilo ob nedeljah popoldne v Radovni zelo
@@ -2205,7 +2207,7 @@
                      in raje odšli v bunker, kjer smo se čutili varnejše. Seja je trajala do druge
                      ure ponoči. Navsezgodaj pa smo že zaslišali brnenje avtomobilov. Hitro smo
                      vstali in vse listine spravili na varno. Vasica je bila že obkoljena. Kmalu smo
-                     zaslišali prve strele in ženske krike ... Zvečer smo ugotovili, da so zločinski
+                     zaslišali prve strele in ženske krike … Zvečer smo ugotovili, da so zločinski
                      policisti požgali vseh dvanajst hiš z gospodarskimi poslopji. Samo v skednjih
                      dveh kmetij je bilo nad 160 voz krme, sena, otave in slame.« Po tem opisu
                      Krišpin Ogris konča s stavkom: »Tedaj se je okrožni komite preselil na
@@ -2758,8 +2760,8 @@
                      denar, ki so ga začeli takoj zbirati med člani in članicami Orla. Zlasti
                      bližnje pa so povabili, naj sodelujejo s prostovoljnim delom (kulukom, kakor so
                      takrat uporabljali arabsko besedo za tako tlako): »Sto in sto rok rabimo in
-                     imamo jih po naših orlovskih odsekih ... Nikogar ne silimo, čast pa zahteva, da
-                     izvršimo, kar smo začeli ... Bog živi orlovski kuluk! Stadion je velika
+                     imamo jih po naših orlovskih odsekih … Nikogar ne silimo, čast pa zahteva, da
+                     izvršimo, kar smo začeli … Bog živi orlovski kuluk! Stadion je velika
                      preizkušnja naše discipliniranosti, naše moči in vztrajnosti, je pa tudi naša
                      častna zadeva. Pred očmi cele Slovenije smo začeli z zgradbo, ki bo prva v naši
                      državi (= Jugoslaviji), vsa Slovenija – nam naklonjena in nenaklonjena – bo
@@ -2784,7 +2786,7 @@
                      v naslednjih letih, je zahtevalo nova sredstva, ki naj bi jih Zadrugi Stadion
                      pomagali zbirati tudi orli in orlice. Po svojih odsekih naj bi vplačevali
                      zadružne deleže, da bo tako Stadion prišel v orlovske roke. »Vsakdo mora
-                     vedeti, kaj je Stadion ... Kdor vplača osnovni kamen (= 1000 Din), bo za celo
+                     vedeti, kaj je Stadion … Kdor vplača osnovni kamen (= 1000 Din), bo za celo
                      življenje dobil pravico do brezplačnega vstopa na vse prireditve, ki se bodo
                      vršile na Stadionu.« (str. 57) Dr. Basaj je v več številkah spodbijal ugovore
                      in malodušnost glede nabiranja darov. V novembrski številki je zapisal, da se
@@ -2792,7 +2794,7 @@
                      slovanski orlovski tabor v avgustu 1925. Vse delo vodi Stavbna zadruga Stadion
                      v Ljubljani, član zadruge in s tem tudi upravičen do soodločanja pa postane
                      vsak, ki vplača en delež, to je 100 Din. Stadion bo last zadruge, torej njenih
-                     članov, in če bodo v večini orli člani zadruge, bo Stadion last orlov ... Stadion
+                     članov, in če bodo v večini orli člani zadruge, bo Stadion last orlov … Stadion
                      je za nas orle tako važen, da moramo imeti pri njem odločilno besedo.« (str.
                      150)</p>
                   <p>Omenjeni Tretji slovanski orlovski tabor so napovedali za dneve od 14. do 17.
@@ -3472,7 +3474,7 @@
                      slovenski katoliški shod, ki bi razjasnil pogled na preteklo stoletje
                      totalitarizma in očistil pot naprej.</p>
                   <p>Pismo predsedniku Slovenske škofovske konference mariborskemu škofu dr. Francu </p>
-                  <p>Krambergerju z dne 8. 8. 2005 je NSZ končala s pozivom:» ... sprožite razpravo o
+                  <p>Krambergerju z dne 8. 8. 2005 je NSZ končala s pozivom:» … sprožite razpravo o
                      teh vprašanjih tudi pri Slovenski škofovski konferenci in njenih ustanovah,
                      kajti po šestdesetih letih je čas, da se ta huda izkušnja slovenskega naroda,
                      katoličanov in Cerkve zaokroži z jasnimi opredelitvami in na podlagi trdnih
@@ -3807,7 +3809,7 @@
                   <p>So pa v svojo zloženko, prospekt, kjer nas pozdravljajo v naročju kočevske
                      pokrajine, vendarle zapisali, »petnajst postaj križevega pota Slovencev, delo
                      akademskega kiparja Staneta Jarma, nas popelje v tišino in skrivnost Kočevskega
-                     Roga ... «. So tri pike postavljene zato, da si sami domislimo, kaj bi bila ta
+                     Roga … «. So tri pike postavljene zato, da si sami domislimo, kaj bi bila ta
                      skrivnost, ali zato, ker je nepietetno, kot so rekli, tržiti mrtve?</p>
                   <p>Na CPRTK-u so nam še povedali, da ogleda morišč in grobišč nimajo v svoji
                      ponudbi, da pa se prilagodijo želji strank in jih popeljejo tudi tja, če tako
@@ -4009,7 +4011,7 @@
                      neobremenjene s komunizmom in še bolj neobremenjene z medvojnimi in povojnimi
                      zločini.</p>
                   <p>Sedmo silo so v samoupravnem socializmu sestavljali družbeno-politični delavci,
-                     ki pa seveda svojih voditeljev in botrov niso (mogli, smeli, hoteli ... )
+                     ki pa seveda svojih voditeljev in botrov niso (mogli, smeli, hoteli … )
                      kritizirali razen, kadar je kakšen padel v nemilost pri najvišjih voditeljih in
                      je bil potem odžagan. In pogosto je izgledalo tako, kot da so imeli novinarji
                      kaj pri tem. Ampak vsakomur, ki ni imel čisto opranih možganov, je bilo jasno,
@@ -4053,7 +4055,7 @@
                   <p>Tudi sama bi imela kaj očitati tej vladi in njenemu šefu. Šefu, da ni izpeljal
                      določenih zadev, da je popustil opoziciji, da je odslovil dva najbolj pokončna
                      ministra po moji presoji, Zupana in </p>
-                  <p>Drobniča. Ne vem, če mu je to kaj prida koristilo ... Vladi pa bi očitala
+                  <p>Drobniča. Ne vem, če mu je to kaj prida koristilo … Vladi pa bi očitala
                      predvsem to, da niso uspeli narediti reda v slovenskem medijskem prostoru,
                      skratka, da niso uspeli vzpodbuditi nastanka dnevnika, ki bi uravnotežil
                      situacijo pri nas. Da bi imeli časopis, ki bi pisal o stvareh tako, kot so se
@@ -4062,7 +4064,7 @@
                      enoumja razmišlja o dogajanjih ob predstavitvi knjige Medijska in človekova
                      (ne)svoboda. Urednik Janez Jerovšek je povzel osrednje sporočilo v omenjeni
                      knjigi objavljenih študij: »Nepluralnost slovenskih medijev vsekakor ni skladna
-                     z evropskimi demokratičnimi standardi ... « Urednik Andrej Aplenc pa je definiral
+                     z evropskimi demokratičnimi standardi … « Urednik Andrej Aplenc pa je definiral
                      slovenski politični prostor oziroma naravo slovenskega »levega« monopola: »V
                      slovenski politični govorici je treba razumeti, da levica dejansko pomeni
                      kapitalsko etablirano (ultra)desnico, katere predhodnica je bila komunistična
@@ -4285,7 +4287,7 @@
                      Kaj ni človeško, če se pokloniš spominu na umrlega človeka? Kaj ne gre za
                      človeka, za ljudi? Ne morem razumeti, kako lahko nekdo pri tridesetih reče, da
                      ga to ne zanima, ker s tem nima nič. Ali pa zgolj ponavlja besede, ki jih je
-                     slišal od svojih staršev, na televiziji ... prav do tega bi se morali ograditi,
+                     slišal od svojih staršev, na televiziji … prav do tega bi se morali ograditi,
                      vzpostaviti kritično distanco, si ustvariti svoje mnenje na podlagi lastnega
                      razumevanja, prebiranja, znanja ...</p>
                   <p>Moj oče skrbi za svojo prvo vnukinjo, mojo nečakinjo, ki je stara dve leti in
@@ -4300,7 +4302,7 @@
                      zgodbe starejšega gospoda o tem, kaj se je v tistih krajih dogajalo, koliko
                      mladih fantov so zverinsko pobili. In v teh krajih živijo tudi tisti, ki so
                      bili, ki so, na drugi strani, ki so verjeli, da gre samo za osvobajanje države
-                     ... Zdi se, da je slovenska družba razdeljena v dva tabora, da ne znamo več
+                     … Zdi se, da je slovenska družba razdeljena v dva tabora, da ne znamo več
                      izstopiti iz te razdeljenosti in da nas to obremenjuje. Ali pa se tega sploh ne
                      zavedamo. Kot otrok si ne izbereš staršev, tudi tega ne, del katere družine
                      boš; boš v družini, ki pripada tej ali oni strani? Lahko pa si izbereš, kakšen
@@ -5117,7 +5119,7 @@
                      zasedbi stockholmskega veleposlaništva – za osebno ugrabitev »kot za ljudstvo
                      učinkovito obliko modernega terorizma«, kot je to formuliral Thomas Scheffler:
                      »zelo poosebljena človeška drama«, ki »se dotakne občutljivega stičišča narodne
-                     politike: konflikta etike osebne bližine ... in neosebne logike državnih ozirov«.
+                     politike: konflikta etike osebne bližine … in neosebne logike državnih ozirov«.
                      Da so pa mogli dramatičnost kar se da stopnjevati, je RAF sedaj prvič sama
                      posnela »centralne signaturne slike dogodka« pri ugrabitvi Schleyerja. Da pa
                      pri tem ni šlo le za to, da se oblasti posreduje – po streljanju v Kölnu brez
@@ -5279,7 +5281,7 @@
                      deželnega predsednika berlinske CDU, se je po ugrabitvi Petra Lorenza posebej
                      peljal k njegovi družini, da jo je obzirno pripravil na objavo polaroida pri
                      večernih televizijskih poročilih: »Tu pride v televiziji foto očeta, to je
-                     strašno ... Ampak maroge pred očmi so sence fotokopije, ne hematomi.« Naravno so
+                     strašno … Ampak maroge pred očmi so sence fotokopije, ne hematomi.« Naravno so
                      se vsi portretirani vedno zavedali, da bodo njihovi bližnji družinski člani
                      morali – ali mogli slike videti. »Moj prvi znak življenja sem oddal v torek
                      zjutraj s sliko in pismom, predvsem da vas pomirim,« je pisal Hans-Martin
@@ -5392,7 +5394,7 @@
          <div type="div1">
             <head>Ob 70. izdaji Zaveze</head>
             <div type="div2">
-			<head>Ob 70. izdaji Zaveze</head>
+               <head>Ob 70. izdaji Zaveze</head>
                <div type="div3">
                   <p>Zaveza se je <emph>rodila</emph> že davno, ko so ob zelo posebnih dogodkih,
                      nekateri spoznali in začutili, daje potrebno ohraniti spomin na nedoumljivo
@@ -5706,7 +5708,8 @@
          </div>
          <div type="div1">
             <head>Prispelo zadnji hip</head>
-            <div type="div2"><head>Prispelo zadnji hip</head>
+            <div type="div2">
+               <head>Prispelo zadnji hip</head>
                <docAuthor>Anton Mlakar</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Uredniška pripomba</p>
@@ -5813,7 +5816,7 @@
                   <p>Glas iz radij. aparata opozori na Stalinov intervju, pa postanemo bolj pozorni.
                      Ob koncu pogovora smo slišali nekako takole: »Dobro – vaša država je na
                      ateistični doktrini, a v tej vojni ste partner z demokratičnim svetom; ali kaj
-                     mislite na urejanje odnosov z Vatikanom ... «</p>
+                     mislite na urejanje odnosov z Vatikanom … «</p>
                   <p>»Da,« odgovori Stalin »tudi o tem že razmišljamo!«</p>
                   <p>V izbi tišina, nakar se s peči oglasi Martin in zatuli: »Kurba, Stalin!«</p>
                   <p>Jaz takrat še nisem bil posvečen v ideološki svet boljševizma, a sem v hipu
@@ -5862,7 +5865,7 @@
                      hrumela ista kolona tovornjakov, pivci stegnejo vratove proti oknom – pa se
                      sliši glas: »Janez – poglej jih!« »Ja, kaj vendar?« odgovori sosed. »Ja, Janez
                      – ti pa so naši vendar!«</p>
-                  <p>»Aaaa, ja ... «</p>
+                  <p>»Aaaa, ja … «</p>
                   <p>Kolona zdrdra proti naši vasi, pivska družba utihne, se dvigne in se počasi
                      poslovi od omizja.</p>
                   <p>Nekdo ali marsikdo je bil zadovoljen ...</p>
@@ -5888,7 +5891,7 @@
                      partizanska krogla zadela nekje v Trnovskem gozdu. V nemški šprahi sem ga
                      ogovoril, da mu rentačenje ne bo pomagalo, pa me vpraša: »In kaj si ti?« Pa mu
                      odvrnem: »Poglej, kaj piše na črni tabli nad glavo.« Pa prebere: »Antonio
-                     Mlakar – ribello! Also partizan. Jawohl – no dann – hier meine Hand ... siamo
+                     Mlakar – ribello! Also partizan. Jawohl – no dann – hier meine Hand … siamo
                      tutti ribelli!«</p>
                   <p>Ko je plava divizija v Donbasu doživela svojo Berezino, ji ni bil usojen
                      zmagoviti povratek v domovino, ampak žalostna usoda Wehrmachta – ušiva
@@ -5914,7 +5917,7 @@
                         srbsko vodstvo</emph>.</p>
                   <p>Krizna leta, politična napetost v Evropi, italijansko marširanje po Afriki,
                      objestne grožnje hitlerjanskega rajha so zbližale vaško srenjo – a marsikomu je
-                     to stanje šlo na roke – od ... ??? ... do pričakovanja. A o tem nismo mi mladi prav
+                     to stanje šlo na roke – od … ??? … do pričakovanja. A o tem nismo mi mladi prav
                      nič vedeli; šele medvojna in povojna dogajanja so razkričala družbeno stanje
                      tega tesnobnega časa.</p>
                   <p>Bil je junijski večer prvega vojnega leta; naša mlada družba sedi v topli

@@ -43,14 +43,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -1599,7 +1599,7 @@
                      življenja.« Nekaj dni pred smrtjo pa je zapisal: »Zvedel sem, da so sinoči
                      odpeljali tri krasne fante. Smilijo se mi, ko vem, da jih bo zadelo vse gorje
                      po nedolžnem. Ta bolečina se še povečuje ob zavesti, da ne morem sam nič
-                     pomagati ... Gospod moj, kaj ne veš, kaj sem ti ponudil? Prosim te, rotim te,
+                     pomagati … Gospod moj, kaj ne veš, kaj sem ti ponudil? Prosim te, rotim te,
                      prizanesi ljudem, mene udari, če že mora satan tolči po nas.«</p>
                   <p>Ali je kaplan Kastelic vsaj slutil, kaj se je zgodilo nekaj dni prej. Zgodbo o
                      tem beremo v Sajetovem <emph>Belogardizmu</emph>, pa tudi med ljudmi je še
@@ -2077,7 +2077,7 @@
                      stavkih: <emph>Mi delujemo z Nemci lojalno, ker nam samo ti hočejo in lahko
                         pomagajo. Sodelovali bomo z njimi in bomo hvaležni za njihovo pomoč, ker
                         hočemo ustvariti za naš narod </emph>
-                     <emph>kulturno in človeško svobodo ... </emph>
+                     <emph>kulturno in človeško svobodo … </emph>
                   </p>
                   <p>Na videz ni razumljivo, zakaj se primorski domobranci niso povezali z glavnino
                      in stopili pod vodstvo Ljubljane. Zdaj na veliko razlagajo (Franc Miklavčič),
@@ -2840,7 +2840,7 @@
          <div type="div1">
             <head>Utrinki</head>
             <div type="div2">
-			<head>Uvod</head>
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Včasih nam kdo od naših bralcev pošlje droben, zanimiv spomin, za katerega nam
                      bi bilo žal, če bi se izgubil. Dva taka nam je nadavno poslal naš bralec Stane
@@ -3120,8 +3120,8 @@
                      hoditi po prstih, da bi slišal zven gozda, ko šelesti svoj pianissimo.</p>
                   <p>In ko se znajdeš v trumi ljudi, ki se zgrinja proti jamam, se ti groza, ki jo
                      nosiš v prsih zaradi zverinskega dogajanja, ki je na tem mestu doseglo svoj
-                     fortissimo, razraste do bolečine. Nepojmljiva groza. Le kako ... Le zakaj ... Ali
-                     je to sploh mogoče ... Pogled ti potuje od obraza do obraza, do skrušene postave,
+                     fortissimo, razraste do bolečine. Nepojmljiva groza. Le kako … Le zakaj … Ali
+                     je to sploh mogoče … Pogled ti potuje od obraza do obraza, do skrušene postave,
                      do ustnic, ki mrmrajo molitev, do prstov, ki ubirajo jagode na rožnem vencu. In
                      vmes se ti pogled ustavi na skupini, ki malica in brezbrižno klepeta. In groza
                      v tebi še bolj zaboli. Skušam si dopovedati, da imajo morda prav, da je treba
@@ -3139,8 +3139,8 @@
                   <p>Če bi vsi dojeli to grozo, če bi se zgrozili ob misli na to dogajanje, ki nima
                      imena, ker ga nobena beseda ne more v polnosti izraziti, ker besede v
                      primerjavi s tem dogajanjem nenadoma postanejo tako uboge, ker tudi misli ne
-                     morejo tega opisati, le groza, nepopisna groza, težak kamen na duši ... Če bi vsi
-                     ... potem bi morda prišlo očiščenje, kajti potrebno je očiščenje vsega naroda,
+                     morejo tega opisati, le groza, nepopisna groza, težak kamen na duši … Če bi vsi
+                     … potem bi morda prišlo očiščenje, kajti potrebno je očiščenje vsega naroda,
                      kajti to je bil tako velik zločin, da na vsakem od nas leži delček.</p>
                   <p>Nekoč pojdem sama v Rog. Ko bom stopila na to sveto zemljo, se bom sezula. Bosa
                      bom hodila med jamami in pustila grozi v mojih prsih, da se bo napihnila do
@@ -3265,7 +3265,7 @@
                      gozdarske koče v osrčje Roga, kjer je s svojimi prijatelji-skavti želel
                      narediti skavtske zaobljube. Kako lepa je bila vožnja z avtom po zeleni in
                      sončni Ribniški dolini do Kočevja! Na nekem odseku se cesta približa železnici.
-                     Prav po tej progi so jih peljali maja 1945 v smrt ... V kakšni grozi so
+                     Prav po tej progi so jih peljali maja 1945 v smrt … V kakšni grozi so
                      doživljali svojo pot na Kalvarijo?</p>
                   <p>V Kočevju smo zavili levo proti Rogu. Prvič v življenju gledam to pokrajino.
                      Opazujem stare hiše ob cesti skozi Šalko vas in Željne. Katere od njih so bile
@@ -3279,10 +3279,10 @@
                      tla, po katerih stopamo, posvečena je katedrala zelenih bukev in smrek,
                      posvečena je daritvena žrtev teh, ki trohnijo pod nami.</p>
                   <p>Ko enkrat stopiš v to posvečeno skrivnost, ostaneš z njo zaznamovan vse
-                     življenje ... Pripeljali smo se do koče. Vrvež mladih in veselih skavtov se je
+                     življenje … Pripeljali smo se do koče. Vrvež mladih in veselih skavtov se je
                      umirjal okrog lepo okrašene mize, pripravljene za – mašno daritev. "Skavtska
                      maša", pa vendar, ponovna daritev prvega velikega petka in velikega petka
-                     Kočevskega Boga pod neskončnim svodom nebes ... Živi venec mladih okrog oltarja
+                     Kočevskega Boga pod neskončnim svodom nebes … Živi venec mladih okrog oltarja
                      odgovarja tej ponavljajoči se, a vedno novi skrivnosti: Tvojo smrt oznanjamo in
                      Tvoje vstajenje slavimo, dokler ne prideš v slavi!</p>
                   <p>Ta skrivnost zaživi na oltarju, dogaja se tukaj in zdaj, v nas in med nami. Ali
@@ -3312,7 +3312,7 @@
                      slabega. On je bil pijan zmage, jaz sem bil žrtev, niče; človek, ki bi ga ne
                      bilo treba na svetu. Škoda, da ga ni že njegov soborec po nesreči ubil. Bomo
                      zdaj mi poskrbeli, da bi takšni "tipi" več ne tlačili zemlje. Potem bomo imeli
-                     raj ... </p>
+                     raj … </p>
                   <p>Letos se bom udeležil spominske maše v Rogu s posebno mislijo na sošolce, ki bi
                      tudi lahko imeli zlato mašo, pa počivajo njihove kosti po kočevskih in drugih
                      breznih. Znova bom odpustil vsem, ki so krivi njihove nedolžne smrti, – pa tudi
@@ -3666,8 +3666,8 @@
                   <p>Kaj pomeni mlad, kaj pomeni otroštvo? Pomeni biti brezskrben, pomeni brez
                      razmišljanja zreti v prihodnost; prihodnost je samo nekaj, kar je povezano z
                      velikimi željami, upanjem, najlepšimi predstavami o tem, kaj bo, vsekakor nekaj
-                     zelo zelo lepega, lepega, kot so lahko lepe samo sanje ... Kako pa je danes?
-                     Danes tega ni ... otroci so ze zelo obremenjeni ... obremenjeni s skrbmi staršev ... </p>
+                     zelo zelo lepega, lepega, kot so lahko lepe samo sanje … Kako pa je danes?
+                     Danes tega ni … otroci so ze zelo obremenjeni … obremenjeni s skrbmi staršev … </p>
                   <p>Kako je bilo z našim otroštvom. Lahko bi rekla, da smo bili dvoje sorte otroci.
                      Eni so imeli vsega (saj veste: vila na Bledu, avto s šoferjem, pomaranče, bele
                      kožuščke), drugi pa smo morali že zelo zgodaj razumeti, da ni denarja niti za
@@ -3696,9 +3696,9 @@
                      zgodilo, da ne bi bili oropani prihodnosti. Ljudje so vedeli, da ni dobro
                      govoriti o pobojih, ki so se dogajali med vojno in po njej, da ni dobro
                      govoriti o prelivanju kroglic in o drugih goljufijah, ki so se dogajale na
-                     volitvah, ... Nekateri so se prav nečloveško trudili, da bi izbrisali iz spomina
+                     volitvah, … Nekateri so se prav nečloveško trudili, da bi izbrisali iz spomina
                      vse take reči, ki bi jim lahko škodovale, če bi se jim kdaj v nepravi druščini
-                     zareklo ... In nekaterim je zares uspelo, da so pozabili, da se vsega skupaj
+                     zareklo … In nekaterim je zares uspelo, da so pozabili, da se vsega skupaj
                      spominjajo le megleno, tako da niso več čisto prepričani, ali se je vse skupaj
                      zares zgodilo.</p>
                   <p>In prav ta strah, strah malega človeka, pove, ali je v državi svoboda in
@@ -3706,7 +3706,7 @@
                   <p>Kako hitro čas beži. Zdaj zdaj bo deset let, kar smo dočakali sanje naših
                      očetov in dedov. Dočakali, da imamo Slovenci svojo državo, svojo lastno državo,
                      kar je izgledalo še ne posebno dolgo nazaj čista iluzija, prazna vera, grad v
-                     oblakih, ... In zamenjali smo sistem. Opustili smo naj naj demokracijo in
+                     oblakih, … In zamenjali smo sistem. Opustili smo naj naj demokracijo in
                      vpeljali pravo demokracijo. Vendar ima ta demokracija eno napako. Ali pa morda
                      cel sistem napak, ki vse izvirajo iz istega vica. Namrč, če je to demokracija,
                      je, kot sem že napisala, "atenska demokracija", peščica izbranih uživa vse
@@ -3785,7 +3785,7 @@
                      hotel, da se stvari pregledajo skoz in skoz. Da ne bi zgubili še stanovanja.
                      Kajti, če bi volili koga drugega, ki pravi, da je bilo s to razprodajo
                      stanovanj nekaj narobe, bi se jim utegnilo zgoditi prav to. Je pa hecno, da so
-                     se znašli prav vsi Kučani in Bavčarji in Školči in ... v velikih lepih
+                     se znašli prav vsi Kučani in Bavčarji in Školči in … v velikih lepih
                      stanovanjih v lepih in mirnih soseskah. Slučaj? Pha! Tik preden seje vse skupaj
                      začelo, (ali pa končalo, kakor hočete), ko so se delila zadnja družbena
                      stanovanja, so napravili tako imenovane "verige". Nekdo, ki je že leta in leta
@@ -3813,7 +3813,7 @@
                      zaradi utaje davkov. In naša udbomafija ni nič slabša. Če že kaj ukrade, naredi
                      to tako perfidno, da seji ne da nič dokazati. In skrbno zabriše vse sledove za
                      sabo. In potem nas gleda z otroško nedolžnim obrazom. In morda celo sam sebi
-                     verjame, daje bilo vse legalno in legitimno in ... skratka pošteno.</p>
+                     verjame, daje bilo vse legalno in legitimno in … skratka pošteno.</p>
                   <p>In mali človek tega ne vidi. Ali pa noče videti. Ali pa vidi in ve za vse
                      skupaj, pa se zaveda, da ne more nič storiti. Da si lahko samo škoduje. Mali
                      človek vse skupaj pozabi. Ali pa hoče pozabiti. Da se mu ne bi v kakšnem
@@ -4239,7 +4239,7 @@
                      France Balantič napisal tudi pesem Materi. "Mati moja," jo v njej kliče, "vseh
                      noči predica". Ni mi treba razlagati, zakaj pravi "vseh noči predica". Tako je
                      nepopisno lepo prikazal njeno skrb. In še pravi Balantič v tej pesmi: "Vidim te
-                     pred križem v kotu stati, grčave dlani poklanjaš Bogu ... " Tudi tu ni nobenega
+                     pred križem v kotu stati, grčave dlani poklanjaš Bogu … " Tudi tu ni nobenega
                      dvoma, za koga dviga mati pred križem svoje zgarane roke. To je, vidite,
                      skrb.</p>
                   <p>Skrb ima na sebi tudi nekaj, s čimer osvetljuje tudi drugi dve udeleženki naše
@@ -4916,7 +4916,7 @@
                      poštar. Poročilo, v katerem sem o tem bral, pravi na koncu tole: »Tako moč ima
                      v človeku strah, da že pogled na injekcijsko iglo zmanjša zmožnost presojanja,
                      kaj pa šele, če sliši govorice o aretacijah, pretepanju, zasliševanju, ječah in
-                     taboriščih ... «</p>
+                     taboriščih … «</p>
                   <p>Na podzavestni strah, ki deluje, ne da bi zanj vedeli, je v nekem pismu mislil
                      tudi sedanji češki predsednik Vaclav Havel. Pisatelj Havel je bil v času
                      komunizma disident. Leta 1975 je pisal generalnemu sekretarju češkoslovaške
@@ -5165,7 +5165,7 @@
                      bolečo preiskavo so prepustili nasprotnikom. »Sadež je bil prezrel in nas sedaj
                      maže s svojimi brizgljaji.«</p>
                   <p>Najpomembnejši prispevek vse te diskusije je izšel v začetku aprila. »Ne,
-                     nikoli ni bilo pravičnega komunizma ... Kjerkoli je vladal, je vladal teror«. Pod
+                     nikoli ni bilo pravičnega komunizma … Kjerkoli je vladal, je vladal teror«. Pod
                      tem (pred nekaj leti še popolnoma nepredstavljivim) naslovom je glasilo levih
                      demokratov <emph>L'Unita</emph> 3. aprila objavilo intervju z Norbertom
                      Bobbiom, uglednim nestorjem politične filozofije v Italiji. Bobbio je sedaj
@@ -5280,36 +5280,38 @@
                         <label>I. ARGENTINA</label>
                      </item>
                      <item>
-                        <address><name>Lovro Jan</name>
-                     <addrLine>C.C. 907</addrLine>
-                     <addrLine>8400 Bariloche</addrLine>
-                     <addrLine>Rio Negro</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
-                     </item>
-                     <item>
-                        <address><name>Joža Markeš</name>
-                  <addrLine>Virrey Loreto 3365</addrLine>
-                     <addrLine>1605 Carapachay</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
+                        <address>
+                           <name>Lovro Jan</name>
+                           <addrLine>C.C. 907</addrLine>
+                           <addrLine>8400 Bariloche</addrLine>
+                           <addrLine>Rio Negro</addrLine>
+                           <addrLine>Argentina</addrLine>
+                        </address>
                      </item>
                      <item>
                         <address>
-                     <name>Marjan Šušteršič</name>
-                     <addrLine>Gral. Vacca 995</addrLine>
-                     <addrLine>1686 Hurlingham</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
+                           <name>Joža Markeš</name>
+                           <addrLine>Virrey Loreto 3365</addrLine>
+                           <addrLine>1605 Carapachay</addrLine>
+                           <addrLine>Argentina</addrLine>
+                        </address>
+                     </item>
+                     <item>
+                        <address>
+                           <name>Marjan Šušteršič</name>
+                           <addrLine>Gral. Vacca 995</addrLine>
+                           <addrLine>1686 Hurlingham</addrLine>
+                           <addrLine>Argentina</addrLine>
+                        </address>
                      </item>
 
                      <item>
                         <address>
-                     <name>Slavko Urbančič</name>
-                     <addrLine>Ramon L. Falcon 4158</addrLine>
-                     <addrLine>1047 Buenos Aires</addrLine>
-                     <addrLine>Argentina</addrLine>
-                  </address>
+                           <name>Slavko Urbančič</name>
+                           <addrLine>Ramon L. Falcon 4158</addrLine>
+                           <addrLine>1047 Buenos Aires</addrLine>
+                           <addrLine>Argentina</addrLine>
+                        </address>
                      </item>
 
                      <item>
@@ -5317,38 +5319,38 @@
                      </item>
                      <item>
                         <address>
-                     <name>Anton Štih</name>
-                     <addrLine>20 Rufford Rd</addrLine>
-                     <addrLine>Toronto, Ontario</addrLine>
-                     <addrLine>MBW 4V6 CANADA</addrLine>
-                  </address>
+                           <name>Anton Štih</name>
+                           <addrLine>20 Rufford Rd</addrLine>
+                           <addrLine>Toronto, Ontario</addrLine>
+                           <addrLine>MBW 4V6 CANADA</addrLine>
+                        </address>
                      </item>
                      <item>
                         <address>
-                     <name>Ema Pogačar</name>
-                     <addrLine>57 Andreson Ave.</addrLine>
-                     <addrLine>Toronto, Ontario</addrLine>
-                     <addrLine>M5P 1H6 CANADA</addrLine>
-                  </address>
+                           <name>Ema Pogačar</name>
+                           <addrLine>57 Andreson Ave.</addrLine>
+                           <addrLine>Toronto, Ontario</addrLine>
+                           <addrLine>M5P 1H6 CANADA</addrLine>
+                        </address>
                      </item>
                      <item>
                         <label>III. ZDRUŽENE DRŽAVE</label>
                      </item>
                      <item>
                         <address>
-                     <addrLine>Slovenska pisarna</addrLine>
-                     <addrLine>(Anton Oblak)</addrLine>
-                     <addrLine>c/o St. Vitus Church</addrLine>
-                        <addrLine>6104 Glass Ave.</addrLine>
-                     <addrLine>Cleveland, OHIO 44103, USA</addrLine>
-                  </address>
+                           <addrLine>Slovenska pisarna</addrLine>
+                           <addrLine>(Anton Oblak)</addrLine>
+                           <addrLine>c/o St. Vitus Church</addrLine>
+                           <addrLine>6104 Glass Ave.</addrLine>
+                           <addrLine>Cleveland, OHIO 44103, USA</addrLine>
+                        </address>
                      </item>
                      <item>
                         <address>
-                     <addrLine>Franjo Mejač</addrLine>
-                     <addrLine>7042 West Tripoli Ave.</addrLine>
-                     <addrLine>Milwaukee Visconsin 53220 USA</addrLine>
-                  </address>
+                           <addrLine>Franjo Mejač</addrLine>
+                           <addrLine>7042 West Tripoli Ave.</addrLine>
+                           <addrLine>Milwaukee Visconsin 53220 USA</addrLine>
+                        </address>
                      </item>
                   </list>
                </div>
