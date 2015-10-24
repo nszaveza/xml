@@ -72,6 +72,23 @@
       </revisionDesc>
    </teiHeader>
    <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart>Zaveza št. 35</titlePart>
+               <titlePart>Revija za duhovna, kulturna in politična vprašanja sedanjosti in
+                  prihodnosti – s posebnim ozirom na krizo slovenstva po boljševiški revoluciji in
+                  državljanski vojni </titlePart>
+               <titlePart>Elektronska izdaja</titlePart>
+            </docTitle>
+            <docImprint>
+               <publisher>Nova Slovenska zaveza</publisher>
+               <pubPlace>Ljubljana</pubPlace>
+               <docDate>2010</docDate>
+            </docImprint>
+         </titlePage>
+         <divGen type="toc"/>
+	</front>		 
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>

@@ -72,7 +72,24 @@
             <name>Medard Švigelj</name> - oštevilčenje strani </change>
       </revisionDesc>
    </teiHeader>
-   <text>
+   <text>   
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart>Zaveza št. 34</titlePart>
+               <titlePart>Revija za duhovna, kulturna in politična vprašanja sedanjosti in
+                  prihodnosti – s posebnim ozirom na krizo slovenstva po boljševiški revoluciji in
+                  državljanski vojni </titlePart>
+               <titlePart>Elektronska izdaja</titlePart>
+            </docTitle>
+            <docImprint>
+               <publisher>Nova Slovenska zaveza</publisher>
+               <pubPlace>Ljubljana</pubPlace>
+               <docDate>2010</docDate>
+            </docImprint>
+         </titlePage>
+         <divGen type="toc"/>
+	</front>	
       <body>
          <pb n="001"/>
          <div type="div1">

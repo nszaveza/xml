@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="tei-zaveza.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:lang="slv">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -179,7 +179,7 @@
               upoštevamo, da ima beseda »pamet« ozko zvezo z besedo »spomin«, potem se v tistih
               besedah izpiše sporočilo, ki bi ga kazalo premisliti. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_01.png"/>
               <head>Pomlad pride otroško veselo <name type="author">Mirko Kambič</name></head>
             </figure>
             <p>Dvajseto stoletje se je tako začelo, zlasti pa tako nadaljevalo, da se je nekdaj
@@ -288,7 +288,7 @@
               velike težave, če bi kdo od nas zahteval da jim priznamo ali celo dokažemo
               nekvalificirano »racionalnost« ali »soglasnost«. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_02.png"/>
               <head>Prinese delo in veselje <name type="author">Mirko Kambič</name></head>
             </figure>
           </div>
@@ -359,7 +359,7 @@
               postal laž. To pa je nekaj, za kar sicer mislimo, da moramo povedati, ne da bi prav
               razumeli, kaj je. Samo vemo, da je nad nami. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_03.png"/>
               <head>Z zlatim regratom krasi dolino, višino z belim snegom <name type="author">Mirko
                   Kambič</name></head>
             </figure>
@@ -432,7 +432,7 @@
               Romunom le ne bi bilo treba tako sramovati. Kako bi svoje Romune lahko šele
               potolažila, če bi poznala slovenske razmere!</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_04.png"/>
               <head>Pride v vsak slovenski kraj <name type="author">Mirko Kambič</name></head>
             </figure>
           </div>
@@ -448,7 +448,7 @@
               nepričakovane in nenadejane ovire, če se taka zgodovinska priložnost le kako pojavi.
               Da bo prehod v demokracijo tako oviran in sabotiran, kakor se je pozneje izkazalo. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_05.png"/>
               <head>Tudi najbolj skritih ne pozabi <name type="author">Mirko Kambič</name></head>
             </figure>
 
@@ -527,7 +527,7 @@
               zločini, ker so se zgodili in so, tudi delujejo: delujejo tako, da izrekajo moralno
               neveljavnost nad vsakim aktom, ki ga izdajo pravosodne ustanove države. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_06.png"/>
               <head>Srce nam razveseli in osveži duha <name type="author">Mirko Kambič</name></head>
             </figure>
             <p>V nedogled to ne bo moglo iti. V nedogled Slovenija ne bo mogla biti zločinska
@@ -581,7 +581,7 @@
               se je pokazalo, da je to dejansko res. 20.000 sodelavcev Udbe je nadzorovalo politično
               vsako vas, vsako podjetje, vsako šolo in vsako institucijo.« </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_07.png"/>
               <head>Pomlad je razkošje slovenske zemlje <name type="author">Mirko
                 Kambič</name></head>
             </figure>
@@ -669,7 +669,7 @@
               kaplan Franc Nahtigal, ki je bil na Vidmu samo nekaj let, pa ga imajo ljudje še vedno
               v lepem spominu.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_08.png"/>
               <head>Vaški stražarji iz Zagorice. Z leve spredaj: Ivan Žnidaršič, Alojz Grm, Jože
                 Mesojedec; zadaj: Franc Novak, Franc Vidmar, Jože Žnidaršič, Jože Babič, Franci
                 Erčulj, Nace Miklič, Franc Grm in Ivan Žnidaršič </head>
@@ -748,7 +748,7 @@
               odločnim posegom razmaknilo obroč in odšlo proti Žužemberku. (I. K., Prva nacionalna
               ilegala, str. 48)</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_09.png"/>
               <head>Duhovnik Ivan Lavrih – že v poznejših letih v Ameriki</head>
             </figure>
             <p>Medtem ko je bil Kranjčev odred že blizu Žužemberka, je Boris Kidrič s svojim
@@ -780,7 +780,7 @@
               Novaka in učiteljico Darinko Čebulj? Najbrž tedaj še ni vedel, da bosta oba obsojena
               na smrt in da bo obsodba izvršena s krutim mučenjem.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_10.png"/>
               <head>Franc Kadunc, Rekarjev, ranjen na Turjaku in umorjen 20. 9. 1943</head>
             </figure>
             <p>Popoldne 31. maja je bil Kocbek v Strugah, kjer je Marnov bataljon pripravil
@@ -828,7 +828,7 @@
               pomoriti kaplan Lavrih in njegov prijatelj Janez Marn, tedaj komandant v Logu, da bi
               Dobrepoljce odvrnila od OF.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_11.png"/>
               <head>Štefan Mustar, umorjen 9. julija 1943 pri Kompoljah </head>
             </figure>
             <p>Kocbek o »justifikaciji« štirih fantov pri Kompoljah ni pisal, kajti 10. junija so se
@@ -875,7 +875,7 @@
               zagrožena smrtna kazen. Tako so prišli do podatkov o zalogah in za obvezno oddajo
               pridelkov. Plačevali so z boni, izplačljivimi po koncu vojne.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_12.png"/>
               <head>Ivan Gale – legist, ujet in umorjen na Suhorju 29. novembra 1942</head>
             </figure>
             <p>Ko so ugotovili, da je Kmetijska zadruga na Vidmu dobro založena z živili – Videm je
@@ -1054,7 +1054,7 @@
               ko je govoril na zborovanju pred videmsko šolo. Vaška straža torej ni preprečila samo
               komunističnega terorja, ampak tudi nadaljnje italijanske represalije. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_13.png"/>
               <head>Jože Grm iz Zagorice, roj. 1927, ranjen na Turjaku in umorjen 20. septembra
                 1943</head>
             </figure>
@@ -1067,7 +1067,7 @@
               1942 je Tomšičeva brigada v okviru »čiščenja« Suhe krajine napadla Kompolje; vaška
               straža je vzdržala napad in potem je v dolini zavladal mir.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_14.png"/>
               <head>Skupina grobov dobrepoljskih fantov na Vidmu – zadaj uničeno župnišče in hlevi –
                 grobovi so bili po vojni izbrisani</head>
             </figure>
@@ -1077,7 +1077,7 @@
             <p>Če samo bežno preletimo letnice smrti na farni spominski plošči na Vidmu, ne moremo
               prezreti, da se več kot dvestokrat ponovi 1945. Seveda je največ žrtev bilo med
               domobranci, ki so bili pomorjeni po maju 1945, ko je bilo vojne že konec. <figure>
-                <graphic url="slike_z_76/z_76_.png"/>
+                <graphic url="slike_z_76/z_76_15.png"/>
                 <head>Druga skupina grobov dobrepoljskih fantov na Vidmu – tudi izbrisana po
                   vojni</head>
               </figure>Tudi po padcu Turjaka je kruta revolucija uničila precej dobrepoljskih
@@ -1099,7 +1099,7 @@
             <p>Je mar to konec Kocbekove povesti, ki jo je pomladi 1942 pripovedoval šolarjem v
               Kompoljah? O tem še kaj kdaj prihodnjič.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_16.png"/>
               <head>Dobrepoljci ob blagoslovitvi kapelice pri rovu sv. Barbare</head>
             </figure>
           </div>
@@ -1205,7 +1205,7 @@
               Tudi gospod Kimovec je mamo bodril. Čutili sva, da imava v obeh podporo, poleg strica
               Bogomirja in dobrih družin v soseščini. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_17.png"/>
               <head>Poročna slika Antona Pirca in Marije Magajna</head>
             </figure>
             <p>Kmalu po vojni so naselili v našo pritlično hišico moškega in njegovega sina iz
@@ -1248,7 +1248,7 @@
               posodo, velike, umazane ponve in lonce je dvanajstletna Danica po pouku hodila drgniti
               s sirkovo krtačo. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_18.png"/>
               <head>Domobranski poročnik Zvonko Pirc</head>
             </figure>
             <p>Skupaj sta se mučili na vrtovih in vozili s cizo zelenjavo na ljubljanski trg. Vse
@@ -1302,14 +1302,14 @@
               umaknil na Koroško skupaj z drugimi policisti, samimi Slovenci. Sprva je hotela z njim
               tudi mama z Danico, a jo je soseda pregovorila, da je zaradi deklice ostala doma. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_19.png"/>
               <head>Profesor Zvonko Pirc</head>
             </figure>
             <p>Zapisali smo že, da sta Daničina brata Zvonko (1921) in Mirko (1923) odšla na Koroško
               6. maja. Kakšna mladeniča sta bila? Oba sta maturirala na klasični gimnaziji, Zvonko
               leta 1939, Mirko 1942.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_20.png"/>
               <head>Študent medicine Mirko Pirc</head>
             </figure>
             <p>Bila sta velika prijatelja z bratoma Aljošom in Milošem Metlikovičem, od prvega do
@@ -1364,7 +1364,7 @@
               je izkazalo, da se ni mogoče z njim spoprijeti z dialogom in zagovarjanjem svojih
               stališč. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_21.png"/>
               <head>Maturanti klasične gimnazije v Ljubljani (1939): druga vrsta prvi z leve Zvonko
                 Pirc (pred njim stoji Božidar Fink); v prvi zrsti z desne Aljoša Metlikovič</head>
             </figure>
@@ -1400,11 +1400,7 @@
               ali v Marijini kongregaciji, pri mladcih ali pri stražarjih in številni drugi živeli v
               slutnji smrti po umoru študentov Jaroslava Kiklja, Župca, Mravljeta in mnogih mladih
               fantov po Sloveniji. </p>
-            <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
-              <head>Marijina kongregacija: v drugi vrsti z leve tretji Mirko Pirc, četrti Miloš
-                Metlikovič, peti Zvonko Pirc; v sredini duhovni vodja Franc Sodja</head>
-            </figure>
+            
           </div>
           <div type="div3">
             <head>Vrnitev v smrt</head>
@@ -1418,13 +1414,16 @@
               dobrega. Kot policist je posredoval in poizvedoval, če je prišlo do kraje, po dva
               policista sta vsaki dve uri naredila obhod po mestu; vodil je izgnance k zdravniku,
               pobiral med njimi pošto in jo vozil v Ljubljano ali spremljal sorodnike domobrancev
-              ali kakšnega domobranca v Ljubljano v bolnico. Enkrat se je srečal v bolnici z dr.
+              ali kakšnega domobranca v Ljubljano v bolnico.</p>
+			<figure>
+              <graphic url="slike_z_76/z_76_22.png"/>
+              <head>Marijina kongregacija: v drugi vrsti z leve tretji Mirko Pirc, četrti Miloš
+                Metlikovič, peti Zvonko Pirc; v sredini duhovni vodja Franc Sodja</head>
+            </figure>
+
+			<p> Enkrat se je srečal v bolnici z dr.
               Janežem. Ta mu je pravil o svojem bratu, ki je bil zagrizen komunist pri partizanih in
               je padel v Voklem. Iz pogovora je Pavel razbral, kako mu je bilo hudo za bratom. </p>
-            <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
-              <head>Sosedje in prijatelji: (z leve) Jelka, Srečko in Zalka Belič</head>
-            </figure>
             <p>Anton Pirc je bil ves čas zaposlen na policiji v Ljubljani. Bil je zadolžen za
               prehrano policistov. Po srcu je bil velika dobričina in kakšnega odločnega nastopa ali
               poveljevanja od njega ni bilo pričakovati, se spominja gospod Pavel. Oba sta se
@@ -1442,11 +1441,7 @@
               sem na štab do Krennerja in mu povedal, da nam ne pustijo vzeti s seboj koles.
               Obljubil mi je, da bo stvar uredil, in ko se je vrnil iz pisarne, je zagotovil, da
               bodo kolesa pripeljali za nami, ko odidemo v Italijo. </p>
-            <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
-              <head>Ljubljanski domobranski policijski zbor: v zadnji vrsti šesti z leve Zvonko
-                Pirc, v drugi vrsti drugi z leve Mirko Pirc</head>
-            </figure>
+            
             <p>Toda še preden smo se odločili za Italijo, so nas pričeli vračati. Policija, tehnični
               transport in topničarji smo bili vrnjeni prvi, 27. maja. Ko je vlak pripeljal v Kranj,
               so nas segnali ven in odgnali nad mesto na travnik. Ves čas je lil dež; polegli smo
@@ -1460,6 +1455,10 @@
               sem vesel, ko sem ju spoznal in ni mi bilo težko, da sem se odpovedal novim škornjem.
               Toda, saj mu bodo tudi te ukradli! Gornji del škornjev sem zato odrezal proč, potem pa
               jih še do gležnjev narezal, da so bili razcefrani. </p>
+			<figure>
+              <graphic url="slike_z_76/z_76_23.png"/>
+              <head>Sosedje in prijatelji: (z leve) Jelka, Srečko in Zalka Belič</head>
+            </figure>
             <p>Ves čas smo se držali skupaj. Fanta sta mi bila zelo všeč, kot da je bilo sonce v
               njih. Oče je bil zaprt skupaj z oficirji v baraki, ki je bila kakih 30 metrov proč od
               latrine, v bližini katere smo mi posedali. Zelo verjetno sta tudi fanta kdaj slišala,
@@ -1507,6 +1506,11 @@
               samo partizani s puškami in neka obupana mati, ki je glasno tarnala in med jetniki
               iskala svojega sina. S postaje smo odšli v dveh kolonah, v vsaki vrsti po štiri.
               Morali smo korakati, a so mnoge vlekli. </p>
+			  <figure>
+              <graphic url="slike_z_76/z_76_24.png"/>
+              <head>Po vojni: v sredini Marija Pirc, ob njej vnuka, na desni Danica Pirc Razpet, na levi Jože Razpet</head>
+            </figure>		
+			  
             <p>Privlekli smo se do gimnazije. Bil sem v zunanjem, levem krilu kolone in videl tiste,
               ki so bili v notranjem, desnem krilu, ko so že zavijali v poslopje. Med njimi sem
               opazil Zvonka, Mirka in njunega očeta. Takrat sem jih videl zadnjikrat. Natrpali so
@@ -1535,7 +1539,13 @@
               Kodeljevem ju ni bilo. Sčasoma sem željo, da bi se srečal s Pirčevo, opustil.«</p>
             <p>Leta so tekla. Pavel, nekdaj triindvajsetletni domobranec, se je zaposlil, poročil in
               si ustvaril družino. Pirčeva Danica, upognjena sredi vrtnih gred skrbno gojene
-              zelenjave, se je razvila v lepo in živahno dekle, a je vsakič pojokala, če je beseda
+              zelenjave, se je </p>
+			<figure>
+              <graphic url="slike_z_76/z_76_25.png"/>
+              <head>Ljubljanski domobranski policijski zbor: v zadnji vrsti šesti z leve Zvonko
+                Pirc, v drugi vrsti drugi z leve Mirko Pirc</head>
+            </figure>			  
+			<p>razvila v lepo in živahno dekle, a je vsakič pojokala, če je beseda
               nanesla na očeta in brata Zvonka in Mirka. Že sama 'ciza', s katero je vozila na
               ljubljanski živilski trg zelenjavo, jo je spominjala na oba brata, ko sta bila še
               študenta, in sta v poletnih jutrih vrgla čevlje na 'cizo' in odropotala prodajat na
@@ -1596,11 +1606,7 @@
               besede, ki mi jih je rekel: ‘Priden bodi in mamo ubogaj!’ Da je mrtev, smo uradno
               zvedeli šele l. 1967, ko je umrl oče in smo imeli zapuščinsko razpravo. Nikoli pa
               nismo dobili mrliškega lista in ga še vedno nimam. </p>
-            <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
-              <head>Po vojni: v sredini Marija Pirc, ob njej vnuka, na desni Danica Pirc Razpet, na
-                levi Jože Razpet</head>
-            </figure>
+
             <p>Danes imam zelo boleče spomine na tiste čase. Zelo rad sem imel brata, tudi mamo in
               očeta, oba sta bila dobra in bili smo srečna družina. Po vojni so očetu pustili
               kovačijo, kdo pa bi delal v njej? Propadla bi. So ga pa zelo obdavčili in mu metali
@@ -1639,7 +1645,17 @@
               ulici, da bodo partizani potem, ko pridejo na oblast, pobili vso Mivko. To sta verjela
               celo Jožin brat Pavel Kocjan in sestra Darija. Pavla so obtožili, da je sodeloval s
               Črno roko, pa je bil le reven čevljar, ki je vso vojno popravljal stare čevlje, da je
-              preživel družino. Oba sta bežala na Koroško in naprej v Argentino in še dve nečakinji
+              preživel</p>
+			  <figure>
+              <graphic url="slike_z_76/z_76_26.png"/>
+              <head>Iz spominske knjige Danice Pirc (posvetilo)</head>
+            </figure>
+            <figure>
+              <graphic url="slike_z_76/z_76_27.png"/>
+              <head>Iz spominske knjige Danice Pirc (trije križi)</head>
+            </figure>
+			  
+			<p>družino. Oba sta bežala na Koroško in naprej v Argentino in še dve nečakinji
               Kocjanove številne družine enajstih otrok. Vsi omenjeni begunci z Mivke, ki so si
               ustvarili dom v Argentini, so se poročili s Slovenci in Slovenkami, povečini iz
               trnovske fare. </p>
@@ -1651,14 +1667,7 @@
               skrbeh. Med seboj smo si pomagali in si delili tisto malo, kar smo imeli. Ata Belič me
               je imel rad kot svojo hčerko. Ko je bila mama v službi na Miklošičevi, sem hodila k
               njim na kosilo: »Danuša, kosilo!« me je vsakič poklical.</p>
-            <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
-              <head>Iz spominske knjige Danice Pirc (trije križi)</head>
-            </figure>
-            <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
-              <head>Iz spominske knjige Danice Pirc (posvetilo)</head>
-            </figure>
+            
             <p>Uteho so preživeli iz nekdanjih družin na Mivki dobivali tudi pri Breskvarjevih, prav
               tako z Mivke. Oče Ivan Breskvar, rojen Trnovčan, je imel mesarijo že pred vojno. Po
               vojni so ga 'razlastili'. Mama Josipina roj. Adamič je kljub vsemu počela 'smrtno
@@ -1815,7 +1824,7 @@
               svojega namestnika. Ko sem naslednje leto na svet prijokala jaz, je bil on moj krstni
               boter.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_28.png"/>
               <head>Cvetna nedelja 1941: Praperjevo pismo iz Ljubljane v Ptuj <name type="author"
                 /></head>
             </figure>
@@ -1837,7 +1846,7 @@
               ji je prijateljica sporočila, da vinski veletrgovec Ornig išče slovensko
               korespondentko.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_29.png"/>
               <head>Skupina Stražarjev v "izbi" z dr. Korošcem in dr. Ehrlichommed njima stoji Matej
                 Poštuvan, za njim levo Joža Logar - drugi z leve v prvi vrsti Anton Tepež <name
                   type="author"/></head>
@@ -1887,7 +1896,7 @@
               sorodu). Bila je starejša od njiju pa tudi v Ljubljani je že večkrat bila z očetom.
               Pri hiši je bilo mizarstvo in so hodili v Ljubljano kupovat za obrt.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_30.png"/>
               <head>Višnja Gora, 22. maj 1941 - V prvi vrsti z leve Leopold Klavž, Ferko Casar, dr.
                 Ehrlich, Fanika in Cveto Praper, Anton Tepež. Joža Logar; v drugi vrsti od leve
                 Stane Pajk in Matej Poštuvan <name type="author"/></head>
@@ -1923,7 +1932,7 @@
               ata. Še veliko kasneje sem se vračala s svojo številno družino domov na obisk. Vse nas
               so imeli zelo radi. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_31.png"/>
               <head>Pogrebni sprevod z dr. Ehrlichom in Rojicem na Miklošičevi cesti; drugi nosilec
                 desne krste v prvi vrsti je Cveto Praper, tretji nosilec leve krste v prvi vrsti je
                 Stane Pajk; desni nosilec križa spredaj je Ferko Casar <name type="author"/></head>
@@ -1965,7 +1974,7 @@
               Gospa me je nekaj časa gledala, nato pa počasi rekla: »Veš, Cvetka, ni bilo vse prav,
               kar so naši naredili. Bodi ponosna na svojega očeta!«</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_32.png"/>
               <head>4. maj 1944 - Od leve proti desni Cvetka in Cveto Praper, Mojca Praper in Fanika
                 Jereb, poročena Praper <name type="author"/></head>
             </figure>
@@ -1997,7 +2006,7 @@
               bil že preveč brez moči. Vem, da ga je vzel na piko Tone Turnher, partizanski oficir,
               doma iz Višnje Gore.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_33.png"/>
               <head>Verbic Pavle in Štefka z otroki v Moronu v Argentini 1. februarja 1954 <name
                   type="author"/></head>
             </figure>
@@ -2057,7 +2066,7 @@
               hočemo polagoma preobraziti, da dobi pravi slovenski in katoliški obraz, ki mu po vsej
               narodovi strukturi tudi pripada.«</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_34.png"/>
               <head>Častniška diploma Cveta Praperja <name type="author"/></head>
             </figure>
             <p>V tem istem pismu je nagovarjal svoji sestri, naj mu kaj napišeta, da bo priobčil.
@@ -2154,7 +2163,7 @@
             domačini pravijo: »Preveč je vandrala okoli in si s tem nakopala sum.« S kolesom naj bi
             zahajala celo v Ljubljano.</p>
           <figure>
-            <graphic url="slike_z_76/z_76_.png"/>
+            <graphic url="slike_z_76/z_76_35.png"/>
             <head>Spominska plošča na Colu <name type="author"/></head>
           </figure>
           <p>Marijo so prvič partizanski »obveščevalci« ugrabili že v zimi 1943/44 in jo hoteli
@@ -2208,7 +2217,7 @@
             tudi Karolina Silič, ki je tega dne prala perilo ob reki Vipavi. Prav ona je opozarjala
             Marijo, naj raje ostane v Trstu. </p>
           <figure>
-            <graphic url="slike_z_76/z_76_.png"/>
+            <graphic url="slike_z_76/z_76_36.png"/>
             <head>Spominska plošča na Colu z napisano Marijo Škvarč <name type="author"/></head>
           </figure>
           <p>Po demokratičnih spremembah leta 1990 je napočil čas za obuditev spomina na žrtve
@@ -2220,7 +2229,7 @@
             točnega datuma njene smrti, se tako ohranja na rojstnem Colu. Začetni zapis o izbrisu iz
             javnega spomina tako vsaj v primeru Marije ne velja več.</p>
           <figure>
-            <graphic url="slike_z_76/z_76_.png"/>
+            <graphic url="slike_z_76/z_76_37.png"/>
             <head>Pogled proti Krasu nad Renčami. Tam so številni neoznačeni gobovi medvojnih žrtev
               revolucije. Desno zgoraj se vidi obnovljeni napis TITO. MI GORE, ONI DOLE! <name
                 type="author"/></head>
@@ -2264,7 +2273,7 @@
             <l>bi z molkom svojim srce nebogljeno?</l>
           </lg>
           <figure>
-            <graphic url="slike_z_76/z_76_.png"/>
+            <graphic url="slike_z_76/z_76_38.png"/>
             <head>>Mlada samota <name type="author">Mirko Kambič</name></head>
           </figure>
         </div>
@@ -2326,7 +2335,7 @@
             neokomunistov in drugih Slovencev t.i. leve politične opcije, sedanje vladne koalicije.
             Pri njih je vedno prisoten, z njimi stalno in pogosto komunicira. </p>
           <figure>
-            <graphic url="slike_z_76/z_76_.png"/>
+            <graphic url="slike_z_76/z_76_39.png"/>
             <head>Slovenska sprava - Kočevski Rog, 8. julij 1990<name type="author"/></head>
           </figure>
           <p>Nasprotnikov revolucionarnega nasilja razen kot izdajalcev in kolaborantov niti ne
@@ -2378,7 +2387,7 @@
             tudi po tedanjih zakonih ni imelo nobenih »znakov kaznivega dejanja«. To pomeni, da je
             Ertl aretacijo Janeza Janše in tovarišev izvedel protipravno in nezakonito. </p>
           <figure>
-            <graphic url="slike_z_76/z_76_.png"/>
+            <graphic url="slike_z_76/z_76_40.png"/>
             <head>Huda Jama - Barbarin rov <name type="author"/></head>
           </figure>
           <p>Predsedniku Türku pa sodba slovenskega vrhovnega sodišča nič ne pomeni, njegova resnica
@@ -2537,7 +2546,7 @@
               politični <emph>éthos</emph>. To je nekaj, o čemer samo nedoločno sklepamo, do česar
               pa ne moremo in ostaja zunaj nas kot vznemirljiva skrivnost. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_41.png"/>
               <head>Huda Jama - Barbarin rov <name type="author"/></head>
             </figure>
             <p>Če hočemo povedati, kaj s tem mislimo, nimamo boljše možnosti, kakor da pokažemo na
@@ -2651,7 +2660,7 @@
               potrebna za upravljanje s to sfero, ni manipulacija, ampak <emph>politika.</emph>
             </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_42.png"/>
               <head>Huda Jama - Barbarin rov <name type="author"/></head>
             </figure>
             <p>Če hočemo nekoliko bolje razumeti vso bedo prostora, v katerem bi namesto
@@ -2745,7 +2754,7 @@
               avstralske pisateljice Tracey Rowland, ki daje odličen pregled čez vse, kar je papež
               napisal o tem, pa tudi o drugih vprašanjih. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_43.png"/>
               <head>Huda Jama - Barbarin rov <name type="author">Marjetka Dolinar</name></head>
             </figure>
             <p>Zelo, zelo na kratko bi bilo mogoče o papeževi – vseeno moramo reči – mogočni
@@ -2821,7 +2830,7 @@
               naredim. Obšlo me je, da je v tem stavku, <emph>Požar je v glavah,</emph> tristo let
               evropske zgodovine. Noben od bralcev mi potem ni sporočil, da bi kaj takega videl. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_44.png"/>
               <head>Huda Jama - Barbarin rov <name type="author"/></head>
             </figure>
             <p>Ko ob nedeljah v cerkvi poslušam berila, psalme in evangelije, se tudi kdaj zgodi, da
@@ -2840,7 +2849,7 @@
               obnovitvenih duhovnih vajah bi lahko imel naslov <emph>Kočevski Rog.</emph> Naj povem,
               kaj sem o tem pred meseci pisal znancu: </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_45.png"/>
               <head>Huda Jama - Barbarin rov <name type="author"/></head>
             </figure>
             <p>Kočevski Rog ima v sebi duhovne energije, potrebne za obnovo. Zakaj ga Cerkev ne
@@ -2870,7 +2879,7 @@
               to doživeli, več. Če se je to dogodilo s celo kulturo! Kočevski Rog je lahko plemenita
               prvina za izdelavo nove slovenske pajdeje. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_46.png"/>
               <head>Huda Jama - Barbarin rov <name type="author">Vinko Hlebš</name></head>
             </figure>
           </div>
@@ -2916,7 +2925,7 @@
               proti temu; o grehih, nekaj vedeti na papirju in ne sprejeti v srcu.« Iz tega vidimo,
               da je to roman o kazni, milosti in odpuščanju. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_47.png"/>
               <head>Huda Jama - Barbarin rov <name type="author">Vinko Hlebš</name></head>
             </figure>
             <p>Čeprav roman ni nikakršna zgodba, ima svojega pripovedovalca. To je petnajstletni
@@ -2939,7 +2948,7 @@
               pil ter potoval v moči tiste jedi štirideset dni in štirideset noči do božje gore
               Horeb. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_48.png"/>
               <head>Huda Jama - Barbarin rov <name type="author">Vinko Hlebš</name></head>
             </figure>
             <p>Ko sem pozneje zvedel za roman pisatelja Burnsida, sem pomislil, da bi v tem besedilu
@@ -3073,7 +3082,7 @@
               njegovo odsotnost šteli za sovražno dejanje. Nemci nasprotno niso hoteli imeti
               nobenega stika s slovenskim katoliškim škofom. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_49.png"/>
               <head>Na pogrebu Jaroslava Kiklja 22. marca 1942 <name type="author"/></head>
             </figure>
             <p>Tudi zadržanje obeh škofov je bilo zelo različno. Mariborski škof dr. Ivan Jože
@@ -3171,7 +3180,7 @@
               je dobil v roke drug sodnik, ki je znal »regularno« soditi in se ni spuščal v težave z
               obrambnimi dokazi. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_50.png"/>
               <head>Na birmi v Dobrepolju 6. junija 1943 <name type="author"/></head>
             </figure>
             <p>Tudi v postopku proti škofu Rožmanu so bile uporabljene vse metode montiranega
@@ -3275,7 +3284,7 @@
               Rožmanovo junaško dejanje, motil ga je le zadnji odstavek o boju proti komunizmu, ki
               ga je razumel kot vojaški boj in ne kot idejni boj, kakor je mislil škof. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_51.png"/>
               <head>Med duhovniki begunci v Stični 20. septembra 1942 <name type="author"/></head>
             </figure>
             <p>Škof Rožman je večkrat pisal ali govoril o boju proti komunistični ideologiji. Že
@@ -3462,7 +3471,7 @@
               dokumentih je na koncu besedila dodana opomba »Prepisano iz <emph>Nekaj podatkov k
                 borbi Ljubljana 1941–1943</emph>«</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_52.png"/>
               <head>Zdenka Kidrič - Marjeta in Franc Ravbar - Vitez <name type="author"/></head>
             </figure>
             <p>JOŽE ŠPICER in SVOJMIR RONER sta bila kot bivša aktivista obtožena izsiljevanja
@@ -3497,7 +3506,7 @@
               avtom zavezali oči. Tako se je tudi zgodilo. Z avtotaksijem je bil odpeljan na Večno
               pot, kjer je bil justificiran.« </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_53.png"/>
               <head>Albin Ravnikar - Bine, Anton Škrajnar - Pastirček, Štefan Babnik in Ludvik
                   Pangerc<name type="author"/></head>
             </figure>
@@ -3572,7 +3581,7 @@
               domovih, da spremenimo svojo zunanjost. Ob sedmih zvečer smo se zopet zbrali pri tov.
               Djidjiju, kjer smo podrobno analizirali uspeh naše akcije.«</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_54.png"/>
               <head>Ladislav Vidrajs - Pezdorko, Silvo hrast - Džidži, Milan Pogačnik - Tomaž in
                 Kamilo Kratochwill - Mile <name type="author"/></head>
             </figure>
@@ -3647,7 +3656,7 @@
               slovenskega ljudstva zadala težak udarec, kar je potrjevalo tudi pisanje v časopisih
               in okupatorjevo divjanje.« </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_55.png"/>
               <head>Džuro Frelih - Džordže, Stana Brezar - Seka, Mirko Pleško - Franci in Slobodan
                 Šumenjak - Feks <name type="author"/></head>
             </figure>
@@ -3727,7 +3736,7 @@
               Delavske zbornice in se zjutraj rešil na varno, Marjan Sterniša pa je bil kasneje,
               jeseni leta 1943 na zloglasnem Kočevskem procesu usmrčen. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_56.png"/>
               <head>Melita Nedog - Pepelka, Rudi Janhuba - Vaso, Anton Kovič - Sine in Majda Peruzzi
                 - Urška <name type="author"/></head>
             </figure>
@@ -3840,7 +3849,7 @@
               podroben načrt za čim hujše represalije proti OF. Kukovič je bil od sodišča OF zaradi
               izdajstva obsojen na smrt. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_57.png"/>
               <head>Drago Pauko - Peter in Jože Šiška - Luka <name type="author"/></head>
             </figure>
             <p>V drugi polovici septembra je bil pod Štefanovim (verjetno Edo Brajnik – Štefan, op.
@@ -3953,7 +3962,7 @@
               bele garde.« (Branko Božič, Tomaž Weber: Zgodovina za osmi razred, Ljubljana 1991,
               stran 106)</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_58.png"/>
               <head>Kočevski Rog 2009 - Govori Marko Mehle <name type="author">Andrej
                 Zgonc</name></head>
             </figure>
@@ -4047,7 +4056,7 @@
               bi opisal razpoloženje zajetih mož?« Glede na to, da vemo, kaj se je zgodilo s temi
               možmi, je najmanj, kar lahko zapišemo, da je tako vprašanje neokusno in žaljivo.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_59.png"/>
               <head>Šola na Rogu <name type="author">Andrej Zgonc</name></head>
             </figure>
             <p>Poleg omenjene slike pritegne našo pozornost še druga slika z vaškimi stražarji, ki
@@ -4168,7 +4177,7 @@
               pobojih, si ne zasluži take časti, je pa poudarjen stavek, da je protirevolucionarni
               tabor prestopil prag dopustnega sodelovanja z okupatorji. Zanimivo, se vam ne zdi?</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_60.png"/>
               <head>Ali na take čaka zgodovina? <name type="author">Mirko Kambič</name></head>
             </figure>
             <p>Če poskušamo strniti naše ugotovitve in primerjati, kako so predstavljeni
@@ -4434,7 +4443,7 @@
               dokazuje, da je tako. S čim nam dokazuje? S svojo nedoraslostjo, s svojo
               nerazumnostjo, kakor da se pred njim niso odgrnile neke zavese. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_61.png"/>
               <head>
                 <name type="author"/></head>
             </figure>
@@ -4470,7 +4479,7 @@
               Slovenija, ki jo je mislil dr. Gregor Virant. Tako je, vidite, s temi rečmi. Še
               enkrat: brez naše zgodbe ne bo šlo. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_62.png"/>
               <head>Žive naj vsi narodi! <name type="author">Andrej Zgonc</name></head>
             </figure>
             <p>A ozrimo se še na kako drugo stran našega sedanjega političnega obzorja. Vsepovsod se
@@ -4660,7 +4669,7 @@
               do njihove odločitve kljub vsemu poniževanju in zaničevanju, ki so ga bili deležni
               toliko let, in velik mir, ker niso bili udeleženi v veliki moriji kot rablji.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_63.png"/>
               <head>Izgnani »kulaki« <name type="author">Iz knjige Orlanda Figesa
                 Šepetalci</name></head>
             </figure>
@@ -4842,7 +4851,7 @@
               sirotišnice, poboljševalnice in delovna taborišča, kjer so bile obupne razmere.
               Kazensko odgovornost so znižali na dvanajst let. Veliko jih je zašlo v kriminal. </p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_64.png"/>
               <head>Fotografija, namenjena materi v taborišču <name type="author">Iz knjige Orlanda
                   Figesa Šepetalci</name></head>
             </figure>
@@ -5057,7 +5066,7 @@
               ločene sirotišnice. Zlasti majhne otroke so tudi preimenovali. Navaja več
               primerov.</p>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_65.png"/>
               <head>Izgnanci v »posebni naselbini« v Sibiriji 1933 <name type="author">Iz knjige
                   Orlanda Figesa Šepetalci</name></head>
             </figure>
@@ -5571,7 +5580,7 @@
           <head>Dodatek</head>
           <div type="div3">
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_66.png"/>
               <head>M. Kremser Schmidt, Vstajenje. Gornji Grad. <name type="author">Mirko
                   Kambič</name></head>
             </figure>
@@ -5614,7 +5623,7 @@
               <bibl>Jurij Štesl, Pohorska afera</bibl>
             </cit>
             <figure>
-              <graphic url="slike_z_76/z_76_.png"/>
+              <graphic url="slike_z_76/z_76_67.png"/>
               <head>Zelo priporočamo! Dobite jo v Študijskem centru za narodno spravo, Tivolska 42,
                 Ljubljana <name type="author"/></head>
             </figure>
