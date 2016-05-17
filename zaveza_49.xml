@@ -51,14 +51,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -110,6 +110,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze </head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>V soboto pred tiho nedeljo, 5. aprila, je bil v Festivalni dvorani v Ljubljani
                      občni zbor Nove Slovenske zaveze. Občni zbori so zato, da organizacija pregleda
@@ -959,10 +961,10 @@
                      tudi nepoštenih ukrepov, da bi onemogočila svojega glavnega nasprotnika, to je
                      SLS. Tako so občino Orehovica priključili občini Brusnice, enako tudi vas
                      Hrušica zaradi prejšnjega župana Brulca. Podkupovali so kandidate SLS, s čimer
-                     so klerikalcem onemogočili, da bi vložili svojo listo ... V občini Šmihel–Stopiče
+                     so klerikalcem onemogočili, da bi vložili svojo listo … V občini Šmihel–Stopiče
                      sta dve listi JNS zbrali 882 glasov in 33 odborniških mest, opozicionalna lista
                      pa je dobila 314 glasov in 3 odborniška mesta. Tu se volitev ni udeležilo 724
-                     volilnih upravičencev ... V občini Šentjernej je tedaj zmagala nevladna
+                     volilnih upravičencev … V občini Šentjernej je tedaj zmagala nevladna
                      opozicionalna lista z nosilcem Francetom Videtom. Dobila je 426 glasov in 21
                      odborniških mest. Za listo JNS je bilo oddanih 261 glasov in so ji pripadla le
                      3 odborniška mesta.« (Iz revolucionarne preteklosti, str. 33) Po ukinitvi
@@ -1004,7 +1006,7 @@
                      skoraj vse člane društva kmečkih fantov in deklet, da so postali člani
                      belogardističnega izdajstva. To je bil edini primer na vsem gorjanskem
                      področju, da so člani društva kmečkih fantov in deklet postali pristaši
-                     belogardizma.« (Šentjošt ... , str. 34) Kam smo prišli od osnovne šole v Stopičah
+                     belogardizma.« (Šentjošt … , str. 34) Kam smo prišli od osnovne šole v Stopičah
                      in na Dolžu! O županu Brulcu bomo seveda v naši zgodbi še govorili. </p>
 
                   <figure>
@@ -1091,16 +1093,15 @@
                      predelu je delovala 3. četa Gorjanskega ali IV. bataljona Dolenjskega odreda
                      pod poveljstvom Rudija Kočmana - Suge. Patrole in zasede, ki so varovale pohode
                      proti Novemu mestu, so naletele na te neznane oborožence, ki so jim
-                     prepričevalno tvezili o svoji partizanski štajerski misiji. (Zamljen,
-                     Šentjošt..., str. 18) Franc Pirkovič - Čort, nekdanji komandant Gorjanskega
-                     bataljona, je leta 1943 na kočevskem procesu povedal sledeče: »Ko se je
-                     pojavila grupa tako zvanih partizanov, ki so govorili, da so štajerski
-                     partizani, smo vsi mislili, da se je v resnici formirala taka partizanska
-                     grupa. Stike s to grupo je imela 3. četa Gorjanskega bataljona. In ti ljudje iz
-                     3. čete so govorili, da v vodstvu teh tako zvanih divjih partizanov, ki niso
-                     bili nikjer vključeni, pripovedujejo, da zbirajo begunce, ki prihajajo s
-                     Štajerske preko Ljubljane, in da bodo odšli na Štajersko.« (Zamljen, Šentjošt...,
-                     str. 18)</p>
+                     prepričevalno tvezili o svoji partizanski štajerski misiji. (Zamljen, Šentjošt
+                     … , str. 18) Franc Pirkovič - Čort, nekdanji komandant Gorjanskega bataljona,
+                     je leta 1943 na kočevskem procesu povedal sledeče: »Ko se je pojavila grupa
+                     tako zvanih partizanov, ki so govorili, da so štajerski partizani, smo vsi
+                     mislili, da se je v resnici formirala taka partizanska grupa. Stike s to grupo
+                     je imela 3. četa Gorjanskega bataljona. In ti ljudje iz 3. čete so govorili, da
+                     v vodstvu teh tako zvanih divjih partizanov, ki niso bili nikjer vključeni,
+                     pripovedujejo, da zbirajo begunce, ki prihajajo s Štajerske preko Ljubljane, in
+                     da bodo odšli na Štajersko.« (Zamljen, Šentjošt … , str. 18)</p>
                   <p>Ime Štajerski bataljon pojasnjuje Ivan Korošec v svoji že omenjeni knjigi
                      takole: »Še isti teden (po prihodu v Šentjošt) je bil sestanek vseh komandantov
                      in političnih komisarjev v Gabrju pod Gorjanci. Tja sta šla tudi Kranjc kot
@@ -1321,8 +1322,8 @@
                      vedeli, še manj razumeli, pa zaradi tega strah ni bil nič manjši.</p>
                   <p>Oktobra 1942 so imeli legisti v vaseh pod Gorjanci že toliko moči, da so začeli
                      odkopavati plitve grobove po gozdovih in voziti posmrtne ostanke žrtev
-                     revolucionarnega nasilja na domača pokopališča. 28. in 29. oktobra 1942 je
-                     bilo na pokopališču v Stopičah deset krst, v katerih so bili posmrtni ostanki
+                     revolucionarnega nasilja na domača pokopališča. 28. in 29. oktobra 1942 je bilo
+                     na pokopališču v Stopičah deset krst, v katerih so bili posmrtni ostanki
                      naslednjih stopiških faranov:</p>
                   <p>1) Franc Brulc, Hrušica, župan – pripeljan iz gozda Orehovec.</p>
                   <p>2) Jože Brulc, njegov sin – pripeljan iz gozda Orehovec.</p>
@@ -1447,7 +1448,7 @@
                      polnočnici. V mrazu smo se stisnile pod odejo in tam nama je Milica, ki je
                      znala na pamet polnočnični evangelij, tiho govorila: »In porodila je Sina
                      prvorojenca, ga povila v plenice in položila v jasli, ker zanju ni bilo
-                     prostora v hiši ... « Vse tri smo od ganotja jokale. Kljub vsem trpljenju je bil
+                     prostora v hiši … « Vse tri smo od ganotja jokale. Kljub vsem trpljenju je bil
                      to moj najgloblje doživet Božič v življenju! </p>
                   <p>Po Novem letu 1950, po šestih mesecih jetništva, sem prvič lahko pisala domov
                      in povabila enega od staršev na obisk. Z mamo je prišla tudi moja najmlajša,
@@ -1507,15 +1508,15 @@
                      Kaj je storila tako hudega? Ni mi bilo dovolj, da mi je mama razlagala, zakaj
                      so metali kristjane levom. To je bilo davno, davno. Saj vendar živimo zdaj, v
                      tem svetu, ko otroci pojemo: »Lepo je v naši domovini biti mlad, v deželi, kjer
-                     so si ljudje kot brat in brat ... « Zakaj so pobili moje brate? </p>
+                     so si ljudje kot brat in brat … « Zakaj so pobili moje brate? </p>
                   <p>Obisk na škofjeloškem gradu mi je ostal kot moraste sanje. Nisem se ji smela
                      obesiti okoli vratu, ji dati poljubčka, ji povedati, kako jo doma pogrešamo!
-                     Čustva so bila prepovedana! Dolgo sva jo morali čakati, a ko sva jo zagledali ...
-                     Zadrževala sem jok. Bila je natanko taka, kot sem si otroško predstavljala duše
-                     v vicah. Popolnoma spremenjena, brez čustev, odsotna. V mrzlih prostorih smo
-                     sedeli – med njo in naju paznica, neprijazna, ki je pazila na vsako našo
+                     Čustva so bila prepovedana! Dolgo sva jo morali čakati, a ko sva jo zagledali
+                     ... Zadrževala sem jok. Bila je natanko taka, kot sem si otroško predstavljala
+                     duše v vicah. Popolnoma spremenjena, brez čustev, odsotna. V mrzlih prostorih
+                     smo sedeli – med njo in naju paznica, neprijazna, ki je pazila na vsako našo
                      besedo. Sestra je samo ponavljala: »Tukaj se imam dobro, ničesar ne potrebujem
-                     ... « Njene lastne oči in vse okoli nas pa je vpilo: »Ni res!« Samo, kadar te v
+                     … « Njene lastne oči in vse okoli nas pa je vpilo: »Ni res!« Samo, kadar te v
                      sanjah tlači mora, ne moreš izgovoriti besed, ki bi jih moral in bi jih rad,
                      samo v morastih sanjah ne moreš premakniti roke, da bi koga objel, samo v
                      najhujših sanjah bi rad ušel, tekel proč, a so ti noge priklenjene na tla. Tak
@@ -1620,15 +1621,15 @@
                   </figure>
                   <p>Razumljivo, da službe ni bilo vedno za vse, saj se je moral Ludvik ravnati po
                      navodilih obratovodij, direkcije KID in prokuratorja Obersnela. In zamere so
-                     bile tu ... </p>
+                     bile tu … </p>
                   <p>V prostem času je Ludvik gojil mnoge konjičke, saj ga je izredno zanimala
                      tehnika. Ukvarjal se je s fotografijo in sam razvijal slike s tehniko na
                      ploščo. Sam si je naredil radio in poslušal radio Ljubljana od l. 1927 naprej.
                      Zamenjal je več tipov motorjev, kasneje, ko se je poročil, si je omislil motor
                      HARLEY s prikolico, tik pred vojno pa ga je zamenjal z avtom fiat topolino. In
-                     mnogi so mu bili nevoščljivi ... Rad se je oblačil v usnjene suknje in suknjiče
+                     mnogi so mu bili nevoščljivi … Rad se je oblačil v usnjene suknje in suknjiče
                      in morda so mu bili nevošljivi tudi teh ali pa jih ne bi smel nositi, ker so
-                     jih nosili gestapovci ... </p>
+                     jih nosili gestapovci … </p>
                   <p>Leta 1932 se je poročil z Marico Savinšek (1902) iz znane jeseniške družine.
                      Marica se je zaposlila pri KID že leta 1922. Pol leta je bila fakturistka,
                      zatem so jo zaradi vestnosti in sposobnosti prestavili v kontrolni odsek
@@ -1763,10 +1764,10 @@
                      oče! Kako boleče je bilo spoznanje, da je čevljar Janša z Jesenic, ki je bil
                      tisto nedeljo skupaj z očetom na lovu, odslej ponosno hodil na lov z drago
                      očetovo lovsko puško čez ramo! Zdaj je bila ženi in dekletoma še bolj
-                     dragocena! Ostala je le nedostopen spomin na očeta ... </p>
+                     dragocena! Ostala je le nedostopen spomin na očeta … </p>
                   <p>Mlajša hčerka, ki jo je narava obilno obdarila z bujno domišljijo in
                      odločnostjo, se je kot mlado dekle večkrat potikala po bohinjskih gozdovih in
-                     si domišljala, da bo kje odkrila očetov grob ... Kasneje je naletela na Toneta
+                     si domišljala, da bo kje odkrila očetov grob … Kasneje je naletela na Toneta
                      Svetino in pri njem moledovala, naj poizve o njenem očetu, morda pa celo sam
                      kaj ve o njegovem izginotju? »Pusti vendar to, saj ni vredno, da se mučiš s
                      tem,« jo je vselej zavrnil. Nekoč je slišala pripombo, da je od očeta
@@ -1783,7 +1784,7 @@
                   <p>Tudi starejša hčerka je zaradi izgube očeta mnogo pretrpela. Nekoč mi je
                      omenila: »Tako zelo sem pogrešala očeta, da ti ne morem povedati kako! Pozneje
                      sem pri nekem znancu odkrila, da je imel ravno tak glas kot moj oče. Odslej sem
-                     željno iskala njegovo bližino, da sem ga lahko poslušala ... « Vrtala je po sebi,
+                     željno iskala njegovo bližino, da sem ga lahko poslušala … « Vrtala je po sebi,
                      da bi morda v spominih na očetu odkrila kakšen razlog za njegovo smrt. Spominja
                      se nekega sprehoda skozi Hrenovico z očetom. Nekoč se je za njima po makadamski
                      poti divje pripodil mlad fant in na vso moč zavrl, da se ni zaletel vanju. Oče
@@ -1798,7 +1799,7 @@
                   <p>Žena se je spomnila grobega voznika v Bohinju, ki je udrihal po konju, ki ni
                      mogel povleči pretežkega tovora. Ludvik je pristopil h konju, ga prijel za uzdo
                      in zagrozil vozniku, da bo drugič njega vpregel, naj vleče namesto konja. Tudi
-                     temu se je lahko zameril njen mož ... Dolgo ni vedela, da bi bilo lahko krivo
+                     temu se je lahko zameril njen mož … Dolgo ni vedela, da bi bilo lahko krivo
                      premoženje, ki sta si ga z možem prislužila v KID.</p>
                </div>
                <div type="div3">
@@ -3142,10 +3143,10 @@
                      marca 1944, torej tri dni po silovitem, a brezuspešnem napadu na postojanko:
                      »Tovariš Tito, sekretar Centralnega komiteja Komunistične partije Jugoslavije
                      in vodja naše partije, je kot glavni poveljnik NOV in POJ dal povelje za
-                     splošno ofenzivo ... Prvi cilj naše ofenzive: utrjena domobranska postojanka
+                     splošno ofenzivo … Prvi cilj naše ofenzive: utrjena domobranska postojanka
                      Hotedršica, ni bila zavzeta. Krive so največ pomanjkljivosti organizacije ter
                      sama izvedba operacij. Hotedršico napadamo še enkrat, ker mora pasti. Osvojitev
-                     te postojanke je velikega vojaškega pomena, še bolj pa političnega ... « No, in
+                     te postojanke je velikega vojaškega pomena, še bolj pa političnega … « No, in
                      to bi rekli. Nazadnje je vse politika, tudi to, kje bomo speljali pločnik!</p>
 
                   <figure>
@@ -3159,7 +3160,7 @@
          <div type="div1">
             <head>Iskanja in besede</head>
             <div type="div2" subtype="poem">
-               <head>Zanje </head>
+               <head>Zanje</head>
                <lg>
                   <l>Dolgo sem pisal, </l>
                   <l>zbiral besede in misli, </l>
@@ -3443,14 +3444,14 @@
                      talcev. Peticija ni nikoli prišla tja, kamor je bila namenjena. »Lepega dne sta
                      prišli na sestanek skupine, ki je zbirala podpise, dve starejši učiteljici, ki
                      sta trdili, da ju pošilja sam Boris Kidrič. Povedali sta, da ima vrh OF
-                     zanesljivo zvezo, ki bo posredovala peticijo na pravi naslov ... Res škoda bi
-                     bilo, ko spomenica s tako množico zbranih podpisov ne bi prišla v prave roke ...
-                     In tako so podpisi dobili noge. O tej akciji ni nihče več nikdar nič slišal. Za
-                     zbranimi podpisi se je izgubila vsaka sled.« V zgodovinskih in vseh drugih
-                     knjigah, ki jih je na tone, ni o tem niti besede. Angela Vode, pobudnica
+                     zanesljivo zvezo, ki bo posredovala peticijo na pravi naslov … Res škoda bi
+                     bilo, ko spomenica s tako množico zbranih podpisov ne bi prišla v prave roke
+                     ... In tako so podpisi dobili noge. O tej akciji ni nihče več nikdar nič
+                     slišal. Za zbranimi podpisi se je izgubila vsaka sled.« V zgodovinskih in vseh
+                     drugih knjigah, ki jih je na tone, ni o tem niti besede. Angela Vode, pobudnica
                      peticije »mu je šla na limanice samo delno. Podpisane papirje je dala iz rok in
                      se pustila ogoljufati; v svoji oceni pa se ni pustila farbati: Kidrič je bil
-                     proti, ker <emph>»imajo komunisti streljanje talcev v načrtu ... predvsem se
+                     proti, ker <emph>»imajo komunisti streljanje talcev v načrtu … predvsem se
                         znebijo neljubih oseb, bodisi nasprotnikov ali pa sopotnikov. Poleg tega pa
                         poženejo ljudem strah v kosti, da se jih čim več zateče tja, kjer jih ne
                         dosežejo aretacije kot talce: k partizanom. Bila je okrutna borba na
@@ -3544,6 +3545,7 @@
          <div type="div1">
             <head>NSZ – Izjave in dokumenti</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Zaradi presežne vloge, ki jo ima v slovenskih razmerah zakon o vojnih
                      grobiščih, smo se odločili, da predsednika vlade RS Antona Ropa in predsednika
@@ -3750,7 +3752,7 @@
                   <p>Vendar visoka pogodbenica, na območju katere so grobovi, lahko odredi
                      izkop:</p>
                   <p>»kadar terjajo izkop javne koristi, pri čemer je mišljena potreba iz sanitarnih
-                     razlogov ali razlogov preiskave ... «</p>
+                     razlogov ali razlogov preiskave … «</p>
                   <p>Dopolnilni protokol o zaščiti žrtev nemednarodnih oboroženih spopadov (protokol
                      II) v 2. členu tudi piše (str. 188), da se bo <emph>»uporabljal brez
                         kakršnekoli diskriminacije, ki bi temeljila na rasi, barvi kože, spolu,
@@ -4034,18 +4036,18 @@
                   1945</head>
                <docAuthor>Nikolaj Tolstoj</docAuthor>
                <div type="div3" subtype="intro">
-                  <p>» ... kakor ima gospod v oblasti ujetnika s pravico orožja, je prav tako dolžan,
+                  <p>» … kakor ima gospod v oblasti ujetnika s pravico orožja, je prav tako dolžan,
                      da ga vzdržuje in zanj skrbi dobrotljivo in človečno, kakor zahteva že navedena
                      pravica.«</p>
                   <p>(Christine de Pisane, ok. 1409)1</p>
                   <p>»FRANCIJA. Konzulat. Dekret z dne 14. marca.«</p>
                   <p>»Konzuli republike, glede na to, da so vojni ujetniki zaupani skrbi in
                      človečnosti tistih narodov, v katerih roke jih je vrgla bojna sreča, odrejamo /
-                     ... /«</p>
+                     … /«</p>
                   <p>»Ministra vojske in mornarice naj uporabita vsa sredstva, ki so v njuni moči,
                      da priskrbita živež in oblačila za ruske, avstrijske in angleške vojne
                      ujetnike. Skrbita naj, da se bo z njimi ravnalo z vsem spoštovanjem in
-                     pozornostjo, ki je v skladu z javno varnostjo / ... /«</p>
+                     pozornostjo, ki je v skladu z javno varnostjo / … /«</p>
                   <p>
                      <emph>»(Podpisani) BONAPARTE«</emph>.2</p>
                </div>
@@ -4067,11 +4069,11 @@
                      je čakala deportirance. Dva zgleda s skrajnih koncev vojaškega in geografskega
                      spektra naj tu ponazorita vse druge. Na avstrijsko-jugoslovanski meji je 25.
                      maja stotnik Nigel Nicholson zapisal v svoj brigadni dnevnik: »Nadaljnjih 100
-                     Hrvatov / ... / je že z vlakom na poti v Jugoslavijo – en route v klavnico.« Dne
+                     Hrvatov / … / je že z vlakom na poti v Jugoslavijo – en route v klavnico.« Dne
                      19. junija je v zavezniškem glavnem stanu v palači Caserta blizu Neaplja
                      feldmaršal Alexander obvestil vojno ministrstvo, da »55 sovjetskih državljanov,
-                     med njimi 16 žensk in 11 otrok / ... /, odklanja prostovoljno vrnitev v Sovjetsko
-                     zvezo / ... / Verjamemo, da bi izročitev teh individuov skoraj zagotovo imela za
+                     med njimi 16 žensk in 11 otrok / … /, odklanja prostovoljno vrnitev v Sovjetsko
+                     zvezo / … / Verjamemo, da bi izročitev teh individuov skoraj zagotovo imela za
                      posledico njihovo smrt«.4 Da so dogodki upravičili take strahove, je zdaj
                      sprevidel že vsakdo razen obotavljive peščice zagovornikov v britanskih uradnih
                      in kvaziuradnih krogih.5</p>
@@ -4095,7 +4097,7 @@
                      z velikimi črkami čez celo stran z naslovno vrsto ZAROTA LAŽI v časopisu Daily
                      Mail 22. novembra 1997, je naznanil, »da se je izkazalo, da je bila usoda
                      kozakov in Jugoslovanov, ki so bili vrnjeni, čeprav tragična, vendar hudo
-                     pretiravana / ... / Navkljub splošnemu vtisu, da je bilo skoraj vseh 45.000
+                     pretiravana / … / Navkljub splošnemu vtisu, da je bilo skoraj vseh 45.000
                      kozakov, ki so bili vrnjeni v Sovjetsko zvezo, ustreljenih ali pa so umrli v
                      Stalinovih delovnih taboriščih, se je izkazalo, da je bila večina v resnici
                      leto dni kasneje izpuščena iz taborišč«. Pisatelji, kakršna sta Solženicin in
@@ -4128,7 +4130,7 @@
                      sliko, precej drugačno od tiste, ki jo je kasneje podal Tolstoj«.</p>
                   <p>Nadalje: »Najpopolnejše in najbolj podrobno poročilo te zgodbe, ki jo vsebuje
                      Naumenkova knjiga, je tisto, ki ga dajejo tri pisma, ki mu jih je l. 1954
-                     poslal Gerhard Petri, višji poročnik iz von Pannwitzovega štaba / ... /«</p>
+                     poslal Gerhard Petri, višji poročnik iz von Pannwitzovega štaba / … /«</p>
 
                   <figure>
                      <graphic url="slike_z_49/z_49_40.png"/>
@@ -4142,7 +4144,7 @@
                   <p>Naj bo že kakor koli, po Bookerjevem Petrijevo poročilo dokazuje, da je
                      sorazmerno malo kozakov, repatriiranih iz Avstrije l. 1945, ostalo v taboriščih
                      dlje časa, kaj šele, da bi bili tam umrli:</p>
-                  <p>»/ ... / verjetno je celo večina častnikov in Nemcev preživela svoje trpljenje in
+                  <p>»/ … / verjetno je celo večina častnikov in Nemcev preživela svoje trpljenje in
                      bila izpuščena osem ali dvanajst let po vojni. Velika večina navadnih vojakov,
                      morda jih je bilo več ko 30.000, je bila odpuščena v »notranje izgnanstvo« po
                      enem letu in spuščena na prostost tri leta kasneje«.7</p>
@@ -4216,8 +4218,8 @@
                      sklicevati na varstvo po določbah haaških konvencij in ženevske konvencije iz
                      l. 1929. Zato je moj odvetnik na tej bistveni točki omejil svoj zagovor na
                      šepavo obrambo, češ, »ker kot zadeva mednarodnega prava ženevska konvencija ne
-                     more biti uporabljena po črki /za ujetnike, izročene Titu in Stalinu/ ..., pa se
-                     zato njen duh, v moralnem smislu, nanaša na te ljudi«.</p>
+                     more biti uporabljena po črki /za ujetnike, izročene Titu in Stalinu/ ..., pa
+                     se zato njen duh, v moralnem smislu, nanaša na te ljudi«.</p>
                   <p>Sodnik, Sir Michael Davies, je uporabil to priložnost in je (spet v moji
                      odsotnosti) izrekel formalno sodno odločitev, da: »se zdaj priznava, da so bile
                      osebe, na katere se nanaša ta navedba /kozaki in njihovi nemški in avstrijski
@@ -4232,7 +4234,7 @@
                   <p>»Ta zadeva je bila v preteklosti že temeljito preučena.16 Pripadniki 15.
                      (kozaškega) konjeniškega korpusa in njihovi svojci so bili stalno prebivajoči
                      znotraj mednarodno priznanih meja ZSSR ob začetku druge svetovne vojne.
-                     Nacistične sile so jih rekrutirale pozneje, po svojem vdoru in zasedbi ... Tako
+                     Nacistične sile so jih rekrutirale pozneje, po svojem vdoru in zasedbi … Tako
                      za Združeno kraljestvo kakor za ZSSR in po mednarodnem pravu so bili to
                      državljani ZSSR. Po vojni sta vladi Britanije in ZDA dobili zahtevo, naj
                      repatriirata v ZSSR tiste njene državljane, ki so bili najdeni na britanskem
@@ -4278,7 +4280,7 @@
                      nemških oboroženih sil maja 1945 ni sklenila miru z Nemčijo. Kakor je pravnik
                      iz Cambridgea dr. Christopher Greenwood razložil na zaprti seji na
                      Aldingtonovem procesu, se določbe haaške in ženevske konvencije nepretrgano
-                     uporabljajo / ... / tudi po nemški vdaji 8. maja 1945 / ... / če vas smem spomniti
+                     uporabljajo / … / tudi po nemški vdaji 8. maja 1945 / … / če vas smem spomniti
                      na primer ex parte Kochenmeister, 1947, sodišče 1, str. 41. Ta primer se tiče
                      prošnje za habeas corpus nekega prosilca, ki je bil označen kot tuji sovražnik.
                      Ta prošnja je bila vložena l. 1946, več kot leto dni po nemški brezpogojni
@@ -4286,7 +4288,7 @@
                   <p>»Po angleškem pravu edinole kralj lahko sklene mir z državo, s katero se je
                      naša dežela vojskovala, in s tem konča vojno stanje, in potrdilo ministra za
                      zunanje zadeve Njegovega Veličanstva, da je Njegovo Veličanstvo še v vojni z
-                     neko državo, je odločilen dokaz, da vojno stanje ni končano / ... / in je bilo
+                     neko državo, je odločilen dokaz, da vojno stanje ni končano / … / in je bilo
                      izdano več ko eno leto po nemški brezpogojni vdaji in sodišče je v tem primeru
                      upoštevalo, da je vojno stanje med Združenim kraljestvom in Nemčijo trajalo ob
                      tem datumu.«19</p>
@@ -4304,7 +4306,7 @@
                      zahtevo in pogoji vdaje so bili v skladu s sprejetjem konvencije, dogovorjene
                      2. oktobra 1944.20</p>
                   <p>Na angleškem vrhovnem sodišču je pri zaslišanju sodnik Michael Davies odločil,
-                     da se »ženevska konvencija / ... / ne nanaša na te vojake /kozake/, ker to sploh
+                     da se »ženevska konvencija / … / ne nanaša na te vojake /kozake/, ker to sploh
                      niso bili vojni ujetniki. Predali so se potem, ko so sovražnosti že prenehale.«
                      Ker je ta trditev očitno nezdružljiva z besedilom konvencije, je brez pojasnila
                      sprejel argument, ki ga je navajal odvetnik Lorda Aldingtona. Ta je bil
@@ -4339,7 +4341,7 @@
                   <p>»Da bi se izognili obveznemu ravnanju z velikanskim številom Nemcev, ki so se
                      vdali, kot z vojnimi ujetniki, in obravnavanju le-teh po standardih, katere je
                      bilo dejansko nemogoče izpolnjevati, se veliko število nemških oboroženih sil
-                     obravnava kot »razorožene nemške osebe« in ne kot vojni ujetniki ... Razločevanje
+                     obravnava kot »razorožene nemške osebe« in ne kot vojni ujetniki … Razločevanje
                      med obravnavanjem nemških ujetnikov v tem strogem pomenu besede in nemških
                      razoroženih oseb je v tem pogledu umetelno.«22</p>
                   <p>Knjiga James Bacqua Druge izgube je izzvala precejšnje prerekanje zavoljo
@@ -4365,20 +4367,20 @@
                   <p>Pokojni polkovnik Sir Geoffrey Shakerly, v tistem času major strelskega
                      korpusa, mi je takole opisal, kako je sprejel vdajo nekega nemškega bataljona
                      nekaj dni po tem, ko je njegov polk prišel v Avstrijo:</p>
-                  <p>»/ ... / Prepričan sem, da je bila moja naloga pogajati se o vdaji pod pogoji
+                  <p>»/ … / Prepričan sem, da je bila moja naloga pogajati se o vdaji pod pogoji
                      ženevske konvencije in poudariti, da se predajajo britanski armadi. Adjutant
                      nemške vojske je med najinim pogovorom omenil te pogoje predaje najmanj dvakrat
-                     / ... /«</p>
+                     / … /«</p>
                   <p>»Maj 1945 – Dobil sem povelje, naj prodiram do nekega območja kakih 4 ali 5
                      kilometrov severno od železniške postaje v Grafensteinu in naj pregovorim neki
-                     nemški SS Hitlerjev bataljon, naj se vda / ... / Po tolmaču sem naročil nemškemu
+                     nemški SS Hitlerjev bataljon, naj se vda / … / Po tolmaču sem naročil nemškemu
                      adjutantu, naj pove svojemu predstojniku, da sem prišel zahtevat njegovo vdajo
-                     britanski armadi pod pogoji ženevske konvencije ... Natanko se spominjam, kako je
+                     britanski armadi pod pogoji ženevske konvencije … Natanko se spominjam, kako je
                      nemški adjutant poudaril bistveno točko, da se predajajo britanski armadi in to
                      pod pogoji ženevske konvencije. Potem je odšel, da se pogovori s svojim
-                     predstojnikom / ... / vrnil se je in vprašal, ali bi se nekaj kozakov, ki so z
+                     predstojnikom / … / vrnil se je in vprašal, ali bi se nekaj kozakov, ki so z
                      njimi, moglo vdati ob istem času in pod enakimi pogoji – bilo jih je okrog 150.
-                     Rekel sem Da / ... /.«</p>
+                     Rekel sem Da / … /.«</p>
                   <p>»Kolikor se spominjam, smo jih predali nekemu bataljonu valižanske garde in
                      spravili so jih v zapor za vojne ujetnike /nota bene/ (POW – prisoners of
                      war).«</p>
@@ -4401,7 +4403,7 @@
                   <p>Čeprav so se bili Hrvati predali 15. maja in so bili torej strictu senso SEP,
                      način izražanja in ton tega signala naznačujeta, naj bi bili deležni ozirov, do
                      katerih so bili upravičeni kot PW. Dne 28. julija notica zunanjega ministrstva
-                     beleži, da so »kozaki v Avstriji / ... / vojni ujetniki«, 26 označba, ki
+                     beleži, da so »kozaki v Avstriji / … / vojni ujetniki«, 26 označba, ki
                      nakazuje, v kolikšnem obsegu novi koncept SEP ni pomenil nič drugega kakor
                      legalistično sredstvo za reševanje enkratnega logističnega problema.</p>
                   <p>Tako britanska vlada kakor tudi vlada Združenih držav sta svoji stališči
@@ -4430,7 +4432,7 @@
                   <p>»Pripadniki 15. (kozaškega) konjeniškega korpusa in njihovi svojci so bili
                      stalno prebivajoči znotraj mednarodno priznanih meja ZSSR ob začetku druge
                      svetovne vojne. Nacistične sile so jih rekrutirale pozneje, po svojem vdoru in
-                     zasedbi / ... / Tako za Združeno kraljestvo kakor za ZSSR in po mednarodnem pravu
+                     zasedbi / … / Tako za Združeno kraljestvo kakor za ZSSR in po mednarodnem pravu
                      so bili to državljani ZSSR.«</p>
                   <p>Ta trditev vsebuje stvarno izkrivljanje, ki ga lahko pri priči zavrnemo. Med
                      pripadnike 15. kozaškega konjeniškega korpusa, ki so bili izročeni Sovjetom, je
@@ -4462,7 +4464,7 @@
                      (III) vidno nošenje orožja; (IV) ravnanje v skladu z zakoni in običaji
                      vojskovanja. K tem kvalifikacijam je ženevska konvencija dodala »vse osebe,
                      pripadajoče bojujočim se silam vojskujočih se strani, ki jih je sovražnik zajel
-                     med vojnimi operacijami na morju ali v zraku / ... /«29</p>
+                     med vojnimi operacijami na morju ali v zraku / … /«29</p>
                   <p>Haaška definicija je nedvoumno zasnovana kot inkluzivna in ocenjevanje
                      državljanstva kakega bojevnika bi bilo enako nezdružljivo z njenim namenom
                      kakor kateri koli drug svojevoljen dodatek. Poznejša omemba v ženevski
@@ -4507,7 +4509,7 @@
                      ki smo jo zelo skrbno spremljali; kakorkoli že, sovražnik je v praksi ta status
                      podeljeval in privzel tisto politiko, ki smo jo tudi mi sami izvajali, ko smo
                      obravnavali ujetnika kot vojnega ujetnika tiste dežele, katere uniformo je
-                     nosil ob zajetju / ... /</p>
+                     nosil ob zajetju / … /</p>
                   <p>»Od izbruha sovražnosti smo se držali tega, da je uniforma test za
                      ugotavljanje, kakšne narodnosti je vojni ujetnik, tako da je bil vsak, ki je
                      bil zajet v nemški uniformi, primarno obravnavan kot nemški vojni ujetnik. Pri
@@ -4593,7 +4595,7 @@
                      zunanjem ministrstvu eden najbolj nepopustljivih zagovornikov prisilne
                      repatriacije, zasebno sprejel »argument ministrstva za zunanje zadeve, da to
                      vodi naravnost v nedoslednost v primerjavi s tistim, kar smo rekli o uniformah,
-                     češ da so najpomembnejše, kar se tiče vojnih ujetnikov / ... /«36</p>
+                     češ da so najpomembnejše, kar se tiče vojnih ujetnikov / … /«36</p>
                </div>
                <div type="div3">
                   <head>Premestitev vojnih ujetnikov</head>
@@ -4605,7 +4607,7 @@
                      državo kakor v tisto, ki jih je zajela, ne glede na to, koliko korektno
                      ravnanje lahko pričakujejo.</p>
                   <p>Kakor je Patrick Dean svetoval vojnemu ministrstvu 15. oktobra 1945:</p>
-                  <p>»/ ... / Konvencija izrecno določa, da so vojni ujetniki pod oblastjo sovražne
+                  <p>»/ … / Konvencija izrecno določa, da so vojni ujetniki pod oblastjo sovražne
                      vlade in ne posameznikov ali formacij, ki so jih zajele. Sovražnikova vlada ima
                      zatorej pravico pričakovati od vlade, katere sile so ujetnike zajele, da bo
                      skrbela za izpolnjevanje določil konvencije. Zato se nam zdi, da so premestitve
@@ -4616,7 +4618,7 @@
                      prej:</p>
                   <p>»L. 1942 je bil z vlado Združenih držav sklenjen sporazum, v katerem so
                      pristale na to, da v imenu Commonwealtha nastanijo 150.000, pozneje povečano na
-                     175.000 sovražnikovih vojnih ujetnikov pod pogojem / ... / da same postanejo
+                     175.000 sovražnikovih vojnih ujetnikov pod pogojem / … / da same postanejo
                      priporna oblast. Tak prenos pravic nas je skrbel, ker smo menili, da bi utegnil
                      dati Nemcem pretvezo za premeščanje britanskih ujetnikov pod nadzorstvo kake
                      druge vlade osi, kot na primer ene izmed balkanskih držav, katere sloves med
@@ -4641,9 +4643,9 @@
                      britanskim poveljstvom – sklenjenega med Veliko Britanijo, Združenimi državami
                      in Sovjetsko zvezo na jaltski konferenci 11. februarja 1945. Člen 1 določa:</p>
                   <p>»Vsi sovjetski državljani, ki so jih osvobodile sile, delujoče pod britanskim
-                     poveljstvom / ... / bodo po tej operaciji brez odlašanja ločeni od sovražnikovih
+                     poveljstvom / … / bodo po tej operaciji brez odlašanja ločeni od sovražnikovih
                      vojnih ujetnikov in bodo ločeno od teh nastanjeni v taboriščih ali na zbirnih
-                     točkah, dokler ne bodo izročeni sovjetskim / ... / oblastem / ... /«38</p>
+                     točkah, dokler ne bodo izročeni sovjetskim / … / oblastem / … /«38</p>
                   <p>Dejansko sloni ta argument na temelju, ki ni nič bolj veljaven kakor ostali. V
                      nasprotju z zagotovilom zunanjega ministrstva to besedilo nikjer ne omenja
                      uporabe sile za neprostovoljno repatriacijo, take politike torej, ki je v
@@ -4721,8 +4723,8 @@
                      jezeru 13. maja si je Harold Macmillan, minister in predstavnik britanske vlade
                      v Sredozemlju, zapisal, da je »med Nemci, ki so se predali, okrog 40.000
                      kozakov in »belih« /ne-sovjetskih emigrantov/ Rusov z ženami in otroki. Če jih
-                     izročimo Rusom, jih obsodimo na suženjstvo, trpinčenje in na verjetno smrt / ...
-                     /. Odločili smo se, da jih izročimo.«43</p>
+                     izročimo Rusom, jih obsodimo na suženjstvo, trpinčenje in na verjetno smrt /
+                     ... /. Odločili smo se, da jih izročimo.«43</p>
                   <p>Jasno je, da je Keightley skupaj z Macmillanom predvideval usodo tisočev,
                      katere je po ministrovih navodilih pri Judenburgu izročil Sovjetom, in njuna
                      predvidevanja so zdaj do podrobnosti potrjena z arhivi GULAGa. Od žensk, otrok
@@ -4744,7 +4746,7 @@
                      na svoje ozemlje z uporabo policijskih ukrepov, kakor so izgon ali
                      preprečevanje vstopa na meji, tistim beguncem, ki jim je bilo po redni poti
                      dovoljeno tamkajšnje bivanje, razen če je treba že omenjene ukrepe izvajati iz
-                     takih razlogov, kakor sta državna varnost ali javni red / ... /«</p>
+                     takih razlogov, kakor sta državna varnost ali javni red / … /«</p>
                   <p>Zaradi strahovlade, ki je sledila Hitlerjevemu vzponu na oblast v Nemčiji, sta
                      bili v Ženevi l. 1936 in 1938 podpisani še dve dodatni konvenciji, ki sta
                      določali primerljive naloge.</p>
@@ -4755,18 +4757,18 @@
                   <p>»Vojni zločini: namreč kršitve zakonov in običajev vojskovanja. Take kršitve
                      bodo vključevale, čeprav ne bodo omejene le na to, umor, slabo ravnanje ali
                      deportacijo na suženjsko delo ali v kakšen drug namen civilnega prebivalstva z
-                     zasedenega ozemlja ali na njem, umor ali slabo ravnanje z vojnimi ujetniki / ...
-                     /«</p>
+                     zasedenega ozemlja ali na njem, umor ali slabo ravnanje z vojnimi ujetniki /
+                     ... /«</p>
                   <p>»Zločini zoper človečnost: namreč umor, iztrebljanje, zasužnjevanje,
                      deportiranje in druga nehumana dejanja, ki se zagrešijo zoper katero koli
-                     civilno prebivalstvo / ... /«</p>
+                     civilno prebivalstvo / … /«</p>
                   <p>»Voditelji, organizatorji, pobudniki in sokrivci, ki so udeleženi pri snovanju
                      ali izvajanju skupnega načrta ali zarote, da se stori kateri koli od navedenih
                      zločinov, so odgovorni za vsa dejanja, ki jih izvršijo katere koli osebe pri
                      izpeljavi tega načrta.«46</p>
                   <p>Dandanes britanska vlada, kakor jasno kaže pismo zunanjega ministrstva z dne
                      13. julija 1999, zanika, da bi se bili zločini sploh kdaj zgodili:</p>
-                  <p>»Vi / ... / postavljate trditve o zločinih, ki so jih zagrešili britanski vojaki
+                  <p>»Vi / … / postavljate trditve o zločinih, ki so jih zagrešili britanski vojaki
                      v Avstriji nad ruskimi vojaki in civilisti. Ne poznamo nobenih dokazov, ki bi
                      podpirali take trditve.«</p>
                   <p>Poslal sem kopijo Zoe Polanski, ki je preživela te dogodke in danes živi na
@@ -4774,7 +4776,7 @@
                      prizadejanih med britansko zbirno racijo. Dne 30. avgusta je pisala ministru za
                      zunanje zadeve, da bi izrazila svojo užaloščenost in zgroženost nad tem, »da
                      sedanja britanska vlada zanika vojne zločine, ki so jih Britanci zagrešili
-                     zoper civilne ruske begunce / ... /«</p>
+                     zoper civilne ruske begunce / … /«</p>
                   <p>»Torej, jaz sem za vas živi dokaz, ker sem bila v središču te tragedije. Takrat
                      sem bila stara šele petnajst let in sem pravkar prišla iz nemškega nacističnega
                      koncentracijskega taborišča Auschwitza in Dachaua, čisto sama, in nisem vedela,
@@ -4794,11 +4796,11 @@
                      zagrešili ‘okrutne zločine’.«</p>
                   <p>Britanska vlada bi se morda lahko zamislila nad resnim opozorilom, ki ga je
                      izrekel sodnik Jackson ob začetku nürnberškega procesa:</p>
-                  <p>»Končni ukrep je / ... / prisiliti državnike, da bodo odgovorni do zakona. In naj
+                  <p>»Končni ukrep je / … / prisiliti državnike, da bodo odgovorni do zakona. In naj
                      čisto jasno povem pri tem, ko je ta zakon tukaj prvič uporabljen proti nemškim
                      napadalcem, da mora ta zakon, če naj služi koristnim namenom, obsoditi tudi
                      napadalnost katerega koli drugega naroda, s temi vred, ki sedijo tukaj danes
-                     kot sodniki / ... / Prava tožnica pred vašim sodiščem je civilizacija / ... /
+                     kot sodniki / … / Prava tožnica pred vašim sodiščem je civilizacija / … /
                      Obtoženci se lahko zatekajo samo k upanju, da bo mednarodno pravo tako daleč
                      zaostajalo za moralnim čutom človeštva, da se bo ravnanje, ki je zločin v
                      moralnem smislu, moralo šteti za nedolžno glede na zakon.« 47</p>
@@ -5007,14 +5009,14 @@
                   <p>Število 700 oz. 800 interniranih navajajo tudi komunistični viri. Poljski
                      Zbornik 1965 – Prispevki iz zgodovine delavskega gibanja med vojnama in iz
                      narodnoosvobodilnega boja na področju občine Ljubljana – Moste – Polje citira
-                     iz Sajetovega dela Belogardizem (Lj., 1952): » ... Naslednji dan (31. avgusta –
+                     iz Sajetovega dela Belogardizem (Lj., 1952): » … Naslednji dan (31. avgusta –
                      op. pisca) so Italijani blokirali občino Polje, aretirali 700 ljudi in jih
-                     odpeljali v internacijo ...« Podbevškova v knjigi Sv. Urh piše o 800 odpeljanih.
-                     Navaja članek iz dnevnika Slovenec z dne 30. januarja 1944: » ... Dne 31. avgusta
-                     so v svoji besnosti navalili badoljevci in napravili racijo po vsej občini
-                     Polje, na Ježici in Dobrunjah in odpeljali v internacijo nad 800 moških in to
-                     povečini onih, ki niso bili s komunizmom nikdar v zvezi. Ugotovljeno je bilo
-                     pozneje, da so bili komunistični terenski delavci vnaprej obveščeni o teh
+                     odpeljali v internacijo ...« Podbevškova v knjigi Sv. Urh piše o 800
+                     odpeljanih. Navaja članek iz dnevnika Slovenec z dne 30. januarja 1944: » … Dne
+                     31. avgusta so v svoji besnosti navalili badoljevci in napravili racijo po vsej
+                     občini Polje, na Ježici in Dobrunjah in odpeljali v internacijo nad 800 moških
+                     in to povečini onih, ki niso bili s komunizmom nikdar v zvezi. Ugotovljeno je
+                     bilo pozneje, da so bili komunistični terenski delavci vnaprej obveščeni o teh
                      represijah in so se pravočasno umaknili.«</p>
                   <p>Občina D. M. v Polju (Polje) je bila ozemeljsko zelo obsežna. Zajemala je
                      severnovzhodni del Ljubljanskega polja med Savo in Ljubljanico (do njunega

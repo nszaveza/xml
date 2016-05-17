@@ -44,14 +44,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -103,6 +103,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Po dveh desetletjih krivda sili na plan </p>
                   <p>Vojaški naborniki, ki so sodelovali pri zločinih </p>
@@ -664,7 +666,7 @@
                      Mandelštam <emph>Upanje proti upanju,</emph> v katero je kakor v dragoceno
                      skrinjo polagala spomine na svojega moža, vrhunskega poeta Osipa Mandelštama.
                      Zgodba gre na kratko tako, da je leta 1934 pesnik napisal porogljivo pesem o
-                     Stalinu. (Deset korakov stran že ni slišati naših besedi ... a njegove padajo od
+                     Stalinu. (Deset korakov stran že ni slišati naših besedi … a njegove padajo od
                      njegovih ustnic, težke in dokončne, kot uteži. Kremeljski alpinist.) Zaradi te
                      pesmi so Mandelštama zaprli in potem pregnali v Sibirijo, kjer je leta 1938 v
                      prehodnem taborišču za kriminalce v bližini Vladivostoka umrl. </p>
@@ -960,12 +962,12 @@
                      Začelo se je, kar se je po teh pripravah moralo začeti. Razvila se je prava
                      bitka. To je trajalo neprenehoma cel dan – na praznik miru. V večernem mraku se
                      oglase tudi topovi. Z nočjo vse utihne. Izgleda, da se partizani umikajo v
-                     hribe .... Po praznikih preiskave po hribih južno od Poljan in številne
-                     aretacije. Pri Jakobu v Valterskem vrhu ustrele gospodarja in hlapca, vsa
-                     poslopja pa požgo. Najbrž so imeli tam zatočišče partizani. Pri Brodarju v
-                     Vinharjah, kjer so ščitili partizane, so gospodarja in sina zaprli, ostali so
-                     se razbežali, na domačiji pa so ljudje – hijene – vse oropali. Na Visokem, ki
-                     je zaplenjeno, so Nemci pobrali vse dragocenosti in vse boljše stvari ...</p>
+                     hribe … Po praznikih preiskave po hribih južno od Poljan in številne aretacije.
+                     Pri Jakobu v Valterskem vrhu ustrele gospodarja in hlapca, vsa poslopja pa
+                     požgo. Najbrž so imeli tam zatočišče partizani. Pri Brodarju v Vinharjah, kjer
+                     so ščitili partizane, so gospodarja in sina zaprli, ostali so se razbežali, na
+                     domačiji pa so ljudje – hijene – vse oropali. Na Visokem, ki je zaplenjeno, so
+                     Nemci pobrali vse dragocenosti in vse boljše stvari … </p>
                   <p>Po praznikih se ljudje vračajo domov iz partizanske vojske razočarani. Jeze se
                      na one, ki so jih v to zapeljali in jih spravili v tako nevarnost. Nekateri se
                      seveda ne morejo nekateri morda tudi nočejo vrniti. Cerkev so o božiču zaprli
@@ -1411,7 +1413,7 @@
                      dnevi. Nekega večera zagledajo mamo Nežo, kako se trudna vrača proti domu. Kaj
                      le nosi v naročju, zavito v rjuho, upognjena kot pod težkim bremenom? Ko so ji
                      videli v obraz, so se prestrašili: trpke poteze in bolečina v očeh so povedali
-                     vse. V rjuhi je nosila ožgano truplo svojega otroka ... Sama ga je pokopala, brez
+                     vse. V rjuhi je nosila ožgano truplo svojega otroka … Sama ga je pokopala, brez
                      pogrebcev, tudi župnika takrat ni bilo več v vasi.</p>
                   <p>To poletje so odgnali v gozd župana iz Stopič Franca Brulca in njegovega
                      sedemnajstletnega sina Jožefa. Nista se več vrnila. Vse ljudi je postalo zelo
@@ -1441,9 +1443,9 @@
                      Kovačič. Vedel je, kje je še kaj trave, če je že niso popasli partizanski
                      konji, seveda vsi pokradeni. </p>
                   <p>Večerilo se je že, toda niti Ivana niti Janeza z živino še ni bilo domov. Na
-                     domače je legla mora. Spominjam se joka in tarnanja ... Nihče si ni upal omeniti
+                     domače je legla mora. Spominjam se joka in tarnanja … Nihče si ni upal omeniti
                      Jerenčevega Jožka, čeprav so strahovi pričeli slikati ožgano Jožkovo truplo v
-                     naročju njegove mame Jerenčeve Neže ... Pa saj Ivan in Janez nista odgnala kam
+                     naročju njegove mame Jerenčeve Neže … Pa saj Ivan in Janez nista odgnala kam
                      daleč, so se tolažili. Proti Vahti nekam. Saj se lahko hitro vrneta, če bi
                      zaslutila kakšno nevarnost. Partizanov pa tisti dan ni nihče videl kje v
                      bližini. Tako so domači modrovali in si vlivali upanje. </p>
@@ -1586,7 +1588,7 @@
                      naj bom brez mame! Kdo mi bo skuhal, kdo bo z mano? Staremu atu nisem mogla
                      verjeti, da mame ne bom več videla. V paničnem strahu sem stekla na dvorišče k
                      štirni in gledala vanjo. Morda pa je padla noter? In klicala sem jo še naprej
-                     na ves glas, tako me je bilo groza ... Priklicala sem sosedo, Judeževo teto:
+                     na ves glas, tako me je bilo groza … Priklicala sem sosedo, Judeževo teto:
                      'Kristinka, kaj gledaš v štirno?' Skoraj pritekla je do mene, ker se je bala,
                      da ne bi padla vanjo. - 'Kje je mama? Ali veš, kje je mama? Mame ni!' sem
                      hlipala še naprej. Mirno in tolažeče mi je rekla: 'Saj bo mama prišla.' Prijela
@@ -2440,7 +2442,7 @@
                      zemlje«. Še nekaj. Od Cerkve (duhovnikov) pričakujemo marsikaj. Pa se
                      vprašajmo, ali res gremo naproti časom, ko bomo v razkristjanjeni Sloveniji
                      (Evropi) mogli pričakovati od maloštevilnih duhovnikov samo še delitev
-                     zakramentov in nič več. Še eno vprašanje: Če se pa sol spridi ... ? </p>
+                     zakramentov in nič več. Še eno vprašanje: Če se pa sol spridi … ? </p>
                   <p>
                      <emph>ZAVEZA: Za dodatek pa še nekaj bolj osebnih vprašanj. Kako se je začel
                         vaš politični angažma? Kateri je bil odločilni vzgib – politični, moralni,
@@ -3178,7 +3180,7 @@
                      zamolčevana in preganjana, a vendar je na koncu prišla do besede. Tako bo tudi
                      v prihodnje. To je naše neuničljivo upanje, ki temelji na Jezusovi besedi: »Ne
                      bojte se jih torej! Nič ni zakritega, kar se ne bo razodelo, in skritega, kar
-                     se ne bo spoznalo. ... Ne bojte se tistih, ki umorijo telo, duše pa ne morejo
+                     se ne bo spoznalo. … Ne bojte se tistih, ki umorijo telo, duše pa ne morejo
                      umoriti« (Mt 10,26-28). Ker ni mogoče umoriti duše in duha, tudi resnice ni
                      mogoče umoriti.</p>
                   <figure>
@@ -3478,7 +3480,7 @@
                      </note>
                      <emph>»S strahom sem prevzel škofovsko palico iz rok svojega prednika. Pogum in
                         zaupanje mi vzbuja beseda sv. Pavla:‚Sveti Duh vas je postavil za škofa, da
-                        vodite Cerkev božjo.’ (Apd 20.28) ... K vam prihajam s težko odgovornostjo
+                        vodite Cerkev božjo.’ (Apd 20.28) … K vam prihajam s težko odgovornostjo
                         pred Bogom, da izvršim nalogo, katero mi je naložil. S svetim Pavlom moram
                         reči:‚Gorje mi, ako te svoje naloge ne bi izvrševal!' Zato pa hočem
                         oznanjati božje kraljestvo vestno in vedno, ne glede na to, ali je ljudem
@@ -3583,11 +3585,11 @@
                      prepoveduje, razen <emph>»če bi iz političnega delovanja klera sledila škoda za
                         vero in versko življenje,«</emph> in opozarja, da Cerkev ne sme istovetiti
                      strankarskih načel z religijo: <emph>»Cerkev obsoja kot nemoralno vsako nasilno
-                        spremembo vladavine, vsako revolucijo. ... Cerkev je napram obliki vladavine
-                        indiferentna, nobene ne smatra za edino pravo ... Cerkev uči, da je najvišja
+                        spremembo vladavine, vsako revolucijo. … Cerkev je napram obliki vladavine
+                        indiferentna, nobene ne smatra za edino pravo … Cerkev uči, da je najvišja
                         dolžnost vsake vlade skrbeti za občno blaginjo. Ob času revolucije je
                         najvišja dolžnost vlade in državljanov čim prej končati kaos, zgraditi na
-                        razvalinah starega novo državo kot napravo obče blaginje ... V konfliktu dveh
+                        razvalinah starega novo državo kot napravo obče blaginje … V konfliktu dveh
                         dolžnosti prevladuje zmerom višja, važnejša.«</emph>
                      <note place="foot" n="15">
                         <p> NŠAL, ŠAL, Škofje, Rožman, Cerkev in politika, fasc. 2; Metod Benedik,
@@ -3726,21 +3728,21 @@
                      znanega <emph>Pastirskega pisma o nevarnosti brezbožnega komunizma</emph>,
                      30.11.1943: <emph>»Nihče ne more biti istočasno katoličan in komunist.
                         Brezbožnost in vera v Boga sta nezdružljivi kot voda in ogenj. Kdor je
-                        komunist, ni več kristjan ... Sodelovanje z brezbožnim komunizmom brez greha
+                        komunist, ni več kristjan … Sodelovanje z brezbožnim komunizmom brez greha
                         ni mogoče.«</emph>
                      <note place="foot" n="24">
                         <p> »Pastirsko pismo ljubljanskega škofa dr. Gregorija Rožmana za advent
                            1943«, <emph>Škofijski list</emph>, 30.11.1943.</p>
                      </note> V pismu duhovnikom ljubljanske škofije 20. 8. 1943: <emph>»Brezbožni
-                        komunizem je v bistvu zlo – moralno zlo –, sodelovanje z njim ... v katerikoli
-                        reči je prav tako zlo, torej moralno prepovedano ... V osvobodilni fronti
+                        komunizem je v bistvu zlo – moralno zlo –, sodelovanje z njim … v katerikoli
+                        reči je prav tako zlo, torej moralno prepovedano … V osvobodilni fronti
                         imajo komunisti, kakor sami trdijo in kakor je razvidno iz njihovih
                         publikacij, vodilno vlogo. Kdor torej podpira osvobodilno fronto, podpira
-                        komunizem ... Ker je osvobodilna fronta dejansko v rokah komunizma in njegova
+                        komunizem … Ker je osvobodilna fronta dejansko v rokah komunizma in njegova
                         nosilka med našim narodom, zato je vsako prostovoljno sodelovanje z
                         osvobodilno fronto bodisi z gmotnim ali moralnim podpiranjem bodisi s
-                        prikrivanjem in simpatiziranjem kot sodelovanje z moralnim zlom pod grehom ...
-                        prepovedano.«</emph>
+                        prikrivanjem in simpatiziranjem kot sodelovanje z moralnim zlom pod grehom
+                        ... prepovedano.«</emph>
                      <note place="foot" n="25">
                         <p>
                            <emph>Med sodbo sodišča in sodbo vesti,</emph> str 222–223.</p>
@@ -3762,7 +3764,7 @@
                         človeških bitij med slovenskim narodom, ali za uboj sočloveka brez obtožbe
                         in brez obsodbe – umor na lastno pest, iz političnih, socialnih ali
                         nacionalnih razlogov ali iz osebne maščevalnosti. Nespremenljivo veljavna
-                        resnica je: Edini Bog je gospodar nad človeškim življenjem. ... Bog je z
+                        resnica je: Edini Bog je gospodar nad človeškim življenjem. … Bog je z
                         neizbrisljivimi črkami zapisal: Ne ubijaj! Ne kradi! za vse čase in za vse
                         ljudi.«</emph>
                      <note place="foot" n="26">
@@ -3776,7 +3778,7 @@
                         nastopanja so se bili odprli in vzeli vase toliko močnih mladih življenj,
                         koliko idealnih, najboljših ljudi našega naroda je v grobovih širne naše
                         zemlje, ljudi, ki bi jih narod v sedanjosti in bodočnosti bridko potreboval,
-                        a ne bo jih več. ... Ljudje slovenski, streznite se vendar že, streznite se
+                        a ne bo jih več. … Ljudje slovenski, streznite se vendar že, streznite se
                         vendar že, streznite se vsi v tej skrajni stiski, v kateri je narod na tem,
                         da pogine.«</emph>
                      <note place="foot" n="27">
@@ -3811,9 +3813,9 @@
                      samostanov in drugih cerkvenih ustanov pa številni redovniki in redovnice, tako
                      da je moralo 200.000 ljudi živeti brez duhovne oskrbe in brez zakramentov ter
                      da je Cerkev na Gorenjskem izgubila vse materialno premoženje, Zavod sv.
-                     Stanislava pa je zasedel gestapo. <emph>»V toku 14 stoletij naše ljudstvo ... ni
+                     Stanislava pa je zasedel gestapo. <emph>»V toku 14 stoletij naše ljudstvo … ni
                         doživelo ničesar hujšega. In kaj zlega bo sledilo. Nikjer na svetu nimamo
-                        opore. Le Bog je naša opora, vanj polagamo svoje upe ... Domine deus, ad te
+                        opore. Le Bog je naša opora, vanj polagamo svoje upe … Domine deus, ad te
                         sunt oculi nostri, ne pereamus!«</emph> In: <emph>»V obstoječih razmerah
                         moramo na vernike z vsemi močmi vplivati, da se drže reda in discipline, da
                         ne store ničesar, kar bi oblastnike prisililo, da nastopajo strožje in
@@ -4625,21 +4627,21 @@
                         na to, kako smo ves čas, še v nekdanji Jugi, ki je pred približno dvajsetimi
                         leti dokončno bankrotirala, smo poslušali izjave, ki so se začele nekako
                         takole: »Duboko sam uveren ...«, ali pa: »Treba da verujemo, da nas mogu ovi
-                        ljudi ...«, pa seveda tudi: »Globoko verjamem, da nas bo ta reforma pripeljala
-                        v lepšo prihodnost.« In tako naprej. Ko je Juga bankrotirala, ko je šla v
-                        maloro, ko je razpadla, smo spet verjeli, kako bo zdaj, ko smo na svojem,
-                        odvisni sami od sebe, vse lepo in prav. No, ja. Vsekakor je boljše. Če kaj
-                        rabiš, greš preprosto v najbližjo trgovino in kupiš. Listo vsega si ne moreš
-                        privoščiti, ampak če pametno gospodariš, pa gre. Ne pa, da se postaviš v
-                        vrsto pred trgovino, katerokoli že, in počakaš, da prideš na vrsto, kajti
-                        kjer je vrsta, tam nekaj imajo, morda olje, morda pralni prašek ali kakšno
-                        drugo prepotrebno stvar. S tem smo, hvala Bogu, opravili. Ampak, verjeti
-                        moramo pa še vedno. Zdaj, ko si je levica prisvojila absolutno oblast, še
-                        bolj in še več. Verjeti moramo »monarhu«, da je pravično, primerno in
-                        zveličavno, da je odlikoval z najvišjim državnim odlikovanjem Tomaža Ertla,
-                        ki je aktivno sodeloval pri izvajanju represije nad političnimi nasprotniki,
-                        verjeti mu moramo, da je to dobro premišljena odločitev na predlog
-                        veteranov, v tej akciji je sodelovalo pet </emph>
+                        ljudi ...«, pa seveda tudi: »Globoko verjamem, da nas bo ta reforma
+                        pripeljala v lepšo prihodnost.« In tako naprej. Ko je Juga bankrotirala, ko
+                        je šla v maloro, ko je razpadla, smo spet verjeli, kako bo zdaj, ko smo na
+                        svojem, odvisni sami od sebe, vse lepo in prav. No, ja. Vsekakor je boljše.
+                        Če kaj rabiš, greš preprosto v najbližjo trgovino in kupiš. Listo vsega si
+                        ne moreš privoščiti, ampak če pametno gospodariš, pa gre. Ne pa, da se
+                        postaviš v vrsto pred trgovino, katerokoli že, in počakaš, da prideš na
+                        vrsto, kajti kjer je vrsta, tam nekaj imajo, morda olje, morda pralni prašek
+                        ali kakšno drugo prepotrebno stvar. S tem smo, hvala Bogu, opravili. Ampak,
+                        verjeti moramo pa še vedno. Zdaj, ko si je levica prisvojila absolutno
+                        oblast, še bolj in še več. Verjeti moramo »monarhu«, da je pravično,
+                        primerno in zveličavno, da je odlikoval z najvišjim državnim odlikovanjem
+                        Tomaža Ertla, ki je aktivno sodeloval pri izvajanju represije nad
+                        političnimi nasprotniki, verjeti mu moramo, da je to dobro premišljena
+                        odločitev na predlog veteranov, v tej akciji je sodelovalo pet </emph>
                      <emph>tisoč miličnikov in drugih ljudi. Moramo verjeti predsedniku vlade, da je
                         dogovor s Hrvaško dober za Slovenijo (čeprav praktično nič ne vemo o njem).
                         Tudi moramo verjeti celotni vladi, da so zamenjali manj ljudi kot prejšnja
@@ -4756,13 +4758,13 @@
                      veljala skorajda za psovko, toda po temeljitih debatah sta me razumela in naši
                      odnosi so bili od takrat naprej še bolj iskreni in zaupni. Svetovala sta mi,
                      naj napišem svojo zgodbo. In res sem jo – potem, ko se je to lahko počelo –
-                     napisal. Odleglo je tudi meni ... </p>
+                     napisal. Odleglo je tudi meni … </p>
                   <p>In potem se zgodi »VELIKI POK«. Pade berlinski zid, vse zgradbe komunističnega
                      vzhoda se porušijo, Slovenija se reši enoumja in se osamosvoji. Svobodna beseda
                      najde prosto pot in tako lahko napišem svojo zgodbo. Oba sinova mi pri tem
-                     pomagata po svojih močeh. Dam ji naslov »Zgodbe moje mladosti« ... Iz Argentine
+                     pomagata po svojih močeh. Dam ji naslov »Zgodbe moje mladosti« … Iz Argentine
                      prihajajo naši, nekoč pregnani ljudje in njihovi potomci – umetniki, pevci,
-                     pisatelji, gospodarstveniki ... </p>
+                     pisatelji, gospodarstveniki … </p>
                   <p>Za tem pride leto 2002. Podelitev Prešernovih nagrad in nagrad Prešernovega
                      sklada. Bernarda Fink, mezzosopranistka svetovnega slovesa, hči po vojni na
                      čudežen način rešenega domobranca Božidarja Finka, rojena v Argentini, šolana v
@@ -4773,7 +4775,7 @@
                      domovine in Ljubljane, pa tudi bolečino, da smo tako daleč od nje.« Ob dejanski
                      podelitvi v Veliki dvorani Cankarjevega doma – podelitev je spremljala vsa
                      Slovenija – so bile v njenem slavnostnem govoru prve besede: »MOJ OČE JE BIL
-                     DOMOBRANEC!« Nato je nadaljevala ... V tistem trenutku sem v njenem začetku in
+                     DOMOBRANEC!« Nato je nadaljevala … V tistem trenutku sem v njenem začetku in
                      njeni pripovedi začutil sproščenost, moč in pogum svobodnega človeka, hčerko
                      »DREVESA, KI JE NA TUJEM ZRASLO«, v svobodni in domoljubni družbi,
                      neobremenjeno vsega ideološkega balasta. Začutil sem žalost tedaj – ob
@@ -6022,6 +6024,7 @@
          <div type="div1">
             <head>Ob devetdesetletnici mag. Mirka Kambiča</head>
             <div type="div2">
+               <head>Ob devetdesetletnici mag. Mirka Kambiča</head>
                <div type="div3">
                   <p>Praznujemo visok jubilej sodelavca Zaveze </p>
                   <p>in našega dragega prijatelja</p>
@@ -6191,6 +6194,7 @@
          <div type="div1">
             <head>Na platnicah</head>
             <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <p>Dogodki med drugo svetovno vojno in po njej so usodno razdelili slovenski
                      narod. In ta delitev je zaznamovana s krvjo. Izpolnila se je pesnikova napoved

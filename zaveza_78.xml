@@ -44,14 +44,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -103,6 +103,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza </head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Izbranost</head>
                   <p>Čisto lahko drži domneva, ki se nam vztrajno vsiljuje, da je malo narodov, ki
@@ -1090,7 +1092,7 @@
                      »narodnega izdajstva«. V letih 1941 in 1942 je bilo v Ljubljanski pokrajini
                      ubitih že okoli 1900 ljudi. Začeli so pobijati vse, ki so imeli kakršen koli
                      vpliv ali pomen za svojo okolico: duhovnike, učitelje, župane, cele katoliške
-                     družine, izobražence ... VOS je v glavnem pobijal v Ljubljani, drugje po
+                     družine, izobražence … VOS je v glavnem pobijal v Ljubljani, drugje po
                      Sloveniji pa so morili partizanski odredi.</p>
                   <p>Med vojno je bilo nekaj več kot 200 stražarjev. Umorjenih in pobitih jih je
                      bilo približno 60 %. Iz SDZ (Slovenska dijaška zveza) je prihajala večina
@@ -1162,13 +1164,13 @@
                      in družine. Vedno pa je bil v postojanki nekdo, povečini poveljnik. Veliko
                      poveljnikov Vaških straž je bilo stražarjev.</p>
                   <p>Besede Franca Tomšiča, Vaškega stražarja iz Male vasi pri Dobrepolju »Mi smo
-                     kmečka vojska ... « najbolj opišejo Vaške straže. Po vojni je živel v Torontu,
+                     kmečka vojska … « najbolj opišejo Vaške straže. Po vojni je živel v Torontu,
                      kjer je imel restavracijo. Umrl je letos spomladi.</p>
                   <p>8. septembra 1942, po kapitulaciji Italije so Vaške straže razpustili in
                      ustanovili Slovensko narodno vojsko. Vaške straže so dobile ukaz, naj se
                      zberejo na Turjaku. Kdo je ukaz podpisal, ni znano, ve pa se, da ga
                      podpolkovnik Ernest Peterlin ni. Začele so se zbirati razne skupine: Vaške
-                     straže, Slovenska legija, Slovenski četniki ... Niso pa se mogli dogovoriti, kdo
+                     straže, Slovenska legija, Slovenski četniki … Niso pa se mogli dogovoriti, kdo
                      bo glavni poveljnik, tako je Peterlin ostal v Ljubljani, Casar pa na
                      Turjaku.</p>
                   <p>Partizani so bili dobro oboroženi. Dve italijanski diviziji sta jim predali
@@ -1707,7 +1709,7 @@
                      sončen dan, ko smo odhajali. Metka je bila stara komaj eno leto, zato so se
                      odločili, da jo pustijo doma z omo. Prav tako tudi Menka, a se je tako milo
                      jokal, ko nas je videl odhajati, da se je mami zasmilil in v naglici je vzela s
-                     sabo še njega. Saj smo bežali samo za nekaj dni ... Pa tudi prostora v prikolici
+                     sabo še njega. Saj smo bežali samo za nekaj dni … Pa tudi prostora v prikolici
                      ni bilo za vse. Menko je bil še majhen, 2 leti in pol, Marjana komaj šest let,
                      jaz pa še ne osem. Tako se je v enem dnevu za vedno spremenila usoda našega
                      življenja na nepredstavljiv način. </p>
@@ -1716,7 +1718,7 @@
                      povelja. Vlak se je že premikal, tedaj se je nepričakovano pojavil ati na
                      motorju in nas s pomočjo nekega vojaka skorajda pometal skozi odprta vrata
                      vagona. Vlak se je že premikal. </p>
-                  <p>Na tak način smo se poslovili ... Takrat smo se videli zadnjikrat ...</p>
+                  <p>Na tak način smo se poslovili … Takrat smo se videli zadnjikrat ...</p>
                   <p>Bila sem še premajhna, da bi doumela doživetja tistega časa, a mama je vse to
                      doživljala z grozo. </p>
                   <p>In tu se začne zgodba, vredna romana.</p>
@@ -2128,7 +2130,7 @@
                      sporočilo, kako se naj ob določenem času na določenem mestu na Miklošičevi
                      cesti postavimo, da nas bo očka iz zaporniške celice lahko videl. Na sporočilu
                      je pisalo: »Očku za rešetko se oko solzi, o ljubljeni družini že dolgo ni vesti
-                     ... «</p>
+                     … «</p>
                   <figure>
                      <graphic url="slike_z_78/z_78_27.png"/>
                      <head>Šent Lenart pri sedmih studencih – Rojstna hiša Franca
@@ -2326,12 +2328,12 @@
                      od nas preizkuša. Čim bolj resne so preizkušnje, večje izkustvo nam je dano
                      ...</p>
                   <p>Danes se poslavljamo od enega takih ljudi: zdravnika, kirurga, učitelja,
-                     prijatelja ... V čast si štejem, da sem lahko rasel ob njem. Skupaj sva prebila
-                     skoraj 40 let ... Obema je bilo dodeljeno področje kirurgije, ki je marsikje še
+                     prijatelja … V čast si štejem, da sem lahko rasel ob njem. Skupaj sva prebila
+                     skoraj 40 let … Obema je bilo dodeljeno področje kirurgije, ki je marsikje še
                      vedno nekaj obrobnega. Oba sva samorastniško začutila, da je to veja medicine,
                      kjer je mogoče zelo veliko pomagati. </p>
                   <p>Dr. Velikonja ni bil nekdo, ki bi ti svoje znanje vsiljeval. Znanje si pri njem
-                     videl, če si hotel gledati, če si znal videti ... Rad je povedal svoje izkušnje,
+                     videl, če si hotel gledati, če si znal videti … Rad je povedal svoje izkušnje,
                      če si ga vprašal in če je videl, da se zanimaš. Vesel sem bil, da se je po
                      upokojitvi odločil sodelovati v našem kolektivu. </p>
                   <p>Tu je živel odprto življenje. Veseli smo bili njegove hudomušnosti, njegovih
@@ -2342,22 +2344,22 @@
                      usmiljeno. Pa vendar smo ga vedno dojemali kot srečnega človeka. </p>
                   <p>Njegove poti so bile tudi hribi. Največkrat je hodil na Toško čelo, kamor so ga
                      pogosto spremljali različni sopotniki. Tudi sam sem bil med njimi. Bil je žilav
-                     in hiter, poln življenja ... in čeprav mlajši, sem ga komaj dohajal ... </p>
-                  <p>Pot na Prisank je bila njegova zadnja ... in končala se je sredi noči ... Sredi
-                     noči se utrinjajo zvezde ... ne vem, koliko se jih je utrnilo tisto noč. Če je
-                     bila ena sama, je bila to njegova ... Nekateri ljudje – so kot zvezde ... Tudi
+                     in hiter, poln življenja … in čeprav mlajši, sem ga komaj dohajal … </p>
+                  <p>Pot na Prisank je bila njegova zadnja … in končala se je sredi noči … Sredi
+                     noči se utrinjajo zvezde … ne vem, koliko se jih je utrnilo tisto noč. Če je
+                     bila ena sama, je bila to njegova … Nekateri ljudje – so kot zvezde … Tudi
                      zvezde so nekatere brez imena. Njihovo svetlobo opazimo šele, ko se utrnejo. </p>
-                  <p>Dr. Tine Velikonja je žarel s posebno svetlobo. Bil je Človek ... bil je Zdravnik
-                     ... tisti, ki bo popolnoma razumljen šele nekoč ... </p>
+                  <p>Dr. Tine Velikonja je žarel s posebno svetlobo. Bil je Človek … bil je Zdravnik
+                     … tisti, ki bo popolnoma razumljen šele nekoč … </p>
                   <p>Naj dokončam pesnikovo molitev </p>
                   <lg>
-                     <l>Vse je večno, kar nastane ... </l>
+                     <l>Vse je večno, kar nastane … </l>
                      <l>Rojstvo je močnejše od smrti,</l>
                      <l>vztrajnejše od obupa in samote,</l>
                      <l>silnejše od hrupa in greha,</l>
-                     <l>slovesnejše od zavrženosti ... </l>
-                     <l>... nikoli ne bom prenehal biti ... </l>
-                     <l>Nikoli ... </l>
+                     <l>slovesnejše od zavrženosti … </l>
+                     <l>... nikoli ne bom prenehal biti … </l>
+                     <l>Nikoli … </l>
                      <l>Amen.</l>
                   </lg>
                </div>
@@ -2438,9 +2440,9 @@
                      utopistične sanje o nekakšnem raju na zemlji in da so lahkotno sprejeli vesti o
                      strahotnih zločinih v Sovjetski zvezi in njenih satelitih? Verjetno so si
                      mislili: to se je zgodilo tam, na vzhodu, med Slovani, mi, zahodnjaki, bomo
-                     bolj civilizirani ... In izobraženci so zapeljali množice delavcev. Ti so
+                     bolj civilizirani … In izobraženci so zapeljali množice delavcev. Ti so
                      razvijali rdeče zastave tudi na trgu pred sv. Petrom v Vatikanu in seveda med
-                     množičnimi stavkami v Franciji ... Evropa je bila resnično ogrožena. </p>
+                     množičnimi stavkami v Franciji … Evropa je bila resnično ogrožena. </p>
                   <p>Spoštljivo stojimo pred izobraženci, ki so ostali trezni, razumni, inteligentni
                      (intus legere) in seveda zvesti resnici in pogumni do konca. </p>
                   <p>Moj oče, Jože Kokalj, sodnik in namestnik višjega državnega tožilca, je stal
@@ -2812,29 +2814,29 @@
                      zapisal: »<emph>Teharij nisem spustil iz očesa od 1958. leta. Takrat so se še
                         videli betonski temelji barak, grapa je bila zapuščena, po 1970. letu pa sem
                         nemočno opazoval, kako ploščad nekdanjega taborišča in grobišče v grapi
-                        spreminjajo v odlagališče industrijskih in komunalnih odpadkov. / ... /</emph>
+                        spreminjajo v odlagališče industrijskih in komunalnih odpadkov. / … /</emph>
                   </p>
                   <p>Brezarjevega brezna nisem našel, čeprav sem oblezel vse grape pod Toškim Čelom.
-                     / ... / Nedotaknjeni in na videz pozabljeni so ostali grobovi v Kucji dolini. Za
+                     / … / Nedotaknjeni in na videz pozabljeni so ostali grobovi v Kucji dolini. Za
                      Hrastniški hrib sem vedel samo, da so bila morišča blizu Dola, predvsem okoli
-                     Marnega in Krištandola. / ... /</p>
+                     Marnega in Krištandola. / … /</p>
                   <p>A Kočevski rog je ostajal neznanka. Obsežen in nevaren. Saj nismo razlikovali
                      med Rogom in področjem okrog Kočevske Reke in Gotenice. Za vse te kraje se je
                      govorilo, da tistega, ki zaide, ne najdejo več. Enostavno izgine in izpuhti. /
-                     ... / </p>
+                     … / </p>
                   <p>Potem mi Drobničev Tone pove, da je bil pred dvajsetimi leti tam. Peljali so se
                      z avtomobilom, prišli do brezna že v mraku, si ga ogledali, potem pa se hitro
-                     vrnili. Da, Macesnova gorica. / ... /</p>
+                     vrnili. Da, Macesnova gorica. / … /</p>
                   <p>Narišem si potovalno smer na zemljevidu, na list si izrišem domnevno brezno z
                      vsemi značilnostmi, ki me bodo opozorile nanj. Sobota, nekaj dni pred božičem
-                     leta 1988. / ... / V Kočevju že sije sonce. Peljem se skozi mesto po poti, ki so
-                     jo prehodili domobranci takrat, ko so jih vodili s kolodvora. / ... / Šalka vas,
+                     leta 1988. / … / V Kočevju že sije sonce. Peljem se skozi mesto po poti, ki so
+                     jo prehodili domobranci takrat, ko so jih vodili s kolodvora. / … / Šalka vas,
                      Željne. Prvikrat grem mimo, čeprav sem tisočkrat izgovoril njihova imena.
-                     Željne mi zvenijo v glavi kot zlobna vrata pred pogubljenjem. / ... /</p>
+                     Željne mi zvenijo v glavi kot zlobna vrata pred pogubljenjem. / … /</p>
                   <p>
                      <emph>Nadaljujem kar po cesti. Tudi mimo sedaj znanega brezna na Macesnovi
-                        gorici. / ... / Sploh nisem razočaran, da nisem našel nič zanesljivega. Ne,
-                        tolažim se, da je važen vloženi trud in ne končni uspeh. Rog je moj. / ... /
+                        gorici. / … / Sploh nisem razočaran, da nisem našel nič zanesljivega. Ne,
+                        tolažim se, da je važen vloženi trud in ne končni uspeh. Rog je moj. / … /
                         Gozdni delavec je prerokoval, da bo tu stala cerkev in bodo hodili sem kot
                         na božjo pot.</emph>«</p>
                   <p>V vsem svojem življenju je Tine Velikonja združeval kljubovalnost gorjancev s
@@ -2946,7 +2948,7 @@
                         opravili še pri drugih sto, bo večina od 300 župnij ljubljanske nadškofije
                         pokritih in končno število napisanih na ploščah okrog 16.000. Za druge,
                         predvsem mislimo pri tem na župnije mariborske škofije, kjer je bilo veliko
-                        civilnih žrtev med vojno, še več pa po njej, bo časa zmanjkalo. / ... / Čas ni
+                        civilnih žrtev med vojno, še več pa po njej, bo časa zmanjkalo. / … / Čas ni
                         naš zaveznik. Vedno manj je takih, ki še toliko vedo, da se lahko z njimi
                         sprehodimo po vasi, pa nam bodo za vsako hišo vedeli povedati, kakšna je
                         bila usoda njenih prebivalcev.</emph>«</p>
@@ -3113,7 +3115,7 @@
                      napisana in povedana tako, kakor je bila v času vladavine tistih, ki so te
                      poboje zagrešili. Toda resnice ni mogoče vkleniti, kakor poudarja tudi Jezus v
                      evangeliju, ki smo mu prisluhnili, ko pravi: »<emph>Nič ni skritega, kar bi se
-                        ne razodelo ... </emph>« Ravno Kočevski rog, Teharje ali Huda jama so dokaz za
+                        ne razodelo … </emph>« Ravno Kočevski rog, Teharje ali Huda jama so dokaz za
                      to. Resnica pride prej ali slej na dan. Resnici tudi ne moremo predpisovati,
                      kakšna mora biti, ampak nam nasprotno ona predpisuje, kaj smemo in česa ne
                      smemo trditi. Ona narekuje samo sebe. To velja za vsa področja znanosti in
@@ -3169,7 +3171,7 @@
                      moral pred 65 leti utihniti, ampak danes je močan, je jasen, je glasen, čeprav
                      ga še vedno poskušajo utišati.</p>
                   <p>Nahajamo se v enem od vsaj 500-ih prizorišč slovenskega Katinskega gozda.
-                     Tisoči in tisoči in tisoči ... Pomorjeni po že končani vojni. Ko se je drugje
+                     Tisoči in tisoči in tisoči … Pomorjeni po že končani vojni. Ko se je drugje
                      proslavljalo, se je pa pri nas še streljalo. Njihov greh? Boriti se pod
                      slovensko trobojnico, v slovenskem jeziku, proti nepravični revoluciji, za svoj
                      dom, narod in vero. Potisnjeni v državljansko vojno zaradi peščice ljudi, ki so
@@ -3218,7 +3220,7 @@
                      se je globoko naselila v glavah Slovencev in Slovenk, tako zelo, da včasih še
                      tako očitna dejstva ne najdejo pravega mesta.</p>
                   <p>Resnica je samo ena. Ni jih več, kot nekateri pravijo. Lahko se prikriva,
-                     izkrivlja, zamolči, prilagaja ... ampak resnica je ena in z vso močjo sili na dan
+                     izkrivlja, zamolči, prilagaja … ampak resnica je ena in z vso močjo sili na dan
                      iz globine naših brezen.</p>
                   <p>Zdaj je čas za resnico in za pravico, ki sta na naši strani. Od leta 1991 smo
                      zares na strani zmagovalcev. To leto nam je prineslo možnost, če ne dolžnost,
@@ -3249,7 +3251,7 @@
                      sedaj tukaj stojim neobremenjen? Pred petnajstimi leti sem kot študent pri
                      sodni medicini za nekaj minut videl štiri umorjene pri ropu. Takrat se mi je
                      porajalo mnogo vprašanj in še danes mi za njihovo usodo ni vseeno. Da bi lahko
-                     ostal neobremenjen, pozabil? In vendar so bili ubiti samo štirje ... Vsi, ki so
+                     ostal neobremenjen, pozabil? In vendar so bili ubiti samo štirje … Vsi, ki so
                      bili ubiti, so bili ubiti preveč!</p>
                   <p>Ni res, da Rog ne more nagovoriti mladih! Težje pa nagovarja današnjo slovensko
                      mladino. Občutek imam, da se nekateri pogoji, da bi mlade Rog nagovoril, nekako
@@ -3599,7 +3601,7 @@
                <head>Vračanje</head>
                <docAuthor>Jože Pavlič</docAuthor>
                <div type="div3">
-                  <p>Šentvid pri Ljubljani ... poletje 1945. Partizanski zapori ... Kake dva ali tri dni
+                  <p>Šentvid pri Ljubljani … poletje 1945. Partizanski zapori … Kake dva ali tri dni
                      po slikanju – mislim, da je bilo 8. ali 9. avgusta 1945 – ko so nam rekli, da
                      gremo domov. Dali so nam odpustnice – papir, približno pol lista A4 formata, ki
                      naj bi nam zagotovil varno pot domov in dokazoval, da smo amnestirani – prosti,
@@ -3607,12 +3609,12 @@
                      Tam za zidovi smo mladoletni domobranci preživeli dobra dva meseca svojih
                      najtežjih dni v življenju. Misel na rešitev v takih razmerah je vseobsegajoča
                      in prevzame človeka, da skoraj pozabi na vse drugo. Eno samo pričakovanje se
-                     naseli v njem ... </p>
+                     naseli v njem … </p>
                   <p>Bilo je nekako sredi dneva, ko so nas poslali iz sobe v prvem nadstropju na
                      dvorišče. Takrat smo že vedeli, da bomo šli domov, a kar nismo mogli verjeti in
-                     ure, kaj ure ... minute so se vlekle, da je kar bolelo. Postavili so nas v zbor
+                     ure, kaj ure … minute so se vlekle, da je kar bolelo. Postavili so nas v zbor
                      na dvorišču ob stavbi. Naredili so nam še kratek nagovor in slišali smo, kako
-                     uvidevna in razumevajoča je nova oblast ... kako ne smemo izrabiti te njene
+                     uvidevna in razumevajoča je nova oblast … kako ne smemo izrabiti te njene
                      širokosrčnosti in kako ji moramo biti hvaležni za to, da so nas oprostili
                      krivde in da bomo šli zdaj domov. Prav tam pa smo dobili tudi resno priporočilo
                      in opozorilo, kako se bo treba vesti v prihodnje na svobodi – posebej
@@ -3631,17 +3633,17 @@
                      nekakšnem evforičnem zanosu in sem kar plaval domu naproti, vendar so se mi
                      vzporedno kar vračali grdi spomini na razočaranje, ponižanje in prestano
                      trpljenje tistih dni ter me postavljali na trda tla. Pa še ena stvar je bila
-                     živa in je kar grizla ... Lakota ... Kako se najesti! Čim prej jesti! Res je, da so
+                     živa in je kar grizla … Lakota … Kako se najesti! Čim prej jesti! Res je, da so
                      nam zadnje tri dni, preden so nas izpustili, dali k čorbi zjutraj in zvečer
                      enkrat na dan še po en majhen, kot pest velik hlebček nekakšnega koruznega
                      kruha, da bi si opomogli za pot domov, a kaj je to po dvomesečnem stradanju in
                      še boleznih povrhu in vsem tistem maltretiranju in neznosnih razmerah, ki so
                      nas dodatno izčrpale! Vse to, povezano z bolečimi in grdimi spomini, zraven pa
                      neznansko hrepenenje po domu in svobodi nas je v tisti uri pravzaprav usmerjalo
-                     v en sam cilj: čim prej priti domov, na varno k svojim, se najesti ... najesti ...
-                     biti spet človek. Čeprav nismo bili več otroci, smo bili vendar še zelo mladi;
-                     naša mladost pa je bila takrat trdo preizkušena in ni čudno, da smo si tako
-                     želeli na varno domov. </p>
+                     v en sam cilj: čim prej priti domov, na varno k svojim, se najesti … najesti
+                     ... biti spet človek. Čeprav nismo bili več otroci, smo bili vendar še zelo
+                     mladi; naša mladost pa je bila takrat trdo preizkušena in ni čudno, da smo si
+                     tako želeli na varno domov. </p>
                   <p>Vsi takrat tam iz zapora izpuščeni mladoletni domobranci, izčrpani in shujšani
                      skoraj do nespoznavnosti, so se v avgustovskem sončnem popoldnevu, bledi,
                      povaljani in ponižani, bolj vlekli kot hodili – hiteli so, kar so mogli, v vse
@@ -3741,8 +3743,8 @@
                      odpustnici in vpraševali še to in ono. Potem je bilo videti, ko sva obširno
                      pojasnila, za kaj gre, da jim papirja in pojasnila zadoščajo in v nekakšnem
                      zmagoslavnem samozadovoljstvu so naju milostno pustili naprej. Zares sva se
-                     oddahnila ter kar pohitela stran ... naprej po dolgi in pusti Ižanski cesti proti
-                     domu. Pomislil sem: glej deluje ... kmalu bova zares doma. Dan se je že nagibal h
+                     oddahnila ter kar pohitela stran … naprej po dolgi in pusti Ižanski cesti proti
+                     domu. Pomislil sem: glej deluje … kmalu bova zares doma. Dan se je že nagibal h
                      koncu; ni se še mračilo, a sonca ni bilo več, naznanjal se je večer, obzorje še
                      ni bilo zastrto, le sence so postajale gostejše. Pogled po cesti je še segal
                      daleč nazaj in naprej. Pred nama je bil še kak kilometer ravne Ižanske ceste,
@@ -3786,7 +3788,7 @@
                      njunih očeh sem zagledal nekakšno odločenost in izraz nadmoči, slo po
                      obvladanju in urejanju. Videti sta bila kot lovca, ki sta pritekla za plenom v
                      bojazni, da bi jima ta ušel. Midva sva se postavila v ponižnejšo držo biti na
-                     uslugo in v vsestransko pripravljenost za pojasnila ... nova pojasnila. Že ko sem
+                     uslugo in v vsestransko pripravljenost za pojasnila … nova pojasnila. Že ko sem
                      ju zagledal, me je, kot sem rekel, neprijetno prešinilo in naenkrat sem jasno,
                      nagonsko spoznal, da sva ogrožena in bova v težavah. Rdeči zvezdi na kapah sta
                      se svareče svetlikali, brzostrelki, ki sta si jih vsake toliko časa popravljala
@@ -4219,7 +4221,7 @@
                      vojaškega sodišča v Nürnbergu (»IMT«), Haaške konvencije (IV) 1907 in Ženevske
                      konvencije (IV) 1949. Na pritožbo obeh strank je višje sodišče sodbo
                      razveljavilo in zadevo vrnilo tožilstvu v dopolnitev preiskave, zlasti o
-                     vprašanju, ali so bili partizani in vaščani vojaki ... V novem sojenju je okrožno
+                     vprašanju, ali so bili partizani in vaščani vojaki … V novem sojenju je okrožno
                      sodišče Kononova oprostilo obtožbe za vojne zločine, češ da so bili pobiti
                      vaščani oboroženi sodelavci okupatorja in jih je obsodilo partizansko sodišče v
                      skladu s pravili vojskovanja, obdolženec pa je s svojo enoto le izvršil smrtno
@@ -4299,7 +4301,7 @@
                      je zlasti zato, ker ne dovoljuje revizije zgodovine, niti relativizacije
                      enovite protifašistične koalicije niti relativizacije kolaboracije, poleg tega
                      pa jasno nasprotuje teoriji o ”dvojni okupaciji” (fašistični in komunistični),
-                     ki se pojavlja tudi pri nas ... «. Zgodovina je torej ena in nespremenljiva, vse
+                     ki se pojavlja tudi pri nas … «. Zgodovina je torej ena in nespremenljiva, vse
                      je že zapisano! Le kaj bo sedaj počel Božo Repe in drugi »enozgodovinarji«? </p>
                   <p>Drugi zgodovinar dr. Jože Pirjevec pa se je kar zasanjal: »Zdi se mi, da je
                      mednarodno sodišče z oprostitvijo Kononova poudarilo pomemben princip, da
@@ -4421,7 +4423,7 @@
                      naslednji dan pri njih doma na kosilu in nadaljujemo praznovanje in še malo
                      poklepetamo ob vsej tej hrani in pijači. Takrat sem rekla, da je naslednji dan
                      slovesnost v Kočevskem rogu in da je ni stvari, ki bi me odvrnila od tega, da
-                     grem tja, da grem tja vsako leto, da je to zame simbol ... Takrat mi je beseda
+                     grem tja, da grem tja vsako leto, da je to zame simbol … Takrat mi je beseda
                      zastala. Ob teh besedah sem namreč s kotičkom očesa opazila, kako je prijazen
                      nasmešek z obraza nekega sorodnika izginil, obraz se mu je pomračil in na njem
                      se je zrcalilo neizmerno sovraštvo, gnev, zloba – ne najdem besed, s katerimi
@@ -4650,8 +4652,8 @@
                      dvignila svoje roke k Stvarniku in v kruti usodi stopala v zadnji Božji krog z
                      molitvijo in odpuščanjem. Franc Pediček, ki je preživel teharsko morišče, je v
                      svojih spominih zapisal: »Ne vem, ali se je na Slovenskem še kdaj toliko
-                     molilo, kakor se je maja in junija petinštiridesetega leta ... Kdor ni doživel
-                     Turjaka, Kočevja, Vetrinja in Teharij, ne ve kaj pomeni moliti ... « Nikjer se ni
+                     molilo, kakor se je maja in junija petinštiridesetega leta … Kdor ni doživel
+                     Turjaka, Kočevja, Vetrinja in Teharij, ne ve kaj pomeni moliti … « Nikjer se ni
                      toliko molilo kot v krajih trpljenja in smrti. Molitev je odpirala pota miru in
                      resnice, pokojni so v molitvi izklicali svojo spravo z Bogom in ljudmi, celo s
                      svojimi rablji in vdani odšli v večni mir. </p>
@@ -4971,7 +4973,7 @@
                      aktualne slovenske vlade gospod Borut Pahor prišel preteklo nedeljo v Kočevski
                      rog, je to storil kot predsednik stranke, ki ima v prtljagi, v kateri so njeni
                      identitetni dokumenti, vse tri kategorije zločinov, ki jih je registriralo
-                     mednarodno vojno pravo. Prvič: etc. ... In kaj je storil Pahor? Vso to strašljivo
+                     mednarodno vojno pravo. Prvič: etc. … In kaj je storil Pahor? Vso to strašljivo
                      tradicijo je kontriral z dvajsetimi praznimi stavki! Čakajte malo, ali se
                      šalijo? Ali smo res že tako daleč, da se z nami lahko šalijo? A kar hočemo
                      povedati, je to, da demokratom, če si bodo le nabavili malo močnejše svetilke,
@@ -5354,7 +5356,7 @@
                      pa so poimenovani kot: bedni okupatorjevi priganjači, izdajalci, zločinci,
                      bedni rojaki, domači izrodki človeštva, zbesneli belogardistični policaji,
                      okupatorjevi bedni pomagači, mednarodni vojni zločinci, okupatorjevi krvniki,
-                     tolpe narodnih izdajalcev ... Oton Župančič jih je poimenoval zločinski
+                     tolpe narodnih izdajalcev … Oton Župančič jih je poimenoval zločinski
                      izdajalci, izgubljenci, sleparji in slepci ter klavrni poniglavci. (11. maj
                      1945, št. 3, str. 1) </p>
                   <p>Slovenski poročevalec je začel izhajati 9. maja 1945. Že naslednji dan je
@@ -5424,7 +5426,7 @@
                      skrival po gozdovih ko divja zver, da nekoč prinese svojemu narodu težko
                      pridobljeno svobodo? Slovenci takih ljudi doslej še nismo poznali. A zdaj so
                      tu, prav takšni kakršne smo si zmerom predstavljali: močni in neomajni v
-                     ljubezni do svojega naroda, do nas vseh ... « (15. maj 1945, št. 19, str. 3)</p>
+                     ljubezni do svojega naroda, do nas vseh … « (15. maj 1945, št. 19, str. 3)</p>
                   <p>Od 16. maja naprej se redno pojavljajo različni pozivi za ugotavljanje vojnih
                      zločinov, ki se praviloma nanašajo na protirevolucionarje, imenovane
                      okupatorjevi pomagači:</p>
@@ -5545,7 +5547,7 @@
                      za svoj narod in človeštvo«. (11. julij 1945, št. 70, str 2–3)</p>
                   <p>V juniju sledi kar nekaj poročil o sojenju posameznih protirevolucionarjev pod
                      naslednjimi naslovi: Narodni izdajalci prejemajo zasluženo kazen, Obsodbe
-                     narodnih izdajalcev, Proces proti gestapovskim zločincem ... </p>
+                     narodnih izdajalcev, Proces proti gestapovskim zločincem … </p>
                   <p>Kot primer navajamo sodbo, s katero je bil med drugimi obsojen tudi Narte
                      Velikonja: »Sodba je izrečena. Zločinci in veleizdajalci svojega naroda, svoje
                      domovine in svoje države so obsojeni. Doletela jih je skupna in enaka kazen,
@@ -5561,14 +5563,14 @@
                   <p>Kako je izgledalo, ko so ujeli »skrivače in morilce«, opiše naslednji citat:
                      »In zdaj zro te klavrne postave topo predse, njihovi pogledi so pogledi takih,
                      čijih edini pomen je klanje ljudi. Nekdo od naših dvigne roko, pa mu roka
-                     omahne: Brata so mi ubili, udaril bi, a se mi preveč gabi ... Drugi pripomni: Po
+                     omahne: Brata so mi ubili, udaril bi, a se mi preveč gabi … Drugi pripomni: Po
                      svojih peklenskih zločinih in blaznem sovraštvu do partizanov so prekašali
                      okupatorja samega«. (29. junij 1945, št. 60, str. 2)</p>
                   <p>Bralci Slovenskega poročevalca so imeli možnost, da se na različnih mestih
                      seznanijo z domobranskimi zločini. Nekateri članki opisujejo domobranska
                      grozodejstva (kje, kdaj, kako in koga so umorili; ponekod so priložene celo
                      slike), drugi pa ostajajo bolj na moralni ravni: </p>
-                  <p>» ... , in končno, kdor ve za koristi, ki so jih okupatorski krvniki imeli od
+                  <p>» … , in končno, kdor ve za koristi, ki so jih okupatorski krvniki imeli od
                      slovenskih izdajalcev, temu mora biti jasno, kakšno edino pravo stališče smo
                      nekoč in moramo tudi danes zavzeti do narodnih izdajalcev: nič popuščanja, samo
                      pravičnost pri presoji njihove krivde in kazni. Narodne izdajalce je treba
@@ -5762,7 +5764,7 @@
                      str. 4)</p>
                   <p>Komentar tokrat prepuščamo vam.</p>
                   <p>Vsem tistim, ki niste vedeli, kaj je bila OF, za srečen konec ponujamo citat iz
-                     »prve roke«, iz govora Edvarda Kardelja: » ... je globoko demokratična, globoko
+                     »prve roke«, iz govora Edvarda Kardelja: » … je globoko demokratična, globoko
                      ljudska, globoko svobodoljubna in napredna v svoji idejni vsebini«. (11. junij
                      1954, št. 44, str. 2) Verjetno se strinjate, da nimamo nobenega razloga, da
                      govorcu ne bi verjeli, prav tako, kot ne moremo dvomiti poročilom Slovenskega

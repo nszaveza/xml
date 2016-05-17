@@ -29,14 +29,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -88,6 +88,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>V enem od svojih prejšnjih obdobij je Spomenka Hribar zapisala, da je bila
                      Osvobodilna fronta za partijo »kulisa«, za katero je igrala svojo zakulisno
@@ -260,8 +262,8 @@
                      skupino mladih fantov, ki so obkrožali starejšega moža. V njem je prepoznal
                      profesorja Ernesta Tomca, ki je bil že od zgodnjih tridesetih letih organizator
                      klerofašistične organizacije Mladci. Ti so se potem med vojno izkazali kot
-                     najhujši organizatorji bele garde ... Kaj je privedlo Tomca prav v Šentjošt? Prav
-                     gotovo tedanji dijaki iz teh vasi ... O vsem tem v drugi polovici 1941 nisem še
+                     najhujši organizatorji bele garde … Kaj je privedlo Tomca prav v Šentjošt? Prav
+                     gotovo tedanji dijaki iz teh vasi … O vsem tem v drugi polovici 1941 nisem še
                      nič vedel, in tudi učitelj Jože Mivšek ne. Tudi on se ni zavedal, da tu deluje
                      trdno organizirana kontrarevolucija« (Borec, 1989, št. 9, str. 954.).</p>
                   <p>Predvojna mežnarija, majhna in skromna hišica, je stala blizu cerkve, nekoliko
@@ -550,8 +552,8 @@
                      Vrhnike. Ta bojazen pa je bila, kot se je kasneje pokazalo, neupravičena, ker
                      Italijani iz vseh teh postojank niso intervenirali niti drugi dan po
                      partizanskem napadu, in to kljub temu, da se jim je zdel rezultat boja za šele
-                     ustanovljeno postojanko že od vsega začetka negotov ... Kasneje se je pokazalo,
-                     da je ostala posadka skoraj brez municije ... « Tako je o neuspelem napadu na
+                     ustanovljeno postojanko že od vsega začetka negotov … Kasneje se je pokazalo,
+                     da je ostala posadka skoraj brez municije … « Tako je o neuspelem napadu na
                      Šentjošt zapisal Rudolf Hribernik v knjigi Dolomiti v NOB. Spomnimo se, kako so
                      se Italijani ob prehodu II. grupe odredov takoj dvignili iz svojih postojank in
                      začeli požigati vasi ter streljati talce. Ko pa so slišali in videli, kaj se
@@ -816,7 +818,7 @@
                      bajtarje in male kmete. Ali je morda bilo to povezano s prizadevanjem za
                      socialno osvoboditev? Dr. Cene Logar je leta 1973 zapisal v Spominih, da se v
                      Šentjoštu »niso delili veliki kmetje kot belogardisti in mali kmetje, bajtarji
-                     in delavci kot pripadniki osvobodilne fronte ... Te okoliščine so potem našim
+                     in delavci kot pripadniki osvobodilne fronte … Te okoliščine so potem našim
                      kolaboracionistom prišle kot naročene in tako je reakcija iz Šentjošta
                      napravila pravo Vendejo: iz poštenih in delovnih kmetov so napravili fanatične
                      belogardistične izdajalce.« Le v čem so bili Cvekovi in Štefancovi fanatiki in
@@ -1363,11 +1365,11 @@
                      Loga, ki so ga partizani ugrabili 11. 10. min. leta in nato ubili.</p>
                   <p>5. 4. Danes je velika noč. Procesije ni bilo, pač pa maša (nem. duhovnik iz Šk.
                      Loke). Pele so tudi orgle. Najlepše pa je bilo nazadnje: »Povsod Boga, zemlja
-                     slovenska ... «</p>
+                     slovenska … «</p>
                   <p>Žalostna novica. Snoči je bil ustreljen doma skozi okno Palirjev Stanko v
                      Poljanah. Kdo je zločinec, ni znano. Nekateri pravijo, da partizani, drugi da
                      ne. Znano pa je bilo, da je simpatiziral z Nemci. Pred svojo hišo na Dobravi je
-                     bil ravnotako snoči ustreljen neki mehanik ... njegovo mater so že pred dnevi
+                     bil ravnotako snoči ustreljen neki mehanik … njegovo mater so že pred dnevi
                      ustrelili v Žirovskem vrhu iz zasede. Baje je Nemcem ovajala domačine.</p>
                   <p>1. 4. Plakat o novih usmrtitvah v osveto za Jerančevega Jožeta in še dva druga.
                      Med ustreljenimi je tudi Jazbecev France iz Lomov.</p>
@@ -1611,7 +1613,7 @@
                   <p>Tam na pobočju v Smoldnu pa stoji mogočna kmečka hiša, obnovljena in urejena,
                      zraven gospodarsko poslopje z letnico 1912. Tu je živel pisec kronike, od tod
                      je odšel na zadnjo pot. Samo tista pobočja ga pogrešajo, saj ljudi, ki so ga
-                     poznali, skoraj ni več. Življenje teče dalje ... </p>
+                     poznali, skoraj ni več. Življenje teče dalje … </p>
                </div>
             </div>
             <div type="div2">
@@ -1680,7 +1682,7 @@
                      Anton Vovk na veliko noč ob slavnostni priliki govoril o Kristusovem grobu in
                      vstajenju ter pri tem dejal: V vseh časih so bili grobovi rajnih in pokopališča
                      kraj spoštovanja in nedotakljivosti. Le včasih se je zgodilo, da so divje
-                     hijene vdrle na pokopališče in razkopale ter oskrunile grobove ... Poslušajoči so
+                     hijene vdrle na pokopališče in razkopale ter oskrunile grobove … Poslušajoči so
                      dobro razumeli, kaj to pomeni, in menda je še isti večer tržaški radio raznesel
                      v svet to novico. To sem moral napisati na ljubo zgodovinski resnici. Naj bo
                      tudi prispevek k vsemu plemenitemu govorjenju in pisanju o neznanih grobovih ob
@@ -1976,7 +1978,7 @@
                      čete slovenske narodne vojske v Dravljah, v sedanji šoli Valentina Vodnika.
                      Prepričani smo, da ne odhajamo za dolgo.</p>
                   <p>Nič ne vemo za vrvež okrog nas. Občutek imamo, da smo se vselili v hišo, ki je
-                     prvotni prebivalci še niso zapustili ... Ni pravega reda, nobenega zbora, moja
+                     prvotni prebivalci še niso zapustili … Ni pravega reda, nobenega zbora, moja
                      obleka je pisana, suknjič je rjavkast, hlače prekratke. Zaposlijo nas.
                      Inštruktorji nas urijo v topografiji. Prvič v življenju mi dajo v roke puško.
                      Nobenih zaklinjanj. Pusto razstavljanje, sestavljanje in vaje v merjenju na
@@ -2831,7 +2833,7 @@
                      fašizma.</p>
                   <p>Ljudska pravica je 26. junija 1945 na strani 5 sporočila:</p>
                   <p>V imenu narodov Jugoslavije so bili vsi obsojeni na smrtno kazen s streljanjem,
-                     na trajno izgubo državljanskih pravic in na zaplembo premoženja ... Višje vojaško
+                     na trajno izgubo državljanskih pravic in na zaplembo premoženja … Višje vojaško
                      sodišče je sodbo za vse obtožence v celoti potrdilo.</p>
                   <p>Nekaj o izvršitvi te obsodbe in o smrti Narteja Velikonje zvemo iz članka
                      Alenke Puhar v Delu od 12. 7. 1990: Pisateljeva drža na morišču.
@@ -3014,8 +3016,8 @@
                      srečen, solze so mu tekle po obrazu, ko se nam je zahvaljeval. Za angleško
                      govoreče smo zapeli latinsko Adeste fideles.</p>
                   <p>Po mnogih letih sem v lanskem božičnem času poslušala po radiu nastop
-                     varšavskega opernega zbora. Zapeli so tudi pesem: Wšrod nocnej ciszy ... (Sredi
-                     nočnega miru ... ) Solistka je pela refren: Przywitać Pana ... (Slavite Gospoda ... )
+                     varšavskega opernega zbora. Zapeli so tudi pesem: Wšrod nocnej ciszy … (Sredi
+                     nočnega miru … ) Solistka je pela refren: Przywitać Pana … (Slavite Gospoda … )
                      Tedaj sem pela tudi jaz z njimi, prvo kitico še vedno znam. Pred oči mi je
                      stopila slika tistega davnega, revnega begunskega božiča, obšla me je misel na
                      moje tedanje učence, kolegice, misel na vse begunce, ki še danes po svetu
@@ -3325,7 +3327,7 @@
                      podjetnosti in iznajdljivosti. Po njegovi zaslugi smo že v Vetrinju začeli
                      izdajati dnevni informacijski bilten. Za begunce v taborišču je namreč zelo
                      pomembno, da so obveščeni o najvažnejših dogodkih v zunanjem svetu. Major Barre
-                     se spominja, da je že prve dni dobil od nekod radio ... </p>
+                     se spominja, da je že prve dni dobil od nekod radio … </p>
                   <p><hi rend="bold">Gospod Blatnik?</hi></p>
                   <p>Ne, major Barre. Taborišču je priskrbel radio in časnikarska ekipa je potem
                      lovila poročila in jih zapisovala. Priskrbel je tudi star pisalni stroj,
@@ -3333,7 +3335,7 @@
                      papirja in primitiven ciklostil, tako da so lahko razmnoževali ne le biltena,
                      ampak kmalu tudi šolske knjige.</p>
                   <p>Iz Vetrinja se spominjam še nekaterih ljudi. To so bili France Pernišek, tajnik
-                     taboriščnega odbora, monsinjor Matija Škrbec, monsinjor Jagodic ... in Jože
+                     taboriščnega odbora, monsinjor Matija Škrbec, monsinjor Jagodic … in Jože
                      Lekan, ki je že v prvih dneh organiziral službo za razdeljevanje hrane. V
                      spominu se mi že malce mešajo znanci iz Vetrinja z ljudmi, ki sem jim bolje
                      spoznal kasneje v Peggetzu. Iz Peggetza bi lahko naštel kakih petnajst imen.
@@ -3393,8 +3395,8 @@
                      nekaj malega sem vedel. Pazljivo sem prebral knjigo, ki jo je, mislim da leta
                      1943, objavila oboževalka Jugoslavije Rebecca West: »Črno jagnje in sivim
                      sokol«. Toda v knjigi govori skoraj izključno o Srbiji in Hrvaški. Sloveniji
-                     posveti le nekaj strani s precej prezirljivo sodbo o banu in ... tistem politiku
-                     duhovniku ... kako se je že pisal? Korošec!</p>
+                     posveti le nekaj strani s precej prezirljivo sodbo o banu in … tistem politiku
+                     duhovniku … kako se je že pisal? Korošec!</p>
                   <p><hi rend="bold">Prezirljivo?</hi></p>
                   <p>Da. O njem govori s prezirom. Domnevam, da je imela dobre prijatelje med Hrvati
                      in Srbi in je zato gledala na Korošca skozi oči zelo sovražnih Hrvatov ali
@@ -3463,7 +3465,7 @@
                      edino kvaliteti in globini njihove vere. Vedeli so, da trpijo s Kristusom, da
                      ponavljajo njegov križev pot. Ne bi rad poučeval ljudi, ki poznajo te stvari
                      veliko bolje kot jaz, toda občutek imam, da je bilo v njihovi drži nekaj
-                     zakramentalnega. Tako kot Kristus so darovali svoje trpljenje Očetu ... </p>
+                     zakramentalnega. Tako kot Kristus so darovali svoje trpljenje Očetu … </p>
                   <p><hi rend="bold">Kot svoj prispevek za rešitev sveta.</hi></p>
                   <p>Tako je. Pri tem pa so vedeli, da se je Kristusovo trpljenje končalo v
                      velikonočnem jutru. To jih je, ob dragoceni podpori duhovnikov, obvarovalo
@@ -3528,8 +3530,8 @@
                   <p><hi rend="bold">Se osebno poznata?</hi></p>
                   <p>Ne poznava se prav dobro, toda poznava se. Z njim si dopisujem v zvezi s svojo
                      knjigo. Prosil sem ga za dovoljenje, da citiram daljše odlomke iz njegovih
-                     pripovedi, in odgovoril mi je zelo naklonjeno in spodbudno ... </p>
-                  <p>Druga taka oseba je Tony Crossland ... </p>
+                     pripovedi, in odgovoril mi je zelo naklonjeno in spodbudno … </p>
+                  <p>Druga taka oseba je Tony Crossland … </p>
                   <p><hi rend="bold">Tony Crossland? Anthony Crossland? Znameniti
                      socialist?</hi></p>
                   <p>Točno. Bil je vodilni socialistični mislec in na koncu kariere zunanji
@@ -3575,7 +3577,7 @@
                   <l>letijo vse niže nad zelenkasto gladino</l>
                </lg>
                <lg>
-                  <l>in zgubljajo se v mrak ... in misel ta, </l>
+                  <l>in zgubljajo se v mrak … in misel ta, </l>
                   <l>ki v njej ožarjene še hip živijo, </l>
                   <l>v nebo se dvigne in zdrsi v tišino.</l>
                </lg>
@@ -3945,7 +3947,7 @@
                      obnašamo kot Balkan in govorimo že skoraj isti jezik. (Na pomembnih mestih so
                      Srbi, ki pa ne bi smeli biti na mestih, kjer imajo stike z javnostjo, če ne
                      znajo jezika; da ne govorim o tem, da ga v osnovni šoli, ko se jezik razvija,
-                     sploh ne bi smeli učiti itd ... ). Spomnimo se znamenitih »skupnih jeder« in
+                     sploh ne bi smeli učiti itd … ). Spomnimo se znamenitih »skupnih jeder« in
                      dežurnega šovinista Janeza Menarta, ki je ozaveščal javnost in jih napadal. Kje
                      je danes kak tak dežurni šovinist, ki bi dajal besede in besedne zveze, s
                      katerimi nas zastrupljajo mediji, na rešeto in ločeval pšenico od ljuljke. Naši
@@ -4008,7 +4010,7 @@
                      daljni preteklosti do tega premoženja pošteno in kdo ne, da se kar naprej
                      vračamo k srednjemu veku in sežiganju čarovnic. Če se bomo ukvarjali s
                      čarovnicami tukaj in zdaj, se bodo ukvarjali z dogodki med drugo svetovno vojno
-                     in po njej naši prapra ... pravnuki čez štiristo let. Vmes pa se jim bodo
+                     in po njej naši prapra … pravnuki čez štiristo let. Vmes pa se jim bodo
                      dogajale podobne »napake«, sama bi jim rekla katastrofe, kot so se dogajale
                      moji generaciji, pa tudi generacijam pred menoj in za mano. Zdaj je čas, da
                      naše otroke in vnuke osvobodimo bremena raziskovanja teh časov in to naredimo
@@ -4090,7 +4092,7 @@
                      izpeljan v tradicionalno boljševističnem slogu poveličevanja zmagovalcev izpred
                      petdesetih let. V glavnem so v podobnih tonih in piskih izzvenele tudi prejšnje
                      »državne« manifestacije v Topolšici, na Orlah, v Cankarjevem domu, v slovenskem
-                     parlamentu ... Predsednik slovenske vlade si kot tretjega zla poleg nespornih
+                     parlamentu … Predsednik slovenske vlade si kot tretjega zla poleg nespornih
                      nacionalsocializma in fašizma ni</p>
                   <p>»upal« imenovati tudi komunizma, pač pa se je zatekel k stalinizmu. (No, tudi
                      izpričanega zločinskega Stalina je v teh dneh skušal rehabilitirati predsednik
@@ -4206,7 +4208,7 @@
                   <p>Operativno področje 7. partizanskega korpusa je bilo predvsem Dolenjska. Zanj
                      je zapisano v Pregledu NOV 1941–1945: »Tudi taktične enote 7. korpusa so v tem
                      obdobju (v marcu in aprilu, J. G.) zelo oslabele, ker jim od nikoder niso mogli
-                     dati popolnitve ... ki je bila vedno bolj pereča in nujno potrebna« (str. 302).
+                     dati popolnitve … ki je bila vedno bolj pereča in nujno potrebna« (str. 302).
                      Zato so okrog 20. aprila porazdelili moštvo 5. prekomorske, izurjene in dobro
                      oborožene brigade, ki je štela 2386 borcev in starešin, po brigadah 15. in 18.
                      divizije (str. 313). To je bila krepka injekcija z borci, ki niso bili
@@ -4300,7 +4302,7 @@
                      Trbovljah ter končno tam razorožili izolirane nemške posadke za varstvo
                      železnice in rudniških naprav. Glede števila mož v brigadah je zapisano v NOV
                      (str. 982), da »so nekatere imele komaj 250–350 mož. Če so hotele izpolniti
-                     naloge ... so morale sproti mobilizirati novince«. Medtem ko so prve tri brigade
+                     naloge … so morale sproti mobilizirati novince«. Medtem ko so prve tri brigade
                      imele po nekaj več mož, je 14. divizija štela nekaj nad 2000 partizanov. Te
                      brigade kakor drugi partizanski oddelki, raztreseni tudi vzhodno od železnice
                      Celje–Maribor, npr. Kozjanski odred, so v zaledju nemških sil »rušile« prometne
@@ -4688,13 +4690,13 @@
                      Prosim Vas, da mi oprostite za zamudo, ker sem imela zlomljeno roko, tako da
                      nisem mogla nikamor.</p>
                   <p>Nečitljiv podpis je na naslednjem pismu: V prilogi vam pošiljam podpise. Ni
-                     bilo enostavno. Ljudje so postali nezaupljivi. V njih je ostal strah ... </p>
+                     bilo enostavno. Ljudje so postali nezaupljivi. V njih je ostal strah … </p>
                   <p>Maksimilijan Šimenc iz Vrhpolja pri Kamniku: Župnika nisem želel izpostavljati,
                      osebno pa mi je podpisal deklaracijo. Vedeti moramo, da je precej ljudi, ki so
                      imeli določene koristi od še vedno delujočih sil komunističnega režima, veliko
                      se jih še vedno boji, največ pa jih je, ki so slabo seznanjeni, ker so
                      nenačitani. Ali pa bero časopise, ki še zavajajo svoje bralce. Kar precej sem
-                     si prizadeval ... </p>
+                     si prizadeval … </p>
                   <p>Janeza Črneja iz Celja je pesniško zaneslo:</p>
                   <p>Pri nas v Celju je slovenska pomlad šla mimo naših vrat. Komaj sem zbral nekaj
                      podpisov.</p>
@@ -4715,16 +4717,16 @@
                      ga dal ženi, naj podpiše, sam ga pa ni podpisal. Neki mož mi je podpis odrekel,
                      češ da ga more oblast klicati na odgovor, ker je podpisal nekaj nepreverjenega.
                      Moj brat Pavel je bil letnik 1928, vrnjen kot domobranec s Koroškega po mojem
-                     sklepanju na Teharje ... </p>
+                     sklepanju na Teharje … </p>
                   <p>Župnik Alojzij Lamovšek iz Velikih Lašč zaključuje svoje sporočilo takole: Pri
-                     tem se opaža pri ljudeh strah, nezaupanje, resigniranost, nezainteresiranost ...
-                     Da bi le vse to pospeševalo resnico, pravico, mir, spravo!</p>
+                     tem se opaža pri ljudeh strah, nezaupanje, resigniranost, nezainteresiranost
+                     ... Da bi le vse to pospeševalo resnico, pravico, mir, spravo!</p>
                   <p>Vida Vrbnjak Duler, ki je, kot kaže, spodbudila večino podpisnikov iz Pameč,
                      oče je bil domobranski oficir, ubit po vojni, piše naslednje: Uspavamo se s
                      trditvijo, da komunistične revolucije pri nas ni bilo, ker da je bila samo na
                      Dolenjskem in Notranjskem – na ozemlju Ljubljanske pokrajine. Vendar ni tako.
                      Kar ni opravil Puklasti Miha in njemu podobni, je opravila Udba v roku enega
-                     meseca takoj po vojni. V rokah imam ... </p>
+                     meseca takoj po vojni. V rokah imam … </p>
                   <p>Ko smo zraven pri blagoslavljanju farnih spominskih plošč, govorimo, da nas
                      bodo te plošče z imeni ljudi, ki so se uprli komunizmu v času, ko ga je
                      podpiral ves svet, osvobodile. In česa nas bodo osvobodile – strahu! Isto smemo

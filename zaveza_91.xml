@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="tei-zaveza.rnc" type="compact"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -60,7 +60,7 @@
 					<p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
 				</availability>
 				<idno type="issue">91</idno>
-				<idno type="ISSN">xYxyxcc ??</idno>
+				<idno type="ISSN">?</idno>
 				<date>2013-12-21</date>
 			</publicationStmt>
 			<sourceDesc>
@@ -6767,6 +6767,8 @@
 					</div>
 				</div>
 			</div>
+		</body>
+		<back>
 			<div type="div1">
 				<head>Na platnicah</head>
 				<div type="div2">
@@ -6823,6 +6825,6 @@
 					</div>
 				</div>
 			</div>
-		</body>
+		</back>
 	</text>
 </TEI>

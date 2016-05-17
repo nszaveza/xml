@@ -45,21 +45,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">59</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2010-11-17</date>
          </publicationStmt>
          <sourceDesc>
@@ -104,6 +104,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza </head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Izgubila sem nalivnik. So pa še večje skrbi, na primer strah pred
                      koncetracijskim taboriščem. </p>
@@ -342,7 +344,8 @@
                      razpletom državljanske vojne v nekdanji Jugoslaviji! </p>
                   <figure>
                      <graphic url="slike_z_59/z_59_02.png"/>
-                     <head>Mesto – Mladina in skupščina v snegu <name type="author">Mirko Kambič</name></head>
+                     <head>Mesto – Mladina in skupščina v snegu <name type="author">Mirko
+                           Kambič</name></head>
                   </figure>
                   <p>Poleg Staričeve je poročevalka posvetila nekoliko več pozornosti še dr. Zdenku
                      Čepiču. Tu se bomo najprej ustavili pri njegovi tožbi, da se je, zlasti po
@@ -437,7 +440,7 @@
                      ta metafora le ni malce prestrma za običajno človeško pamet? Saj ni bilo takih
                      samo nekaj sporadičnih primerov, ampak je tu delovala velika in dobro utečena
                      in kompleksna mašinerija. Ali ni tu iz pisca spregovorila neka predodločitev?
-                     Katera? Še bolj nenavadno pa je to, kar sledi: »A ... ni mogoče pozabiti, da je
+                     Katera? Še bolj nenavadno pa je to, kar sledi: »A … ni mogoče pozabiti, da je
                      bil na začetku nacizem. Najprej je bila strašna brutalnost nacizma in potem
                      povojna maščevanja ali hladno načrtovani poboji, na začetku je bil fašizem in
                      potem fojbe.« To se nam zdi preveč enostavno. V začetku ni bil nacizem, na
@@ -2507,12 +2510,12 @@
                      ji je dala pobudo Komunistična partija Slovenije in ki se ji je na temelju
                      popolne enakopravnosti pridružilo vse, kar misli in čuti odkritosrčno
                      slovensko, je zavzela tak razmah, da jo smemo po vsej pravici imenovati edinega
-                     slovenskega predstavitelja ... Kdor pa bi kakorkoli želel razrušiti sveto in
+                     slovenskega predstavitelja … Kdor pa bi kakorkoli želel razrušiti sveto in
                      nedotakljivo enotnost Osvobodilne fronte, ta bi se s samim takim dejanjem
                      uvrstil med izdajalske pomočnike fašistovskih zločincev.« Konec avgusta 1941 je
                      Delo prineslo Kidričev članek Izdajstvo reakcionarne buržuazije nad lastnim
                      narodom, kjer ponavlja: »Osvobodilna fronta slovenskega naroda je vzpostavljena
-                     in je danes edini upravičeni narodov predstavnik ... Pojem Osvobodilne fronte in
+                     in je danes edini upravičeni narodov predstavnik … Pojem Osvobodilne fronte in
                      pojem slovenskega naroda postajata istovetna. Kdorkoli danes kakorkoli napada
                      Komunistično partijo, vrši protinarodno delo, ta se je znašel na isti liniji z
                      nemškimi in italijanskimi fašisti.«</p>
@@ -2535,7 +2538,7 @@
                      Eksekucijski aparat sestoji iz okrog 50 mož, oboroženih z revolverji in
                      bombami, ki so se dobro izvežbali. Ti fantje delajo vse mogoče stvari ...
                      Varnostne službe se vsi bojijo kot hudiča, prav to pa daje – poleg Narodne
-                     zaščite in partizanov – OF značaj resnične oblasti ... Slovenci smo menda edini
+                     zaščite in partizanov – OF značaj resnične oblasti … Slovenci smo menda edini
                      narod v Evropi, ki ima svoje belo emigracijo že v času, ko je sama na oblasti.
                      Iz Ljubljane namreč vedno pogosteje bežijo v Italijo belogardistični izdajalci
                      itd. Varnostna služba je prišla namreč na tako dober glas, da se tisti, ki ga
@@ -2766,7 +2769,7 @@
                      vsemi se dobro razumem, s komunisti živim v prijateljstvu, samo to jim pravim,
                      da nisem internacionalec! ‘Opozarjam vas, vi, anima candida, da jih ne poznate!
                      ‘Čudim se, da vi tako govorite!</p>
-                  <p>Ni se znašel in je plačal z življenjem.« (Živi spomin..., str. 81)</p>
+                  <p>Ni se znašel in je plačal z življenjem.« (Živi spomin … , str. 81)</p>
                   <p>Zdi se, da so s profesorjem Ovnom hoteli dati opozorilo vsem Belokranjcem. Ko
                      so pa ugotovili, da ljudje še niso dovolj prestrašeni, so z opozorili
                      nadaljevali. Po ustanovitvi belokranjskega bataljona se je njegova prva četa
@@ -3467,7 +3470,7 @@
                   <p>Z mamo nista nikoli spraševala po morilcu, verjetno pa likvidator sam ne bi
                      vedel, od koga prihaja povelje za umor. Tisti, ki vedo, pa nočejo povedati,
                      trdi sin. Nekateri z Javornika so mu zatrjevali, da ima domačin Leon Šmid kar
-                     veliko likvidacij na vesti, zelo verjetno tudi Cafovo. Verjetno ... Gotovo pa je
+                     veliko likvidacij na vesti, zelo verjetno tudi Cafovo. Verjetno … Gotovo pa je
                      eno, da likvidatorjev in naročilcev likvidacij ni manjkalo. </p>
                </div>
                <div type="div3">
@@ -3547,7 +3550,7 @@
                      osvojili. Pridružil se jim je in na sestankih še naprej poslušal o pravični
                      delitvi po vojni in obljubah, kako bo po zmagi revolucije gospodar na svojem
                      posestvu. Morda celo na Olipovem, toda znebiti se bo treba najprej bodočega
-                     gospodarja Andreja ... </p>
+                     gospodarja Andreja … </p>
                   <figure>
                      <graphic url="slike_z_59/z_59_25.png"/>
                      <head>Družina Krevljič, po domače Olipovi, ob očetu stoji Andrej, ob materi
@@ -3629,7 +3632,7 @@
                      da »v letih poznih pomnil bo zemljan/, da priboril je svobodo partizan.« </p>
                   <p>Vzroke in okoliščine Jožičine smrti bi lahko osvetlil in dopolnil edino
                      Konobelj, da ne bi bili odvisni samo od ugibanj. Njena mama ni bila vredna, da
-                     bi jo obvestili o hčerini smrti. Pustili so truplo ležati, bo že zvedela ... Toda
+                     bi jo obvestili o hčerini smrti. Pustili so truplo ležati, bo že zvedela … Toda
                      resnice o smrti ni zvedela nikoli. Vedela je le, da je napis na spominski
                      plošči laž. </p>
                   <p>Plošča je bila na zahtevo Planinškovega sina odstranjena, ko je bila hiša
@@ -4588,7 +4591,7 @@
                      Strastno so udarili po njih. Spomini na dom so izvabili iz fantovega srca divjo
                      kozaško pesem, v kateri je hotel zadušiti svojo bol. Zdelo se mi je, da gleda v
                      duhu pred seboj hrzajoče konje v krvavem metežu za svobodo doma. Kot bi stal ob
-                     bregovih Dona in se čudil njegovim valovom ... </p>
+                     bregovih Dona in se čudil njegovim valovom … </p>
                   <p>»Hej, naš očka, tihi Don! </p>
                   <p>Hej, pokaj, moj tihi Don, tak kalen se vališ?</p>
                   <p>Hej, zakaj rdeč kot kri tja v dalj hitiš?« </p>
@@ -4756,7 +4759,7 @@
                      pobijanju nedovoljene špekulacije ..., Zakona o zatiranju nedovoljene trgovine
                      ..., Zakona o kaznivih dejanjih zoper splošno ljudsko premoženje ..., Zakona o
                      kaznovanju zločinov in prestopkov zoper narodno čast, Zakona o konfiskaciji
-                     imovine ..., Zakona o zaplembi premoženja ... in zaradi nekaterih posebej
+                     imovine ..., Zakona o zaplembi premoženja … in zaradi nekaterih posebej
                      navedenih kaznivih dejanj iz kasnejših kazenskih predpisov vse do leta 1990. </p>
                   <p>V novem zakonu je tudi določeno, da po smrti obsojenca zahtevo lahko vložijo
                      tudi sorodniki v stranski vrsti do tretjega kolena (nečaki in nečakinje), zoper
@@ -5147,7 +5150,7 @@
                      žalostni ob spoznanju, kaj lahko ljudje postanemo in kakšnih grozodejstev smo
                      zmožni. Kot pravi Khalil Gibran v svojem Preroku: »Kot se svetnik in pravičnik
                      ne moreta dvigniti nad to, kar je najbolj vzvišenega v vsakem izmed vas, tako
-                     zlobnež in slabič ne moreta pasti niže od tega, kar je najnižjega v vas ... In ko
+                     zlobnež in slabič ne moreta pasti niže od tega, kar je najnižjega v vas … In ko
                      pade eden izmed vas, pade za te, ki stopajo za njim, in jih opozarja na kamen
                      spotike.« Ko pomislimo na to, kako malo je včasih treba, da človek zaide zelo
                      daleč in se pogrezne v hud zločin, nas to pretrese in zamaje v naših navideznih
@@ -5707,12 +5710,12 @@
                      knjigi objavljene kar štiri njegove inačice, v katerih pojasnjuje in se
                      opravičuje, kako je bilo z vlakom (186–194). Pri vsej zgovornosti pa je ljudem,
                      ki so ostali na njem, namenil samo tale stavek: »V vlaku je ostalo na mojo
-                     žalost 82 težko ranjenih domobrancev, en duhovnik, štiri bolničarke ... « (193).
+                     žalost 82 težko ranjenih domobrancev, en duhovnik, štiri bolničarke … « (193).
                      Ni se mu zdelo vredno napisati, za katerega duhovnika je šlo, niti se ni
                      pozanimal za imena drugih, čeprav je imel v taborišču na Koroškem kar nekaj let
                      časa, da bi to storil. Celo Moder, ki ne more skriti, kako neskončno Meršola
-                     občuduje, takole nadaljuje: » ... in tudi če njegovo opravičilo objektivno
-                     gledano ni posebno zgledno in ugledno ... « (205–206). Res pa je, da vam bo vsak
+                     občuduje, takole nadaljuje: » … in tudi če njegovo opravičilo objektivno
+                     gledano ni posebno zgledno in ugledno … « (205–206). Res pa je, da vam bo vsak
                      pravnik ali zdravnik razsodil Meršolu v prid. Očitek o prelomljeni Hipokratovi
                      prisegi je neosnovan. Ta namreč določa, da mora zdravnik pri obravnavi bolnika
                      »ravnati po svoji sposobnosti in razumnosti« (206). V tisti stiski je bilo
@@ -5830,7 +5833,7 @@
                      Za 31. maj nam postreže Meršol z naslednjim ocvirkom: »Dne 31. maja, na dan
                      svetega Rešnjega telesa, ob drugi uri popoldne smo se major Barre, gospodična
                      Balding, šofer in jaz odpeljali z avtom v Podljubelj, kjer je bila začasna
-                     ženska bolnišnica...« Meršol se pri tem niti z eno besedo ne spomni
+                     ženska bolnišnica … « Meršol se pri tem niti z eno besedo ne spomni
                      domobrancev, ki so jih ravno takrat v Podgorju, petnajst kilometrov proti
                      zahodu, predajali Titovim partizanom. </p>
                </div>
@@ -5965,7 +5968,7 @@
                      septembra 1947« (333-334). Angleži so pozabili, da so Slovencem nekaj dolžni,
                      in začeli znova s preizkušenimi kolonialnimi manirami: zapiranje, prisilno
                      vračanje, deportacije, šest profesorjev so odstavili, čez nekaj mescev na
-                     zahtevo jugoslovanske vlade pa še izgnali iz taborišča ... Na Meršola se je
+                     zahtevo jugoslovanske vlade pa še izgnali iz taborišča … Na Meršola se je
                      spravilo vse; leta 1946 je bil nevarno poškodovan ob avtomobilski nezgodi, žena
                      Milka je zbolela za rakavo boleznijo in bila operirana. </p>
                </div>
@@ -6620,6 +6623,7 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
+               <head>Dodatek</head>
                <div type="div3" subtype="intro">
                   <p>Spričo stanja, v katerem se je znašla LDS bralcem Zaveze morda ne bo odveč, če
                      jih spomnimo na nekaj stavkov, ki jih je o tej politični skupini napisal
@@ -6671,10 +6675,12 @@
          <div type="div1">
             <head>Voščilo</head>
             <div type="div2">
+               <head>Voščilo</head>
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_59/z_59_55.png"/>
-                     <head>Prihod svetih treh kraljev <name type="author">Jelka Rechman</name></head>
+                     <head>Prihod svetih treh kraljev <name type="author">Jelka
+                        Rechman</name></head>
                   </figure>
                   <p>Vsem bralcem Zaveze<lb/> prijateljem Nove slovenske zaveze<lb/> vsem slovenskim
                      ljudem dobre volje<lb/> blizu in daleč<lb/> v domovini in za morji in

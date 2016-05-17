@@ -42,14 +42,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -101,6 +101,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Ali ne slišiš krikov nevidnih galebov? Če kričijo sem k nam, k čemu nas
                      kličejo?</p>
@@ -1275,7 +1277,7 @@
                      mesto priča dogodkov, o katerih je bilo pol stoletja prepovedano in še danes ni
                      priporočljivo govoriti. Pod geslom Zgodovina Škofje Loke najdemo o tem en sam
                      stavek, ki pa bolj zavaja, kot pojasnjuje: »V mesto je 10. 5. 1945 prišla enota
-                     JA.« Pod geslom Škofjeloško okrožje pa piše sledeče: » ... izvoljeni NOO in
+                     JA.« Pod geslom Škofjeloško okrožje pa piše sledeče: » … izvoljeni NOO in
                      zaledne vojaške enote so se pripravljali na prevzem oblasti. V zač. maja so
                      pred 29. hercegovsko divizijo JA z nem. in domobranskimi enotami zbežale tudi
                      nekatere domobranske družine.« Nas seveda predvsem zanimajo družine, ki so
@@ -1310,7 +1312,7 @@
                      nekakšno oporoko pisal hčerki Pavli: »Ostanite trdni katoličani in ne dajte se
                      preslepiti zmoti, ki ste jo dovolj spoznali in okusili. Jaz sem jo začel
                      spoznavati že leta 1917 in sem ji bil takoj nasproten, sem jih pa kljub temu
-                     branil pred Nemci ... Po tistem groznem poboju pri Bičku in Čiku smo ubranili
+                     branil pred Nemci … Po tistem groznem poboju pri Bičku in Čiku smo ubranili
                      Nemcem, da niso pred vsako hišo pobili po 100 ljudi, kot so hoteli gestapovci,
                      kajti nihče naših ne bi zato oživel. Pobijalcem ne želim hudega, pač pa to, da
                      bi pred smrtjo spoznali, kakšno krivico so napravili nedolžnim žrtvam.«</p>
@@ -2408,16 +2410,16 @@
                      takoj odpisala: »Ekscelenca Maršal Tito! Poizvedovala sem vsepovsod in predvsem
                      na Javnem tožilstvu osebno. Vedno so me odpravili z obljubo, da bom pismeno
                      obveščena. Čakam že sedmo leto, pa kljub ponovnim urgencam ne dobim nobenega
-                     obvestila ... Prosim, da se ugotovi, kdaj in kateremu sodišču je bil predan in na
+                     obvestila … Prosim, da se ugotovi, kdaj in kateremu sodišču je bil predan in na
                      kakšno kazen je bil obsojen. Naj se vendar upošteva skrb družine za moža in
-                     očeta, saj je to osnovni pogoj človečanskih pravic ... Ekscelenca, na Vašo
+                     očeta, saj je to osnovni pogoj človečanskih pravic … Ekscelenca, na Vašo
                      dobroto, ki naj ima razumevanje za moje trpljenje, prosim za rešitev te moje
                      prošnje.«</p>
                   <p>Tokrat Vogelnikova ni dočakala odgovora in še manj rešitve prošnje, zato je za
                      božič 1952 še zadnjikrat pisala maršalu: »Kot žena in mati treh otrok sem
-                     upravičena zvedeti za usodo moža ... Naj se mi sporoči resnica taka, kot je: ali
+                     upravičena zvedeti za usodo moža … Naj se mi sporoči resnica taka, kot je: ali
                      lahko pričakujem, da se moj mož vrne in kdaj. Ako pa ne živi več, mi sporočite,
-                     kje se nahaja njegov grob, da bodo vsaj otroci imeli spomin nanj ... Pričakujem
+                     kje se nahaja njegov grob, da bodo vsaj otroci imeli spomin nanj … Pričakujem
                      in prosim, da ta moja ponovna prošnja ne bo ostala neuslišana in se
                      priporočam.« </p>
                   <p>Razumljivo, ostala je neuslišana, kajti odgovora ni nikoli dočakala. </p>
@@ -2436,7 +2438,7 @@
                   <p>Teden dni zatem je Gabrijela Vogelnik umrla. Podobno kot ona so desetletja po
                      vojni s svojo bolečino druga za drugo umirale vdove in matere, ne da zvedele
                      vsaj to, kam so zmetali trupla njihovih mož in zakaj so jih pobili. Čas se
-                     izteka že njihovim otrokom ... </p>
+                     izteka že njihovim otrokom … </p>
                </div>
                <div type="div3">
                   <head>Brezno 'Pri sedmih križih'</head>
@@ -2565,7 +2567,7 @@
                      dnevi, preživeti v vaši delavnici. Sedaj šele se zavedam, koliko lepega je šlo
                      mimo mene, ne da bi se zavedala. Prosim Vas, če se vrnem, če me slučajno ne bo
                      zadelo najhujše, da me vzamete zopet nazaj v delavnico. Kako z veseljem bom
-                     delala, ker bom vedela zakaj ... Jaz, ki imam še malega otroka, delam samo od
+                     delala, ker bom vedela zakaj … Jaz, ki imam še malega otroka, delam samo od
                      enih do šestih popoldne. Ta čas otrok spi, ostali čas ga pa imajo v vrtcu. Če
                      pa bom kdaj še pri Vas delala, bo pa že velik, in bi lahko cel dan delala.
                      Upam, da bo še lepo.«</p>
@@ -3389,7 +3391,7 @@
                      moralnosti in devetindevetdeset odstotkov ljudi te preizkušnje ni vzdržalo.
                      Obenem s tistimi, ki niso vzdržali, so umirali tudi tisti, ki so bili sposobni
                      vzdržati in so si prizadevali, da bi bili boljši kot vsi drugi, trši do samih
-                     sebe ... « (Varlam Šalamov, »Kolimske pripovedi«.)</p>
+                     sebe … « (Varlam Šalamov, »Kolimske pripovedi«.)</p>
                   <p>1. decembra 1937 so Berzina odpoklicali v Moskvo. Stalin je menil, da je ta
                      krvnik vendarle ravnal preveč milo, ukazal ga je aretirati in ustreliti. Istega
                      1. decembra pripluje v Magadan ladja »Nikolaj Ježov«, ki pripelje nova dva
@@ -3420,8 +3422,8 @@
                      nabojnikom. Ne da bi se obrnil, ga poda spremstvu za sabo. Od njih dobi novega,
                      nabito pištolo, ki jo vtakne v lesen tok, a roke ne spusti z ročaja. »Kaj vi
                      ste udarniki? Presegate norme?» »Da,« odgovorijo. On pa spet vpraša:
-                     »Sovražniki ljudstva presegajo norme? Hm ... Vi prekleti sovražniki ljudstva!
-                     Take je treba likvidirati ... « In spet: Bah! Bah! Bah! In spet leži deset ljudi
+                     »Sovražniki ljudstva presegajo norme? Hm … Vi prekleti sovražniki ljudstva!
+                     Take je treba likvidirati … « In spet: Bah! Bah! Bah! In spet leži deset ljudi
                      v mlaki krvi. On pa, kot da bi se razveselil, oči se mu umirijo. Nasitil se je
                      krvi. Komandant taborišča odvede drage, spoštovane goste v jedilnico na
                      pripravljeno gostijo. In vesel je, da je sam ušel krogli. Kadar se je Garaninu
@@ -3761,7 +3763,7 @@
                   </p>
                   <p><emph>Smreke, kaj ste videle na tem kraju? </emph></p>
                   <p>Ni vas močil le dež, vaših korenin ni napajala le voda z neba, pojila vas je
-                     tudi kri umorjenih ... </p>
+                     tudi kri umorjenih … </p>
                   <p>Danes je tu zbrana tihota in mir. Najvišji predstavnik slovenske Cerkve se ne
                      utrudi vabiti k odpuščanju in spravi. Njegov brat v škofovstvu se mu pridružuje
                      z zgledom čiste, nedolžne Žrtve. </p>
@@ -3780,7 +3782,7 @@
                   <p>Eden od mož zagozden med skale in korenine – daleč od drugih – kar naprej
                      jemlje robec iz žepa in si z njim briše oči. </p>
                   <p>Čez čas pride zraven še drug, sivolas mož. Obsedi. Ne za dolgo. Sname očala z
-                     nosu in gre z roko čez oči. Ne le enkrat ... </p>
+                     nosu in gre z roko čez oči. Ne le enkrat … </p>
                   <p>Ko intonirajo himno pomorjene vojske, vstane in dostojanstveno obmiruje.
                      Obotavljaje se, stori enako tudi prvi. </p>
                   <p><emph>Smreke, povejte, kaj ste videle na tem kraju? </emph></p>
@@ -4092,7 +4094,7 @@
                      več, v novem tretjem odstavku 1. člena in v apologetskem 6. členu zakona iz
                      statusa žrtev niso izključeni samo sodelavci okupatorja, ampak so avtorji v
                      svoji sveti vnemi za utrditev trajnega narodnega sovraštva izključitev
-                     iznajdljivo raztegnili še na »<emph>sodelovanje s ... sodelavci
+                     iznajdljivo raztegnili še na »<emph>sodelovanje s … sodelavci
                      okupatorja</emph>«, torej na sodelavce sodelavcev (tretji odstavek 1. člena in
                      6. člen). Bujni dosežek bolnega uma in ideološkega sovraštva! Da bi se
                      ohranilo, je sovraštvo treba množiti in razširjati, ne omejevati! Partija, ki
@@ -4223,7 +4225,7 @@
                      Afroameričan, ali bo prva ženska. Potem pa so seveda spremljali vsako besedo
                      obeh »glavnih« protagonistov, za druge kandidate se mediji ne zanimajo in zato
                      nimajo nobenih šans, da bi bili izvoljeni, čeprav edino oni zares ponujajo ali,
-                     bolje rečeno, pomenijo spremembo. ... Ampak vprašanje je, ali je komu zares za
+                     bolje rečeno, pomenijo spremembo. … Ampak vprašanje je, ali je komu zares za
                      spremembe. Kakšne spremembe? To je pravzaprav najpomembnejše vprašanje. Vsak bi
                      rad, da bi se kaj spremenilo, vendar bi vsak rad nekaj drugega. Če pa naredimo
                      presek teh želja, potem je najbolje, da se ne spremeni nič ali pa da gre samo
@@ -4251,7 +4253,7 @@
                      dolgega veka. Potem se je pojavila Drnovškova vlada. Drnovšek je bil mojster v
                      spremembah, da ni sprememb, zato je vladal, dokler se ni odločil, da prestopi
                      na drugo stopničko. Njegov naslednik Rop ni imel pojma, kako se to dela in za
-                     kaj sploh gre in je stvar zamočil ... Janša je pa precej bolje obvladal zadevo,
+                     kaj sploh gre in je stvar zamočil … Janša je pa precej bolje obvladal zadevo,
                      vendar je kljub temu hotel napraviti nekaj sprememb, nekaj jih je tudi izvedel
                      – prevzem evra in prehod v schengensko območje, pa še nekaj reform. Seveda pa
                      je imel tudi medije proti sebi, tako kot osamosvojitvena vlada, zato so njegove
@@ -4275,7 +4277,7 @@
                      praktično vse nevladne organizacije – vsaj tiste, ki so uradno priznane) in
                      skrajno desnico (velika večina kapitalskih mogotcev je njenih članov ali vsaj
                      simpatizerjev).</p>
-                  <p>Pa kljub vsemu temu bi še nekako šlo. Če ... Problem je recesija in to globalna.
+                  <p>Pa kljub vsemu temu bi še nekako šlo. Če … Problem je recesija in to globalna.
                      Ko je treba nekaj narediti. Besede, še tako lepe, segajoče v dušo in srce, ne
                      bodo pomagale. Treba bo nekaj spremeniti. Ampak nikakor ne na način, ki se ga
                      je lotila ta vlada. Žal bomo zapitek, kot vedno, plačali mi vsi. In veliko
@@ -4365,7 +4367,7 @@
                      prvina, ki je bila dvignjena v katalog človekovih pravic! Iz izkustva vemo, da
                      se v življenju in zgodovini nekatere stvari kaznujejo. Neke nedelje nam v
                      cerkvi preberejo tudi tole vrstico iz prvega pisma Tesaloničanom: »Ko bodo
-                     govorili 'mir in varnost' jim pride nagla poguba ... «. Pax et securitas – mir in
+                     govorili 'mir in varnost' jim pride nagla poguba … «. Pax et securitas – mir in
                      varnost – če ti dve besedi povemo v nekoliko modernizirani obliki, v obliki, v
                      kateri so ju izgovarjali nekaj stoletij pozneje – peace and security – se
                      znajdemo zlovešče blizu moderni evropski politični retoriki. Res, kaj čaka to
@@ -4497,6 +4499,7 @@
                </div>
             </div>
             <div type="div2">
+               <head>Besede vladike in učitelja</head>
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_72/z_72_46.png"/>
@@ -4509,6 +4512,7 @@
          <div type="div1">
             <head>Razdeljeni spomin združene Evrope</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3">
                   <p>V petek, 6. junija 2008, sta senator Martin Mejstřik in Jana Hybášková, članica
                      Evropskega parlamenta, predstavila angleško in češko verzijo Praške
@@ -4989,7 +4993,7 @@
                      javnost kritična in diferencirana, več možnosti ima dobra politika. V tem leži
                      pomembna posredovalna naloga medijev. </p>
                   <p>3. Kako doseči družbene spremembe na bolje? Kot politik Gesine Schwan
-                     obljublja, da si bo prizadevala za spremembe na bolje. Pravi: » ... v naši državi
+                     obljublja, da si bo prizadevala za spremembe na bolje. Pravi: » … v naši državi
                      s težko zgodovino in z dediščino težavnih mentalitet nam ostajajo predvsem tri
                      področja, za katera bi morali skrbeti – mogoče niti ne s podrobnimi,
                      konkretnimi načrti za delovanje, marveč tako, da dosežemo soglasje o tem, kje
@@ -5148,6 +5152,7 @@
          <div type="div1">
             <head>In memoriam</head>
             <div type="div2">
+               <head>Katarina Fištrovič</head>
                <div type="div3" subtype="intro">
                   <p>Januarja se je od nas poslovila mlada pesnica Katarina Fištrovič. Pustila nam
                      je malo pesmi, a so vse bile izdelane iz najfinejše poetske snovi. Skrbno jih
@@ -5178,7 +5183,7 @@
                      <l>na pravo pot.</l>
                   </lg>
                   <lg>
-                     <l>V duši lučka se prižge ... </l>
+                     <l>V duši lučka se prižge … </l>
                   </lg>
                   <lg>
                      <l>... večno boš ostal z menoj.</l>
@@ -5193,6 +5198,7 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <p>Dr. Albin Šmajd je bil eden vodilih akterjev slovenskega protikomunističnega
                      upora. Kot član osrednjega odbora Slovenske zaveze je odločilno prispeval k

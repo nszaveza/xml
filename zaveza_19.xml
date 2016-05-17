@@ -29,14 +29,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -88,6 +88,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Če bi se v moči spomina, ki ga človeštvo premore, sprehodili od davnine do
                      sedanjosti, bi kmalu opazili, da je med stvarmi, ki se spreminjajo, tudi – in
@@ -924,7 +926,7 @@
                      dolomitski partizani v Zalogu pod Črnim Vrhom napadli vojake nemškega
                      gradbenega bataljona, ki so šli postavljat žične ovire ob meji. V skupini so
                      bili sami starejši Avstrijci, ki so prišli v zasedo »brezbrižno, v strnjeni
-                     koloni, v četverostopu ... Zaseda je s prvimi rafali v nekaj minutah ubila 27 in
+                     koloni, v četverostopu … Zaseda je s prvimi rafali v nekaj minutah ubila 27 in
                      ranila 9 avstrijskih vojakov« (P. Hribernik, <emph>Dolomiti v NOB</emph>, str.
                      157).</p>
                   <figure>
@@ -1109,7 +1111,7 @@
                      družbenem redu. Od leta 1888 sta bila v Črnem Vrhu samo dva župana: Trobec in
                      Košir. Koširja so izvolili leta 1936 in je tudi leta 1944 še vodil občino.
                      Zakaj mu ne bi zaupali, ko so ga vendar sami izvolili. Ali niso v zadnjih
-                     štiridesetih letih veliko naredili: cerkev, šolo, cesto ... ? Kje so bili tedaj
+                     štiridesetih letih veliko naredili: cerkev, šolo, cesto … ? Kje so bili tedaj
                      tisti, ki bi sedaj radi nov družbeni red? In če ta družbeni red res prinaša
                      brezboštvo? V čem so potemtakem komunisti boljši od nacistov? Toda nacisti bodo
                      kmalu odšli! Ali ne ve že vsak otrok, da se jim tla pod nogami močno
@@ -1877,7 +1879,7 @@
                      in nesodobni. Iz njihove zablode v presoji svetovnega položaja, vojne in
                      zavezniške politike izhajajo vse druge njihove zmote glede naše države,
                      slovenskega narodnega vprašanja, zakonite oblasti, notranje politike,
-                     socialnega vprašanja ... </p>
+                     socialnega vprašanja … </p>
                </div>
                <div type="div3">
                   <head>Za zavezniško politiko</head>
@@ -2778,7 +2780,7 @@
                      da so na oklepniku našli motorno kolo in šli po pomoč.</p>
                   <p>Po progi iz smeri Dravograda se je bolj privlekel kot prišel človek. Skoraj
                      gol. Suh, izčrpan. V roki je nesel kanglico, narejeno iz konzervne ali barvne
-                     škatle. Bos ... in cape so visele od njega. Ko se mi je približal, sem ga
+                     škatle. Bos … in cape so visele od njega. Ko se mi je približal, sem ga
                      prepoznal. Ko je naša četa ustanovila postojanko v Št. Jerneju, smo bili
                      napadeni, še preden smo utegnili narediti nekaj zaklonov. Drugi dan je ta fant
                      prišel iz Kostanjevice, da bi obvezal morebitne ranjence. Tudi meni je obvezal
@@ -2940,7 +2942,7 @@
                      niste jedli« in nato: »Posle dodjite kod mene.« In je odšla.</p>
                   <p>V taborišče je prišla brigada italijanskih partizanov. Prišli so iz Jugoslavije
                      in se vračali domov. Hvala Bogu, da smo se mi prej najedli, sicer bi težko kaj
-                     dobili ... </p>
+                     dobili … </p>
                   <p>Gospodična je rekla, da nas bo poslala v civilno taborišče v Treviso; a mi smo
                      želeli v Forli. Rekla je, da tja ni direktnega vlaka in da je daleč. Potem pa
                      je napisala pismo, ki naj ga pokažemo Angležu v Mestrah (Benetke), češ naj on
@@ -3448,7 +3450,7 @@
                      Bleifrei jeans. Bonbonniere. Reds. Western Fashion. Mini club. Gardenia. Ars
                      Florre. Café teater. Pepe Jeans, London. Multimedia center. Studio Express.
                      Cleo boutique. Italco Street culture. Country club. Cremcaffé. Pizzeria Napoli.
-                     Pizzeria Triglav. Just do it ... </p>
+                     Pizzeria Triglav. Just do it … </p>
                   <p>Nejeverni trije Prešeren, Levstik, Cankar se začudeno spogledujejo. Prešeren
                      naredi še skok v Kranj. Nič bolje. Kaj je zdaj to? Mar nismo prav v tem mestu
                      učili Slovencev pristnega jezika, očistili smo ga tuje navlake, poskrbeli za
@@ -3501,14 +3503,14 @@
                      tem vonju je še sled božanske narave, ki izginja. Kaj nam bo še ostalo?</p>
                   <p>Dveletnega otroka spremljam čez cesto; komaj obrzdam njegov krčeviti napor, da
                      bi mi ušel s prehoda. Tuleče oznanja svoje poznavanje avtomobilizma: opel
-                     lekold, maazdaa, subaluu, audi, melcedes ... Ustavlja me pred računalniki, brez
+                     lekold, maazdaa, subaluu, audi, melcedes … Ustavlja me pred računalniki, brez
                      besed strmi v razstavljeno blago. Vidim, kako bodo ti prstki prav kmalu
-                     pritiskali, pritiskali ... Oči, ujete na zaslonih.</p>
+                     pritiskali, pritiskali … Oči, ujete na zaslonih.</p>
                   <p>Trem dekletom očitno mraz ne more do živega. Lasje jim sicer pokrivajo oči, a
                      vendar vidijo, krilca komaj še pokrivajo tisto, sicer pa jih spodaj varujejo
-                     škorenjčki, zgoraj pa šali ... Gole se še vedno razkazujejo po kioskih, a še
+                     škorenjčki, zgoraj pa šali … Gole se še vedno razkazujejo po kioskih, a še
                      fantalinom niso več mar, ker jih je preveč. Preveč cenenosti, seksa, prenapete
-                     mode, preveč vsestranske popačenosti, kar naj vleče ... Mar se ni tu Moloh že
+                     mode, preveč vsestranske popačenosti, kar naj vleče … Mar se ni tu Moloh že
                      malo utrudil? Tudi gledalci so že prenasičeni z neznosno brutalnostjo
                      scenarijev in filmskih režiserjev na zaslonih, siti pornozvezd, naveličani
                      ponavljajočega se poneumljanja s primitivnimi zgodbami in scenami.</p>
@@ -3611,7 +3613,7 @@
                      žalost skorja prvič pri nas uveljavil v zasnovi obsežnega in izredno pomembnega
                      informativnega dela. Ideja tega znanstvenega nazora in njegove metode naj bi
                      bile prisotne v enciklopediji povsod, s čimer bi postala močan faktor v vzgoji
-                     naše socialistične zavesti in misli ... Taka enciklopedija ne bi bila samo bogat
+                     naše socialistične zavesti in misli … Taka enciklopedija ne bi bila samo bogat
                      vir informacij, marveč bi bila tudi dragocena vzgojna knjiga, ki bi lahko
                      bistveno prispevala k bodoči podobi razvitega in prebujenega slovenskega
                      človeka.</p>
@@ -3681,7 +3683,7 @@
                      vsi vemo, za kaj gre. Ljudje čutijo, da je nekaj narobe. Čutijo, da živijo
                      slabše. Ampak kaj hočemo. Vsakega od na se je nekaj prijelo. Enega več, drugega
                      manj. Petdeset let so nam zabijali v glavo pravljico o najboljšem družbenem
-                     sistemu, najbolj pravičnem, socialnem in ... ni ga olepševalnega pridevka, ki ga
+                     sistemu, najbolj pravičnem, socialnem in … ni ga olepševalnega pridevka, ki ga
                      ne bi uporabili za čim natančnejši opis našega preteklega (poginulega)
                      družbenega reda. Vsi smo bili delavski razred (sicer smo bili brezrazredna
                      družba, ampak tako se je reklo) in imeli smo svojo avantgardo, ki nam je kazala
@@ -3695,7 +3697,7 @@
                      postranska in nepomembna stvar). Važno je, da imaš občutek, da je vse v redu,
                      vse pod kontrolo. Da lahko spiš. Da lahko spijo tvoji možgani. Na vsake toliko
                      časa pa zablejaš, beee, kot so te navadili vsi tisti, ki so kakor koli vplivali
-                     na tvoj razvoj, od vrtca do šole in pozneje službe, pa vseh medijev pa ... Če si
+                     na tvoj razvoj, od vrtca do šole in pozneje službe, pa vseh medijev pa … Če si
                      dobro posnemal ovna vodnika, če si znal tako dobro blebetati, če ti je vse to
                      blebetanje prišlo v meso in kri in si verjel, ne verjel, vedel in čutil svoje
                      poslanstvo med vsemi ovcami, si lahko prišel med ovne vodnike. Med avantgardo
@@ -4044,7 +4046,7 @@
                      svobodne domovine! Čakajoči so glasno pozdravili avtomobila in ko se je naš kot
                      prvi ustavil pred Univerzo, se je oglasil po zvočniku Kidrič, ki je bil s svojo
                      druščino na balkonu. Pričel je s pozdravnim govorom: Tovariši trpini, vesel
-                     sem, da vas lahko v imenu slovenske vlade in KPS prisrčno pozdravim ... Naenkrat
+                     sem, da vas lahko v imenu slovenske vlade in KPS prisrčno pozdravim … Naenkrat
                      je utihnil, kajti sporočili so mu, da to še ni pravi transport, temveč samo
                      prvi avto z zaporniki. Medtem so nas obstopile ženske v narodnih nošah ter nam
                      delile cigarete, kekse, slivovko in čaj ter celo nekaj nogavic in spodnjih
@@ -4401,7 +4403,7 @@
                      v uniformi in celo nosil pištolo; še več, da je šel s pištolo za pasom na
                      prižnico in pred oltar. Hotel je obtožbo pobiti in je seveda želel, da pride
                      njegova izjava na zapisnik, pa ni prišel dalj, kot da je rekel: Prosim, dajte
-                     na zapisnik ... pa so mu že vzeli besedo. Sramotili so ga in obtoževali
+                     na zapisnik … pa so mu že vzeli besedo. Sramotili so ga in obtoževali
                      neumnosti, da se je v uniformi vozil z avtom, da je celo tihotapil teleta čez
                      ljubljanski blok, da so ga videli v spremstvu deklet in da je spovedoval ljudi,
                      preden so jih beli pobili, in jih skušal spreobrniti od OF k Bogu. Dejali so
@@ -4409,7 +4411,7 @@
                      kakor tudi, da se ni potegnil zanje, čeprav bi se bil kot duhovnik lahko. Kot
                      zagrizen far je prepustil te uboge ljudi belim morilcem. Ob vsakem novem očitku
                      in laži se je Križaj hotel braniti in zagovarjati in zahteval: Prosim, dajte na
-                     zapisnik ... a sta ga sodnik ali tožilec že ustavila. Če sta tadva pozabila, je
+                     zapisnik … a sta ga sodnik ali tožilec že ustavila. Če sta tadva pozabila, je
                      pričelo občinstvo s skandiranjem: Križaja križaj! Pri tem so ropotali z nogami
                      in žvižgali. Trušč je bil tak, da je moral Stante nekajkrat vstati in miriti.
                      Ker ni zaleglo, je zagrozil in prosil ljudi, naj z nedostojnim ropotom ne
@@ -4580,7 +4582,7 @@
                      načine mučili, jim iztikali oči, rezali ušesa, trgali kožo s hrbtov, žive
                      pribijali na drevesa, jim lomili kosti ter jih po strašnem mučenju
                      usmrtili.«</p>
-                  <p>In tako dalje in tako dalje ... </p>
+                  <p>In tako dalje in tako dalje … </p>
                </div>
                <div type="div3">
                   <head>Ledeni piš iz Javorovice in Sv. Urha</head>
@@ -4756,7 +4758,7 @@
                      obujalo mučne spomine na komaj preteklo dobo. Na splošno pa je bilo med
                      študenti dobro razmerje. Nikdar v življenju se nismo toliko rokovali kot prav
                      na univerzi v Gradcu. V protokol vsakega srečanja in razgovora je spadal stisk
-                     roke in uvodni pozdrav »Herr Kollege ... « Menda stara tradicija.</p>
+                     roke in uvodni pozdrav »Herr Kollege … « Menda stara tradicija.</p>
                   <p>Po božičnih praznikih 1945 smo bili preseljeni v že prej »obljubljeno deželo«.
                      Tam na južnem delu mesta, blizu radijske postaje, na malem hribčku pod zelo
                      privlačnimi nasadi zapeljive vinske trte, je bilo majhno taborišče, ki smo ga
@@ -5068,13 +5070,13 @@
                      zaskrbljenost škofa dr. Gregorija Rožmana za slovenski narod.«</p>
                   <p>Poslali so ga na eni strani naravnost h gen. Rösenerju (pravilneje k Rainerju),
                      da je za prazno mesto v vladni palači v imenu vseh slojev prebivalstva
-                     priporočil ljubljanskega župana gen. Leona Rupnika ... Po drugi strani pa so
+                     priporočil ljubljanskega župana gen. Leona Rupnika … Po drugi strani pa so
                      poslali škofa dr. Gregorija Rožmana tudi h gen. Rupniku, da bi ga pridobil za
                      to idejo in obenem prepričal, kako ga bodo vsi podprli« (<emph>Tabor</emph>,
                      1970, 5/5, 150).</p>
                   <p>Leta 1978 je Kociper v Taboru (10/11, 255) svojo trditev ponovil in po stilu
                      sodeč so njegove tudi naslednje besede v <emph>Taboru</emph> 1985 (3/4, 44), da
-                     so »slovenski politični vseznali z visokimi italijanskimi odlikovanji ... v
+                     so »slovenski politični vseznali z visokimi italijanskimi odlikovanji … v
                      Grčaricah in na Turjaku pripravili scenarij generalke za poznejši komunistični
                      pokol iz Vetrinja vrnjenih slovenskih borcev za svobodo, potem pa so do vratu
                      podelani od strahu s pomočjo škofa Gregorija Rožmana potisnili v ospredje gen.
@@ -5096,7 +5098,7 @@
                      jim je bilo po njegovi pripovedi to mesto ponujeno?</p>
                   <p>V že omenjenem Taboru, 1970 (5/6) je tudi zapisal, da je po odstopu
                      ljubljanskega župana Adlešiča »gen. Rupnik na predlog Gregorija Rožmana in
-                     drugih osebnosti pri Italijanih ... sprejel mesto ljubljanskega župana ... « Te
+                     drugih osebnosti pri Italijanih … sprejel mesto ljubljanskega župana … « Te
                      besede ponavlja v <emph>Taboru</emph>, 1993 (7/8).</p>
                   <p>Ker je bil Kociper Rupnikov tajnik in adjutant, ker je doctor iuris ter priznan
                      slovenski pisatelj, so njegove trditve o Rožmanovem predlogu Nemcem sprejeli
@@ -5119,7 +5121,7 @@
                   <p>Z majhno besedno razliko navaja citirane Ferenčeve besede obsežna knjiga
                         <emph>Narodnoosvobodilna vojna na Slovenskem 1941–1945</emph> (3. izd.,
                      1978, 569), da je Rainer Rožmana vprašal, kdo bi bil najustreznejši načelnik
-                     ljubljanske uprave ... Škof je predlagal tedanjega mestnega župana ... Rupnika.</p>
+                     ljubljanske uprave … Škof je predlagal tedanjega mestnega župana … Rupnika.</p>
                   <p>Tudi dr. Metod Mikuž vsebinsko sprejema Kociprovo trditev. V že omenjeni knjigi
                         <emph>Ljubljana v ilegali</emph>, IV, 1970 (323), v članku Ljubljanski škof
                      dr. Gregorij Rožman in njegova okolica med NOB omenja Kociprovo navedbo, da je
@@ -5272,7 +5274,7 @@
                   <p>Predsednik koroške vlade Wolsegger je Rupnika predstavil Rainerju že na meji.
                      Komisar je Rupnika že tam povabil na pogovor in ogled mesta za popoldne. O
                      uradnem sprejemu na sedežu ljubljanske uprave dopoldne je Rupnik zapisal: »Za
-                     sprejem pri vrhovnem komisarju sem se pripravil kot župan Ljubljane ... « in
+                     sprejem pri vrhovnem komisarju sem se pripravil kot župan Ljubljane … « in
                      dostavil, da je bilo tam »poleg nemških funkcionarjev tudi nekaj slovenskih
                      osebnosti, ki sem jih na videz poznal, toda ne po imenu in poklicu«. Rožmana ne
                      omenja! Šele med ogledom mesta ga je komisar vprašal, ali bi bil pripravljen
@@ -5578,6 +5580,7 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
+               <head>Dodatek</head>
                <head>Zgodovinski časopis XX, glasilo Zveze zgodovinskih društev Slovenije in
                   osrednja slovenska historična revija želi razširiti krog svojih bralcev in
                   naročnikov</head>
@@ -5622,6 +5625,7 @@
                </div>
             </div>
             <div type="div2">
+               <head>Molitev</head>
                <div type="div3">
                   <p>Zveza slovenskih mater in žena v Buenos Airesu nam je poslala molitev, s katero
                      naj bi Slovenci, zlasti v tem jubilejnem spominskem letu prosili za stvari, ki
@@ -5641,6 +5645,7 @@
          <div type="div1">
             <head>Na platnicah</head>
             <div type="div2">
+               <head>Voščilo</head>
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_19/z_19_.png"/>
@@ -5659,6 +5664,7 @@
                </div>
             </div>
             <div type="div2">
+               <head>Priporočamo</head>
                <div type="div3">
                   <p>Pred vami je najvažnejši dokument novejše slovenske zgodovine.</p>
                   <figure>

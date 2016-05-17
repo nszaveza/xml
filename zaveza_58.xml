@@ -44,21 +44,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">58</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2010-11-05</date>
          </publicationStmt>
          <sourceDesc>
@@ -103,6 +103,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze </head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <head>div2</head>
                <div type="div3">
                   <head>Slovenci in druga svetovna vojna</head>
@@ -929,7 +931,7 @@
                      skrbi, je sedanjost. Ko se spomni sedanje Slovenije, ga stisne: »V Sloveniji
                      nastaja ozračje negotovosti, nelagodnosti, tudi strahu.« Vse to prihaja iz
                      območja politike: »Pod represijo so šolstvo, sodstvo, mediji, Kosova
-                     protikorupcijska komisija, varuh človekovih pravic, državno uradništvo ... « Res,
+                     protikorupcijska komisija, varuh človekovih pravic, državno uradništvo … « Res,
                      kam smo prišli. A je Lorenci kljub vsemu na nekaj pozabil. Da imamo »uradno«
                      interpretacijo zgodovine. Kam nas bo šele to pripeljalo! </p>
                   <p>Dejan Pušenjak, drug Delov novinar, ki se nam zdi zanimiv, vidi v preteklem
@@ -1448,7 +1450,7 @@
                      aparata na akumulator, ki bi ga bolj potrebovali, kljub iskanju nismo našli.
                      Naš cilj je bilo naselje Avšček nad Avčami, kjer je živelo Severjevo dekle. Bil
                      je prepričan, da ga bo ona seznanila s položajem v okolici.« (J. Vidic,
-                     Angleški obveščevalci ... , str. 47)</p>
+                     Angleški obveščevalci … , str. 47)</p>
                   <p>Pa poglejmo sedaj še Ferjančičevo pripoved: »Odpotovali smo z letališča pri
                      Tobruku v Libiji. Našo trojko bi moral pričakati jugoslovanski major Antić. Ker
                      si ni upal iz Ljubljane, je zaprosil majorja Karla Novaka - Strica, naj nas
@@ -1502,7 +1504,7 @@
                      Žirovnici je četniški odred imel svojo zaupnico, obveščevalko, ki je poročala o
                      Kolerjevem protičetniškem delovanju, kar pa on ni vedel. Takrat, ko je Hlebec
                      šel ponj in se vrnil brez njega, ga je ustrelil v Smrečju, točno na kraju
-                     našega pristanka s padali marca 1943.« (J. Vidic, Angleški obveščevalci ... , str
+                     našega pristanka s padali marca 1943.« (J. Vidic, Angleški obveščevalci … , str
                      13) Križmančičevo in Ferjančičevo pripoved, ki smo ju povzeli iz Vidičeve
                      knjige, smo namenoma vpletli v Zorčevo zgodbo, saj se v bistvenih točkah
                      ujemata z njegovim pričevanjem. Verjamemo, da ju je Vidic pravilno citiral.</p>
@@ -1736,7 +1738,7 @@
                      Slovencem in Slovenkam: »Širijo se govorice, da je prišlo na Primorskem do
                      sporazuma s tolovaji. To je čisto navadna govorica! Borba proti komunizmu se
                      nadaljuje, dokler ne bodo njegove azijatske tolpe mogle več škodovati evropskim
-                     narodom. S komunizmom ni sprave ... Kri, ki je bila prelita v skupnem tovariškem
+                     narodom. S komunizmom ni sprave … Kri, ki je bila prelita v skupnem tovariškem
                      boju Nemcev in slovenskih domobrancev proti skupnemu sovražniku, nam nalaga
                      sveto dolžnost: Borili se bomo do zmagovitega konca.« Marsikomu je tedaj padlo
                      v oči, da je bila Rösenerjeva izjava v slovenskem prevodu drugačna od nemškega
@@ -1893,7 +1895,7 @@
                      ali ‘nacionalni partizani’ in pritegnili najreakcionarnejše elemente. Poskušali
                      bodo postati oborožen center belogardistično-mihajlovičevskih elementov na
                      Primorskem ter raznetiti tudi tam državljansko vojno. Po teh poskusih
-                     najodločneje udarite!« (J. Vidic, Angleški obveščevalci ... , str. 8) Aleš
+                     najodločneje udarite!« (J. Vidic, Angleški obveščevalci … , str. 8) Aleš
                      Bebler, ki je bil tedaj poverjenik centralnega komiteja KPS za Primorsko, je
                      dobil Kardeljevo pismo z zamudo, skoraj hkrati s prihodom treh padalcev na
                      Banjško planoto. V nasprotju s Kardeljem je verjel, da »bela garda na
@@ -1935,7 +1937,7 @@
                      katero je padalec Anton Božnar šest mesecev pošiljal četniška poročila kraljevi
                      vladi v London in predstavnikom kraljeve vojske v Palestini in Kairu. Zaplenili
                      so jo, ko so ga partizani ujeli po kapitulaciji Italije.« (J. Vidic, Angleški
-                     obveščevalci ... , str. 146)</p>
+                     obveščevalci … , str. 146)</p>
                   <p>John Earl je dal svoji knjigi naslov The Price of Patriotism – Cena domoljubja.
                      Ali je upravičen pomislek, da je z njo sicer izkazal spoštovanje padalcem,
                      mnogo premalo pa obsodil tiste, ki so jih najprej prevarali in nato uničili?
@@ -2025,8 +2027,8 @@
                      ustoličila vero v partijske bogove, heroje in krvnike, ki še danes s svojimi
                      imeni polnijo jeseniške ulice. Kratek čas po vojni je bilo bogoslužje v
                      cerkvici še dovoljeno. Spominjam se, kolikokrat je zaječala v pesmi »Marija
-                     pomagaj nam sleherni čas ... Marija pomagaj sirotam vojske ... « Vendar takrat še
-                     nisem razumela, zakaj vse okrog mene joka ... </p>
+                     pomagaj nam sleherni čas … Marija pomagaj sirotam vojske … « Vendar takrat še
+                     nisem razumela, zakaj vse okrog mene joka … </p>
                </div>
                <div type="div3">
                   <head>Le križ nam sveti govori </head>
@@ -2134,7 +2136,7 @@
                      svojemu ljudstvu!« Kdo je le lahko v tistih časih preslišal to prošnjo? </p>
                   <p>Ali pa? Gošarji so prinesli med Križane razkol, sovraštvo in maščevalnost.
                      Rovte so postajale vedno bolj rdeče. Mnogim ni bilo mar, da je bila v njihovem
-                     kraju izbrisana ena od slovenskih družin ... </p>
+                     kraju izbrisana ena od slovenskih družin … </p>
                   <p>Po vojni se je vrnil iz nemške vojske drugi Špegarjev sin Franci, domači in
                      sosedje so mu pravili Francek. Znana nam je povojna usoda mobilizirancev v
                      nemško vojsko, Francek pa je bil vrh vsega še brat izdajalca! Za dobrodošlico
@@ -2380,7 +2382,7 @@
                   <p>Leta 1952 so zaprli Slavkinega krušnega očeta, češ da je bil med vojno nemški
                      vohun. Ker so mnogi zanj pošteno pričali, so ga čez nekaj časa na srečo
                      izpustili. Če bi ostal zaprt kot politični vohun, bi bil proglašen za narodnega
-                     izdajalca in posvojitev bi bila nemogoča ... </p>
+                     izdajalca in posvojitev bi bila nemogoča … </p>
                   <p>Po letu 1958 so naenkrat vsi problemi postali rešljivi, za Slavko in mamo je
                      bilo vseh težav konec. Počutili sta se, kot da bi jima s srca odpadla velika
                      mora. Slavka ne ve, zakaj ravno to leto, bile pa so govorice, a se zanje Slavka
@@ -4587,7 +4589,7 @@
                      napisi«. Posebno sporočilna se mu je zdela tudi umestitev spomenika med gore
                      smeti in industrijskih odplak. Tudi mariborski škof dr. Franc Kramberger je v
                      pridigi med mašo, ki je bila po državni slovesnosti, izrekel željo: »Žrtvam
-                     hočemo vrniti njihovo pravo ime, priznati njihovo človeško dostojanstvo ... «</p>
+                     hočemo vrniti njihovo pravo ime, priznati njihovo človeško dostojanstvo … «</p>
                   <p>Spominski park Teharje in osrednji slovenski spomenik naj bi torej z lokacijo,
                      arhitekturo in z napisi nas in naše zanamce spominjala na osebe in dogodke, naj
                      bi vrnila pravo ime in človeško dostojanstvo brezimnim in zamolčanim žrtvam.
@@ -5068,7 +5070,7 @@
                         istovetnost«,</emph> ki smo jo pravkar dobili v slovenskem prevodu, zapisal:
                         <emph>»Dano mi je bilo, da sem </emph>
                      <emph>osebno izkusil ‘ideologije zla’. To ostaja v mojem spominu tako globoko,
-                        da tega ni mogoče izbrisati ... Dejanske razsežnosti zla, ki je uničujoče
+                        da tega ni mogoče izbrisati … Dejanske razsežnosti zla, ki je uničujoče
                         pustošilo v Evropi, niso dojeli vsi, niti tisti ne, ki so stali v samem
                         središču tega vrtinca. Živeli smo pogreznjeni v veliki izbruh zla in šele
                         postopoma smo se začenjali zavedati njegovega dejanskega bistva. Odgovorni
@@ -5091,7 +5093,7 @@
                      s škofom Stanislavom Leničem v Rimu v neposredni bližini tega dogodka. Papež
                      sam je kasneje ob spominu na atentat povedal: <emph>»Kristus je, ko je trpel za
                         vse nas, podelil trpljenju novi smisel, povzdignil ga je v novo razsežnost,
-                        v nov red ljubezni... To je trpljenje, ki izžiga in použiva zlo s plamenom
+                        v nov red ljubezni … To je trpljenje, ki izžiga in použiva zlo s plamenom
                         ljubezni in celo iz greha poraja mnogovrstno bogastvo dobrega.«</emph> Tako
                      papež. Navdihnjen s to vizijo je papež trpel in ljubil v občestvu s Kristusom,
                      zato je bilo oznanilo njegovega trpljenja in njegovega molka tako zgovorno in
@@ -5303,15 +5305,15 @@
                      na stopnicah za stebrom. Še preden se je ovedel, kaj se dogaja, je postal
                      sirota brez doma. Starejši brat je padel v nemški vojski. </p>
                   <p>Marjan še ni zvedel, zakaj so mu vse postrelili. »Če danes na to pomislim,«
-                     tako pravi, »se mi vse zagnusi. Rešitve ni... O, pač, rešitev bi bila, če bi bila
-                     pravica!« Po mučnih letih odraščanja in trdega dela na kmetiji, v šole mu ni
-                     bilo dano hoditi, se je Marjan dokopal do spoznanja, ki ga še nismo zasledili
-                     pri ljudeh, ki bi morali skrbeti za pravičnost. Preprost, nešolan, a pošten
-                     človek nam je povedal, da slovenski narod potrebuje odrešenje, ki ga prinaša
-                     pravičnost. Pravičnost za vsakogar in za vse enako. Sad pravičnosti je mir. Mir
-                     v srcu vsakogar in med nami vsemi. Svoboda v nas in med nami. Pravičnost in mir
-                     je moč ohraniti in gojiti le v demokraciji in pravni državi. Šele potem bomo
-                     lahko govorili tudi o spravi.</p>
+                     tako pravi, »se mi vse zagnusi. Rešitve ni … O, pač, rešitev bi bila, če bi
+                     bila pravica!« Po mučnih letih odraščanja in trdega dela na kmetiji, v šole mu
+                     ni bilo dano hoditi, se je Marjan dokopal do spoznanja, ki ga še nismo
+                     zasledili pri ljudeh, ki bi morali skrbeti za pravičnost. Preprost, nešolan, a
+                     pošten človek nam je povedal, da slovenski narod potrebuje odrešenje, ki ga
+                     prinaša pravičnost. Pravičnost za vsakogar in za vse enako. Sad pravičnosti je
+                     mir. Mir v srcu vsakogar in med nami vsemi. Svoboda v nas in med nami.
+                     Pravičnost in mir je moč ohraniti in gojiti le v demokraciji in pravni državi.
+                     Šele potem bomo lahko govorili tudi o spravi.</p>
                   <p>Že pred tisočletji je starozavezni psalmist zapisal: Bog ohranja zavezo s
                      tistimi, ki ljubijo pravičnost. Njegov izrek velja za vse ljudi vseh časov.</p>
                </div>
@@ -5346,11 +5348,11 @@
                      na kraju smrti. Pripravljeni in odločeni, da kot svoj čas sprejmemo čas
                      strpnosti, medsebojnega razumevanja in skupne prihodnosti.« In še je množica
                      slišala prisegati skesanega vojaka revolucije: »Sprava z vsemi mrtvimi žrtvami
-                     vojne... je preizkušnja narodove zrelosti, samozavesti in samospoštovanja. ... Je
+                     vojne … je preizkušnja narodove zrelosti, samozavesti in samospoštovanja. … Je
                      zgodovinska nujnost in naša kulturna in civilizacijska dolžnost. Je povabilo in
                      nujen pogoj prihodnje, času in nam ljudem prepuščene sprave med živimi. ...
                      Pokopljimo vse mrtve za vselej, z vsem dostojanstvom in vsem spoštovanjem. ...
-                     Naj bodo vse nasilne smrti ... izenačene v naši zavesti. ... Zdaj je čas miru.«</p>
+                     Naj bodo vse nasilne smrti … izenačene v naši zavesti. … Zdaj je čas miru.«</p>
                   <p>Po teh odločnih spravnih prisegah je množico žalujočih objelo upanje v normalno
                      življenje, v čas obljubljenega medsebojnega razumevanja in skupne prihodnosti.
                      Danes, po petnajstih letih od tistega žalnega shoda, je slovenska resnica
@@ -6004,7 +6006,7 @@
                      rekel. Glej, kako se kadi iz brazd. Sam božji dar je kmečka prst, da je ne boš
                      pozabil vzeti s seboj v šolo. Veš, še v tujino so jo jemali ljudje s seboj za
                      spomin!«</p>
-                  <p>Žiii – žiii – žiii – bum... </p>
+                  <p>Žiii – žiii – žiii – bum … </p>
                   <p>»Že spet so začeli«, je vzdihnil v kotu in skušal vstati.</p>
                   <p>»No, miren bodi fant, da se ti kri ne ulije. Zakaj ne ubogaš?« je koj planil
                      doktor Kožuh in ga potisnil nazaj na ležišče.</p>
@@ -6042,7 +6044,7 @@
                      prsti, po rosi in po medu.«</p>
                   <p>»Morda«, je profesor zamišljeno prikimal doktorju. </p>
                   <p>Sredi molka se je z zidu prenesla muha na okrvavljene obveze v kotu. Lojze je
-                     pričel umirati ... </p>
+                     pričel umirati … </p>
                </div>
             </div>
             <div type="div2">
@@ -6107,6 +6109,7 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <head>Jeremija Kalin – Tine Debeljak: Velika črna maša za pobite Slovence. Buenos
                      Aires 1949.</head>
@@ -6126,6 +6129,7 @@
                </div>
             </div>
             <div type="div2">
+               <head>Dodatek</head>
                <div type="div3">
                   <p>Jorge Semprún, španski pisatelj in nekdanji zapornik v taborišču Buchenwald, je
                      za šestdesetletnico osvoboditve taborišča imel 10. aprila v Narodnem gledališču

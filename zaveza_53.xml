@@ -45,14 +45,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -104,6 +104,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze </head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>V časovnem obzorju komentarja pričujoče Zaveze je vstop Slovenije v Evropsko
                      unijo izstopajoč dogodek. Že sedaj bi lahko rekli – še bolj pa bo to jasno v
@@ -766,12 +768,12 @@
                      ki je, posebej zato, ker je bila na koncu, dala celi proslavi izrazito
                      agresiven in hujskaški značaj. Obenem pa besede te pesmi ne puščajo nobenega
                      dvoma več, da so mišljene kot odgovor na vsebino Možinovega dosjeja.
-                        <emph>Treba je vedeti</emph> ... ! V nekem trenutku smo že videli Možinove
+                        <emph>Treba je vedeti</emph> … ! V nekem trenutku smo že videli Možinove
                      junake, nekdanje otroke, kako nam z ekrana govorijo <emph>Vedeti je
-                        treba</emph> ... Potem pa smo se takoj zavedeli, da so ti 60-letniki, po vsem
+                        treba</emph> … Potem pa smo se takoj zavedeli, da so ti 60-letniki, po vsem
                      kar so bili, po vsem trpljenju, preveč prizadeti in izmučeni in ranjeni, da bi
                      deklamirali. Za trenutek se nam je zazdelo, da bi tudi mi gledalci morali reči
-                        <emph>Vedeti je treba</emph> ... potem pa smo tudi mi, še preden smo kaj
+                        <emph>Vedeti je treba</emph> … potem pa smo tudi mi, še preden smo kaj
                      rekli, umolknili. Potem ko smo videli, da bi vsaka deklaracija žalila to, kar
                      je bilo pred nami: to veliko žalost, ta veliki slovenski pasijon. To zmorejo
                      samo komunisti. Vedno so šli preko vsega. Spet smo videli, da so drugačni in da
@@ -1770,14 +1772,14 @@
                      Žirovnice, ki nas je dobro poznal, zaupno prišel k naši mami in ji povedal, da
                      so v Hrenovici delavci pričeli izkopavati teren za nove predelovalne obrate.
                      Pri kopanju so naleteli na okostja kakih desetih trupel, na kraju, kjer je od
-                     bombardiranja ostala jama. Če kdo od nas hoče, lahko pride pogledat ... Kdo naj
+                     bombardiranja ostala jama. Če kdo od nas hoče, lahko pride pogledat … Kdo naj
                      bi šel in kdo bi sploh lahko prepoznal Lojzkove kosti? Zelo smo si želeli, da
                      bi končno imeli njegov grob v blagoslovljeni zemji. Lojzka bi lahko prepoznali
                      edinole po zobovju, ker je imel zlate krone kot takrat redkokdo. Nihče drug,
                      edino moj brat Jože je bil pripravljen, da gre gledat okostja. Toda čeljusti z
                      zlatimi kronami ni našel.</p>
                   <p>Ne vemo, kam so zmetali okostja teh žrtev, niti ne, ali je bilo med njimi
-                     stričevo. Na Jesenicah pa še živi človek, ki bi to vedel ... Vendar molči kot
+                     stričevo. Na Jesenicah pa še živi človek, ki bi to vedel … Vendar molči kot
                      grob. Kriminalisti pa, ki naj bi raziskovali povojna grobišča, ga pustijo v
                      miru. To pripoved sem povedala v spomin na našega dragega strica Lojzka.«</p>
                </div>
@@ -1882,7 +1884,7 @@
                   <p>»Ko pa me je drugič vzel s seboj, me je peljal do stričevega skrivališča. Stric
                      Lojz se je ravno bril in se naju je hudo prestrašil. Saj je pričakoval samo še
                      svoje ubijalce. Vesel naju je bil in vsem skupaj skuhal na ognjišču mešto.
-                     Potem nama je zaupal, da vsak dan čaka, kdaj pridejo ponj in ga odpeljejo ... ‘Ti
+                     Potem nama je zaupal, da vsak dan čaka, kdaj pridejo ponj in ga odpeljejo … ‘Ti
                      kar pridi kmalu spet gor,’ je rekel mojemu atu. ‘Pustil ti bom listek, da boš
                      vedel, kam so me odpeljali.’ Ata ni dolgo zdržalo doma. Čez nekaj dni se je
                      vrnil v skrivališče in ga našel – praznega. Posoda je bila pomita, gledal je za
@@ -2523,7 +2525,7 @@
                      trenutek. Z nečloveškim rjovenjem in vpitjem smo planili pokonci, vpili vsak
                      svoje povelje, da bi partizane zmešali, in tekli proti stražarju in ograji.
                      Stražar pa je zbežal. Odvrgli smo proti njemu kamenje in se pognali z levjim
-                     skokom na ograjo.« (Spomini..., str.57)</p>
+                     skokom na ograjo.« (Spomini … , str.57)</p>
                   <p>Nekega dne v začetku julija so Francki povedali, da gre domov. Nobenega
                      dokumenta ji niso dali. V skupini, s katero je potovala, sta bili tudi Mačkovi
                      dve iz Logatca in Požarjevi dve. Iz Celja do Ljubljane so se peljale z vlakom.
@@ -3005,15 +3007,16 @@
                      Stefanec je med vojno v Predgradu učil tudi cerkvene pesmi neki gospod Gruden,
                      Tržane je pa učil gospod Savelli, nato pa so pesmi zapeli skupaj na koru, saj
                      ni bilo enostavno kar tako hoditi iz kraja v kraj. Šlo se je le, če je bilo
-                     nujno. Zadnjič so peli skupaj na koru Marijino pesem Tiho sonce plava ..., potem
-                     je sodelovanje nenadoma prenehalo. Res pa je, da so na sestankih in konferencah
-                     govorili o veri kot o nečem nazadnjaškem in hvalili Sovjetsko zvezo, tako da se
-                     je vedelo, kam stvar vodi in kaj bi radi dosegli pri nas. Zmeraj so govorili:
-                     pod vodstvom komunistične partije. Kaj več nismo vedeli, saj smo bili po
-                     italijanski kapitulaciji in tudi že prej odrezani od sveta. Ljudje smo tudi
-                     znali molčati, saj smo morali, ker smo vedeli, da življenje ni dosti vredno.
-                     Tako je bila v Črnomlju eksemplarično ubita neka učiteljica. Rekli so, da je
-                     izdajala, pa najbrž ni bilo nič od tega, bila je le mlada in zaljubljena.</p>
+                     nujno. Zadnjič so peli skupaj na koru Marijino pesem Tiho sonce plava ...,
+                     potem je sodelovanje nenadoma prenehalo. Res pa je, da so na sestankih in
+                     konferencah govorili o veri kot o nečem nazadnjaškem in hvalili Sovjetsko
+                     zvezo, tako da se je vedelo, kam stvar vodi in kaj bi radi dosegli pri nas.
+                     Zmeraj so govorili: pod vodstvom komunistične partije. Kaj več nismo vedeli,
+                     saj smo bili po italijanski kapitulaciji in tudi že prej odrezani od sveta.
+                     Ljudje smo tudi znali molčati, saj smo morali, ker smo vedeli, da življenje ni
+                     dosti vredno. Tako je bila v Črnomlju eksemplarično ubita neka učiteljica.
+                     Rekli so, da je izdajala, pa najbrž ni bilo nič od tega, bila je le mlada in
+                     zaljubljena.</p>
                   <p>Po končani vojni nisem vedela za pobijanje v Rogu. Slišala sem streljanje in
                      pokanje. Na vprašanje, kaj je to, so mi odgovarjali, da streljajo od veselja,
                      ker je konec vojne. Pa tudi dosti spraševati ni bilo varno. Mnogo kasneje sem
@@ -3419,12 +3422,12 @@
                      vasi odšel na Koprivnik, so ga zajeli partizani, mučili in zverinsko ubili 19.
                      oktobra 1943. Po smrti so ga oropali še oblačil, mašniške opreme in celo hostij
                      za prvoobhajance na Koprivniku in Bohinjski Srednji vasi. Na Koprivniku so
-                     prvoobhajanci in starši zaman čakali na duhovnika ... Toda njegova mučeniška smrt
+                     prvoobhajanci in starši zaman čakali na duhovnika … Toda njegova mučeniška smrt
                      ni bila razlog, da bi dekleta iz strahu prenehala z delom. Naj seme, ki ga je
                      Srečko sejal, požene klas. </p>
                </div>
                <div type="div3">
-                  <head>Najlepši trenutki, gotovo so tisti...</head>
+                  <head>Najlepši trenutki, gotovo so tisti … </head>
                   <p>Na verze matere Elizabete Kremžar »Najlepši trenutki« je V. Vodopivec uglasbil
                      čudovito evharistično pesem, ki je danes na korih kar nekako utihnila, morda
                      zato, ker je za današnje čase preveč čustvena, za mnoge kar osladna. Ko pa jo
@@ -3590,7 +3593,7 @@
                      katehistinj. Pozabljale so nase, na neizpolnjene mladostne želje, načrte in na
                      svoje bridkosti, ko so z mladostnim žarom služile otrokom, takratni Cerkvi v
                      Sloveniji in Bogu. »Na srcu najboljšem pozabim vse drugo, pozabim na zemsko
-                     radost in bolest ... O, tistih trenutkov, ko Jezusa gledam, ne dam jih nikdar, za
+                     radost in bolest … O, tistih trenutkov, ko Jezusa gledam, ne dam jih nikdar, za
                      vse zemlje prelest.«</p>
                </div>
             </div>
@@ -3808,7 +3811,7 @@
                      njegovega miselnega izhodišča. To toliko bolj sili v oči, ker je v nasprotju s
                      pezo, ki so jo morali nositi katoličani, upor Nove revije in njenih predhodnic
                      pa nastopil razmeroma udobno takrat, ko so totalitarizem že začenjale zapuščati
-                     moči. To je bil čas »vidnega slabljenja ... nekdanje totalitarne komunistične
+                     moči. To je bil čas »vidnega slabljenja … nekdanje totalitarne komunistične
                      oblasti«, ko so se »splošne politične etc. razmere naglo slabšale«. Nova revija
                      je mogla nastati in se obdržati le zaradi razkrajanja partije. Sem spada tudi
                      Urbančičeva pripomba, da se je tudi Kocbekov analogni poizkus končal »z vsemi
@@ -4203,7 +4206,7 @@
                      sveta«? Včasih se zdi, da ne. (A priznamo, da spet tavamo v neznanem gozdu.
                      Kako naj brez ključa razumemo skrivnostne znake, ki so morda mišljeni kot
                      smerokazi.) Zakaj, kakor nekje beremo, »svetovna civilizacija, ki je ne dela
-                     moderni človek sam ... prinaša s seboj pomračitev / mrk človeka«. Človek je torej
+                     moderni človek sam … prinaša s seboj pomračitev / mrk človeka«. Človek je torej
                      ves notri, kako naj »omračen« pride ven? Drugod spet govori pisec o »identiteti
                      človeškega bitja in biti, ki jo je treba zmerom znova zasnovati«. To nas navede
                      na misel, da Urbančič pripisuje človeku sposobnost ali možnost izdelovanja
@@ -4727,10 +4730,10 @@
                      z najvišjih inštanc, vključno z bivšim predsednikom države in njegovim forumom,
                      se ga je udeležila običajna množica ljudi in seveda zelo jasno izrazila svoje
                      mnenje. Pa kaj. Naša absolutna oblast je naredila po svoje. Prijateljica mi je
-                     pisala: »Hehehe ... referendum je pogorel na celi črti, to se pravi, ljudstvo je
+                     pisala: »Hehehe … referendum je pogorel na celi črti, to se pravi, ljudstvo je
                      bilo odločno proti zakonu, ampak vse bo brez zveze, ker je ustavno sodišče
-                     menda že odločilo ... Drugače pa je tukaj vse po starem, hodimo v službo, šimfamo
-                     oblast ... pa kaj, kdo jim pa kaj more?«</p>
+                     menda že odločilo … Drugače pa je tukaj vse po starem, hodimo v službo, šimfamo
+                     oblast … pa kaj, kdo jim pa kaj more?«</p>
                   <p>Prijatelj pa je napisal: »A sploh veste, vi tam daleč na drugi strani velike
                      luže, kaj se tu med tem dogaja? Precej stvari naenkrat: V nedeljo gremo na
                      referendum v zvezi s »prebrisanimi«, predvčerajšnjim je bil interpeliran
@@ -4743,7 +4746,7 @@
                      je bilo objavljeno v raznih poročilih in drugih informativnih oddajah. Vse
                      skupaj so obrnili na glavo in naredili Slovence za najhujše šoviniste in
                      rasiste na svetu. Menda se ves svet zgraža ob naših besedah in dejanjih. Potem
-                     pa interpelacije, Keber, Bohinc ... Glasovalni stroj je opravil svoje. Pardon,
+                     pa interpelacije, Keber, Bohinc … Glasovalni stroj je opravil svoje. Pardon,
                      temu se zdaj pač ne reče glasovalni stroj. To se reče samo takrat, kadar so na
                      oblasti nepravi ljudje. Ko je bila Bajukova vlada, npr. Zdaj pa je to
                      sprejemanje sklepov, ki se jih da na glasovanje. In poslanci glasujejo po svoji

@@ -44,21 +44,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">45</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2010-11-17</date>
          </publicationStmt>
          <sourceDesc>
@@ -77,12 +77,10 @@
       </fileDesc>
       <revisionDesc>
          <change when="2010-11-17">
-		 <name>Alenka Jerman</name> - pregled besedila
-            <name>Alexander Jerman</name> - pretvoril besedilo v zapis TEI, dodal strukturne oznake
-         </change>
+            <name>Alenka Jerman</name> - pregled besedila <name>Alexander Jerman</name> - pretvoril
+            besedilo v zapis TEI, dodal strukturne oznake </change>
          <change when="2012-09-23">
-            <name>Medard Švigelj</name>- dodal oštevilčenje strani
-         </change>
+            <name>Medard Švigelj</name>- dodal oštevilčenje strani </change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -107,6 +105,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <pb n="001"/>
                   <head>Slovenski paradoksi </head>
@@ -176,20 +176,19 @@
                      nadomestiti s pravimi. Vprašanja so že tu. Nihče jih sicer ne postavlja z vso
                      zahtevnostjo, a se že čuti, kolikšna bo njihova silovitost, ko bodo zares
                      postavljena. Njihova moč in njihova perspektivnost je v tem, da ni v njih nič
-                     izmišljenega, ampak da 
-                     <pb n="002"/>
-                     vstajajo naravnost iz situacije, ki se je izoblikovala
-                     iz dozorelega časa. Na strani vprašanj je torej moč, ki raste iz samoumevnosti
-                     in gotovosti, da bodo nekoč na vsak način morala biti odgovorjena. Takšna je
-                     zgodovina, ki postavlja oz. bo postavljala vprašanja. Zgodovina, ki bo
-                     vpraševana in bo morala dajati odgovore, pa na vprašanja odgovarja že sedaj, a
-                     dela to rutinsko in spretno, izučeno in navajeno, zanašajoč se, kot nekoč, na
-                     moč, ki si jo je pridobila, in čuti, da nanjo še lahko računa. Toda na njenih
-                     odgovorih, še vedno virtuoznih, se že vidi utrujenost in neustvarjalnost. Če
-                     blestijo, je to v stereotipnih, že zdavnaj rešenih situacijah. Ko se bo znašla
-                     pred pravimi vprašanji, od resnične zgodovine narekovanimi, se bo pokazala v
-                     bistveni nezadostnosti. To bo takrat, ko novi čas ne bo dovoljeval igre, v
-                     kateri je ta zgodovina bila izučena. Prav to bo namreč njegova novost. </p>
+                     izmišljenega, ampak da <pb n="002"/> vstajajo naravnost iz situacije, ki se je
+                     izoblikovala iz dozorelega časa. Na strani vprašanj je torej moč, ki raste iz
+                     samoumevnosti in gotovosti, da bodo nekoč na vsak način morala biti
+                     odgovorjena. Takšna je zgodovina, ki postavlja oz. bo postavljala vprašanja.
+                     Zgodovina, ki bo vpraševana in bo morala dajati odgovore, pa na vprašanja
+                     odgovarja že sedaj, a dela to rutinsko in spretno, izučeno in navajeno,
+                     zanašajoč se, kot nekoč, na moč, ki si jo je pridobila, in čuti, da nanjo še
+                     lahko računa. Toda na njenih odgovorih, še vedno virtuoznih, se že vidi
+                     utrujenost in neustvarjalnost. Če blestijo, je to v stereotipnih, že zdavnaj
+                     rešenih situacijah. Ko se bo znašla pred pravimi vprašanji, od resnične
+                     zgodovine narekovanimi, se bo pokazala v bistveni nezadostnosti. To bo takrat,
+                     ko novi čas ne bo dovoljeval igre, v kateri je ta zgodovina bila izučena. Prav
+                     to bo namreč njegova novost. </p>
                   <p>To, kar sedanjo slovensko zgodovino najgloblje določa, je torej njena dvojnost.
                      Ta določenost je specifična in je ni primerjati z dvojnostjo, ki je – zaradi
                      inherentnih zakonov razvoja – v vsaki zgodovini. Kako je do te anomalije
@@ -242,25 +241,23 @@
                      trdnosti in izučenosti, sicer ni moglo pustiti neprizadetih, a so imeli svoje
                      prednosti: bili so mladi, nastopili so z imeni, ki še niso bila izrabljena, in
                      imeli so roke, na katerih ni bilo neposrednih znakov temne strani
-                     revolucionarne prakse. (»Arabije dišave vse ...« , Macbeth, V 55). Nekaj časa so
-                     se zadrževali v svojih prostorih in niso toliko hodili na trg – nikoli sicer ni
-                     bilo tako, da bi se reklo, da jih ni – potem pa so, ko so videli, da tranzicija
-                     ostaja v razumnih mejah, spet nastopili pogumno in smelo, kmalu tudi že v
-                     odprtem besedilu, in v nekaj letih v tudi sicer ugodnih razmerah dosegli
+                     revolucionarne prakse. (»Arabije dišave vse ...« , Macbeth, V 55). Nekaj časa
+                     so se zadrževali v svojih prostorih in niso toliko hodili na trg – nikoli sicer
+                     ni bilo tako, da bi se reklo, da jih ni – potem pa so, ko so videli, da
+                     tranzicija ostaja v razumnih mejah, spet nastopili pogumno in smelo, kmalu tudi
+                     že v odprtem besedilu, in v nekaj letih v tudi sicer ugodnih razmerah dosegli
                      stanje, ki bi ga lahko označili z »status, quo ante«.</p>
                   <p>To je bila ocena, ki jo je bilo mogoče dati, a ni veljala povsem. Čeprav je
                      bila tranzicija medlo koncipirana in omahajujoče izvajana, je vendarle
                      postajalo vedno bolj jasno, da je tu novi čas. Ni imel še te moči, da bi na
-                     novo razdelil 
-                     <pb n="003"/>
-                     mikrofone – to je bilo še v režimskih rokah kontinuitete – a so
-                     se vendarle pojavile neke besede, neki stavki, neka vprašanja še sporadično in
-                     dokaj neorganizirano in z majhnim realnim učinkom, a vendar z velikim notranjim
-                     potencialom. Postalo je jasno, da bodo vprašanja nekoč razvila vso moralno in
-                     politično energijo, ki je v njih. Jasno je bilo tudi, da bodo tisti, ki so od
-                     zgodovine določeni, da dajejo odgovore, potisnjeni na tako raven obstajanja, da
-                     bodo končno ostali brez zgodovinske zaščite in jim tudi nobena premetenost več
-                     ne bo pomagala. </p>
+                     novo razdelil <pb n="003"/> mikrofone – to je bilo še v režimskih rokah
+                     kontinuitete – a so se vendarle pojavile neke besede, neki stavki, neka
+                     vprašanja še sporadično in dokaj neorganizirano in z majhnim realnim učinkom, a
+                     vendar z velikim notranjim potencialom. Postalo je jasno, da bodo vprašanja
+                     nekoč razvila vso moralno in politično energijo, ki je v njih. Jasno je bilo
+                     tudi, da bodo tisti, ki so od zgodovine določeni, da dajejo odgovore,
+                     potisnjeni na tako raven obstajanja, da bodo končno ostali brez zgodovinske
+                     zaščite in jim tudi nobena premetenost več ne bo pomagala. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_01.png"/>
                      <head>Med nebom in zemljo <name type="author">Simon Dan</name></head>
@@ -289,10 +286,8 @@
                      zahteval od slovenskih komunistov in partizanov. 12 ali 13.000 ljudi peljati
                      pred žrela brezen in jaškov in jih tam s streli v tilnik deset dni zapored
                      pokončevati! Vemo, da to človeka presega, nekoliko pa si je že mogoče
-                     predstavljati, kako je to potekalo. Ko bodo morali iskati odgovor 
-                     <pb n="004"/>
-                     na ta
-                     vprašanja, ne bodo zadostovali izgovori o maščevanju in omami zmage.
+                     predstavljati, kako je to potekalo. Ko bodo morali iskati odgovor <pb n="004"/>
+                     na ta vprašanja, ne bodo zadostovali izgovori o maščevanju in omami zmage.
                      Izrojenost, ki je sicer potrebna, tega ne bo razložila, zato bo treba
                      pogledati, katera ideja je storilce rodila in oblikovala. In če pri tem še
                      pomislimo, da so isti ljudje pol stoletja urejali državo! A bistveno je to, kam
@@ -362,10 +357,8 @@
                      dostopna? Ali jo je mogoče z besedami zajeti? Skoraj gotovo ne, a če zgodovinar
                      nima te moči – ali te ljubezni – da vstopi v središče uragana, tja, kjer se
                      besede nehajo in je samo še molk, in se od tistega molčanja poučen ne vrne,
-                     potem temu, o čemer nam pripoveduje, ne bo mogel 
-                     <pb n="005"/>
-                     biti pravičen. Business as
-                     usual – posel kot posel – to načelo tu odpove.</p>
+                     potem temu, o čemer nam pripoveduje, ne bo mogel <pb n="005"/> biti pravičen.
+                     Business as usual – posel kot posel – to načelo tu odpove.</p>
                   <p>Nekaj podobnega velja tudi za ljudi s področja kulture: pesnike, pisatelje,
                      dramatike, skladatelje, slikarje itd. Vsi ti se tematiki genocida izmikajo. Zdi
                      se, da se genocid kot dogajanje upira upodobitvi. Nekoliko jih razumemo, a se
@@ -400,11 +393,10 @@
                      je izginjanje merila – ljudje dobijo občutek, ni nujno, da se ga zavedajo, da
                      nimajo več pravice stvari meriti. In tako vedno bolj drsijo v svet, v katerem
                      ostajajo ravno stvari, ki človeka v najbolj temeljnem smislu postavljajo,
-                     neizmerjene. Tako nam ostaja samo svet 
-                     <pb n="006"/>
-                     količinskih izmer, ki večajo naše
-                     razpolagalno védenje, védenje, ki bi nas lahko usmerjalo – kaj je človek, kaj
-                     je njegova usoda – pa izginja ali pa nad njim zagospodarita slučajnost in kaos. </p>
+                     neizmerjene. Tako nam ostaja samo svet <pb n="006"/> količinskih izmer, ki
+                     večajo naše razpolagalno védenje, védenje, ki bi nas lahko usmerjalo – kaj je
+                     človek, kaj je njegova usoda – pa izginja ali pa nad njim zagospodarita
+                     slučajnost in kaos. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_02.png"/>
                      <head>Revolucija <name type="author"/></head>
@@ -478,23 +470,21 @@
                      projekta. O tej hipoteki pravi dr. Aleksander Bajt v knjigi Bermanov dosje
                      tole: »Tako so komunisti z zvijačo, točneje s prevaro, pod krinko osvobodilnega
                      boja pridobili za revolucijo velike dele slovenskega prebivalstva. To je gotovo
-                     nekaj najpodlejšega in 
-                     <pb n="007"/>
-                     najbolj zavrženega, kar lahko kdo zagreši nad svojim
-                     narodom. Načrtno izkoriščenje osvobodilnega boja za izvedbo boljševiške
-                     revolucije je brez dvoma izvirni greh izdaje svojega naroda«. (Tudi zaradi teh
-                     besedi – ali morda predvsem zaradi teh besedi – je bila nad Bajtom izrečena
-                     anatema – izgon, izključitev. Mogoče, da tudi nihče ni ničesar izrekel, ampak
-                     so vsi samo na mah začutili, da tako direktna in pregrešna trditev zasluži
-                     kazen: damnatio memoriae – prepoved spomina). Temeljna beseda v navedenem
-                     odlomku je prevara. Nanaša se na neko dejanje, ki je bilo narejeno na človeško
-                     in etično tako občutljivem področju, da je prevara, pravi Bajt, tudi že izdaja.
-                     Ljubezen do domovine je kakor ljubezen do matere: obema daje svetost naraven in
-                     intimen odnos do izvora življenja. Tu smo pri stvareh, ki človeka presegajo in
-                     se zato zanje ne odloča racionalno, ampak instinktivno in iz celote bitja.
-                     Izrabljati človeka na tej ravni obstajanja je, pravi Bajt, izdaja. Nihče namreč
-                     ne pričakuje, da ga bodo ljudje njegove zgodovine in njegovega jezika – z eno
-                     besedo, njegove domovine – tu varali.</p>
+                     nekaj najpodlejšega in <pb n="007"/> najbolj zavrženega, kar lahko kdo zagreši
+                     nad svojim narodom. Načrtno izkoriščenje osvobodilnega boja za izvedbo
+                     boljševiške revolucije je brez dvoma izvirni greh izdaje svojega naroda«. (Tudi
+                     zaradi teh besedi – ali morda predvsem zaradi teh besedi – je bila nad Bajtom
+                     izrečena anatema – izgon, izključitev. Mogoče, da tudi nihče ni ničesar
+                     izrekel, ampak so vsi samo na mah začutili, da tako direktna in pregrešna
+                     trditev zasluži kazen: damnatio memoriae – prepoved spomina). Temeljna beseda v
+                     navedenem odlomku je prevara. Nanaša se na neko dejanje, ki je bilo narejeno na
+                     človeško in etično tako občutljivem področju, da je prevara, pravi Bajt, tudi
+                     že izdaja. Ljubezen do domovine je kakor ljubezen do matere: obema daje svetost
+                     naraven in intimen odnos do izvora življenja. Tu smo pri stvareh, ki človeka
+                     presegajo in se zato zanje ne odloča racionalno, ampak instinktivno in iz
+                     celote bitja. Izrabljati človeka na tej ravni obstajanja je, pravi Bajt,
+                     izdaja. Nihče namreč ne pričakuje, da ga bodo ljudje njegove zgodovine in
+                     njegovega jezika – z eno besedo, njegove domovine – tu varali.</p>
                   <p>, </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_03.png"/>
@@ -521,21 +511,19 @@
                      Kakšna »histerija« pa je ta, ki jim tega ne dovoljuje?</p>
                   <p>V nekoliko drugačnem ključu so izdelani očitki tržaškega pisatelja profesorja
                      Borisa Pahorja »cerkveni gospodi v slovenski banovini«, da se niso zavedali
-                     »ukaza zgodovine tako, kakor so se ga njihovi duhovni bratje v Italiji, 
-                     <pb n="009"/>
-                     v
-                     Franciji, na Poljskem in drugod«. Pahor ne pomisli, da je bil »ukaz zgodovine«
-                     v Ljubljani morda nekoliko drugačen, ker je tu partija intenzivno izvajala
-                     revolucijo in pobijala, med drugim tudi duhovnike, česar vsega v Italiji,
-                     Franciji in na Poljskem ni počela. V nadaljevanju Pahor, z modifikacijami,
-                     opravičuje tudi enobe: »Marsikdo, ki je takrat mislil na bolj pošten povojni
-                     socialni položaj, tega ni nameraval doseči z likvidacijami in diktaturo«. Za
-                     sveto božjo voljo! »Marsikdo« ni, »marsikdo« pa je; a bistvo stvari je v tem,
-                     da je tisti »marsikdo«, ki je to nameraval, vso stvar od začetka vodil in po
-                     vojni svoj namen tudi uresničil. Tisti »marsikdo«, ki tega ni nameraval, pa je
-                     samo nemočno, pa tudi nekoliko klavrno in strahopetno, gledal. Želeli bi, da bi
-                     gospod profesor, ki mu upravičeno pripisujejo ime velikega Slovenca, to stvar
-                     nekoliko bolje premislil.</p>
+                     »ukaza zgodovine tako, kakor so se ga njihovi duhovni bratje v Italiji, <pb
+                        n="009"/> v Franciji, na Poljskem in drugod«. Pahor ne pomisli, da je bil
+                     »ukaz zgodovine« v Ljubljani morda nekoliko drugačen, ker je tu partija
+                     intenzivno izvajala revolucijo in pobijala, med drugim tudi duhovnike, česar
+                     vsega v Italiji, Franciji in na Poljskem ni počela. V nadaljevanju Pahor, z
+                     modifikacijami, opravičuje tudi enobe: »Marsikdo, ki je takrat mislil na bolj
+                     pošten povojni socialni položaj, tega ni nameraval doseči z likvidacijami in
+                     diktaturo«. Za sveto božjo voljo! »Marsikdo« ni, »marsikdo« pa je; a bistvo
+                     stvari je v tem, da je tisti »marsikdo«, ki je to nameraval, vso stvar od
+                     začetka vodil in po vojni svoj namen tudi uresničil. Tisti »marsikdo«, ki tega
+                     ni nameraval, pa je samo nemočno, pa tudi nekoliko klavrno in strahopetno,
+                     gledal. Želeli bi, da bi gospod profesor, ki mu upravičeno pripisujejo ime
+                     velikega Slovenca, to stvar nekoliko bolje premislil.</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_04.png"/>
                      <head>Če se bomo vrnili, se bomo po tej poti <name type="author">Mirko
@@ -601,19 +589,17 @@
                      da je bil NOB dostojanstven boj naroda za svobodo. Čutil je, da je spričo
                      odkritja v Zgornji Bistrici ta pot nujno potrebna.</p>
                   <p>In ko je v tem času nekoč Janez Janša zahteval, da DZ znova obravnava predlog
-                     Deklaracije o 
-                     <pb n="010"/>
-                     protipravnem delovanju komunističnega totalitarnega režima, je
-                     poslanec Tone Anderlič rekel, da bo LDS sodelovala, če bo vsebina primerna,
-                     zlasti pa, če ne bo žalila – logično smo sedaj pričakovali, da bo rekel
-                     komunistov, a je najprej nekoliko počakal, potem pa smo zaslišali: kogarkoli.
-                     Enkrat v tistih dneh je poslanec Miran Potrč v DZ izjavil, da so oni, ZLSD, že
-                     leta 1995 obsodili »zunajsodne poboje domobrancev,« in s tem pokazal, da je
-                     velik verbalist – obsoditi je že dovolj, mar ne? Bolj važno pa je to, da je s
-                     to formulacijo bilo – ne vem kolikič že – izrinjeno iz zavesti ljudi dejstvo,
-                     da moramo v okviru komunističnega sodstva govoriti ne samo o zunajsodnih
-                     pobojih, ampak tudi o sodnih pobojih – kar bi mnogo povedalo o ideologiji, ki
-                     se ji je bil ta poslanec nekoč zapisal.</p>
+                     Deklaracije o <pb n="010"/> protipravnem delovanju komunističnega totalitarnega
+                     režima, je poslanec Tone Anderlič rekel, da bo LDS sodelovala, če bo vsebina
+                     primerna, zlasti pa, če ne bo žalila – logično smo sedaj pričakovali, da bo
+                     rekel komunistov, a je najprej nekoliko počakal, potem pa smo zaslišali:
+                     kogarkoli. Enkrat v tistih dneh je poslanec Miran Potrč v DZ izjavil, da so
+                     oni, ZLSD, že leta 1995 obsodili »zunajsodne poboje domobrancev,« in s tem
+                     pokazal, da je velik verbalist – obsoditi je že dovolj, mar ne? Bolj važno pa
+                     je to, da je s to formulacijo bilo – ne vem kolikič že – izrinjeno iz zavesti
+                     ljudi dejstvo, da moramo v okviru komunističnega sodstva govoriti ne samo o
+                     zunajsodnih pobojih, ampak tudi o sodnih pobojih – kar bi mnogo povedalo o
+                     ideologiji, ki se ji je bil ta poslanec nekoč zapisal.</p>
                   <p>Navedeni primeri so bolj dokaz za prisebnost posameznikov in se jih drži značaj
                      zasebnih dosežkov. Zakon o grobiščih, njegovo sprejemanje, stavki, ki so bili
                      ob tem izrečeni in napisani, pa bi sposobnemu, s potrebno izobrazbo opremljenem
@@ -672,18 +658,16 @@
                      zgodovinskim somišljenikom: »ta zakon ne piše zgodovine«, »zgodovina se je že
                      zgodila«, zgodovine »ne moremo spremeniti«, »evropski in ameriški zgodovinarji«
                      so že »presodili«, »priznali«. Torej: nič se ne bojte, vse imamo pod kontrolo,
-                     »celota ... je v rokah naših zgodovinarjev«. Zanimiv je nadalje stavek: »Sodbe o
+                     »celota … je v rokah naših zgodovinarjev«. Zanimiv je nadalje stavek: »Sodbe o
                      življenju naj nikomur ne odrekajo pravice do groba«. Razumemo, katero svobodo
                      je predsednik s tem stavkom dopustil in komu, ne vemo pa, kaj pomeni tale
-                     skupina besedi: »medsebojno ideološko in politično obračunavanje 
-                     <pb n="011"/>
-                     neposredno po
-                     vojni«. Kje je predsednik našel moč za to zvezo besedi? Namesto genocida imamo
-                     po vojni torej tole sliko: na forumu se dajejo pristaši nasprotniki komunizma
-                     med seboj, ne samo posamezniki, ampak tudi politične stranke – saj je bilo
-                     obračunavanje »politično«. V resnici pa je povojni čas obvladovalo preprosto
-                     dejstvo, da je samo ena stran imela možnost »obračunavanja« in je to možnost
-                     tudi strahotno izkoriščala.</p>
+                     skupina besedi: »medsebojno ideološko in politično obračunavanje <pb n="011"/>
+                     neposredno po vojni«. Kje je predsednik našel moč za to zvezo besedi? Namesto
+                     genocida imamo po vojni torej tole sliko: na forumu se dajejo pristaši
+                     nasprotniki komunizma med seboj, ne samo posamezniki, ampak tudi politične
+                     stranke – saj je bilo obračunavanje »politično«. V resnici pa je povojni čas
+                     obvladovalo preprosto dejstvo, da je samo ena stran imela možnost
+                     »obračunavanja« in je to možnost tudi strahotno izkoriščala.</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_05.png"/>
                      <head>In po tej poti <name type="author">Mirko Kambič</name></head>
@@ -717,21 +701,20 @@
                      tem pa se nekoliko slabo počuti njen stavek, da »je protirevolucija prav tako
                      pobijala kot je pobijala leta 1942 revolucija in to zelo grdo«. Torej je le
                      bila revolucija tudi med vojno. Toda dr. Hribarjevo moti še nekaj: »Če govorite
-                     o revoluciji, 
-                     <pb n="012"/>
-                     potem morate govoriti tudi o protirevoluciji. Ni mogoče
-                     reducirati protirevolucije na zločine revolucije«. Zdi se, da je avtorica teh
-                     misli hotela nekoliko omajati odnos med vzrokom in učinkom v zgodovini. Po
-                     njenem mnenju bi morali govoriti ne samo o vojni, ampak tudi o protivojni, kot
-                     o nečem samostojnem, ne samo o zločinu, ampak tudi o protizločinu, kot nečem
-                     samostojnem. Glede revolucije je, ne da bi jo z besedo omenil, povedal nekaj
-                     važnih stvari Ivan Kebrič – v navalu neke iskrenosti, za katero ne bi pokazali
-                     dovolj hvaležnosti, če odlomka ne bi navedli: »Če ne bi bilo vojne, ne bom
-                     ugibal, kaj bi bilo. Drugič, ne bom ugibal, kaj bi bilo, če bi bila druga stran
-                     zmagovalec, kaj bi oni počeli. Mi imamo ta dejstva. Posledica zmagovalca je
-                     bila takratna oblast, ki je pač naredila določene napake in to mesto jasno
-                     definira, če ne bi bilo vojne, če ne bi bilo tega zmagovalca, verjetno, lahko
-                     predpostavljamo, ali pa tudi ne, bi bile drugačne posledice«.</p>
+                     o revoluciji, <pb n="012"/> potem morate govoriti tudi o protirevoluciji. Ni
+                     mogoče reducirati protirevolucije na zločine revolucije«. Zdi se, da je
+                     avtorica teh misli hotela nekoliko omajati odnos med vzrokom in učinkom v
+                     zgodovini. Po njenem mnenju bi morali govoriti ne samo o vojni, ampak tudi o
+                     protivojni, kot o nečem samostojnem, ne samo o zločinu, ampak tudi o
+                     protizločinu, kot nečem samostojnem. Glede revolucije je, ne da bi jo z besedo
+                     omenil, povedal nekaj važnih stvari Ivan Kebrič – v navalu neke iskrenosti, za
+                     katero ne bi pokazali dovolj hvaležnosti, če odlomka ne bi navedli: »Če ne bi
+                     bilo vojne, ne bom ugibal, kaj bi bilo. Drugič, ne bom ugibal, kaj bi bilo, če
+                     bi bila druga stran zmagovalec, kaj bi oni počeli. Mi imamo ta dejstva.
+                     Posledica zmagovalca je bila takratna oblast, ki je pač naredila določene
+                     napake in to mesto jasno definira, če ne bi bilo vojne, če ne bi bilo tega
+                     zmagovalca, verjetno, lahko predpostavljamo, ali pa tudi ne, bi bile drugačne
+                     posledice«.</p>
                   <p>
                      <emph>Revolucija</emph> je še enkrat nastopila v kontekstu vprašanja, ali so
                      bili pomorjeni domobranci žrtve »revolucije« ali žrtve »revolucionarnega
@@ -792,7 +775,7 @@
                      tridelni zaključni TV nastop Danice Simšič:</p>
                   <p>»Me veseli, da se pogovarjamo, da se vedno bolj pogovarjamo; in da se tudi
                      slišimo.«</p>
-                     <pb n="013"/>
+                  <pb n="013"/>
                   <p>»Hkrati pa je prispevek, ki smo ga videli, dokaz, kakšne strahote povzroča
                      vojna«.</p>
                   <p>(To se nanaša na TV vložek o Zgornji Bistrici).</p>
@@ -812,10 +795,8 @@
                      uresničijo tak diskurzivni raster, da nastane podoba, kakor da je v njem mogoče
                      reči karkoli, a so hkrati rezervirana fiksna mesta za določene in predpisane in
                      obvezne besede. To je tako, kot pravi Goethe: Vor allem haltet euch an Worte! –
-                     ´Predvsem pa, držite vedno se besed´. Tiste določene in predpisane 
-                     <pb n="014"/>
-                     obvezne
-                     besede je nekoč postavljal generalni sekretar. Kdo pa jih danes?</p>
+                     ´Predvsem pa, držite vedno se besed´. Tiste določene in predpisane <pb n="014"
+                     /> obvezne besede je nekoč postavljal generalni sekretar. Kdo pa jih danes?</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_06.png"/>
                      <head>Ali bo šlo? <name type="author">Mirko Kambič</name></head>
@@ -877,7 +858,7 @@
                <head>Ob šestdesetletnici izbruha komunističnega terorja</head>
                <docAuthor>Janko Maček</docAuthor>
                <div type="div3">
-                     <pb n="015"/>
+                  <pb n="015"/>
                   <p>Že bežen pogled na leto 1942 nam pove, da je bil to čas hudega revolucionarnega
                      terorja in neusmiljenih italijanskih represalij. Zaradi tega je postala stiska
                      zlasti na podeželju tako huda, da so se ljudje odločili za samoobrambo. Začel
@@ -921,15 +902,13 @@
                      začeli prenočevati z orožjem ob sebi. Vsekakor je to bilo po sestanku, ki so ga
                      partizani v noči na 19. april priredili v vaški gostilni in na njem že grozili
                      s smrtjo. Seveda so tedaj samo slutili, da so Šentjoščani že oboroženi, pa tudi
-                     Italijani 
-                     <pb n="016"/>
-                     za to niso vedeli. Šentjoška vaška straža je uradno nastopila 17.
-                     julija – s privoljenjem italijanske oblasti, saj so Italijani pred tem prinesli
-                     v Šentjošt nekaj pušk in municije, in pod vodstvom Franca Kompareta – Igorja,
-                     ki ga je poslalo vodstvo Slovenske legije iz Ljubljane. Le en teden kasneje so
-                     partizani Dolomitskega odreda ob podpori enot Narodne zaščite napadli vaško
-                     stražo v Šentjoštu, ki pa je napad vzdržala in se s tem zapisala v zgodovino
-                     slovenske potikomunistične samoobrambe. </p>
+                     Italijani <pb n="016"/> za to niso vedeli. Šentjoška vaška straža je uradno
+                     nastopila 17. julija – s privoljenjem italijanske oblasti, saj so Italijani
+                     pred tem prinesli v Šentjošt nekaj pušk in municije, in pod vodstvom Franca
+                     Kompareta – Igorja, ki ga je poslalo vodstvo Slovenske legije iz Ljubljane. Le
+                     en teden kasneje so partizani Dolomitskega odreda ob podpori enot Narodne
+                     zaščite napadli vaško stražo v Šentjoštu, ki pa je napad vzdržala in se s tem
+                     zapisala v zgodovino slovenske potikomunistične samoobrambe. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_07.png"/>
                      <head>Golobina pri Škriljah, kjer Obrh zapušča Loško dolino <name type="author"
@@ -986,17 +965,15 @@
                      in jih obdržal skozi pet stoletij. Pred drugo svetovno vojno je imel Lož svojo
                      mestno občino, ki pa je bila leta 1938 ukinjena in priključena občini Stari
                      trg. Starotrška občina je tako ob začetku okupacije štela nekaj več kot 5000
-                     prebivalcev; pod njo je spadalo tudi področje samostojne župnije 
-                     <pb n="017"/>
-                     Babno Polje ob
-                     hrvaški meji proti Čabru. Ko v Starem trgu stopiš v farno cerkev sv. Jurija,
-                     nehote začutiš božjo bližino in zvestobo, ki so jo v teh krajih prvič oznanili
-                     oglejski misijonarji in ki je niti komunistična revolucija ni mogla odpraviti.
-                     O trdnosti in zvestobi, ki se ne ozira na modne muhe, govori tudi masiven
-                     samostojni zvonik, le za nekaj metrov odmaknjen od cerkve. Starotrška fara ima
-                     še danes triindvajset podružnih cerkva in cerkvic, raztresenih po vsej dolini.
-                     Skoraj vsaka vas ima svojo, celo Zgornje Poljane visoko v Racni gori niso brez
-                     nje.</p>
+                     prebivalcev; pod njo je spadalo tudi področje samostojne župnije <pb n="017"/>
+                     Babno Polje ob hrvaški meji proti Čabru. Ko v Starem trgu stopiš v farno cerkev
+                     sv. Jurija, nehote začutiš božjo bližino in zvestobo, ki so jo v teh krajih
+                     prvič oznanili oglejski misijonarji in ki je niti komunistična revolucija ni
+                     mogla odpraviti. O trdnosti in zvestobi, ki se ne ozira na modne muhe, govori
+                     tudi masiven samostojni zvonik, le za nekaj metrov odmaknjen od cerkve.
+                     Starotrška fara ima še danes triindvajset podružnih cerkva in cerkvic,
+                     raztresenih po vsej dolini. Skoraj vsaka vas ima svojo, celo Zgornje Poljane
+                     visoko v Racni gori niso brez nje.</p>
                   <p>Pred prvo svetovno vojno v Loški dolini ni bilo skoraj nobene industrije, razen
                      nekaj žag in mlinov, v Ložu pa nekaj usnjarske obrti. Škerbec je nekje zapisal,
                      da v Ložu ni bilo nobenega meščana doma, kadar so kmetje šli na polje. Ko se je
@@ -1059,10 +1036,8 @@
                      Nalepili so jim etikete vohunov in izdajalcev. Toda kje so bili ti vohuni in
                      izdajalci, če je OF lahko nastopala napol javno in vzdrževala lepo količino
                      odličnega orožja ter se urila z njim. Zakaj se Strle nikoli ni vprašal, ali ni
-                     morda prav ta smer, ki jo je 
-                     <pb n="018"/>
-                     ubral občinski odbor, povzročila marsikatero gorje
-                     v Loški dolini.</p>
+                     morda prav ta smer, ki jo je <pb n="018"/> ubral občinski odbor, povzročila
+                     marsikatero gorje v Loški dolini.</p>
                </div>
                <div type="div3">
                   <head>V dolino je stopil umor </head>
@@ -1092,29 +1067,27 @@
                      obsojena na smrt. Komaj je povedal tistih nekaj besed, že sta odjeknila dva
                      smrtonosna strela in nato so se izgubili v noč.</p>
                   <p>Franc Strle omenja ta dogodek v uvodnem delu monografije Tomšičeva brigada v
-                     poglavju o Dakijevi leteči patrulji. Najprej poudari, 
-                     <pb n="019"/>
-                     kako »pomembno opravilo
-                     je bilo na tedanji stopnji osvobodilnega boja zatiranje narodnih izdajalcev«,
-                     nato našteje nekaj »kaznovanj«, ki jih je opravila Dakijeva skupina, in
-                     nadaljuje: »V Iga vas pri Ložu so morali priti poravnat račun že s Travne gore.
-                     Spotoma so v Smrekovcih odkrili in presenetili dotlej neznano četo partizanov,
-                     ki se je imenovala Rakovška in ki se je šele zbirala. Zvečer 16. marca 1942 so
-                     se borci te čete spustili v Igavas; tu sta morala za izdajalsko šopirjenje
-                     plačati z življenjem oče Franc Žigmond iz Igavasi 26, zakrnjen pristaš
-                     Italijanov, in njegova hčerka Alojzija, predsednica ženske fašistične zveze.
-                     Vest o tem so ljudje sprejeli z velikim olajšanjem in odobravanjem«. Kot
-                     dopolnilo tega podatka navede Strle še naslednjo opombo: »Vest o tem je
-                     prinesel Slovenski poročevalec (notranjska izdaja) 17. marca 1942, št. 1, na
-                     str. 4 pod naslovom Ubiti izdajalci, isti list št. 13 z dne 31. marca 1942 pa
-                     še popravek glede imena. Prva vest se s popravkom imena in priimka glasi: »Dne
-                     17. marca je bil v Igavasi pri Starem trgu ubit izdajalec Žigmond Franc, ki je
-                     bil strah celi Loški dolini. Isti dan je bila ubita tudi njegova hči Alojzija
-                     Žigmond, izdajalka, italijanska vlačuga in predsednica ženskega fašija. Pogreba
-                     obeh se je udeležil cel karabinjerski zbor, kar je jasen dokaz, da nista padli
-                     nedolžni žrtvi. Smrt izdajalcem slovenskega naroda!’ Oba lista hrani Muzej
-                     ljudske revolucije v Ložu, našel pa ju je prof. Anton Avsec«. (F. Strle,
-                     Tomšičeva brigada – uvodni del, str. 237)</p>
+                     poglavju o Dakijevi leteči patrulji. Najprej poudari, <pb n="019"/> kako
+                     »pomembno opravilo je bilo na tedanji stopnji osvobodilnega boja zatiranje
+                     narodnih izdajalcev«, nato našteje nekaj »kaznovanj«, ki jih je opravila
+                     Dakijeva skupina, in nadaljuje: »V Iga vas pri Ložu so morali priti poravnat
+                     račun že s Travne gore. Spotoma so v Smrekovcih odkrili in presenetili dotlej
+                     neznano četo partizanov, ki se je imenovala Rakovška in ki se je šele zbirala.
+                     Zvečer 16. marca 1942 so se borci te čete spustili v Igavas; tu sta morala za
+                     izdajalsko šopirjenje plačati z življenjem oče Franc Žigmond iz Igavasi 26,
+                     zakrnjen pristaš Italijanov, in njegova hčerka Alojzija, predsednica ženske
+                     fašistične zveze. Vest o tem so ljudje sprejeli z velikim olajšanjem in
+                     odobravanjem«. Kot dopolnilo tega podatka navede Strle še naslednjo opombo:
+                     »Vest o tem je prinesel Slovenski poročevalec (notranjska izdaja) 17. marca
+                     1942, št. 1, na str. 4 pod naslovom Ubiti izdajalci, isti list št. 13 z dne 31.
+                     marca 1942 pa še popravek glede imena. Prva vest se s popravkom imena in
+                     priimka glasi: »Dne 17. marca je bil v Igavasi pri Starem trgu ubit izdajalec
+                     Žigmond Franc, ki je bil strah celi Loški dolini. Isti dan je bila ubita tudi
+                     njegova hči Alojzija Žigmond, izdajalka, italijanska vlačuga in predsednica
+                     ženskega fašija. Pogreba obeh se je udeležil cel karabinjerski zbor, kar je
+                     jasen dokaz, da nista padli nedolžni žrtvi. Smrt izdajalcem slovenskega
+                     naroda!’ Oba lista hrani Muzej ljudske revolucije v Ložu, našel pa ju je prof.
+                     Anton Avsec«. (F. Strle, Tomšičeva brigada – uvodni del, str. 237)</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_09.png"/>
                      <head>Kandarovi iz Dan v začetku tridesetih let – od leve Franc, Marija, Janez,
@@ -1173,10 +1146,8 @@
                      knjižici o Loški dolini, ki smo jo že omenili, enostavno zapiše, da naj bi bila
                      to nekakšna dobrodelna organizacija. Njena voditeljica za Ljubljansko pokrajino
                      je seveda bila Italijanka. Po poročilu iz januarja 1942 je bilo v njej v 30
-                     sekcijah vpisanih 2024 kmečkih gospodinj, skoraj 
-                     <pb n="020"/>
-                     polovica v Beli krajini. (T.
-                     Ferenc, Fašisti brez krinke, str. 58-64)</p>
+                     sekcijah vpisanih 2024 kmečkih gospodinj, skoraj <pb n="020"/> polovica v Beli
+                     krajini. (T. Ferenc, Fašisti brez krinke, str. 58-64)</p>
                   <p>Občina Stari trg je pred letom 1941 spadala v okraj Logatec. Po italijanski
                      zasedbi je v Logatcu uradoval komisar Umberto Rosin. Gotovo je že zgodaj začel
                      pritiskati na občinsko oblast v Starem trgu, naj ustanovi organizacijo kmečkih
@@ -1235,10 +1206,8 @@
                      odobravala umor Zigmundovih. Celo pristaši OF so dvomili v njegovo
                      upravičenost, nekateri so bili zmedeni in prestrašeni, mnogi pa so bili
                      ogorčeni. Pogreba se je udeležilo izredno veliko ljudi, zato pa je kmalu
-                     pricurljala vest, 
-                     <pb n="021"/>
-                     da v bodoče ne bo več prilike za take pogrebe, ker bodo
-                     izdajalcem sodili v gozdu. </p>
+                     pricurljala vest, <pb n="021"/> da v bodoče ne bo več prilike za take pogrebe,
+                     ker bodo izdajalcem sodili v gozdu. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_10.png"/>
                      <head>Ljubljana 1936 – Kandarovi Marija in Ivana s prijateljico <name
@@ -1286,12 +1255,10 @@
                      Zigmundovi po prihodu v Logatec zatožili župana Mlakarja kot povzročitelja
                      njihove nesreče. Komisar Rosin je v pismu od 19. maja res omenil, da pred 11.
                      majem nihče ni vedel za županovo povezanost z OF, ker je celo družina Zigmund
-                     molčala v strahu pred novim nasiljem in je šele po prihodu na 
-                     <pb n="022"/>
-                     varno
-                     spregovorila. (AINZ, VK 20, 169482) Tej komisarjevi trditvi nasprotuje izjava
-                     Jožeta Zigmunda, da jih v Logatcu o Mlakarju sploh niso spraševali, saj so
-                     vedeli, na kakšen način je bila Alojzija pritegnjena k organizaciji kmečkih
+                     molčala v strahu pred novim nasiljem in je šele po prihodu na <pb n="022"/>
+                     varno spregovorila. (AINZ, VK 20, 169482) Tej komisarjevi trditvi nasprotuje
+                     izjava Jožeta Zigmunda, da jih v Logatcu o Mlakarju sploh niso spraševali, saj
+                     so vedeli, na kakšen način je bila Alojzija pritegnjena k organizaciji kmečkih
                      žena. Lahko bi rekli, da je komisarjevo pisanje dokaz, da župana nihče ni izdal
                      in da komisar pravzaprav opravičuje sebe. Ob pisanju tega poročila je Rosin
                      tudi že vedel, da sta se Mlakar in njegov sin po odhodu Italijanov iz Starega
@@ -1361,12 +1328,10 @@
                      italijanske ofenzive. Matija Škerbec, ki je kmalu potem prišel pogledat domov,
                      je napisal poročilo o dogodkih, ki jim je bil sam priča ali jih je slišal
                      neposredno od prizadetih. Poglejmo nekaj odlomkov iz njegovega poročila: »Lož:
-                     Pogorelo je 58 številk s približno 80 objekti. Nepoškodovanih je ostalo 
-                     <pb n="023"/>
-                     le 40
-                     številk, med njimi pošta, sodnija in mežnarija. Požiganje se je začelo
-                     istočasno na 20 krajih, da ljudje sploh niso mogli nikamor. Bili so po
-                     pripovedovanju tako apatični, da so kot majhni otroci gledali ogenj in drug
+                     Pogorelo je 58 številk s približno 80 objekti. Nepoškodovanih je ostalo <pb
+                        n="023"/> le 40 številk, med njimi pošta, sodnija in mežnarija. Požiganje se
+                     je začelo istočasno na 20 krajih, da ljudje sploh niso mogli nikamor. Bili so
+                     po pripovedovanju tako apatični, da so kot majhni otroci gledali ogenj in drug
                      drugemu pripovedovali, kje se vnema; da bi gasili, ni prišlo nobenemu na um.
                      Tudi veter je napravil svoje in v pol ure je bilo vse v plamenu.</p>
                   <p>Vrhnika: Pogorelo je 22 hiš z vsemi gospodarskimi poslopji. Vse, kar se je dalo
@@ -1434,26 +1399,24 @@
                   <p>V poročilu Matije Škerbca o razmerah v Loški dolini po koncu italijanske
                      ofenzive, ki smo ga že omenili, so omenjene tudi vaške straže. Škerbec tu piše,
                      da je problem, ker »so mlajši fantje skoro vsi odpeljani: iz Dan 30 – naši,
-                     Kozarišče 32, iz Nadleska 25, iz Šmarate 8 ... Sedaj je za vaško stražo
+                     Kozarišče 32, iz Nadleska 25, iz Šmarate 8 … Sedaj je za vaško stražo
                      priglašenih 58 ljudi in od teh jih je dobilo orožje 24. Kadar g. Presetnik, ki
                      sedaj županuje, župnikuje in vaškim stražam v tej občini poveljuje, prosi pri
-                     komandi 
-                     <pb n="024"/>
-                     za orožje, dobi stalni odgovor: Domani (jutri).« Kako naj to razumemo?
-                     Ker je Škerbec pisal poročilo okrog 20. avgusta, lahko sklepamo, da je tedaj
-                     kljub internacijam bilo za vaško stražo prijavljenih 58 fantov in mož, dobili
-                     pa so samo 24 pušk. Italijani so očitno odlašali z izročitvijo orožja. Logaški
-                     komisar Rosin je še konec oktobra svaril Graziolija pred prehitrim širjenjem
-                     vaških straž in priporočal, naj jih omeji na tista področja, kjer močneje
-                     delujejo partizani (»Limitare la costituzione della M.V.A.C. a quelle zone dove
-                     maggiormente infieriscono i banditi. AINZ, VK 20, N 326 RP) Jožeta Mlakarja so
-                     Italijani ustrelili 30. julija in tako je bila konec avgusta občina še brez
-                     župana. Župnik je ves čas vztrajal na svojem mestu in Italijani so se v
-                     določenih zadevah obračali nanj. Grozili so mu z bombardiranjem vasi in s
-                     ponovnimi represalijami, če še ne bo miru. Kakšno je bilo njegovo poveljevanje
-                     vaškim stražam, bomo videli v nadaljevanju tega poglavja. Tako župnik kot
-                     njegovi farani so bili postavljeni pred odločitev. Vaške straže so bile nujne
-                     tudi zaradi zaščite pred Italijani.</p>
+                     komandi <pb n="024"/> za orožje, dobi stalni odgovor: Domani (jutri).« Kako naj
+                     to razumemo? Ker je Škerbec pisal poročilo okrog 20. avgusta, lahko sklepamo,
+                     da je tedaj kljub internacijam bilo za vaško stražo prijavljenih 58 fantov in
+                     mož, dobili pa so samo 24 pušk. Italijani so očitno odlašali z izročitvijo
+                     orožja. Logaški komisar Rosin je še konec oktobra svaril Graziolija pred
+                     prehitrim širjenjem vaških straž in priporočal, naj jih omeji na tista
+                     področja, kjer močneje delujejo partizani (»Limitare la costituzione della
+                     M.V.A.C. a quelle zone dove maggiormente infieriscono i banditi. AINZ, VK 20, N
+                     326 RP) Jožeta Mlakarja so Italijani ustrelili 30. julija in tako je bila konec
+                     avgusta občina še brez župana. Župnik je ves čas vztrajal na svojem mestu in
+                     Italijani so se v določenih zadevah obračali nanj. Grozili so mu z
+                     bombardiranjem vasi in s ponovnimi represalijami, če še ne bo miru. Kakšno je
+                     bilo njegovo poveljevanje vaškim stražam, bomo videli v nadaljevanju tega
+                     poglavja. Tako župnik kot njegovi farani so bili postavljeni pred odločitev.
+                     Vaške straže so bile nujne tudi zaradi zaščite pred Italijani.</p>
                   <p>Če lahko verjamemo Francu Strletu, ki se je o tem leta 1990 razpisal v
                      Nedeljskem dnevniku, so bile do 17. avgusta vzpostavljene vaške straže v Danah,
                      Vrhniki, Pudobu, Kozariščah in Podložu. (Nedeljski dnevnik 1990, 8. in 15.
@@ -1513,15 +1476,13 @@
                      otrok je bil Feliks, ki je tedaj bil v internaciji. Mežnarjeva hiša je bila
                      določena za središče vaške straže v Vrhniki in Jakob Palčič naj bi jo vodil.
                      Menda so imeli šest pušk, somišljenikov pa več, vendar so tisto noč bili v hiši
-                     samo Jakob in Ivan 
-                     <pb n="025"/>
-                     Palčič ter Julijanin mož Janez Porok. Brez odpora so
-                     izročili puške. Partizani so trojico takoj zvezali in začeli ropati trgovino.
-                     Vse, kar je bilo vrednega, so znosili na voz; zaklali so prašiča in ga tudi
-                     naložili. Ker se je oče, ki so mu tudi ukazali iti z njimi, izgovarjal, da ga
-                     boli noga, so še njega posadili na voz in se odpravili proti Viševku. Komaj so
-                     prišli iz vasi, so se v Viševku zaslišali streli in nebo je razsvetlil sij
-                     požara. To je partizane, ki so šli ob vozu, nekoliko zaposlilo. Oče je to
+                     samo Jakob in Ivan <pb n="025"/> Palčič ter Julijanin mož Janez Porok. Brez
+                     odpora so izročili puške. Partizani so trojico takoj zvezali in začeli ropati
+                     trgovino. Vse, kar je bilo vrednega, so znosili na voz; zaklali so prašiča in
+                     ga tudi naložili. Ker se je oče, ki so mu tudi ukazali iti z njimi, izgovarjal,
+                     da ga boli noga, so še njega posadili na voz in se odpravili proti Viševku.
+                     Komaj so prišli iz vasi, so se v Viševku zaslišali streli in nebo je razsvetlil
+                     sij požara. To je partizane, ki so šli ob vozu, nekoliko zaposlilo. Oče je to
                      izkoristil, smuknil na tla in se zavlekel v koruzo ob cesti. Tako se je rešil.
                      Sin Jože je slišal strele in nemir pri domači hiši, zato se je hitro umaknil od
                      doma, kar pa ni bilo potrebno, saj ga niso iskali. Pač pa so se oglasili na
@@ -1559,14 +1520,12 @@
                      Janezovi smrti je prišel v Dane in zanj maševal v tamkajšnji cerkvici.
                      Sorodniki in vaščani, ki so se tedaj zbrali v velikem številu, so si zapomnili
                      besede, ki jih je kaplan izrekel po maši: »Blagor Tebi, Janez, ki si prejel
-                     krono mučeništva!« 
-                     <pb n="026"/>
-                     Verjetno je Kramarič slutil, da mučeništvo čaka tudi njega.
-                     Ustrelili so ga v njegovi sobi v kaplaniji isto noč kot enajst starotrških
-                     faranov. Da bi opravičili svoje zločinsko dejanje, so potem o kaplanu širili
-                     razne klevete in laži, tudi s pomočjo Slovenskega poročevalca. Večina tega je
-                     po letu 1945 prišla v razne monografije in zbornike, postala je del uradne
-                     zgodovine.</p>
+                     krono mučeništva!« <pb n="026"/> Verjetno je Kramarič slutil, da mučeništvo
+                     čaka tudi njega. Ustrelili so ga v njegovi sobi v kaplaniji isto noč kot enajst
+                     starotrških faranov. Da bi opravičili svoje zločinsko dejanje, so potem o
+                     kaplanu širili razne klevete in laži, tudi s pomočjo Slovenskega poročevalca.
+                     Večina tega je po letu 1945 prišla v razne monografije in zbornike, postala je
+                     del uradne zgodovine.</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_13.png"/>
                      <head>Palčičevi ali Mežnarjevi iz Vrhnike leta 1937 ob naboru najmlajšega sina
@@ -1605,22 +1564,20 @@
                      krivičnost napadov na oba omenjena duhovnika, seveda pa pri tem razkril tudi
                      marsikatero podrobnost v zvezi v vaškimi stražami, ki nas posebej zanima.</p>
                   <p>Očitno je, da župnik Presetnik in kaplan Kramarič do zadnjega nista bila
-                     navdušena za 
-                     <pb n="027"/>
-                     oborožen odpor in da sta temu primerno tudi »vzpodbujala« ljudi.
-                     Umor Janeza Kandareta je gotovo pripomogel, da se je pri ljudeh, ki jih je že
-                     prej bilo strah komunizma, jeziček na tehtnici začel nagibati na drugo stran.
-                     Kaj bi šele bilo, ko bi že tedaj vedeli za seznam nasprotnikov OF, predvidenih
-                     za likvidacijo, ki sta ga partija in OF Loške doline po vsej verjetnosti
-                     sestavili v juniju 1942. Vendar tudi potem, ko ni bilo več izbire, ko so
-                     nekatere vasi sprejele prve puške, pri njih ni videti zagnanosti za boj. Na
-                     obeh straneh, pri partizanih v gozdu in pri stražarjih v vasi, so bili domači
-                     ljudje; še včeraj so bili sosedje, prijatelji, včasih celo bližnji sorodniki,
-                     so skupaj delali in praznovali, kako naj nenadoma postanejo sovražniki. Seveda
-                     je bil ta občutek močnejši pri tistih v vasi, saj so bili že od nekdaj tako
-                     vzgojeni in niso imeli politkomisarja, ki bi spreminjal njihov »narodni
-                     značaj«. Duhovnika, ki so jima kasneje pripisali toliko zlega, v tem smislu
-                     gotovo nista delovala. Spomnimo se, kako je kaplan Pezdir pri sv. Vidu
+                     navdušena za <pb n="027"/> oborožen odpor in da sta temu primerno tudi
+                     »vzpodbujala« ljudi. Umor Janeza Kandareta je gotovo pripomogel, da se je pri
+                     ljudeh, ki jih je že prej bilo strah komunizma, jeziček na tehtnici začel
+                     nagibati na drugo stran. Kaj bi šele bilo, ko bi že tedaj vedeli za seznam
+                     nasprotnikov OF, predvidenih za likvidacijo, ki sta ga partija in OF Loške
+                     doline po vsej verjetnosti sestavili v juniju 1942. Vendar tudi potem, ko ni
+                     bilo več izbire, ko so nekatere vasi sprejele prve puške, pri njih ni videti
+                     zagnanosti za boj. Na obeh straneh, pri partizanih v gozdu in pri stražarjih v
+                     vasi, so bili domači ljudje; še včeraj so bili sosedje, prijatelji, včasih celo
+                     bližnji sorodniki, so skupaj delali in praznovali, kako naj nenadoma postanejo
+                     sovražniki. Seveda je bil ta občutek močnejši pri tistih v vasi, saj so bili že
+                     od nekdaj tako vzgojeni in niso imeli politkomisarja, ki bi spreminjal njihov
+                     »narodni značaj«. Duhovnika, ki so jima kasneje pripisali toliko zlega, v tem
+                     smislu gotovo nista delovala. Spomnimo se, kako je kaplan Pezdir pri sv. Vidu
                      opozarjal vidovske fante, ko so zvedeli, da od Krvave Peči nadnje prihajajo
                      partizani: »Branite se, a ne ubijajte!« V noči na 3. september 1942 bi za tiste
                      v Danah in Vrhniki komaj mogli reči, da so se branili. Oni iz gozda pa so že
@@ -1740,12 +1697,10 @@
                   <p>Tudi ko naj bi bila birma na Jesenicah 22. junija 1952, pa je ni bilo, so mu
                      verniki z birmanci vred izkazali svojo vdanost in zvestobo. Storili so vse, da
                      bi birma bila in ni jih bilo mogoče prepričati, da birme ne bo; ko so končno
-                     sprevideli, 
-                     <pb n="029"/>
-                     da birme resnično ne bo, so hoteli škofa zaščititi pred napadalci;
-                     ostali so mirni kljub podivjani množici; javno so takrat in kasneje izražali in
-                     živeli svoje versko prepričanje, kljub posledicam, ki so temu zadržanju
-                     sledile; po izgonu škofa so mnogi to dejanje javno obsodili.</p>
+                     sprevideli, <pb n="029"/> da birme resnično ne bo, so hoteli škofa zaščititi
+                     pred napadalci; ostali so mirni kljub podivjani množici; javno so takrat in
+                     kasneje izražali in živeli svoje versko prepričanje, kljub posledicam, ki so
+                     temu zadržanju sledile; po izgonu škofa so mnogi to dejanje javno obsodili.</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_14.png"/>
                      <head>Pogled na Jesenice <name type="author"/></head>
@@ -1823,7 +1778,7 @@
                      jeseniških železarjev. Urejal ga je Bojan Čebulj, amaterski igralec in režiser
                      jeseniškega gledališča Tone Čufar. Osrednji članek obsoja ‘protiljudsko
                      dejavnost klerofašizma.’</p>
-                     <pb n="031"/>
+                  <pb n="031"/>
                   <p>Na zboru delovnih ljudi je »povzel besedo ljudski poslanec in prvoborec za
                      pravice proletariata tov. Mlakar Janez. Med drugim je povedal tudi sledeče:
                      »Kakor ne bomo nikdar pozabili barbarstev in zločinov Mussolinijeve ‘hrabre’
@@ -1894,12 +1849,10 @@
                   <p>Slutnje, da bodo škofa res izgnali, so že v ranem nedeljskem jutru postale za
                      vernike resnica ...</p>
                   <p>Pri Markeževih, živeli so na Murovi, le kakih petdeset metrov od cerkve, so
-                     zgodaj vstali. K njim naj bi škof in še nekateri drugi duhovniki 
-                     <pb n="032"/>
-                     prišli po
-                     birmi na kosilo. Najmlajši Markev sin osemnajstletni Janez (1934) je že ob
-                     štirih zjutraj šel pomolst kravo in nakrmit konja v sosedov hlev, ker ga sami
-                     niso imeli. Vedel je, da bo kasneje še dosti dela, ker bodo morali z brati
+                     zgodaj vstali. K njim naj bi škof in še nekateri drugi duhovniki <pb n="032"/>
+                     prišli po birmi na kosilo. Najmlajši Markev sin osemnajstletni Janez (1934) je
+                     že ob štirih zjutraj šel pomolst kravo in nakrmit konja v sosedov hlev, ker ga
+                     sami niso imeli. Vedel je, da bo kasneje še dosti dela, ker bodo morali z brati
                      izprazniti in pripraviti za kosilo očetovo pisarno, ker drugega primernega
                      prostora niso imeli. Takoj ko je stopil iz hiše, je opazil, da je pot na gosto
                      nastlana z lističi, med vojno bi jim rekli letaki. Posebno veliko jih je bilo
@@ -1936,7 +1889,7 @@
                      se je kri spremenila v blagoslovljeno vodo, ker sem lahko samo to združila s
                      škofovo roko in verjetno imam zato v spominu tudi napis: Škofova roka ne bo
                      blagoslavljala naših otrok. </p>
-                     <pb n="033"/>
+                  <pb n="033"/>
                   <p>Moja leto starejša sestra Monika (1939), ki je bila opazila letak že pred mano
                      na vratih trgovine, pa je v svoji otroški glavi sklepala nekako takole: »Ne
                      smem se ustavljati, da bi gledala listek. Prenevarno je. Najbolje bo, da ga
@@ -2009,20 +1962,19 @@
                      se jim to zdelo kot nekakšno svetoskrunstvo.</p>
                   <p>Janez je zdaj budno spremljal dogajanje na glavni cesti. Tudi tukaj je bila
                      množica in kar naprej kričala. Kmalu se pripelje vsem znani taksist, dolgolasi
-                     Tinček z Bleda. Janez je videl 
-                     <pb n="034"/>
-                     v avtu blejskega župnika in frančiškane z
-                     Brezij. Tinček je takoj uvidel, da zaradi množice ne bo zmogel ostrega ovinka s
-                     ceste na klanec pred cerkvijo, zato je peljal naprej do Čufarjeve trgovine, se
-                     tam obrnil, zavil nazaj proti cerkvi in se hotel po klancu z brzino zapoditi do
-                     cerkve. Množica mu je to preprečila in ga ustavila. Tinček je moral odpreti
-                     okno. »Pelji nazaj, odkoder si prišel!« so mu ukazali. Prijeli so se za šipo in
-                     od vseh strani oklenili avto, šli ob avtu do hotela Pošte, in še naprej čez
-                     železniški most kot da se hočejo prepričati, da se bo Tinček zagotovo vrnil po
-                     isti cesti, po kateri je pripeljal z Bleda, skozi Staro Savo. Verjetno so s tem
-                     hoteli zagotoviti, da bo glavna cesta skozi Jesenice ostala prosta za škofa in
-                     ‘množični ‘ sprejem, ki mu ga prirejajo. Največja gneča je bila prav na cesti
-                     pod stopnicami v cerkev, kjer je cesta najožja.</p>
+                     Tinček z Bleda. Janez je videl <pb n="034"/> v avtu blejskega župnika in
+                     frančiškane z Brezij. Tinček je takoj uvidel, da zaradi množice ne bo zmogel
+                     ostrega ovinka s ceste na klanec pred cerkvijo, zato je peljal naprej do
+                     Čufarjeve trgovine, se tam obrnil, zavil nazaj proti cerkvi in se hotel po
+                     klancu z brzino zapoditi do cerkve. Množica mu je to preprečila in ga ustavila.
+                     Tinček je moral odpreti okno. »Pelji nazaj, odkoder si prišel!« so mu ukazali.
+                     Prijeli so se za šipo in od vseh strani oklenili avto, šli ob avtu do hotela
+                     Pošte, in še naprej čez železniški most kot da se hočejo prepričati, da se bo
+                     Tinček zagotovo vrnil po isti cesti, po kateri je pripeljal z Bleda, skozi
+                     Staro Savo. Verjetno so s tem hoteli zagotoviti, da bo glavna cesta skozi
+                     Jesenice ostala prosta za škofa in ‘množični ‘ sprejem, ki mu ga prirejajo.
+                     Največja gneča je bila prav na cesti pod stopnicami v cerkev, kjer je cesta
+                     najožja.</p>
                </div>
                <div type="div3">
                   <head>Prihod in izgon škofa</head>
@@ -2090,7 +2042,7 @@
                      <head>Škof Anton Vovk na birmovanju v Šentrupertu 1956, s tajnikom Ivanom
                         Merlakom <name type="author"/></head>
                   </figure>
-                     <pb n="035"/>
+                  <pb n="035"/>
                   <p>»Škofija takrat ni imela svojega avtomobila, zato smo največkrat najemali
                      taksista z najboljšim avtom, zdi se mi, da se je pisal Vizjak. On si je edini
                      upal voziti škofa, ko so po birmi v Kočevju l. 1947 porezali vse gume taksistu,
@@ -2126,14 +2078,12 @@
                      in morda sta zato obe birmi potekali brez zapletov. 5. julija je bila birma
                      tudi v Mošnjah. V Mošnje je prišlo 26 birmancev z Jesenic.</p>
                   <p>Oktobra istega leta nam je prišel Vizjak povedat, da mu je ponoči v garaži
-                     zgorel avto. Škof 
-                     <pb n="036"/>
-                     mu je na razne načine pomagal, bilo pa je tudi čedalje več
-                     taksistov na razpolago. Istega meseca so me za sedemnajst dni zaprli , ker
-                     nisem privolil, da bi bil njihov vohun in jim javljal, kaj se dogaja na
-                     škofiji. Verjetno je tudi zato l.1964 verska komisija odbila, da bi na Teološki
-                     fakulteti poučeval moralko. Niso pa mogli preprečiti, da ne bi leto kasneje
-                     postal urednik in upravnik Družine.«</p>
+                     zgorel avto. Škof <pb n="036"/> mu je na razne načine pomagal, bilo pa je tudi
+                     čedalje več taksistov na razpolago. Istega meseca so me za sedemnajst dni
+                     zaprli , ker nisem privolil, da bi bil njihov vohun in jim javljal, kaj se
+                     dogaja na škofiji. Verjetno je tudi zato l.1964 verska komisija odbila, da bi
+                     na Teološki fakulteti poučeval moralko. Niso pa mogli preprečiti, da ne bi leto
+                     kasneje postal urednik in upravnik Družine.«</p>
                   <p>»9. januarja 1953 je bil škof Vovk z nekaterimi drugimi jugoslovanskimi škofi
                      pri Titu, saj so bili decembra 1952 prekinjeni diplomatski stiki med Beogradom
                      in Vatikanom. Od takrat naprej je bilo za škofa lažje,« se spominja Ivan
@@ -2179,10 +2129,8 @@
                      policaji, seveda zato, da bi takoj prijeli vsakogar, ki bi demonstrantom
                      nasprotoval. Ko je avto odpeljal, so še nekaj časa stali, potem pa so odšli
                      proti cerkvi. Poleg naše pisarne so imeli pisarno avstrijski železničarji,
-                     večinoma Korošci. Ves čas so pridno fotografirali 
-                     <pb n="037"/>
-                     in že opoldne je celovški
-                     radio poročal o napadu na škofa.«</p>
+                     večinoma Korošci. Ves čas so pridno fotografirali <pb n="037"/> in že opoldne
+                     je celovški radio poročal o napadu na škofa.«</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_18.png"/>
                      <head>Tone Ravnikar z botrom Jožetom Markežem 1953 <name type="author"/></head>
@@ -2251,11 +2199,9 @@
                      petje partizanskih pesmi. Sledila sem tudi tem, saj smo jih, Titovi pionirji,
                      znali vse. Spominjam se grobne tišine v cerkvi med povzdigovanjem. V trenutku,
                      ko smo pokleknili, je od zunaj zadonelo: ‘Na juriš, na juriš, na juriš!’ V tem
-                     jutru sem 
-                     <pb n="038"/>
-                     spoznala nekaj: Ti ljudje zunaj nam nagajajo, ti mrki pogledi mož nas
-                     ne marajo, te kričave ženske nas ustrahujejo. Mi pa imamo mašo, kakršne v naši
-                     cerkvi ne pomnim!</p>
+                     jutru sem <pb n="038"/> spoznala nekaj: Ti ljudje zunaj nam nagajajo, ti mrki
+                     pogledi mož nas ne marajo, te kričave ženske nas ustrahujejo. Mi pa imamo mašo,
+                     kakršne v naši cerkvi ne pomnim!</p>
                   <p>Po koncu maše je bila množica še vedno pred cerkvijo. Toda zdaj se je uredila v
                      špalir. Eden po eden smo hodili skozenj. Mama je šla za nami, dekleti. ‘Farška
                      kurba!’ se je ena od žensk zadrla na mojo mamo. Malo sem bila presenečena, ker
@@ -2289,7 +2235,7 @@
                      na Jesenicah na eni strani in do resnično religioznih ljudi na drugi
                      strani.«</p>
                   <p>»Znano je, da so se klerikalni elementi zelo vneto pripravljali, da pod krinko
-                     birme manifestirajo svoje sovražno protiljudsko razpoloženje.« ... «Jeseniški
+                     birme manifestirajo svoje sovražno protiljudsko razpoloženje.« … «Jeseniški
                      klerikalci pa so si le malo preveč privoščili, ko so vseeno povabili Vovka, naj
                      pride birmovat, češ, da je na Jesenicah le nekaj gobcačev, ki delajo hrup okoli
                      njegovega prihoda.« Nato so poimensko navedeni posamezniki in njihova
@@ -2313,10 +2259,10 @@
                      <head>Kanu, s katerim so včasih zapeljali po Bohinjskem jezeru tudi škofa <name
                            type="author"/></head>
                   </figure>
-                     <pb n="039"/>
+                  <pb n="039"/>
                   <p>»Klerikalni eksponenti skušajo spraviti v defenzivo naše aktiviste z očitki, da
                      ni kulturno, ko se Vovka ni pustilo birmovat. To izjavljajo ljudje, ki nimajo
-                     zato nobenih moralnih kvalifikacij.« ... »Mi pa vprašamo te kulturne ljudi, ali
+                     zato nobenih moralnih kvalifikacij.« … »Mi pa vprašamo te kulturne ljudi, ali
                      je bilo kulturno, kar so počenjali duhovniki po Dolenjskem in drugod, ko so
                      ubijali nedolžne otroke in matere, škof Rožman pa jim je pošiljal svoj
                      blagoslov in pohvale. Prav to bi danes počel tudi Vovk, saj si drzne matere
@@ -2347,11 +2293,9 @@
                      V spomin na sv. birmo, 22. junij 1952. Čudno, zakaj na zadnji strani, si mislim
                      in gledam knjižico še naprej. Odpreta se mi prvi dve strani, temno lisasti od
                      osušenega lepila. Tudi tu zagledam posvetilo: Spomin na birmo, julij 1930. L.
-                     1952 
-                     <pb n="040"/>
-                     in še dolgo kasneje ni bilo mogoče dobiti niti rožnega venčka, še manj
-                     molitvenika. Kaj je hotela dobra botra? Podarila je birmanki svojega in ta ga
-                     še danes hvaležno hrani. </p>
+                     1952 <pb n="040"/> in še dolgo kasneje ni bilo mogoče dobiti niti rožnega
+                     venčka, še manj molitvenika. Kaj je hotela dobra botra? Podarila je birmanki
+                     svojega in ta ga še danes hvaležno hrani. </p>
                   <p>Ob tem so se tudi v meni zganili občutki, ki jih hranim v spominu na birmo. S
                      sestrami in z mlajšim bratom smo šli k birmi v škofijsko kapelo naslednje leto
                      na praznik Kristusa Kralja. Ni bila velika skrb le obleka, nič manjša je bila,
@@ -2408,13 +2352,11 @@
                   <p>Tudi škof Vovk si je hotel zagotoviti mir in je šel na versko komisijo v
                      Ljubljani: »Ne grem na Jesenice, če mi ne obljubite, da bo mir!« »Mi nimamo nič
                      pri tem,« so mu zatrjevali na komisiji. »Seveda imate«, jim je odvrnil škof,
-                     »pred šestimi leti so na Jesenicah dobili iz Ljubljane 
-                     <pb n="041"/>
-                     nalog, da so me
-                     izgnali.« O tem obisku na verski komisiji je škof kasneje šaljivo pripovedoval
-                     Markeževemu Janezu na počitnicah v Bohinju. Rad se je pošalil in nasmejal, da
-                     je v takih trenutkih pozabil na preobremenjenost z delom in na vse prestano
-                     hudo.</p>
+                     »pred šestimi leti so na Jesenicah dobili iz Ljubljane <pb n="041"/> nalog, da
+                     so me izgnali.« O tem obisku na verski komisiji je škof kasneje šaljivo
+                     pripovedoval Markeževemu Janezu na počitnicah v Bohinju. Rad se je pošalil in
+                     nasmejal, da je v takih trenutkih pozabil na preobremenjenost z delom in na vse
+                     prestano hudo.</p>
                   <p>Ko sem ob pisanju tega članka ponovno premišljala o mnogih, že znanih krepostih
                      nadškofa Vovka, se mi vedno jasneje izrisuje ena od mnogih, ki je temeljna in
                      mati vseh drugih kreposti: nadškofova prava krščanska ponižnost. Vsaka druga
@@ -2463,12 +2405,10 @@
                      v Bukovico še Tone, stara mama in teta, stari oče pa je umrl 1934. leta. S sabo
                      niso mogli prinesti ničesar. Pustiti so morali vse, tudi živino. Ljudje, ki se
                      niso imeli kam umakniti na italijansko stran, so ostali doma. Zaobljubili so
-                     se, da bodo šli vsako leto 2. maja na Zaplaz, če jih ne bodo 
-                     <pb n="042"/>
-                     preselili. No, po
-                     vojni so šli lahko v procesiji na Zaplaz samo dvakrat, potem je bila procesija
-                     prepovedana, lahko pa so hodili vsak zase. Tako čudna je pač bila
-                     osvoboditev.</p>
+                     se, da bodo šli vsako leto 2. maja na Zaplaz, če jih ne bodo <pb n="042"/>
+                     preselili. No, po vojni so šli lahko v procesiji na Zaplaz samo dvakrat, potem
+                     je bila procesija prepovedana, lahko pa so hodili vsak zase. Tako čudna je pač
+                     bila osvoboditev.</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_23.png"/>
                      <head>Ivan, ki je po vojni nosil največjo težo in imel potem odprta vrata za
@@ -2531,7 +2471,7 @@
                      kako jih bodo preživeli in kaj bo z njimi. Bratje niso več prišli domov, bilo
                      je prenevarno, saj so partizani z majhnim trudom imeli pregled nad celo
                      dolinico.</p>
-                     <pb n="043"/>
+                  <pb n="043"/>
                   <figure>
                      <graphic url="slike_z_45/z_45_25.png"/>
                      <head>Lojze (1927), umorjen kot domobranec 1945 <name type="author"/></head>
@@ -2577,29 +2517,27 @@
                      starost in koliko časa sem bil pri domobrancih. Potem so nas poslali proti
                      Ljubljani. Ko smo šli v Medvodah čez most, mi je neki partizan predlagal, naj
                      pobegnem. Šli smo naravnost v Škofove zavode, vendar ne v stavbo. Posedli smo
-                     po pločnikih. Tam sem videl domačina Habjanovega Pepeta, 
-                     <pb n="044"/>
-                     pa ga nisem hotel
-                     prositi vode, raje sem prosil drugega partizana, ki je bil videti usmiljen; res
-                     nam jo je nanesel vsem. Potem so nas naložili na vagone. Tudi v vagonu sva bila
-                     skupaj s Tonetom. Za klavnico smo morali po brvi peš čez Ljubljanico. Za ograjo
-                     so stali Ljubljančani, nas pretepali in zmerjali, zato smo se trudili, da bi
-                     prišli čimprej čez. Pred menoj je hodil partizanski stražar zelo počasi, zato
-                     sem ga prijel in prestavil. Če bi mi kaj hotel, bi se ga oprijel in skočil v
-                     Ljubljanico. V vagonu na drugi strani sem bil spet skupaj s Tonetom in Španovim
-                     Jožetom iz Dolenje vasi pri Temenici. Zelo smo bili natlačeni. V Grosupljem so
-                     nas nekaj časa vozili sem in tja, potem sem pa zagledal kopanjsko cerkev. Čutil
-                     sem nepremagljivo željo, da bi pobegnil. Odtrgal sem gatre na živinskem vagonu.
-                     Hotel sem skozi luknjo, pa so me vlekli nazaj, češ kaj bodo naredili z njimi.
-                     Skočil sem in nato še Tone in še Španov. Na vagonih so bili žarometi in na
-                     vsakem koncu straža. Strkljali smo se po škarpi pri Čušperku in se odplazili
-                     stran. Streljali so s strojnicami. S Tonetom sva se kmalu dobila, nato se je
-                     prikazal še Španov. Šli smo čez dolino in se usedli v listje. Poslušali smo
-                     puhanje vlaka. Nenadoma mi je prišlo, da bi šel nazaj k tovarišem in delil
-                     njihovo usodo, če bi bilo mogoče, tako zelo nas je trpljenje povezalo. Izgubili
-                     smo orientacijo. Zjutraj smo prišli nad Luče in opazili samotnega kosca, ki smo
-                     ga vprašali, kje leži Grosuplje. Potem smo vedeli, kje smo. Šli smo vsak na
-                     svoj dom. </p>
+                     po pločnikih. Tam sem videl domačina Habjanovega Pepeta, <pb n="044"/> pa ga
+                     nisem hotel prositi vode, raje sem prosil drugega partizana, ki je bil videti
+                     usmiljen; res nam jo je nanesel vsem. Potem so nas naložili na vagone. Tudi v
+                     vagonu sva bila skupaj s Tonetom. Za klavnico smo morali po brvi peš čez
+                     Ljubljanico. Za ograjo so stali Ljubljančani, nas pretepali in zmerjali, zato
+                     smo se trudili, da bi prišli čimprej čez. Pred menoj je hodil partizanski
+                     stražar zelo počasi, zato sem ga prijel in prestavil. Če bi mi kaj hotel, bi se
+                     ga oprijel in skočil v Ljubljanico. V vagonu na drugi strani sem bil spet
+                     skupaj s Tonetom in Španovim Jožetom iz Dolenje vasi pri Temenici. Zelo smo
+                     bili natlačeni. V Grosupljem so nas nekaj časa vozili sem in tja, potem sem pa
+                     zagledal kopanjsko cerkev. Čutil sem nepremagljivo željo, da bi pobegnil.
+                     Odtrgal sem gatre na živinskem vagonu. Hotel sem skozi luknjo, pa so me vlekli
+                     nazaj, češ kaj bodo naredili z njimi. Skočil sem in nato še Tone in še Španov.
+                     Na vagonih so bili žarometi in na vsakem koncu straža. Strkljali smo se po
+                     škarpi pri Čušperku in se odplazili stran. Streljali so s strojnicami. S
+                     Tonetom sva se kmalu dobila, nato se je prikazal še Španov. Šli smo čez dolino
+                     in se usedli v listje. Poslušali smo puhanje vlaka. Nenadoma mi je prišlo, da
+                     bi šel nazaj k tovarišem in delil njihovo usodo, če bi bilo mogoče, tako zelo
+                     nas je trpljenje povezalo. Izgubili smo orientacijo. Zjutraj smo prišli nad
+                     Luče in opazili samotnega kosca, ki smo ga vprašali, kje leži Grosuplje. Potem
+                     smo vedeli, kje smo. Šli smo vsak na svoj dom. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_27.png"/>
                      <head>Tone, januarja 1944 v Ljubljani <name type="author"/></head>
@@ -2635,18 +2573,17 @@
                      šel javit o kresu 1956. Dolgo se nisva videla, imel je brado. Dolga leta
                      skrivanja so se mu poznala.« </p>
                   <p>Tone se je skrival sprva doma oziroma v bližini doma. Ta mali otroci so sicer
-                     včasih zvečer 
-                     <pb n="045"/>
-                     videli nekega čudnega bradatega moža, če pa so to povedali mami,
-                     je zmeraj rekla, da se motijo. Sprva se je skrival še z Dobravčevim Nacetom in
-                     Mikelj Tonetom iz Bukovice, vendar je menil, da ni dobro, če jih je več skupaj,
-                     ker lahko enega ali drugega ujamejo in ga s pretepanjem pripravijo do tega, da
-                     izda druge. Dobravčevega so februarja 1947 res prijeli, ker je hodil domov k
-                     ženi in otrokom. Res so ga tako pretepali, da je povedal za Toneta, ni pa mogel
-                     povedati, kje je, ker ni vedel. Nace je bil od vsega hudega tako izmučen, da je
-                     umrl mlad, star 53 let. Mikelj se je šel že čez pol leta javit. Štorovski oče s
-                     Sela, ki je bil na partizanski strani, je rekel, da bo zanj jamčil, vendar ni
-                     bilo iz tega nič in Mikelj se ni nikoli več vrnil.</p>
+                     včasih zvečer <pb n="045"/> videli nekega čudnega bradatega moža, če pa so to
+                     povedali mami, je zmeraj rekla, da se motijo. Sprva se je skrival še z
+                     Dobravčevim Nacetom in Mikelj Tonetom iz Bukovice, vendar je menil, da ni
+                     dobro, če jih je več skupaj, ker lahko enega ali drugega ujamejo in ga s
+                     pretepanjem pripravijo do tega, da izda druge. Dobravčevega so februarja 1947
+                     res prijeli, ker je hodil domov k ženi in otrokom. Res so ga tako pretepali, da
+                     je povedal za Toneta, ni pa mogel povedati, kje je, ker ni vedel. Nace je bil
+                     od vsega hudega tako izmučen, da je umrl mlad, star 53 let. Mikelj se je šel že
+                     čez pol leta javit. Štorovski oče s Sela, ki je bil na partizanski strani, je
+                     rekel, da bo zanj jamčil, vendar ni bilo iz tega nič in Mikelj se ni nikoli več
+                     vrnil.</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_28.png"/>
                      <head>Pred domačo hišo 1946 – Spredaj stojijo Jožefa, Marija, Pavle in Karel,
@@ -2680,30 +2617,28 @@
                   <p>Tonetovo skrivanje pa je prizadejalo dosti trpljenja domačim. Ker so vedeli, da
                      se Tone nekje skriva, so kar naprej prihajali miličniki in oznovci. Zasliševali
                      so tudi najmlajše, ki pa niso ničesar vedeli. Če se je le dalo, so se pred
-                     njimi poskrili. Očeta in mamo so večkrat 
-                     <pb n="046"/>
-                     odpeljali na Grosuplje ali v
-                     Ljubljano. Večkrat so ju zaprli. Mama je šele pred smrtjo povedala otrokom, da
-                     so jo klofutali, vleči se je morala na klop po trebuhu in so jo pretepali s
-                     pendrekom. Če vemo, da je v tem času rodila trinajstega otroka, se nam tako
-                     ravnanje zdi komaj predstavljivo.Očeta so tudi pretepali. Na Grosuplju so ga
-                     zaprli v nekakšno luknjo, kjer so bile za tla gatre in je spodaj tekla nekakšna
-                     umazana voda. Prav tako so pretepali takrat najstarejšega otroka Ivana, da mu
-                     je enkrat izza nohtov tekla kri, in ga zaprli. Ivan o tem še sedaj noče
-                     govoriti. Tudi Anico so za nekaj časa zaprli, tepli pa je niso. Zgodilo se je,
-                     da so bili doma včasih samo najmlajši otroci in je bila med njimi najstarejša
-                     Francka, ki je imela ob eni taki priložnosti samo 13 let, pa je morala
-                     poskrbeti za živino. Ob vsem tem pa so imeli še zelo veliko obvezno oddajo in
-                     visoke davke. Francka se spomni, da so eno leto peljali 18 voz v Radohovo vas.
-                     Brez pomoči dobrih ljudi ne bi šlo. Zelo so trpeli, toda sina in brata niso
-                     izdali. Vez med njimi je bila močnejša od bolečin in strahu pred smrtjo. Takšna
-                     je bila mati, ki je bila pripravljena dati življenje tolikim otrokom, ne da bi
-                     pomislila na žrtve in težave, ki so povezane s tem. To so bile matere, ki so se
-                     bile pripravljene razdati do zadnjega vlakna. Tak je bil oče, ki ga ni bilo
-                     strah iztrgati iz zemlje kruh za številno družino in se je držal pravila moli
-                     in delaj. Mama je umrla telesno izčrpana in živčno uničena 1977. leta, oče pa
-                     leta 1987, potem ko je videl preskrbljene vse svoje otroke, ki so si uredili
-                     domove in družine.</p>
+                     njimi poskrili. Očeta in mamo so večkrat <pb n="046"/> odpeljali na Grosuplje
+                     ali v Ljubljano. Večkrat so ju zaprli. Mama je šele pred smrtjo povedala
+                     otrokom, da so jo klofutali, vleči se je morala na klop po trebuhu in so jo
+                     pretepali s pendrekom. Če vemo, da je v tem času rodila trinajstega otroka, se
+                     nam tako ravnanje zdi komaj predstavljivo.Očeta so tudi pretepali. Na Grosuplju
+                     so ga zaprli v nekakšno luknjo, kjer so bile za tla gatre in je spodaj tekla
+                     nekakšna umazana voda. Prav tako so pretepali takrat najstarejšega otroka
+                     Ivana, da mu je enkrat izza nohtov tekla kri, in ga zaprli. Ivan o tem še sedaj
+                     noče govoriti. Tudi Anico so za nekaj časa zaprli, tepli pa je niso. Zgodilo se
+                     je, da so bili doma včasih samo najmlajši otroci in je bila med njimi
+                     najstarejša Francka, ki je imela ob eni taki priložnosti samo 13 let, pa je
+                     morala poskrbeti za živino. Ob vsem tem pa so imeli še zelo veliko obvezno
+                     oddajo in visoke davke. Francka se spomni, da so eno leto peljali 18 voz v
+                     Radohovo vas. Brez pomoči dobrih ljudi ne bi šlo. Zelo so trpeli, toda sina in
+                     brata niso izdali. Vez med njimi je bila močnejša od bolečin in strahu pred
+                     smrtjo. Takšna je bila mati, ki je bila pripravljena dati življenje tolikim
+                     otrokom, ne da bi pomislila na žrtve in težave, ki so povezane s tem. To so
+                     bile matere, ki so se bile pripravljene razdati do zadnjega vlakna. Tak je bil
+                     oče, ki ga ni bilo strah iztrgati iz zemlje kruh za številno družino in se je
+                     držal pravila moli in delaj. Mama je umrla telesno izčrpana in živčno uničena
+                     1977. leta, oče pa leta 1987, potem ko je videl preskrbljene vse svoje otroke,
+                     ki so si uredili domove in družine.</p>
                   <p>Zanimivo je, da se mama in ata nista nikoli sprijaznila z mislijo, da so drugi
                      trije sinovi domobranci pobiti. Živela sta v veri, da jih imajo nekje zaprte in
                      delajo in da bodo nekoč vendarle prišli od nekod. Molila sta zanje, o, molilo
@@ -2760,7 +2695,7 @@
                      <head>Poljane pred drugosvetovno vojno – Pogled proti škofjeloškim hribom <name
                            type="author"/></head>
                   </figure>
-                     <pb n="048"/>
+                  <pb n="048"/>
                   <p>Na ozemlju župnije Trata-Gorenja vas je umrlo na protikomunistični strani 80
                      ljudi, kot nemški vojaki jih je padlo 20 in lahko računamo, da okrog 50 na
                      partizanski strani. Kaj pomeni izguba 150 ljudi za župnijo, v kateri je takrat
@@ -2804,12 +2739,10 @@
                      je življenje pač tako, enkrat partizani, drugič Nemci, nazadnje še domobranci.
                      Nisem vedel, kaj hočejo eni in kaj drugi, da je svet pač tak in da drugačen ne
                      more biti. Ko se je vojna končala, sem imel devet let, pa ostal brez očeta.
-                     Videti je bilo, kot da je nekam odpotoval 
-                     <pb n="049"/>
-                     in bo vsak čas nazaj. Huje nas je
-                     udarila materina smrt pol leta kasneje, ker je prišla iznenada in smo bili
-                     zraven. Ostalo nas je šest sirot, najstarejši, Janez, je imel štirinajst,
-                     najmlajši, Maks, dve leti, jaz pa deset. </p>
+                     Videti je bilo, kot da je nekam odpotoval <pb n="049"/> in bo vsak čas nazaj.
+                     Huje nas je udarila materina smrt pol leta kasneje, ker je prišla iznenada in
+                     smo bili zraven. Ostalo nas je šest sirot, najstarejši, Janez, je imel
+                     štirinajst, najmlajši, Maks, dve leti, jaz pa deset. </p>
                   <p>Kar sem se začel zavedati in spominjati, so bili partizani redni gostje. Naša
                      kmetija, zdaj Trata 132, leži zase na pobočju nad desnim bregom Poljanske Sore
                      nekaj sto metrov proč od vasi. Iz gozda se je dalo zlahka in skrivaj priti do
@@ -2856,10 +2789,9 @@
                      Na lepem je zavpila, čeprav ni bilo jasno, komu so namenjene njene besede: »Le
                      počakajte, ta bele svinje, saj bo šel naš France v Loko!« Danes vem, da je
                      mislila na obračun z domobranci, ki so jih imeli takrat zaprte na škofjeloškem
-                     gradu. Med vojno so jo izselili skupaj z vso družino v Srbijo in je bila
-                     <pb n="050"/>
-                     prepričana, da se ji je zgodila najhujša krivica. V resnici so jo izseljenci
-                     najceneje odnesli. Vsi so se vrnili domov.</p>
+                     gradu. Med vojno so jo izselili skupaj z vso družino v Srbijo in je bila <pb
+                        n="050"/> prepričana, da se ji je zgodila najhujša krivica. V resnici so jo
+                     izseljenci najceneje odnesli. Vsi so se vrnili domov.</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_31.png"/>
                      <head>Valentin Ažbe (1903-1945) <name type="author"/></head>
@@ -2925,14 +2857,13 @@
                   <p>Vprašujete, kako sem prišel do dokumentov o zaplembi in očetu? Pred dvema
                      letoma, ko je bil oče že nekaj let napisan na farni plošči, so začeli govoriti
                      o odškodnini za pobite. Šel sem v Loko na matični urad po mrliški list. Niso mi
-                     <pb n="051"/>
-                     ga dali, češ da moram prinesti kak dokument, ki bo potrjeval, da je mrtev. Šel
-                     sem v Zgodovinski arhiv v Loki, na izpostavo Arhiva Slovenije. Prijazen mož,
-                     dr. France Štukel, ki je tam delal, je začel kopati in je našel kopijo o
-                     zaplembi kmetije: »Če bom še kaj dobil, vam bom poslal.« In res, čez tri dni mi
-                     pošlje dokument KLO Gorenja vas: »Ažbe Valentin, roj. 10. 2. 1903 na Žetini,
-                     stanujoč Trata št. 35. Odšel z Be-Ga dne 9. 5. 1945 na Koroško. Bil je pozneje
-                     viden v Škofji Loki, od takrat ni več glasu o njem.« </p>
+                        <pb n="051"/> ga dali, češ da moram prinesti kak dokument, ki bo potrjeval,
+                     da je mrtev. Šel sem v Zgodovinski arhiv v Loki, na izpostavo Arhiva Slovenije.
+                     Prijazen mož, dr. France Štukel, ki je tam delal, je začel kopati in je našel
+                     kopijo o zaplembi kmetije: »Če bom še kaj dobil, vam bom poslal.« In res, čez
+                     tri dni mi pošlje dokument KLO Gorenja vas: »Ažbe Valentin, roj. 10. 2. 1903 na
+                     Žetini, stanujoč Trata št. 35. Odšel z Be-Ga dne 9. 5. 1945 na Koroško. Bil je
+                     pozneje viden v Škofji Loki, od takrat ni več glasu o njem.« </p>
                   <p>Tako sem dobil mrliški list. Na matičnem uradu so res nagajali. Sprenevedali so
                      se in zahtevali od mene, naj napišem, kje je bil oče ubit, kot da sem bil
                      zraven. Res pa so kraj smrti, ki sem ga navedel, vpisali v mrliški list. Tako
@@ -2982,22 +2913,20 @@
                      žalostna procesija beguncev z Dolenjskega na vozovih, ki so jih vlekli konji in
                      voli. Ponoči nisem mogel spati in sem se že ob 4. uri zjutraj postavil pred
                      vrata in gledal, kaj se dogaja. Razmišljal sem, kaj storiti. Ko je bil že dan,
-                     pa priteče mimo sošolec, sicer domobranski poročnik, Regnov France, pisal se 
-                     <pb n="052"/>
-                     je
-                     Peternelj, doma s konca naše vasi, in me začudeno vpraša: »Kaj pa ti tukaj?«
-                     »Domov bi šel!« Rekel mi je, naj počakam, da bo uredil, in odhitel. In res je
-                     čez uro ali dve pripeljal tovornjak. Z njega je skočil France, me spravil v
-                     kabino, sam pa odšel. Vozil je Koconov Tone iz Suhega Dola. Z vsemi žavbami je
-                     bil namazan. Vsi smo vedeli zanj in njegov avto. Med vojno si je pomagal na
-                     razne načine, tudi s tihotapljenjem. Rekel mi je, da bo nevarno, saj so na poti
-                     v Ljubljano nanj streljali, in da je komaj ušel. Vrata avtomobila je pustil
-                     odprta: »Če bo kaj, bom skočil. Ti pa stori, kar hočeš.« Na srečo je bilo
-                     mirno. Peljal me je mimo Polhovega Gradca do Ljubljanice. »Naprej ne grem, je
-                     prenevarno!« Tam je imel namreč garažo. Poiskal sem si neke palice in bos
-                     pritaval do Suhega Dola. Tam so bili še domobranci. Telefonirali so očetu, da
-                     je prišel z vozom pome. Napor mi je škodoval, noga me je začela neznansko
-                     boleti in sem obležal. </p>
+                     pa priteče mimo sošolec, sicer domobranski poročnik, Regnov France, pisal se
+                        <pb n="052"/> je Peternelj, doma s konca naše vasi, in me začudeno vpraša:
+                     »Kaj pa ti tukaj?« »Domov bi šel!« Rekel mi je, naj počakam, da bo uredil, in
+                     odhitel. In res je čez uro ali dve pripeljal tovornjak. Z njega je skočil
+                     France, me spravil v kabino, sam pa odšel. Vozil je Koconov Tone iz Suhega
+                     Dola. Z vsemi žavbami je bil namazan. Vsi smo vedeli zanj in njegov avto. Med
+                     vojno si je pomagal na razne načine, tudi s tihotapljenjem. Rekel mi je, da bo
+                     nevarno, saj so na poti v Ljubljano nanj streljali, in da je komaj ušel. Vrata
+                     avtomobila je pustil odprta: »Če bo kaj, bom skočil. Ti pa stori, kar hočeš.«
+                     Na srečo je bilo mirno. Peljal me je mimo Polhovega Gradca do Ljubljanice.
+                     »Naprej ne grem, je prenevarno!« Tam je imel namreč garažo. Poiskal sem si neke
+                     palice in bos pritaval do Suhega Dola. Tam so bili še domobranci. Telefonirali
+                     so očetu, da je prišel z vozom pome. Napor mi je škodoval, noga me je začela
+                     neznansko boleti in sem obležal. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_33.png"/>
                      <head>Nekdanja hiša »Pri Leskovcu« <name type="author"/></head>
@@ -3033,7 +2962,7 @@
                      priklenjega, na vse vožnje in kamorkoli sem šel, pa sem ga jemal s seboj. Tako
                      se je navadil, da je vedno oprezal za menoj. Stal je za vrati in čakal. Na
                      vožnjah je veselo tekal ob konjih in se od sreče zaletaval vanje.</p>
-                     <pb n="053"/>
+                  <pb n="053"/>
                   <p>Rešil mi je življenje. Oče je imel opravljeno kmetijsko šolo in je znal vse.
                      Imeli smo najmanj petnajst glav govedi in tudi bika. Na dvorišču smo imeli
                      postavljen hrastov steber. Zanj smo privezali kravo, ki naj bi se obrejila,
@@ -3107,10 +3036,9 @@
                      Naduto se brez besed približajo konjem, si jih ogledujejo, eden od njih se
                      ustavi pri naši, ji pogleda zobe, jo prime za grivo, drugi mu poda sedlo, vojak
                      skoči na žival in odjaha brez pozdrava. Čista kraja! Pa je za nič ne bi dal.
-                     Neki mlinar, 
-                     <pb n="054"/>
-                     ki je iskal hlapca, mi je ponujal zanjo dva velika hlebca kruha.
-                     Čeprav sem bil lačen na smrt, mi na misel ni padlo, da bi menjal. </p>
+                     Neki mlinar, <pb n="054"/> ki je iskal hlapca, mi je ponujal zanjo dva velika
+                     hlebca kruha. Čeprav sem bil lačen na smrt, mi na misel ni padlo, da bi menjal.
+                  </p>
                </div>
                <div type="div3">
                   <head>Kozjakarjev iz Suše</head>
@@ -3182,14 +3110,12 @@
                      življenje ni nič. Sem bil v Galiciji, na italijanski fronti v Doberdobu, pa
                      take svinjarije, kar zganjate z menoj, ne bom prenašal.« Zaklenil je vrata.
                      Niso odnehali, tokli so po njih in rogovilili okrog hiše. Bili so trije, nismo
-                     jih poznali. 
-                     <pb n="055"/>
-                     Zavedel sem se, da gre zares. Če bi me dobili, bi me ustrelili.
-                     Tekel sem po starih velbah in skočil v seno nad hlevom. Slišal sem, ko si
-                     kličejo: »Daj, priženi ga!« in očeta: »Samo eden naj pride, pa ga bom ubil.«
-                     Čez nekaj časa je prišel za mano v hlev. Spoznal sem ga po hoji. Zašepetal mi
-                     je: »Tiho bodi, ne vem, če so šli.« Spravil se je na sredo štale, v roki je
-                     držal sekiro in tam stal do jutra. </p>
+                     jih poznali. <pb n="055"/> Zavedel sem se, da gre zares. Če bi me dobili, bi me
+                     ustrelili. Tekel sem po starih velbah in skočil v seno nad hlevom. Slišal sem,
+                     ko si kličejo: »Daj, priženi ga!« in očeta: »Samo eden naj pride, pa ga bom
+                     ubil.« Čez nekaj časa je prišel za mano v hlev. Spoznal sem ga po hoji.
+                     Zašepetal mi je: »Tiho bodi, ne vem, če so šli.« Spravil se je na sredo štale,
+                     v roki je držal sekiro in tam stal do jutra. </p>
                </div>
                <div type="div3">
                   <head>Domobrance so vrnili, v Loki jih imajo! </head>
@@ -3224,11 +3150,9 @@
                      govori. Potem pa me je strlo. Nisem šla gledat in vpraševat v grad kot druge.
                      Noter so spuščali samo svoje, da so pomagali pretepati naše reveže. Sosedova
                      Lojza se je hvalila, kako je tega Kumra, tega hudiča, torej našega, trikrat
-                     mahnila. Potem pa je hodila v hišo, kot da 
-                     <pb n="056"/>
-                     se ni nič zgodilo. Naš Franc je
-                     rekel: »Ko bom jaz gospodar, jo bom spodil!« Kasneje je trdila, da ni bilo res
-                     in da je govorila kar tako, ker se je lepo slišalo. </p>
+                     mahnila. Potem pa je hodila v hišo, kot da <pb n="056"/> se ni nič zgodilo. Naš
+                     Franc je rekel: »Ko bom jaz gospodar, jo bom spodil!« Kasneje je trdila, da ni
+                     bilo res in da je govorila kar tako, ker se je lepo slišalo. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_36.png"/>
                      <head>Konjeniki pred cerkvijo v Poljanah – Drugi z leve Franc Čadež <name
@@ -3271,16 +3195,14 @@
                      daleč ne bodo prišli. Tega niso skrivali. Ko smo šolarji pogozdovali gozd in
                      sadili smreke, je šlo meni in Tonetu kot namazano. Gospodar naju je opazil:
                      »Čigava sta pa ta dva?« »Kumrova« »Ta dva sta pa dobra!« Učitelj je odgovoril:
-                     »Saj morata biti, ker jima 
-                     <pb n="057"/>
-                     drugo ne kaže. Eden bo šel v Marmor za navadnega
-                     delavca, drugi pa bo za kmeta doma.« Pa sva se oba izučila mesarskega poklica
-                     in dobro nama gre. V Mariboru, kamor smo morali vajenci tri mesece vsako leto,
-                     je bilo bolj pravično. Tako so prve dni vsakega vprašali, kdo so starši.
-                     Povedal sem, da je oče umrl in da je bil domobranec. Ves razred se je glasno
-                     zasmejal. Takrat je učitelj zrasel in jim povedal svoje, kako so brez srca in
-                     naj jih bo sram. Minka naj bi ostala doma, pa je hotela naprej. Končala je
-                     večerno ekonomsko šolo in se zaposlila pri Marmorju. </p>
+                     »Saj morata biti, ker jima <pb n="057"/> drugo ne kaže. Eden bo šel v Marmor za
+                     navadnega delavca, drugi pa bo za kmeta doma.« Pa sva se oba izučila mesarskega
+                     poklica in dobro nama gre. V Mariboru, kamor smo morali vajenci tri mesece
+                     vsako leto, je bilo bolj pravično. Tako so prve dni vsakega vprašali, kdo so
+                     starši. Povedal sem, da je oče umrl in da je bil domobranec. Ves razred se je
+                     glasno zasmejal. Takrat je učitelj zrasel in jim povedal svoje, kako so brez
+                     srca in naj jih bo sram. Minka naj bi ostala doma, pa je hotela naprej. Končala
+                     je večerno ekonomsko šolo in se zaposlila pri Marmorju. </p>
                   <p>Pa je tisti kmet, ki nam je vzel kravo, čez leta pripeljal v naš obrat v Loki
                      kravo na zasilni zakol. Takrat sem ga podražil: »Ali je to krava, ki ste nam jo
                      takrat vzeli?« Bil je jezen in govoril, naj ne kvasim neumnosti, saj se ne
@@ -3340,14 +3262,13 @@
                      Nekaj časa jo je tuhtal v sebi, zaupal je ni še nobenemu. Na seji odbora Demosa
                      v občini Moste – Polje mu je uspelo člane prepričati – tudi sam je bil član
                      odbora – da bi ustanovili komisijo za medvojne in povojne poboje. Na občino
-                     Moste – Polje so 
-                     <pb n="058"/>
-                     dvakrat poslali prošnjo za dovoljenje, da ustanovijo komisijo,
-                     toda obakrat je bila zavrnjena, češ da v občini Moste – Polje ni bilo pobojev.
-                     Vendar Ložar ne bi bil Ložar, če bi odnehal že kar na začetku, čeprav je zdaj
-                     že vedel, da bo na vsakem koraku naletel na nasprotnike. Naj ne odneha, ga je
-                     vzpodbujal tudi predsednik njihovega odbora Demosa ing. Lojze Marinček, saj
-                     časi, ko se bo pričelo govoriti o pobojih, šele prihajajo. </p>
+                     Moste – Polje so <pb n="058"/> dvakrat poslali prošnjo za dovoljenje, da
+                     ustanovijo komisijo, toda obakrat je bila zavrnjena, češ da v občini Moste –
+                     Polje ni bilo pobojev. Vendar Ložar ne bi bil Ložar, če bi odnehal že kar na
+                     začetku, čeprav je zdaj že vedel, da bo na vsakem koraku naletel na
+                     nasprotnike. Naj ne odneha, ga je vzpodbujal tudi predsednik njihovega odbora
+                     Demosa ing. Lojze Marinček, saj časi, ko se bo pričelo govoriti o pobojih, šele
+                     prihajajo. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_37.png"/>
                      <head>Bizovik <name type="author"/></head>
@@ -3379,10 +3300,8 @@
                      v več kot štirih desetletjih pomnožilo, tako da Ložar mnogih ni poznal. </p>
                   <p>Pridobil je nekaj najožjih znancev, naj seznam raznosijo po hišah, kjer živijo
                      sorodniki pobitih in pogrešanih. Naj ga pregledajo, popravijo, dopolnijo. V ta
-                     namen je dodal seznamu 
-                     <pb n="059"/>
-                     še dve poli papirja. Ostali vaščani za ta seznam niso
-                     vedeli. </p>
+                     namen je dodal seznamu <pb n="059"/> še dve poli papirja. Ostali vaščani za ta
+                     seznam niso vedeli. </p>
                   <p>Čez kakih štirinajst dni so mu prinesli seznam nazaj. Ložar je ugotovil, da se
                      je zmotil samo za Petra Čarmana, ki ni med pogrešanimi, ampak živi v Argentini.
                      Drugi zaplet pa je povzročil Franc Anžič. Na Ložarjevem seznamu ga ni bilo, ker
@@ -3452,13 +3371,11 @@
                   <p>Ložar se vrne k tajnici in ji pove, da mora še do Drobniča. Sprejel ga je,
                      poslušal in se zapletel z Ložarjem v pogovor. </p>
                   <p>Vse podrobnosti je hotel vedeti. »Težava je v tem, da ne vem, ali smejo imena
-                     onih treh na smrt obsojenih ostati na seznamu, da se 
-                     <pb n="060"/>
-                     napišejo na spomenik?«
-                     zaupa Ložar svojo nerazrešljivo težavo državnemu tožilcu. »Vsi, tudi oni trije
-                     morajo biti na seznamu!« ustreli kot iz puške Drobnič. Ob tej pravični razsodbi
-                     se Ložarju ni odvalil le kamen od srca, ampak je dobil tudi veliko spodbudo, da
-                     je njegovo delo potrebno in pravilno. Torej pogumno naprej! </p>
+                     onih treh na smrt obsojenih ostati na seznamu, da se <pb n="060"/> napišejo na
+                     spomenik?« zaupa Ložar svojo nerazrešljivo težavo državnemu tožilcu. »Vsi, tudi
+                     oni trije morajo biti na seznamu!« ustreli kot iz puške Drobnič. Ob tej
+                     pravični razsodbi se Ložarju ni odvalil le kamen od srca, ampak je dobil tudi
+                     veliko spodbudo, da je njegovo delo potrebno in pravilno. Torej pogumno naprej! </p>
                   <p>Toda ni prišel daleč. Kmalu je spet naletel na nepredvidljivo in za nekaj časa
                      nepremostljivo oviro.</p>
                   <p>Ložar je vedel za spominske plošče padlim v prvi svetovni vojni, saj jo je tudi
@@ -3525,10 +3442,8 @@
                      od pomožnega škofa Kvasa. Pismo gospoda Kvasa ga je oblilo kot mrzel tuš.
                      Največjo podporo je Ložar pričakoval od cerkvenih predstavnikov, pa je dobil
                      najmočnejšo klofuto, kot danes sam pravi: pobiti Bizovičani bodo morali še
-                     dolgo čakati na pravico, da se smejo njihova imena javno 
-                     <pb n="061"/>
-                     izpisati na nagrobni
-                     spomenik. V pismu z dne 18.5. 1991 mu škof Kvas odgovarja: </p>
+                     dolgo čakati na pravico, da se smejo njihova imena javno <pb n="061"/> izpisati
+                     na nagrobni spomenik. V pismu z dne 18.5. 1991 mu škof Kvas odgovarja: </p>
                   <p>Spoštovani gospod Ložar,</p>
                   <p>Vaše pismo z dne 17. aprila 1991, v katerem predlagate postavitev obeležja v
                      obliki kamnite plošče z napisom imen padlih žrtev vaščanov domobrancev in
@@ -3600,14 +3515,12 @@
                      enem tednu bom več vedel in vas obvestil.« »Če je pa tako, vas ne bom več
                      obremenjeval, gospod nadškof,« je Ložarju od veselja glas skoraj zapel. »Sam se
                      bom pozanimal pri Novi Slovenski zavezi,« mu je hitel obljubljati. Ložar do
-                     zdaj še nikoli ni slišal za Novo Slovensko zavezo, toda takoj zasluti, da 
-                     <pb n="062"/>
-                     se
-                     bliža neki oprijemljivi točki in da se njegova pot skozi temen predor končuje.
-                     Po tem kratkem razgovoru se Ložarju približa p. Gabrijel. Nekaj besed je moral
-                     ujeti, saj takoj očita Ložarju, zakaj ne odneha in se ne drži dogovora. Kasneje
-                     je cerkveni ključar Ložarju povedal za župnikovo grožnjo, da plošče ne bo
-                     blagoslovil, če jo bo Ložar postavil samovoljno. </p>
+                     zdaj še nikoli ni slišal za Novo Slovensko zavezo, toda takoj zasluti, da <pb
+                        n="062"/> se bliža neki oprijemljivi točki in da se njegova pot skozi temen
+                     predor končuje. Po tem kratkem razgovoru se Ložarju približa p. Gabrijel. Nekaj
+                     besed je moral ujeti, saj takoj očita Ložarju, zakaj ne odneha in se ne drži
+                     dogovora. Kasneje je cerkveni ključar Ložarju povedal za župnikovo grožnjo, da
+                     plošče ne bo blagoslovil, če jo bo Ložar postavil samovoljno. </p>
                   <p>V tistih nekaj trenutkih pod zvezdnatim nebom je Ložar zaslutil blagoslov
                      božične noči in sporočilo angelov z nebes: Slava Bogu na višavah in na zemlji
                      mir ljudem, ki so blage volje. Velikokrat se je Ložar pri svojih prizadevanjih
@@ -3674,7 +3587,7 @@
                      ljudi kot ponavadi. Ko je po maši Ložar stopil na klop in glasno pričel brati
                      vabilo na sestanek in namen sestanka, je slišal, kako se mu trese glas. Hvala
                      Bogu, beseda je bila spregovorjena! </p>
-                     <pb n="063"/>
+                  <pb n="063"/>
                   <figure>
                      <graphic url="slike_z_45/z_45_38.png"/>
                      <head>Spominska plošča v Bizoviku <name type="author"/></head>
@@ -3698,7 +3611,7 @@
                   <p>Resnične težave pa so se začele šele zdaj. Vendar ne zaradi financ: mnogi
                      svojci in znanci pobitih so velikodušno darovali tudi namesto tistih, ki
                      denarja niso imeli, ali pa svojci pobitih niso več živeli ali za pobite niso
-                     hoteli vedeti ... Ti zadnji so zdaj postali za Ložarja najtrši oreh in ovira za
+                     hoteli vedeti … Ti zadnji so zdaj postali za Ložarja najtrši oreh in ovira za
                      celostno predstavitev vseh žrtev komunističnega nasilja. Za Ložarja so bili vsi
                      ubiti njegovi sovaščani, vsi enako pomembni, vsako življenje enako vredno,
                      nobenega imena ni hotel izpustiti. Na plošči naj bi bila napisana imena
@@ -3716,16 +3629,14 @@
                      vrnili. </p>
                   <p>Kaj zdaj? Vedel je, da so sami žrtve sovraštva, nestrpnosti in laži. Tudi pri
                      teh je osebno potrkal na vrata, nekaterih, npr. Koroščevih, pa nikoli ni bilo
-                     doma ... Vsakemu posebej je objasnil 
-                     <pb n="064"/>
-                     vse, kar je vedel o okoliščinah uboja in
-                     kraju smrti, saj je nekatere ubijalce celo osebno poznal. Zanj so bili ti
-                     obiski zelo pretresljivi in boleči iz različnih vzrokov: dvema sestrama ubitega
-                     domobranca je razkril do takrat zamolčano resnico, da je brata pobil s krampom
-                     vaščan, slaboumen moški. Iz ene od sester, osemdestletne starke, je govorilo
-                     tako sovraštvo, kot da bi še vedno živela v letu 1945. Bratranec ubitega pa mu
-                     je ponujal celo njegove fotografije z željo, da je ime ubitega končno napisano.
-                     Koga od obeh naj posluša?</p>
+                     doma … Vsakemu posebej je objasnil <pb n="064"/> vse, kar je vedel o
+                     okoliščinah uboja in kraju smrti, saj je nekatere ubijalce celo osebno poznal.
+                     Zanj so bili ti obiski zelo pretresljivi in boleči iz različnih vzrokov: dvema
+                     sestrama ubitega domobranca je razkril do takrat zamolčano resnico, da je brata
+                     pobil s krampom vaščan, slaboumen moški. Iz ene od sester, osemdestletne
+                     starke, je govorilo tako sovraštvo, kot da bi še vedno živela v letu 1945.
+                     Bratranec ubitega pa mu je ponujal celo njegove fotografije z željo, da je ime
+                     ubitega končno napisano. Koga od obeh naj posluša?</p>
                   <p>Pretresljiv je bil končno obisk pri sorodnikih Hribarjevih. Kar tri imena
                      Hribarjevih naj bi bila na plošči: očeta Janeza Hribarja, njegove hčerke
                      Ivanke, prve civilne žrtve, in sina Marjana. Ložar, podobno kot mnogi starejši
@@ -3792,14 +3703,12 @@
                      ni bilo stvari, ki bi ga lahko ustavila. Poleg tega je globoko v sebi čutil, da
                      bo uspel, če ne popusti. </p>
                   <p>V ponedeljek zjutraj, ko je imel napovedan sestanek s kriminalistoma, sploh ni
-                     odšel na policijo. 
-                     <pb n="065"/>
-                     Bil je prepričan o pravilnosti svojih prizadevanj: imena
-                     pobitih žrtev morajo biti končno javno izpisana in žrtve simbolno pokopane. Ali
-                     naj jih on ponovno pahne v pozabo in prezir, če se bo pustil ustrahovati? Ne,
-                     nikoli! Prijateljski in dobronamerni telefonski klici in svarila vaščanov:
-                     »Francelj, odnehaj, samo škodovali ti bodo!« so bili zanj le potrditev o
-                     pravilnosti njegovega dela. </p>
+                     odšel na policijo. <pb n="065"/> Bil je prepričan o pravilnosti svojih
+                     prizadevanj: imena pobitih žrtev morajo biti končno javno izpisana in žrtve
+                     simbolno pokopane. Ali naj jih on ponovno pahne v pozabo in prezir, če se bo
+                     pustil ustrahovati? Ne, nikoli! Prijateljski in dobronamerni telefonski klici
+                     in svarila vaščanov: »Francelj, odnehaj, samo škodovali ti bodo!« so bili zanj
+                     le potrditev o pravilnosti njegovega dela. </p>
                   <p>Ložar je mirno čakal, kaj bo zdaj sledilo. Vsi kozolci v Bizoviku so bili vsak
                      petek zvečer izpraznjeni. Podobno kot nekdaj med vojno in po vojni je vsa vas
                      živela v napetosti in strahu. V tako stanje jo lahko še danes spravijo samo
@@ -3865,10 +3774,10 @@
                      ki so se rade volje odzvali vabilu. Hitro je bila zbrana vsota, da se jim plača
                      avtobus. Tudi bizoviški gasilci, le z izjemo dveh, bodo s ponosom stali v
                      častni straži. Treba je bilo poskrbeti tudi za ozvočenje. To so opravili
-                     profesionalni delavci: med delom so hodili okrog cerkve tudi z mobiteli v
-                     <pb n="066"/>
-                     rokah, da so se prepričali, če je delo dobro opravljeno. Žal pa so med mnogimi
-                     Bizovičani zasejali strah, češ da se okrog cerkve zbira tajna policija.</p>
+                     profesionalni delavci: med delom so hodili okrog cerkve tudi z mobiteli v <pb
+                        n="066"/> rokah, da so se prepričali, če je delo dobro opravljeno. Žal pa so
+                     med mnogimi Bizovičani zasejali strah, češ da se okrog cerkve zbira tajna
+                     policija.</p>
                   <p>Okrog cerkve pa se je sprehodil tudi kakšen novinar, ki je oprezoval le to,
                      kdaj bo lahko zagnal vik in krik. Prilika se jim je ponudila že v soboto.
                      Zjutraj je prinesel Ložar od šivilje v Polju zastave in jih razobesil ob plošči
@@ -3939,7 +3848,7 @@
                      so umrli v božji vseodpuščajoči ljubezni. </p>
                </div>
                <div type="div3">
-                     <pb n="067"/>
+                  <pb n="067"/>
                   <head>Spominska plošča: za ene sprava, za druge razdor</head>
                   <p>Kakšne so bile čustvene reakcije nekaterih svojcev po blagoslovitvi spominske
                      plošče? Kot smo lahko že videli, zelo različne. Najbolj sta Ložarja pretresli
@@ -3973,12 +3882,11 @@
                      obsodili na smrt z obešenjem,« je Ložar pojasnjeval njegovemu sinu Borisu.
                      »Potemtakem sem jaz – janičar,« se je boleče izvilo iz Borisa. »Tebe so
                      zavedli, ker pa si pošten, si spregledal in ne trobiš naprej z njimi v isti
-                     rog. Pa saj si v 
-                     <pb n="068"/>
-                     teh zadnjih letih lahko že marsikaj prebral, kar ti daje
-                     pravilno misliti,« ga bodri Ložar še naprej. »Vse te knjige so zame svetinja,«
-                     prizna Boris Svetek in še doda: »Hvala za tvoje požrtvovalno delo, brez tebe in
-                     tvojega prizadevanja spominske plošče v Bizoviku ne bi imeli nikoli.«</p>
+                     rog. Pa saj si v <pb n="068"/> teh zadnjih letih lahko že marsikaj prebral, kar
+                     ti daje pravilno misliti,« ga bodri Ložar še naprej. »Vse te knjige so zame
+                     svetinja,« prizna Boris Svetek in še doda: »Hvala za tvoje požrtvovalno delo,
+                     brez tebe in tvojega prizadevanja spominske plošče v Bizoviku ne bi imeli
+                     nikoli.«</p>
                   <figure>
                      <graphic url="slike_z_45/z_45_39.png"/>
                      <head>Bizoviška spominska plošča – Na levi stojita Franc in Marija Ložar,
@@ -4043,7 +3951,7 @@
                      omenjen tudi Hribar in iz tega opisa je razvidno, da je bil domobranec. </p>
                   <p>Ženska je končno odnehala, ime Hribarjevega očeta oziroma starega očeta pa je
                      še danes zapisano na spominski plošči in partizanskem spomeniku. </p>
-                     <pb n="069"/>
+                  <pb n="069"/>
                   <p>Pričujoča zgodba o nastajanju in blagoslovitvi spominske plošče v Bizoviku je
                      le ena od mnogih v Sloveniji. Zanjo sem izvedela čisto po naključju in jo
                      zapisala: morda je lahko mnogim v zahvalo, drugim pa v spodbudo. Vsem nam in
@@ -4099,7 +4007,7 @@
                   <l>gori otroštvo sveta, </l>
                   <l>in v mojih tesnih žilah se dvigujejo </l>
                   <l>nova in nova obrežja </l>
-                  <l>umirajoče sinjine ... </l>
+                  <l>umirajoče sinjine … </l>
                </lg>
                <lg>
                   <l>Pojte, mrtvi! </l>
@@ -4191,15 +4099,14 @@
                      zakaj in kako so umrli, in ne, kdo je odgovoren za njihovo smrt, kdo je umore
                      ukazal, jih organiziral in izvršil, kdo so bili odgovorni poveljniki. Za
                      državno oblast so te žrtve še vedno sovražniki, kot so jih pred davnim časom
-                     lažno 
-                     <pb n="074"/>
-                     obsodili komunistični morilci. Zato jih država ne pozna in zanjo teh
-                     nedolžnih žrtev preprosto ni. Še vedno pa obstaja sramotilna in lažna trditev
-                     o»belogardističnem izdajstvu« v napisu na spomeniku žrtvam nemškega napada na
-                     partijsko šolo v Cerknem. Nikogar ni, ki bi to sramotno laž odstranil.
-                     Samoopevani junaki s priviligiranimi pokojninami takšnega dejanja niso
-                     sposobni. Priznati resnico ne znajo, ne morejo ali nočejo. Zavezani so laži in
-                     ostali so sužnji zločina, državna in lokalna oblast pa hlapec teh sužnjev. </p>
+                     lažno <pb n="074"/> obsodili komunistični morilci. Zato jih država ne pozna in
+                     zanjo teh nedolžnih žrtev preprosto ni. Še vedno pa obstaja sramotilna in lažna
+                     trditev o»belogardističnem izdajstvu« v napisu na spomeniku žrtvam nemškega
+                     napada na partijsko šolo v Cerknem. Nikogar ni, ki bi to sramotno laž
+                     odstranil. Samoopevani junaki s priviligiranimi pokojninami takšnega dejanja
+                     niso sposobni. Priznati resnico ne znajo, ne morejo ali nočejo. Zavezani so
+                     laži in ostali so sužnji zločina, državna in lokalna oblast pa hlapec teh
+                     sužnjev. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_42.png"/>
                      <head>Kranjska lilija <name type="author">Stanko Klinar</name></head>
@@ -4340,11 +4247,9 @@
                      odrešeniki. Ampak kako. Hja. »Sve se može, kad se hoće,« pravijo naši bivši
                      bratje. Torej. Vsakih nekaj let, ko se bo napak teh voditeljev in odrešiteljev
                      nagrmadilo že toliko, da bo prav vsak idiot opazil, da ga biksajo, ali pa,
-                     kadar bo treba kaj delikatnega postoriti, kar se lahko sfiži 
-                     <pb n="077"/>
-                     (npr.:
-                     osamosvojitev, pa pridružitev Evropski zvezi), za nekaj časa pripustijo k
-                     oblasti tiste, ki so jim sicer trn v peti. Medtem jih z vsemi topovi (beri:
+                     kadar bo treba kaj delikatnega postoriti, kar se lahko sfiži <pb n="077"/>
+                     (npr.: osamosvojitev, pa pridružitev Evropski zvezi), za nekaj časa pripustijo
+                     k oblasti tiste, ki so jim sicer trn v peti. Medtem jih z vsemi topovi (beri:
                      mediji) obstreljujejo, pokažejo vse njihove napake in kikse in pohlep in jih
                      potem znova vržejo s trona in se kot odrešeniki prikažejo ljudstvu. Medtem se
                      seveda pregrupirajo in konsolidirajo in ostanejo večno mladi in sposobni. Vedno
@@ -4427,6 +4332,7 @@
             <pb n="078"/>
             <head>Enciklopedija Slovenije – tiskovna konferenca NSZ</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Nova Slovenska zaveza je 3. aprila priredila v prostorih Svetovnega slovenskega
                      kongresa tiskovno konferenco, na kateri je hotela seznaniti slovensko javnost z
@@ -4485,12 +4391,10 @@
                      odločili, da si bodo z dediščino revolucije zgradili politično
                      prebivališče.</p>
                   <p>S tem pa je prizadeta predvsem tista tradicija, ki se je začela s Trubarjem in
-                     bi ji lahko rekli slovenska pismenost. Pismenost ne pomeni 
-                     <pb n="079"/>
-                     izdelovanja stavkov.
-                     Pismenost je govor, ki ga ni, če ni izmerjen. V totalitarizmu smo imeli
-                     perfektne avtomate za izdelovanje stavkov, a je vendar bil to čas bistvene
-                     nepismenosti.</p>
+                     bi ji lahko rekli slovenska pismenost. Pismenost ne pomeni <pb n="079"/>
+                     izdelovanja stavkov. Pismenost je govor, ki ga ni, če ni izmerjen. V
+                     totalitarizmu smo imeli perfektne avtomate za izdelovanje stavkov, a je vendar
+                     bil to čas bistvene nepismenosti.</p>
                   <p>To je razlog, da tistega dela ES, o katerem govorimo, ne obvladuje logika
                      integralnega sporočila. To trditev bodo moji prijatelji tule dokumentirali iz
                      različnih kotov in perspektiv. Tu samo nekaj primerov, da moj uvod ne bo
@@ -4548,7 +4452,7 @@
                <div>
                   <p>Prvi urednik Enciklopedije Slovenije Josip Vidmar je v uvodu k prvemu zvezku
                      zapisal temeljno načelo ES: <emph>»Vse v nji naj bi bilo zasnovano po enotni
-                        znanstveni metodi, in to na temeljih historičnega materializma. ... Ideja tega
+                        znanstveni metodi, in to na temeljih historičnega materializma. … Ideja tega
                         znanstvenega nazora in njegove metode naj bi bile prisotne v enciklopediji
                         povsod, s čimer bi postala močan faktor v vzgoji socialistične zavesti in
                         misli.«</emph> Temeljni namen ES torej ni bil zbirka podatkov in informacij
@@ -4557,13 +4461,11 @@
                      socialistične zavesti in misli. Temu propagandnemu načelu se je zvesto
                      podredilo tudi uredništvo in to izrecno priznalo v svojem predgovoru z
                      besedami: <emph>»Med biografska gesla so uvrščena tudi imena nekaterih ljudi,
-                        ki so 
-                        <pb n="080"/>
-                        med 2. svetovno vojno stopili na stran narodnega izdajstva, le da je
-                        tu izbor v skladu s temeljno zasnovo enciklopedije še skrbneje tehtal
-                        razloge za uvrstitev ali proti njej.« </emph>Temeljna zasnova enciklopedije
-                     – usmerjanje zavesti in misli – je zahtevala za ene drugačna merila kot za
-                     druge, torej pristranost in ne strokovno korektnost.</p>
+                        ki so <pb n="080"/> med 2. svetovno vojno stopili na stran narodnega
+                        izdajstva, le da je tu izbor v skladu s temeljno zasnovo enciklopedije še
+                        skrbneje tehtal razloge za uvrstitev ali proti njej.« </emph>Temeljna
+                     zasnova enciklopedije – usmerjanje zavesti in misli – je zahtevala za ene
+                     drugačna merila kot za druge, torej pristranost in ne strokovno korektnost.</p>
                   <p>Načelo usmerjanja zavesti in misli se v ES ne kaže samo s posebnim izborom in
                      tehtanjem biografskih gesel, ampak povsod v ES, kot je trdo zahteval Josip
                      Vidmar, pri vseh geslih, pri katerih je mogoče vplivati na družbeno zavest in
@@ -4586,15 +4488,15 @@
                   <p>Kot primer skrajno nestrokovne manipulacije s spreobračanjem besed in pojmov in
                      prikrito lažjo naj navedem samo nekaj primerov, kako so v ES označili
                      nasprotnike komunistične revolucije:</p>
-                  <p>Pri geslu ERLICH je zapisano: ... <emph>kot protikomunist je v času okupacije
+                  <p>Pri geslu ERLICH je zapisano: … <emph>kot protikomunist je v času okupacije
                         odločno nasprotoval narodnoosvobodilnemu gibanju.</emph> Pri geslu KATOLIŠKA
                      AKCIJA je zapisano: <emph>Med NOB so nekatere njene organizacije nastopale kot
                         organizatorke boja zoper OF, ker so v njej čutile vpliv komunistov.</emph>
-                     Pri geslu KATOLIŠKA CERKEV stoji: <emph>Na ... odklonilno stališče duhovščine sta
-                        vplivala 2 razloga: ... hudi predsodki zoper OF in partizanstvo zaradi vloge,
+                     Pri geslu KATOLIŠKA CERKEV stoji: <emph>Na … odklonilno stališče duhovščine sta
+                        vplivala 2 razloga: … hudi predsodki zoper OF in partizanstvo zaradi vloge,
                         ki so jo imeli v NOB komunisti (protikomunizem).</emph> Pri geslu
                      OSVOBODILNA FRONTA SL. NAR. beremo: <emph>... nasprotovali so sodelavci
-                        okupatorja in protikomunisti, ... deloma je nasprotnike ustvarilo partizansko
+                        okupatorja in protikomunisti, … deloma je nasprotnike ustvarilo partizansko
                         nasilje</emph>. </p>
                   <p>Iz zapisanega v ES torej sledi, da so Erlich, Katoliška akcija, katoliška
                      Cerkev in drugi »protikomunisti« med vojno nasprotovali narodnoosvobodilnemu
@@ -4627,7 +4529,7 @@
                      straže, ki so pred novimi komunističnimi umori in ropi zastražile slovenske
                      vasi, v katerih večinoma ni bilo nobenega italijanskega vojaka, niso pa
                      partizanom branile napadati in ubijati okupatorjev.</p>
-                     <pb n="081"/>
+                  <pb n="081"/>
                   <p>Avtorji ES pa so kljub temu mirno zapisali laž, da so slovenski katoličani in
                      drugi »protikomunisti« nasprotovali narodnoosvobodilnemu boju.
                      Protirevolucionarje so brez sramu označili za nasprotnike tistega, za kar so se
@@ -4694,15 +4596,13 @@
                         vojne je takrat tudi na Slovenskem med ž. prevladovalo civilno preb.;
                         vojaških in civilnih smrtnih ž. je bilo približno 5 %, največ na Gorenjskem,
                         Notranjskem in Dolenjskem. Ocene se gibljejo od 44000 do prek 56000 (T.
-                        Ferenc: 46000 med vojno in ok. 10000 takoj po njej) in celo 80000, 
-                        <pb n="082"/>
-                        ... bolj
-                        pa se razlikujejo ocene o številu ž. v okupacijskih vojskah: od nekaj tisoč
-                        do 8000.</emph>) Moti me tudi to, da podatka o žrtvah na strani okupatorjev
-                     niso poskušali pridobiti iz nemških in italijanskih vojaških arhivov. Te
-                     podatke je pridobil dr. Peter Urbanc iz Toronta in pravi, da je na slovenskem
-                     ozemlju med II. svetovno vojno umrlo 418 Italijanov in 304 Nemci. To pa se od
-                     ocene v ES močno razlikuje. </p>
+                        Ferenc: 46000 med vojno in ok. 10000 takoj po njej) in celo 80000, <pb
+                           n="082"/> … bolj pa se razlikujejo ocene o številu ž. v okupacijskih
+                        vojskah: od nekaj tisoč do 8000.</emph>) Moti me tudi to, da podatka o
+                     žrtvah na strani okupatorjev niso poskušali pridobiti iz nemških in
+                     italijanskih vojaških arhivov. Te podatke je pridobil dr. Peter Urbanc iz
+                     Toronta in pravi, da je na slovenskem ozemlju med II. svetovno vojno umrlo 418
+                     Italijanov in 304 Nemci. To pa se od ocene v ES močno razlikuje. </p>
                   <p>Posebno »poglavje« so povojni poboji. <emph>Posebna komisija IS Skupščine RS
                         (ustanovljena 1991; vodi jo Peter Kovačič-Peršin) je do zdaj ugotovila 76
                         večjih grobišč iz tega obdobja</emph>. Nova Slovenska zaveza ima vendar
@@ -4758,7 +4658,7 @@
                </div>
             </div>
             <div type="div2">
-                  <pb n="083"/>
+               <pb n="083"/>
                <head>ES in NSZ – odmevi</head>
                <docAuthor>Marko Kremžar</docAuthor>
                <div type="div3">
@@ -4886,25 +4786,23 @@
                      njegovem mestu v novejši slovenski zgodovini. Od 26. do 31. maja 1945 so se tam
                      dogajale stvari, ki so nenavadno podobne – podobne včasih do podrobnosti –
                      stvarem, ki so se skoraj natanko pol stoletja pozneje dogajale v Srebrenici. Le
-                     ljudje in njihova imena so bila drugačna: 
-                     <pb n="085"/>
-                     tam bosanski muslimani, tu slovenski
-                     begunci in njihova vojska, tam nizozemske plave čelade, tu britanski 5. korpus;
-                     tam mednarodno varovani kraj Srebrenica, tu vetrinjsko taborišče pod varstvom
-                     azila, ki so ga Slovencem dali Britanci. In kakor je Mladić lagal Bošnjakom, da
-                     se jim ne bo nič zgodilo in da naj bodo mirni, tako so britanski oficirji
-                     lagali častnikom slovenske domobranske vojske, da se jim ne bo nič zgodilo in
-                     da gredo v Italijo; in kakor je nizozemski poveljnik Karremans po dogodku pil
-                     slivovko z Mladićem, tako so britanski oficirji prej in pozneje drugovali z
-                     vojaškimi in političnimi častniki slovenske in jugoslovanske komunistične
-                     vojske. Pri vsej podobnosti je bila le ena razlika: v Srebrenici je bilo
-                     pokončanih 7.000 do 8.000 ljudi, Britanci pa so poslali v smrt, po njihovih
-                     izračunih, 11.850 Slovencev, vojakov in nevojakov. Če je od teh ostalo živih
-                     850, je bilo slovenskih žrtev 11.000. To pa je vseeno več kot v Srebrenici,
-                     čeprav se tudi danes ponovno govori o Srebrenici kot največjem zločinu po drugi
-                     svetovni vojni. Tako dobro se je Britancem in slovenskim komunističnim
-                     partizanom posrečilo skriti naravo in obseg genocida, ki so ga eni omogočili in
-                     drugi uresničili. </p>
+                     ljudje in njihova imena so bila drugačna: <pb n="085"/> tam bosanski muslimani,
+                     tu slovenski begunci in njihova vojska, tam nizozemske plave čelade, tu
+                     britanski 5. korpus; tam mednarodno varovani kraj Srebrenica, tu vetrinjsko
+                     taborišče pod varstvom azila, ki so ga Slovencem dali Britanci. In kakor je
+                     Mladić lagal Bošnjakom, da se jim ne bo nič zgodilo in da naj bodo mirni, tako
+                     so britanski oficirji lagali častnikom slovenske domobranske vojske, da se jim
+                     ne bo nič zgodilo in da gredo v Italijo; in kakor je nizozemski poveljnik
+                     Karremans po dogodku pil slivovko z Mladićem, tako so britanski oficirji prej
+                     in pozneje drugovali z vojaškimi in političnimi častniki slovenske in
+                     jugoslovanske komunistične vojske. Pri vsej podobnosti je bila le ena razlika:
+                     v Srebrenici je bilo pokončanih 7.000 do 8.000 ljudi, Britanci pa so poslali v
+                     smrt, po njihovih izračunih, 11.850 Slovencev, vojakov in nevojakov. Če je od
+                     teh ostalo živih 850, je bilo slovenskih žrtev 11.000. To pa je vseeno več kot
+                     v Srebrenici, čeprav se tudi danes ponovno govori o Srebrenici kot največjem
+                     zločinu po drugi svetovni vojni. Tako dobro se je Britancem in slovenskim
+                     komunističnim partizanom posrečilo skriti naravo in obseg genocida, ki so ga
+                     eni omogočili in drugi uresničili. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_47.png"/>
                      <head>Domobranci <name type="author"/></head>
@@ -4927,7 +4825,7 @@
                      narod na pot strašljive metamorfoze, z drugim pa poslala 11.000 Slovencev v
                      smrt – ne iz sovraštva, ampak iz površne in objestne arogance imperialnega
                      naroda. </p>
-                     <pb n="086"/>
+                  <pb n="086"/>
                   <p>Ekscelenca! Vetrinj in Srebrenica imata torej veliko skupnega. A mi Vas – kakor
                      ste morda že zaslutili – želimo s svojim pismom spomniti predvsem na velike
                      razlike, ki obstajajo med njima. Na velike razlike med tistimi, ki so dopustili
@@ -4991,7 +4889,7 @@
                      people accused of serious past wrongful deeds either do not remember any such
                      deed or blame another person, or, if convicted, do not show any regret or
                      shame.</p>
-                     <pb n="087"/>
+                  <pb n="087"/>
                   <p>Kok, who co-operated with the Government, which decided in 1993 to co-operate
                      with the peacekeeping mission in Bosnia, and was already its Prime Minister at
                      the time of the fall of Srebrenica, declared in the Parliament that the Dutch
@@ -5059,7 +4957,7 @@
                      nation with one move and sent to death 11,000 Slovenes with another – not
                      because of hatred but because of a superficial and wanton arrogance of an
                      imperial nation.</p>
-                     <pb n="088"/>
+                  <pb n="088"/>
                   <p>Your Excellency, Vetrinj and Srebrenica thus have a lot in common. But we – as
                      you may have already guessed – wish to remind you with our letter especially of
                      the important differences between them. The big differences between those who
@@ -5164,14 +5062,12 @@
                      In drugemu, da pove tale stavek, poln mučnega dvoma: »Komu pa je koristila moja
                      smrt?« </p>
                   <p>Stavek, ki je po vojni prevpil vse druge, pa se je glasil takole: »Umreti je
-                     neumno. Splača se ostati živ.« Tega stavka ne napiše pisateljica. 
-                     <pb n="090"/>
-                     Tega se ob
-                     tem, ko poslušamo njeno pripoved, spomnimo sami. Po vojni so se seveda po zraku
-                     spreletavali tudi drugi stavki, a v ljudeh, v njihovi notranjosti, je nazadnje
-                     obstal ta in obveljal: »Umreti je neumno. Splača se ostati živ.« Pri tem pa je
-                     bilo hujše nekaj drugega: ko so že s smrtjo tako ravnali, je postala smešna in
-                     neumna vsaka druga žrtev. </p>
+                     neumno. Splača se ostati živ.« Tega stavka ne napiše pisateljica. <pb n="090"/>
+                     Tega se ob tem, ko poslušamo njeno pripoved, spomnimo sami. Po vojni so se
+                     seveda po zraku spreletavali tudi drugi stavki, a v ljudeh, v njihovi
+                     notranjosti, je nazadnje obstal ta in obveljal: »Umreti je neumno. Splača se
+                     ostati živ.« Pri tem pa je bilo hujše nekaj drugega: ko so že s smrtjo tako
+                     ravnali, je postala smešna in neumna vsaka druga žrtev. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_48.png"/>
                      <head>Svetloba in tema <name type="author">Mirko Kambič</name></head>
@@ -5208,7 +5104,7 @@
                      neizpolnjenost – poznal že od nekdaj in od nekdaj zanjo vedel. Zato, ker je del
                      vsakega življenja. To, kar se na tem hodniku pričakuje, se nikoli ne pričaka.
                      Pa tudi na nobenem drugem hodniku ne. </p>
-                     <pb n="091"/>
+                  <pb n="091"/>
                   <p>Ljubezen je torej neizpolnjena, a, čeprav neizpolnjena, ne preneha biti. V tem
                      se loči od žrtve in krivde, ki ju več ni. Da bi to bolje razumeli, si poglejmo
                      zadnjo refleksijo v knjigi. Ta ima naslov <emph>S krili angelov</emph> in
@@ -5321,14 +5217,12 @@
                      sredi nasilja in v bližini smrti vendar more obdržati in ohraniti: zavest, da
                      je človek, da ima svojo vrednost, da se z njim ne sme dogajati kar koli in da
                      more nasprotovati nasilju vsaj v svoji notranjosti: s tem, da se vsega
-                     spominja. Ko je v spominu ohranjal datume in podatke svoje zgodbe, se 
-                     <pb n="093"/>
-                     mar ni s
-                     tem v najbolj notranji srčiki boril proti sili, ki ga je pehala v brezoblični
-                     nič? Vsaj v tem najbolj notranjem prostoru duše – tako je morda čutil –
-                     ohranjam svojo zgodbo in z njo dragocen del zavesti o sebi. V teh ekstremnih
-                     okoliščinah je bil spomin poleg molitve eno redkih področij, kjer se je
-                     zapornik lahko boril za ohranitev človeškega dostojanstva, še točneje, svoje
+                     spominja. Ko je v spominu ohranjal datume in podatke svoje zgodbe, se <pb
+                        n="093"/> mar ni s tem v najbolj notranji srčiki boril proti sili, ki ga je
+                     pehala v brezoblični nič? Vsaj v tem najbolj notranjem prostoru duše – tako je
+                     morda čutil – ohranjam svojo zgodbo in z njo dragocen del zavesti o sebi. V teh
+                     ekstremnih okoliščinah je bil spomin poleg molitve eno redkih področij, kjer se
+                     je zapornik lahko boril za ohranitev človeškega dostojanstva, še točneje, svoje
                      notranje svobode. Ob tem Kremžarjevem pripovedovanju se spomnimo na primere, ki
                      so prišli v literarno zgodovino: kako se je Ana Ahmatova v podobnih okoliščinah
                      le nekaj let prej reševala s pomnjenjem svoje lirike ali kako je Nadežda
@@ -5396,15 +5290,13 @@
                      podrobno iskanje besed, ki razkrije presenetljivo pogostost zapovedi: spominjaj
                      se, ne pozabi, pomni! Iz teh zapovedi je jasno razbrati, da je spomin vsajen v
                      človeka po božji volji, z nalogo, naj ohranja vse, kar je bilo v zgodovini
-                     dobrega, saj dobro izvira iz Boga. Opuščanje spomina je 
-                     <pb n="094"/>
-                     toliko kot popuščanje
-                     neresnici in slabemu. Zato sega pozaba stvari, ki bi se jih zaradi njihove
-                     vrednosti morali spominjati, v samo notranjo sestavo človekove nravstvene osebe
-                     in jo razdira. Navedeni svetopisemski stavki predpostavljajo, da je očiščen
-                     spomin tista umska moč, po kateri človek v sebi zbira in ohranja zalogo
-                     izkustvenih spoznanj o dobrem in zlu – spoznanj, ki jih pri moralnem presojanju
-                     sedanjosti pogosto zelo potrebuje. </p>
+                     dobrega, saj dobro izvira iz Boga. Opuščanje spomina je <pb n="094"/> toliko
+                     kot popuščanje neresnici in slabemu. Zato sega pozaba stvari, ki bi se jih
+                     zaradi njihove vrednosti morali spominjati, v samo notranjo sestavo človekove
+                     nravstvene osebe in jo razdira. Navedeni svetopisemski stavki predpostavljajo,
+                     da je očiščen spomin tista umska moč, po kateri človek v sebi zbira in ohranja
+                     zalogo izkustvenih spoznanj o dobrem in zlu – spoznanj, ki jih pri moralnem
+                     presojanju sedanjosti pogosto zelo potrebuje. </p>
                   <p>* * *</p>
                   <p>Kremžar na uvodnih straneh <emph>Leta brez sonca </emph>sam pove, kako težko mu
                      je bilo napisati to knjigo. Že sama težava, za katero tu gre, je našemu času
@@ -5469,23 +5361,21 @@
                   <p>* * *</p>
                   <p>Kako se je torej Kremžar lotil spominskega pisanja, za katero sam pove, kako
                      težavno je bilo? Šel je po edino razumni in smiselni poti. Doživljajsko stran
-                     teh dogodkov, svoja občutja 
-                     <pb n="095"/>
-                     in duševne stiske, je pustil nekoliko ob strani. Le
-                     nakazal jih je, saj ta notranji pretres brez dvoma spada k tistemu, kar je pri
-                     vsej stvari nedopovedljivo. Poleg tega je avtor po vsem sodeč menil, da spričo
-                     neznanskega trpljenja, ki je tedaj doletelo desettisoče na Slovenskem, njegova
-                     občutja niso pomembna. Šel je torej s peresom mirno in natančno ob niti
-                     zunanjih dogodkov, datumov, oseb in položajev. Perspektiva je osebna, a ne
-                     subjektivna: zajel je dejstva, ki jih je sam izkušal, in iz njih obnovil potek
-                     dogajanja okrog sebe. Posledica takšne perspektive je slog, ki je večidel
-                     objektivno stvaren, miren, kronološko opisen; pisec se zaveda dokončnosti
-                     dejstev, ki so zares taka, da jih ni mogoče več premikati, jim česa pridati ali
-                     ovreči. Kremžarjev slog zrcali miren pogled, ki se mu ni treba bati za trdnost
-                     opisanih stvari, saj pozna njihovo dokončno vrednost. Te stvari stojijo, bolje,
-                     žarijo v neki drugi, od nas neodvisni resničnosti, kjer človeške menjave ne
-                     štejejo več; ni se mu treba pehati, naj bi nas prepričeval s svojimi občutki.
-                     To je mir, ki ga pisanju daje resnica. </p>
+                     teh dogodkov, svoja občutja <pb n="095"/> in duševne stiske, je pustil nekoliko
+                     ob strani. Le nakazal jih je, saj ta notranji pretres brez dvoma spada k
+                     tistemu, kar je pri vsej stvari nedopovedljivo. Poleg tega je avtor po vsem
+                     sodeč menil, da spričo neznanskega trpljenja, ki je tedaj doletelo desettisoče
+                     na Slovenskem, njegova občutja niso pomembna. Šel je torej s peresom mirno in
+                     natančno ob niti zunanjih dogodkov, datumov, oseb in položajev. Perspektiva je
+                     osebna, a ne subjektivna: zajel je dejstva, ki jih je sam izkušal, in iz njih
+                     obnovil potek dogajanja okrog sebe. Posledica takšne perspektive je slog, ki je
+                     večidel objektivno stvaren, miren, kronološko opisen; pisec se zaveda
+                     dokončnosti dejstev, ki so zares taka, da jih ni mogoče več premikati, jim česa
+                     pridati ali ovreči. Kremžarjev slog zrcali miren pogled, ki se mu ni treba bati
+                     za trdnost opisanih stvari, saj pozna njihovo dokončno vrednost. Te stvari
+                     stojijo, bolje, žarijo v neki drugi, od nas neodvisni resničnosti, kjer
+                     človeške menjave ne štejejo več; ni se mu treba pehati, naj bi nas prepričeval
+                     s svojimi občutki. To je mir, ki ga pisanju daje resnica. </p>
                   <figure>
                      <graphic url="slike_z_45/z_45_49.png"/>
                      <head>Končno pa le posije sonce <name type="author">Mirko Kambič</name></head>
@@ -5494,13 +5384,13 @@
                      situacije. Prav ti pa v bralčevi duši porodijo močan odmev: tisto, kar je v tej
                      stvarni pripovedi najhujše, mučenje in ubijanje nedolžnih, bralcu odpira
                      vpogled v tisto neznansko, neizrazljivo, presežno, in prav s tem je izpolnjena
-                     naloga in poslanstvo pričevanja ... Pričevanje je doseglo svoj cilj, ko bralec
+                     naloga in poslanstvo pričevanja … Pričevanje je doseglo svoj cilj, ko bralec
                      izve ne le za dogodke zgodovine, ampak se mu ob teh dogodkih v duši odpre vsaj
                      ozka lina k temu, kar je v njih presežnega: to je misterij slovenskih mučencev,
                      misterij zla, storjenega po Slovencih, skrivna rana, ki poslej reže dušo
                      naroda, nedoumljivost zgodovine, njena skrivnost, njena daljnosežna navzočnost
                      v sedanjosti in prihodnosti, a tudi vitalne moči, ki spijo v še neodkriti in
-                     nesprejeti resnici ... </p>
+                     nesprejeti resnici … </p>
                   <p>Osupljivo je, nas spreleti med branjem, koliko si je Kremžar zapomnil. Temu še
                      zdaleč ni razlog le to, da si je prve zapiske sestavil že precej zgodaj. V
                      tistih zapiskih še ni bilo toliko in takšnih podrobnosti. Razlog, da je vse to
@@ -5509,15 +5399,13 @@
                      večnost. To ne velja le za doživetja pri Kranju in v Škofovih zavodih, ampak
                      tudi za sodnijske zapore na lepi Miklošičevi cesti v središču Ljubljane. Denimo
                      v noči, ko je v samici v kleti otipaval okrvavljeno steno, prerešetano s
-                     kroglami, in mislil na nje, ki so od 
-                     <pb n="096"/>
-                     tam odhajali na veliko pot ... Ali grozni
-                     opisi človeškega razpadanja dveh sozapornikov, partizanov, ki sta zagrešila
-                     revolucionarne zločine, a sta se pod njimi zlomila, zato sta pristala kratko
-                     malo v zaporu. O storjenih grozodejstvih je vse do danes s strani storilcev
-                     izrečenih silno malo besed. Nad tem vlada zarota molka. Opisi v Kremžarjevi
-                     knjigi, ki tudi ne podajajo izpovedi obeh storilcev, ampak njune blazne
-                     epileptične napade, so med silno redkimi, ki načenjajo to pomembno temo:
+                     kroglami, in mislil na nje, ki so od <pb n="096"/> tam odhajali na veliko pot …
+                     Ali grozni opisi človeškega razpadanja dveh sozapornikov, partizanov, ki sta
+                     zagrešila revolucionarne zločine, a sta se pod njimi zlomila, zato sta pristala
+                     kratko malo v zaporu. O storjenih grozodejstvih je vse do danes s strani
+                     storilcev izrečenih silno malo besed. Nad tem vlada zarota molka. Opisi v
+                     Kremžarjevi knjigi, ki tudi ne podajajo izpovedi obeh storilcev, ampak njune
+                     blazne epileptične napade, so med silno redkimi, ki načenjajo to pomembno temo:
                      človeško uničenje, ki je po zločinu ostalo v zmagovalcih in je prek njih prešlo
                      v ustanove in ureditev družbe, postalo je del stanja, v katerem še danes
                      živimo, ki ga po sili moramo dihati in se le z zavestnim naporom trgamo iz
@@ -5558,6 +5446,7 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
+               <head>Iz pisem Jožeta Plečnika</head>
                <div type="div3">
                   <p>Iz pisem Jožeta Plečnika Emiliji Fon:</p>
                   <p>– 6. julij 1945. </p>

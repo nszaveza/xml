@@ -43,14 +43,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -102,6 +102,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Danajsko darilo</head>
                   <p>Spet smo imeli priložnost videti, da velik del slovenskega parlamenta ne misli
@@ -569,7 +571,7 @@
                      zmagala, ker drugače biti ne more in ne sme. Verujem v človeka, ki hoče mir,
                      ampak ne mir na kolenih. Verujem v silo, ampak ne v silo laži in surovosti,
                      temveč v silo večnih vrednot. Verujem v svoj mali narod in njegov tisočletni
-                     sen ter v vse njegovo največje in najpreprostejše ... «</p>
+                     sen ter v vse njegovo največje in najpreprostejše … «</p>
                   <p>V isti številki se je urednik razpisal o Matičičevem romanu <emph>Živi
                         viri</emph> in ga toplo priporočil. Poleg <emph>Živih virov</emph> je pa
                      priporočil v branje tudi knjigo Franca Grivca, Slovenski knez Kocelj.</p>
@@ -1175,7 +1177,7 @@
                      da so lahko zbrali za liter, in kovali načrte. Z njimi so bili manj strogi kot
                      z dekleti. Punca lahko kaj prinese domov, za fante tega strahu ni. Jože bi se
                      moral poročiti, pa v domačo gnečo skoraj ni mogel pripeljati mlade. Najprej
-                     štalca ... </p>
+                     štalca … </p>
                   <p>Tri leta mlajši Korel se je izučil za peka. Najprej v Cerknici, nato v Porovi
                      pekarni v Zeleni jami v Ljubljani. Zaposlil se je v Velikih Laščah, si tam
                      poiskal dekle in nekaj let čakal, preden se je priženil k njej. Poročil se je
@@ -1503,7 +1505,7 @@
                      povabil v vodstvo SDZ za njenega podpredsednika, čeprav sem bil bruc. To je
                      bilo dve leti prej, nego so pooblaščeni zastopniki katoliških študentskih
                      društev namesto Breclja za novega predsednika SDZ izvolili dipl. inž. Toneta
-                     Tepeža iz kroga prof. Ehrlicha ... Tepež je imel izreden dar za organiziranje
+                     Tepeža iz kroga prof. Ehrlicha … Tepež je imel izreden dar za organiziranje
                      prostovoljnih združenj. V nekaj letih je uradno prepovedano in od Breclja
                      zanemarjeno SDZ prenovil v daleč najmočnejšo organizacijo na slovenskih
                      srednjih šolah in končno dosegel njeno ponovno uradno odobritev leta 1939. Zato
@@ -1671,12 +1673,12 @@
                      Primorci in Prekmurci, ampak predvsem slovenski narod. Kakor je Devica
                      Orleanska Francozom povedala, da so en narod, isto je nam Slovencem Slomšek
                      povedal. V trenutkih velikih odločitev smo si izbrali Slomška za vzornika.</p>
-                  <p>»Čuj, Slomšek ... naše gorje: Ob meje ... našega naroda butajo valovi evropske
+                  <p>»Čuj, Slomšek … naše gorje: Ob meje … našega naroda butajo valovi evropske
                      vojne! Glej, Slomšek: usoda slovanstva se dopolnjuje. Dve katoliški slovanski
                      državi sta izginili v letošnjem letu: Velika Rusija, na katero so nekdaj naši
                      rodoljubi gledali kot na varuhinjo Slovanov, je padla v hrbet Poljski, ko jo je
                      napadel Nemec. Dve protikrščanski velesili sta se združili in podrli vmesni zid
-                     katoliških držav, ki so se vrstile od naše meje ... do ... Baltskega morja.</p>
+                     katoliških držav, ki so se vrstile od naše meje … do … Baltskega morja.</p>
                   <p>V teh usodnih dneh je prav naloga SDZ, da združi vso slovensko mladino pod
                      trojnim praporom zvestobe do vere, do naroda, do domovine. Proti zlovesti rase
                      in krvi, ki poveličuje eno raso nad drugo, proti zlovesti razrednega boja in
@@ -1724,8 +1726,8 @@
                      razpolago domala vsi člani in starešine Akademskega kluba Straža in številno
                      članstvo SDZ iz vseh predelov Slovenije. Potrebna je le jasna politična
                      odločitev in hitra vzpostavitev vodstvenega ustroja. V tej zvezi je prof.
-                     Ehrlich rekel dr. Natlačenu, da niti najmanj ne dvomi, da bi npr. Franc Casar ...
-                     in inž. Tone Tepež, ki je iz podtalno obnovljene SDZ zgradil daleč
+                     Ehrlich rekel dr. Natlačenu, da niti najmanj ne dvomi, da bi npr. Franc Casar
+                     ... in inž. Tone Tepež, ki je iz podtalno obnovljene SDZ zgradil daleč
                      najštevilnejšo in najbolj živahno slovensko dijaško organizacijo, znala v
                      dogovorjeno konspirativno mrežo aktivistov podtalno obnovljene narodne oblasti
                      hitro vključiti predane in zanesljive Stražarje in člane SDZ.«</p>
@@ -2017,22 +2019,22 @@
                      nam izrisuje na koncu prihodnosti. Hitimo, da je ne bi bilo premalo. Spopadamo
                      se s telesnimi sovražniki, s sklerozo, revmo, rakom, ki venomer nekje preži,
                      impotenco, izpadanjem, krčenjem in gubavostjo, a vendar živimo zaradi skrbi,
-                     ritma, elana, skratka zaradi prezaposlenosti ... Za deset, dvajset let smo si
+                     ritma, elana, skratka zaradi prezaposlenosti … Za deset, dvajset let smo si
                      podaljšali ta »čudoviti čas« od naših predhodnikov.</p>
                   <p>Zakaj ne bi bil čudovit? Svobodni smo. Šele zdaj smo zares svobodni, če seveda
                      to hočemo biti. Časa imamo na pretek, zato tako grdo ravnamo z njim. Nenehno se
                      hudujemo nanj, ga lovimo za rep in obupujemo, ker nismo ali ne moremo še tega
                      ali onega postoriti, kot imamo v načrtu. Seveda se ne zmoremo več naglo
                      zavrteti, ne ubogajo nas roke in noge, v glavi se prepogosto počasi zasuče kolo
-                     spomina ... Toda – in tu smo presneto na boljšem od mlajših – odvija se nam film
+                     spomina … Toda – in tu smo presneto na boljšem od mlajših – odvija se nam film
                      nazaj! Zasučemo ročico časovnega stroja na otroška leta, na prve korake in
                      besede, na mater in očeta, na bratce in sestrice, gremo v šolo, v prvi razred,
                      se tam nekje v zadnjih klopeh hihitamo in suvamo s komolci, ker je učiteljica
-                     tako čudno oblečena in pozabljiva ... Kadar nas pride obiskat babica, ji stečemo
-                     naproti, saj ji smemo seči v žep po škrnicelj nebeško dobrih sadnih bonbonov ...
-                     In preskočimo še nekaj let naprej na majhni podeželski postaji zagledam
+                     tako čudno oblečena in pozabljiva … Kadar nas pride obiskat babica, ji stečemo
+                     naproti, saj ji smemo seči v žep po škrnicelj nebeško dobrih sadnih bonbonov
+                     ... In preskočimo še nekaj let naprej na majhni podeželski postaji zagledam
                      svetlolasega mladeniča z modrimi očmi in z dozorevanjem v nevračani ljubezni
-                     preživim vesele in žalostne čase vsaj še pet let ... In kakšno razkošje
+                     preživim vesele in žalostne čase vsaj še pet let … In kakšno razkošje
                      spominjanja skozi zaplete in razplete dogajanj v službenih letih! Zdaj je torej
                      čas za pot nazaj in ta čas si moramo vzeti. Dan za dnem, celo ponoči si pišemo
                      svojo življenjsko knjigo, svoj roman, nekakšno rekapitulacijo preteklosti. Nič
@@ -2052,18 +2054,18 @@
                      ploščo. Vraga, zakaj bi morali samo starejši razumeti mlajše, se jim
                      prilagajati, se zanje žrtvovati, zakaj ne more biti obratno? Toda nerodno je,
                      če v avtobusu stojiš pred sedečim mladeničem, saj si lahko misli, da ga
-                     izsiljuješ ... Bežiš pred rokovsko »glasbo«, ker se bojiš za sluh. Če rečeš, da
+                     izsiljuješ … Bežiš pred rokovsko »glasbo«, ker se bojiš za sluh. Če rečeš, da
                      se z njo pač mladi poneumljajo, ti zabrusijo: vi ste se pa ob valčkih in polkah
-                     ... Zabava je pač zabava. Če se spotakneš ob vnukinjino cunjico, ki še komaj kaj
+                     … Zabava je pač zabava. Če se spotakneš ob vnukinjino cunjico, ki še komaj kaj
                      pokriva na njej, se ti zasmeje: To je svoboda oblačenja, babi. Vse si lahko
                      privoščimo, ali ni to prima! Vse najkrajše in najdaljše in kakšne barvne
                      kombinacije! Nič več utesnjenosti in strogih predpisov in meril. Nismo več
-                     dolgočasni, kot ste bili vi ... Toda pazi, dekle moje, da si le ne boš prehladila
-                     genitalij. Lahko bodo hude posledice ... Ah, babi, to je še strašno daleč ... In
+                     dolgočasni, kot ste bili vi … Toda pazi, dekle moje, da si le ne boš prehladila
+                     genitalij. Lahko bodo hude posledice … Ah, babi, to je še strašno daleč … In
                      nasploh je bilo v naših časih vse zelo ubogo: pomislite, brez televizije,
                      računalnikov, mobitelov, pralnih in pomivalnih strojev in sploh strojev,
-                     strojev, strojev ... Avto in telefon sta bila dana le redkim in prav tako je bila
-                     španska vas laserska tehnika ... Pod to neznansko gmoto pragmatičnih dobrin
+                     strojev, strojev … Avto in telefon sta bila dana le redkim in prav tako je bila
+                     španska vas laserska tehnika … Pod to neznansko gmoto pragmatičnih dobrin
                      komajda še izjecljam: Vse je prekleto res, toda nismo se bali raket in atomskih
                      bomb, nismo poznali aidsa, po pločnikih smo hodili svobodno, nismo vsak dan
                      umirali na cestah pod avtomobili in presneto da res, boljši zrak smo dihali ...
@@ -2071,32 +2073,32 @@
                      Če že zaradi drugega ne, se splača biti na svetu zaradi diska in Boba Dylana.
                      Pa Bruca Springsteena in Davida Bowiea. Sex pistols? Punk in techno in rave
                      glasba? Ali kaj veš o tem, babi? Seveda, saj smo tudi mi imeli idole. A
-                     nobenega se ne morem več spomniti ... </p>
+                     nobenega se ne morem več spomniti … </p>
                   <p>Ondan me je zaneslo v knjigarno. Bila sem nad vse presenečena, ko mi je nekdo
                      potisnil v roke kozarec. Le kaj slavijo? Misleč na kakšno pomembno domačo
                      knjigo, če že točijo šampanjec, mi je zmanjkalo sape ob pogledu na angleško
                      princeso Diano in njene spomine, ki so se šopirili na prodajni mizi. Celo
-                     igralko so si sposodili, da se je oblekla v Diano ... Začrvičilo me je v želodcu,
+                     igralko so si sposodili, da se je oblekla v Diano … Začrvičilo me je v želodcu,
                      zaškrtala sem z zobmi, celo šampanjec se mi je uprl. Izvirne pisatelje in
                      pesnike so pospravili pod pult, da je zablestela Diana, ki jim bo prinesla več
                      dobička kot vsa domača revščina z nizko naklado. Tudi izložbeno okno je
-                     napolnil smejoči kult bogastva in afer ... Za hip sem zaprla oči: vse za izvirno
+                     napolnil smejoči kult bogastva in afer … Za hip sem zaprla oči: vse za izvirno
                      knjigo! Reklame na televiziji, v časopisih in igralci vzneseno citirajo – ni se
-                     jim treba šemiti v avtorje! – iz knjig naših stvariteljev ... In ljubitelji
-                     kupujejo, kupujejo ... Zato pa imamo tržno gospodarstvo in Diane. In njim na čast
+                     jim treba šemiti v avtorje! – iz knjig naših stvariteljev … In ljubitelji
+                     kupujejo, kupujejo … Zato pa imamo tržno gospodarstvo in Diane. In njim na čast
                      točimo šampanjec.</p>
                   <p>Moj nečak je promoviral iz umetnostne zgodovine. Če bi se čudila tej tujki, bi
                      pač mislili, da sem premalo izobražena. Toda v zadnjih letih lahko pri nas
                      promovira tudi čevljar, iz svoje obutve namreč. Imamo tudi promocijo Slovenije
                      s knjigo <emph>Lepote Slovenije</emph>. Udeležili smo se promocije nove
-                     avtomobilske znamke. Tudi princesa Diana je promovirala s knjigo o sebi ... Kljub
+                     avtomobilske znamke. Tudi princesa Diana je promovirala s knjigo o sebi … Kljub
                      temu, da se dušimo v angleščini in njenih spakedranščinah, se tudi v domačem
                      izrazoslovju obnašamo kaj nenavadno: nimamo več slovenske dežele, domovine,
                      marveč slovenski prostor. Namesto pisanja knjig zdaj uporabljamo kar pisavo (ne
-                     le za črke!): imamo torej zelo bogato pisavo književnih publikacij ... Tržno
+                     le za črke!): imamo torej zelo bogato pisavo književnih publikacij … Tržno
                      gospodarstvo nas je obogatilo za menedžerje (managerje). Novosti v jezikoslovju
                      me spominjajo na norosti mode. Saj smo po ameriških vzorih že uvedli celo
-                     najlepše in najgrše oblečene Slovence ... </p>
+                     najlepše in najgrše oblečene Slovence … </p>
                   <p>Kralj je mrtev, živel kralj! Ko je moj oče še trgal hlače po šolskih klopeh, je
                      na steni za katedrom visel cesar Franc Jožef. Zame je visel kralj Aleksander.
                      Ko smo ga izgubili, so obesili kralja Petrčka. Pozneje sta se zvrstila še
@@ -2304,8 +2306,8 @@
                      Izvedela sem, da so že od nekdaj sodelovale na volitvah, in to »na tistih ta
                      pravih NAŠIH, ne pa takih kot so sedaj. Pa kako lepo so okraševale volišča. Iz
                      raznobarvnega krep papirja so izdelale okraske, pa zastavice, pa s pionirčki so
-                     pripravile nastope ... pa za vse to jim niso nič plačali, oh, kako smo bili
-                     takrat idealni ... Beseda NAŠI se je v teku dolgega volilnega dne še velikokrat
+                     pripravile nastope … pa za vse to jim niso nič plačali, oh, kako smo bili
+                     takrat idealni … Beseda NAŠI se je v teku dolgega volilnega dne še velikokrat
                      ponovila, tako da sem si že kar dobro predstavljam, kdo naj bi bili ti NAŠI.
                      Poslušanje vsega tega je bilo zame kot nočna mora, kot da sem zopet v tistih
                      starih časih, ko je vse kazalo, da bo tako do konca sveta.</p>
@@ -2671,7 +2673,7 @@
                      sodniki so izbrani z žrebanjem, običajno v roku enega meseca od trenutka, ko je
                      zadeva predana sodišču.</p>
                   <p>Konvencija določa, da »pristojnost sodišča obsega vse spore v zvezi z razlago
-                     in uporabo te Konvencijo ... « Sodišče je pristojno le za obravnavanje pritožb,
+                     in uporabo te Konvencijo … « Sodišče je pristojno le za obravnavanje pritožb,
                      ki jih komisija razglasi za sprejemljive. Vendar pa je v takih sporih tudi
                      pristojno, da preskusi sprejemljivost, in torej lahko preskusi, ali lahko
                      tožitelj zatrjuje, da je žrtev kršitve, ali so bila uporabljena vsa domača
@@ -3071,7 +3073,7 @@
                      standardov za varovanje človekovih pravic.</p>
                </div>
             </div>
-            
+
          </div>
          <div type="div1">
             <head>Dogajanja in dognanja</head>
@@ -3183,7 +3185,7 @@
                      znan niti točen dan ustanovitve – 26. ali 27. april 1941 – ni znano, koliko je
                      resnično bilo ustanovnih skupin – tri ali štiri – koliko jih je bilo in kdo je
                      bil navzoč pri ustanovitvi, ne koliko je bilo poznejših plenumskih skupin, ne
-                     kdo je koga v OF predstavljal – nekateri zagotovo le sebe ... Tudi ime samo, OF,
+                     kdo je koga v OF predstavljal – nekateri zagotovo le sebe … Tudi ime samo, OF,
                      ni prvotno, prvikrat se omenja šele julija 1941, pred tem se je imenovala
                      Protiimperialistična fronta. Bila je izrazito protizavezniška, saj je bila KPS
                      vezana na nemško-sovjetski pakt iz avgusta 1939.</p>
@@ -3200,7 +3202,7 @@
                   <p>a) povezuje jih nezadovoljstvo s socialno in nacionalno politiko predvojnih
                      strank in ne konkretna vizija slovenske prihodnosti. Predstavniki teh skupin
                      niso prominentni člani prejšnjih strank, marveč njih disidenti in oponenti:
-                     Kocbek, Rus ... </p>
+                     Kocbek, Rus … </p>
                   <p>b) javno se odpovedo lastnim političnim organizacijam in organiziranju in
                      pristanejo na poenotenje v okviru OF, ki ga zahteva in z Dolomitsko izjavo
                      dokončno izpelje KPS;</p>
@@ -3270,9 +3272,9 @@
                      16. septembra 1941, je Vrhovni plenum OF izdal sklep in odlok, brez imen in
                      podpisov, anonimno, da SNOO v okviru OF »za časa osvobodilne borbe edini
                      predstavlja, zastopa, organizira in vodi ves slovenski narod na vsem njegovem
-                     ozemlju«. »Vsako organiziranje izven okvira OF je ... škodljivo borbi za narodno
+                     ozemlju«. »Vsako organiziranje izven okvira OF je … škodljivo borbi za narodno
                      svobodo.« Zato je vsak, »ki dela na to, da na ozemlju slovenskega naroda
-                     nastane oborožena sila, ki ne raste ... pod političnim in vojaškim vodstvom OF,
+                     nastane oborožena sila, ki ne raste … pod političnim in vojaškim vodstvom OF,
                      narodni izdajalec. Izdajalci pa se kaznujejo s smrtjo. Sodijo posebna sodišča,
                      naglo, ustno in tajno, osebno zasliševanje krivca (NB: ne obtoženca) ni
                      potrebno, smrtna kazen se izvrši takoj, na način in po osebah, ki jih določi
@@ -3285,7 +3287,7 @@
                      političnega pluralizma in se javno izkazala za nedemokratično, totalitarno
                      stranko po zgledu fašizma, ki stranko enači z narodom: »Pojem OF in pojem
                      slovenskega naroda postajata istovetna« in »Kdorkoli danes kakorkoli napada
-                     KPS, ta vrši protinarodno delo ... « (Kidrič, avgust 1941).</p>
+                     KPS, ta vrši protinarodno delo … « (Kidrič, avgust 1941).</p>
                   <p>Z omenjenimi sklepi je KPS/OF začela novo obdobje v zgodovini slovenskega
                      naroda: nikdar do tedaj namreč ni nobena politična stranka na Slovenskem
                      uveljavljala in sankcionirala svojih ciljev in zahtev z umori, poboji in
@@ -3299,7 +3301,7 @@
                      glavni akter dogajanja je KPS/OF, vse drugo je bolj ali manj le reagiranje na
                      njeno agiranje. Zato KPS nosi soodgovornost tudi za odločitve, vsiljene
                      nasprotnikom. Vse, kar se je dogajalo po 16. septembru 1941, se je dogajalo v
-                     znamenju KPS/OF, za vsakim dogodkom stoji – revolucija ... </p>
+                     znamenju KPS/OF, za vsakim dogodkom stoji – revolucija … </p>
                   <p>S svojimi sklepi je KPS/OF razdvojila in razdelila slovenski narod. Slovencev
                      ni razdelil okupator, razklala jih je revolucija. Iz strankarske sebičnosti je
                      KPS zapostavila narodne interese in se z oboroženim nasiljem najprej in
@@ -3309,7 +3311,7 @@
                      partizanskih enotah je izrabljala in zlorabljala za totalitarni prevzem oblasti
                      po končani vojni, v diktaturo komunistično upravljane družbe in države. »Po
                      narodni osvoboditvi prevzame na slovenskem ozemlju oblast OF v celoti« (6.
-                     temeljna točka OF). Tudi prihodnost je bila monopolizirana ... </p>
+                     temeljna točka OF). Tudi prihodnost je bila monopolizirana … </p>
                   <figure>
                      <graphic url="slike_z_20/z_20_36.png"/>
                      <head>Vojna in revolucija<name/></head>
@@ -3325,7 +3327,7 @@
                      načrtovanega nasilnega preobrata na vsem Slovenskem.</p>
                   <p>Intenzivnost revolucije je bila po deželah odvisna od (ne)navzočnosti VOS-a, od
                      vojaške moči ali nemoči partizanskih enot, od tega, ali je bilo kako ozemlje
-                     vsaj nekaj časa »osvobojeno« (dolomitska, ižanska republika ... ), od reakcije
+                     vsaj nekaj časa »osvobojeno« (dolomitska, ižanska republika … ), od reakcije
                      okupatorjev, od taktike vodstva KPS in KPJ, in ne nazadnje od odpora vaških
                      straž in domobrancev.</p>
                   <p>Revolucija se je začela v Ljubljani z likvidacijami vodilnih nasprotnikov, se
@@ -3352,7 +3354,7 @@
                      podjetij, urednikom in sodelavcem časopisov, obtoženim narodnega izdajstva in
                      sodelovanja z okupatorjem. Z manipuliranimi volitvami so konec leta 1945
                      dokončno legitimirali »ljudsko oblast« ter zapečatili revolucijo.</p>
-                  <p>Slovenski narod je bil dokončno pokoren ... </p>
+                  <p>Slovenski narod je bil dokončno pokoren … </p>
                </div>
                <div type="div3">
                   <head>V.</head>
@@ -3380,7 +3382,7 @@
                      »Za tajno glasovanje praktični pogoji niso bili dani, ker ni bilo volilnih
                      imenikov ne volilne aparature, komisije itd.« (Šnuderl). Volitve leta 1944 so
                      bile z lističi, kandidatna lista je bila spet le ena, leta 1945 pa so volili v
-                     skrinjice z zloglasnimi kroglicami ... </p>
+                     skrinjice z zloglasnimi kroglicami … </p>
                   <p>Od omenjenih volitev prve tri niso zajele celotnega slovenskega ozemlja, temveč
                      le njegove dele. Kot pravilo velja, da so bile volitve le na kontroliranih
                      partizanskih področjih.</p>
@@ -3420,7 +3422,7 @@
                      skupnost jezika, ozemlja, gospodarskega življenja in psihične sestave, ki se
                      izraža v skupnosti kulture (Lenin). Ljudstvo pa je trenutno živi substrat
                      naroda, ki pa obsega samo delavne ljudi, torej ne gospodarskih izkoriščevalcev,
-                     nacionalnih zatiralcev, fašističnih zasužnjevalcev in njihovih razredov ... Ti
+                     nacionalnih zatiralcev, fašističnih zasužnjevalcev in njihovih razredov … Ti
                      razredi in te plasti so v veliki manjšini, delovne ljudske množice pa so v
                      ogromni večini naroda« (Šnuderl).</p>
                   <p>V medvojnem in povojnem partizanskem tisku se izraza 'narod' in 'ludstvo'
@@ -3428,7 +3430,7 @@
                      ljudska revolucija ne bila tako opazna. »Srbohrvatski izraz 'narodni' naj bi se
                      bil najprej prevajal kot 'ljudski', potem 'narodni', kmalu po volitvah leta
                      1945 pa spet kot 'ljudski'« (Vodušek). Geslo » Smrt fašizmu, svoboda narodu« bi
-                     se moralo pravilno glasiti » ... svoboda ljudstvu«, kar je dejanski pomen tega
+                     se moralo pravilno glasiti » … svoboda ljudstvu«, kar je dejanski pomen tega
                      gesla v srbohrvaškem jeziku (Cepič).</p>
                   <p>»Ljudska revolucija« torej – po Engelsu je revolucija akt, v katerem en del
                      prebivalstva vsili svojo vlogo drugemu delu s pomočjo orožja – z nasiljem
@@ -3451,12 +3453,12 @@
                      (Šolski zgodovinski atlas) je zato slaboumno pretvarjanje.</p>
                   <p>Iz marksističnega razlikovanja med narodom in ljudstvom nujno sledi, da na
                      Slovenskem ne moremo govoriti o pravi državljanski vojni, temveč samo o njenih
-                     elementih ... V Sloveniji so razredni izkoriščevalci, to je vsi dotedanji
+                     elementih … V Sloveniji so razredni izkoriščevalci, to je vsi dotedanji
                      politiki in gospodarstveniki, s svojimi pristaši in zaledjem sestavljali
                      najmanjši del. Priklonili so se okupatorjem, postali njegovi hlapci in
                      pomagači, z eno besedo izdajalci slovenskega naroda. Postali so »prirepek«
                      okupatorjev, se z njim in njegovimi interesi identificirali, postali eno z
-                     njim. Zmaga nad zatiralskimi okupatorji je pometla tudi z njimi ... Zmagal je
+                     njim. Zmaga nad zatiralskimi okupatorji je pometla tudi z njimi … Zmagal je
                      razred!</p>
                </div>
                <div type="div3">
@@ -3472,23 +3474,23 @@
                      mož in fantov. Primera take samoiniciativne obrambe sta Loški Potok in Šentjošt
                      nad Vrhniko. Po zgledu teh dveh postojank so se vaške straže – tako so jih
                      začeli imenovati – v naslednjih mesecih kot ogenj razširile po Notranjski in
-                     Dolenjski. »Dne 28. februarja 1943 so v Ljubljanski pokrajini štele 5145 mož ...
-                     dvakrat več kot partizanov« (Klanjšček).</p>
+                     Dolenjski. »Dne 28. februarja 1943 so v Ljubljanski pokrajini štele 5145 mož
+                     ... dvakrat več kot partizanov« (Klanjšček).</p>
                   <p>Da je bil to spontan pojav, govori dejstvo, da so nastale na različnih krajih,
                      brez organizacijske povezave, ločeno druga od druge. Šele pozneje je prišla
                      organizacijska pomoč in posredovanje Slovenske zaveze. Vaške straže so torej
                      nastale »od spodaj«, v prebivalstvu samem, in ne »od zgoraj«, kakor je na
                      primer KPS od zgoraj začela, organizirala in vodila ljudsko revolucijo. »Ostane
                      dejstvo, da do oboroženega odpora proti partizanom ni prišlo zaradi odločitve
-                     Slovenske zaveze, pač pa predvsem kot samostojen odgovor ... na teror in
+                     Slovenske zaveze, pač pa predvsem kot samostojen odgovor … na teror in
                      likvidacije, ki so jih partizani izvajali« (Bučar). V tem smislu lahko celo
                      rečemo, da je vaške straže »ustanovila« s svojim terorjem KPS/OF sama. »Čisto
-                     jasno je, da smo komunisti glede na svoje želje ... bili 'veseli' bele garde ...
-                     samo pojav bele garde je omogočal hegemonijo KP ... Ni šlo za to, da bi nastala
-                     prava državljanska vojna ... potrebne so bile le zadostne količine bele garde ...
+                     jasno je, da smo komunisti glede na svoje želje … bili 'veseli' bele garde ...
+                     samo pojav bele garde je omogočal hegemonijo KP … Ni šlo za to, da bi nastala
+                     prava državljanska vojna … potrebne so bile le zadostne količine bele garde ...
                      Samo državljanska vojna je lahko povsem in v celoti potrdila projekcijo in
-                     samozasnutek KP ... in odpirala zanesljivo perspektivo zmage in prevzema oblasti
-                     ... kajti treba je vendarle že enkrat razumeti, da je (bil) bistveni cilj KP
+                     samozasnutek KP … in odpirala zanesljivo perspektivo zmage in prevzema oblasti
+                     … kajti treba je vendarle že enkrat razumeti, da je (bil) bistveni cilj KP
                      oblast, in samo oblast« (Pirjevec).</p>
                   <p>Partijsko zgodovinopisje šteje revolucionarni teror, pokole in mučenja v
                      Ljubljanski pokrajini poleti 1942 za napake tako imenovanega
@@ -3595,22 +3597,22 @@
                      trditi: partizanske enote so poleg stalnih plenitev, zaplemb, rekvizicij
                      premičnin in nepremičnin Slovencev načrtno rušile in uničevale tudi objekte, za
                      katere ni bilo nobenega vojaško-strateškega opravičila: gradove, graščine,
-                     šole, prosvetne domove, cerkve ... Bilanca je torej za slovenski narod očitno
+                     šole, prosvetne domove, cerkve … Bilanca je torej za slovenski narod očitno
                      negativna. Življenjske in materialne izgube niso v nikakršnem razmerju z
                      doseženimi uspehi, to je z zmago, še posebej ne, ker leto 1945 ni prineslo
                      osvoboditve, temveč le prehod iz enega totalitarizma, nacifašizma, v drugega,
-                     komunističnega. Kdor zmaga, ni nujno osvoboditelj ... </p>
+                     komunističnega. Kdor zmaga, ni nujno osvoboditelj … </p>
                   <p>Tudi narodno-ozemeljska bilanca je negativna. Program Združene Slovenije,
                      zasnovan dobrih sto let pred tem, se ni uresničil. Po analogiji s povojnim
                      evropskim prostorskim urejevanjem si upam postaviti tezo, da bi Sloveniji
                      pripadel Trst – vsaj kot kondominij – in Gorica. Avstrijsko slovensko Koroško
                      pa je zapravilo – ironija zgodovine – koroško partizanstvo samo. »Če v Avstriji
                      ne bi bilo upornikov in partizanov, potem bi bila velika verjetnost, da bi
-                     zavezniki priključili južno Koroško Jugoslaviji ... « (Neugebauer). V moskovski
+                     zavezniki priključili južno Koroško Jugoslaviji … « (Neugebauer). V moskovski
                      deklaraciji 1. novembra 1943 so namreč zavezniki zahtevali za povojno obnovitev
                      Avstrije v starih mejah tudi prispevek Avstrijcev samih k osvoboditvi izpod
                      nacizma. Slovenski partizani so bili »najuspešnejši in vojaško najvažnejši upor
-                     na avstrijskih tleh ... Vzpostavitev Avstrije (v starih mejah) je neločljivo
+                     na avstrijskih tleh … Vzpostavitev Avstrije (v starih mejah) je neločljivo
                      povezana z avstrijskim odporom« (Neugebauer).</p>
                   <p>Zmaga komunistične revolucije pa ni pomenila samo okrnitve slovenskega
                      narodnega prostora in zožitev državnih meja, temveč tudi izgon iz Evrope.
@@ -3688,7 +3690,7 @@
                   <l>Škripajo pod mehi zrnja,</l>
                   <l>skozi skril se meljejo,</l>
                   <l>to je zunaj, izven vási,</l>
-                  <l>kjer se kola peljejo ... </l>
+                  <l>kjer se kola peljejo … </l>
                </lg>
                <lg>
                   <l>Meni pa život hiti kot ptica,</l>
@@ -3700,7 +3702,7 @@
                   <l>Čakajo me moji mlini,</l>
                   <l>čakajo konec vasi,</l>
                   <l>kaj pripeljem jim pod kamne,</l>
-                  <l>kaj nasujem na osi ... </l>
+                  <l>kaj nasujem na osi … </l>
                </lg>
                <docAuthor>Stanko Majcen</docAuthor>
             </div>
@@ -4431,7 +4433,7 @@
                      veliko nevarnost, da bodo prišle na dan ogromne številke, ki bi demantirale
                      tistih 7.000. Kar vemo zdaj, so samo ocene, Angleži niso dobili nobenih
                      seznamov, sami pa nas tudi niso šteli. Številko 9.342 so si izmislili kar
-                     pavšalno, na podlagi števila transportov in tovornjakov ... </p>
+                     pavšalno, na podlagi števila transportov in tovornjakov … </p>
                   <p>
                      <emph>Stanovnik:</emph> Ne verjamem, da bi Zveza borcev pomagala iskati
                      resnico. Imamo en sam primer. To je gospod Klep. Zame je ta trenutek eden
@@ -4479,7 +4481,7 @@
                      <emph>Tedeško:</emph> S tem se ne bi strinjal. Sem del mlade generacije, mislim
                      da spadam zraven. Vi imate v tej družbi še vedno veliko moralno moč, če že ne
                      več politične, in vaša naloga je, da pridemo do resnice, čeprav je mogoče
-                     krvava, in bi komu tudi škodila ... </p>
+                     krvava, in bi komu tudi škodila … </p>
                   <p>
                      <emph>Stanovnik:</emph> Rad bi še nekaj. Nedavno sem bil na Koroškem in tam
                      videl umiranje slovenskega človeka in slovenskega jezika. Vprašal sem se, kako
@@ -4597,12 +4599,12 @@
                      številnim kristjanom in tudi duhovnikom, ki so sodelovali v narodnoosvobodilnem
                      boju ali ki so zaradi svojega prepričanja kot Slovenci in protifašisti izgubili
                      življenje ali trpeli v fašističnih in nacističnih ječah in taboriščih« (S.
-                     Grgič, <emph>Zločini</emph> ... , str. 476).</p>
+                     Grgič, <emph>Zločini</emph> … , str. 476).</p>
                   <p>K temu naj dodamo še tole avtorjevo pojasnilo: »Storilcev zločinov v knjigi
                      nisem omenjal z imeni, čeprav so v večini znana, oziroma jih navajam le z
                      začetnicami. Menim, da to sodi k pomirjenju oziroma prispeva k temu, da se vsaj
                      še bolj ne zaostrujejo že tako ne preveč dobri odnosi v vsakdanjem družbenem in
-                     političnem življenju na Slovenskem« (S. Grgič, <emph>Zločini</emph> ... , str.
+                     političnem življenju na Slovenskem« (S. Grgič, <emph>Zločini</emph> … , str.
                      479).</p>
                   <p>Med množico virov, ki so omenjeni v knjigi, najdemo številna poročila Komisije
                      za ugotavljanje vojnih zločinov iz časa med vojno in takoj po vojni, knjige
@@ -4615,7 +4617,7 @@
                      premalo govorilo in pisalo, nikakor pa ni bilo celovitega prikaza
                      pretresljivega obsega zločinov nad ujetimi partizani. Ko je bil leta 1950
                      izveden popis žrtev, ki bi bil lahko osnova za tako delo, ni bil dokončno
-                     obdelan in objavljen« (S. Grgič, <emph>Zločini</emph> ... , str. 479).</p>
+                     obdelan in objavljen« (S. Grgič, <emph>Zločini</emph> … , str. 479).</p>
                   <p>Težko verjamemo, da zmagovalci po vojni niso povedali o premagancih, kar so o
                      njih vedeli slabega. Gotovo pa so navedbe in trditve v marsikaterem dokumentu
                      tistega časa take, da jih nobeno normalno sodišče ne bi moglo sprejeti za dokaz
@@ -4706,13 +4708,13 @@
                      na Šentjošt, pri katerem je tudi sam sodeloval. Za boljše razumevanje njegove
                      zgodbe poglejmo najprej nekaj misli iz uvoda v <emph>Križpotja</emph>:
                      »Revolucija ni zabava. Marsikateri korak, pa četudi je bil natanko pretehtan,
-                     je rodil dostikrat čisto drugačne sadove, kot smo si jih bili zamislili ... Vse
+                     je rodil dostikrat čisto drugačne sadove, kot smo si jih bili zamislili … Vse
                      dogodke sem opisal tako, kot sem jih sam doživljal, videl ali občutil. Morda se
                      jih kdo spominja drugače, saj kadar se je boja udeležila večja skupina, se je
                      zvrstilo toliko različnih dogodkov, kolikor je bilo ljudi v enoti.«</p>
                   <p>O sovaščanu Matiji Leskovec ne govori pri opisu napada na Šentjošt, ampak se ga
                      spomni že v poglavju o partizanskem taborišču na Vranjih pečinah. »Proti koncu
-                     maja smo preselili taborišče iz Žibrš na Vranje Pečine, v bližino Zaplane ... Tu
+                     maja smo preselili taborišče iz Žibrš na Vranje Pečine, v bližino Zaplane … Tu
                      so bili bolj doma Češmelovi fantje in Grogov z Logarš pri Praprotnem Brdu.
                      Grogov je padel julija še istega leta, ko smo napadli belogardistično
                      postojanko v Šentjoštu. Pravzaprav so ga tamkajšnji beli domačini ujeli in ga
@@ -4727,7 +4729,7 @@
                      danilo, ko naša četa še ni vedela, kaj hoče in kaj naj pri tem napadu napravi.
                      Uro in še več smo se le obstreljevali. Šele nato je Gad s svojo četo pritisnil
                      v prvo stavbo, kjer so bili beli, tu pa se je naenkrat znašel ves prvi bataljon
-                     ... Župnišče smo zažgali. Beli so pobegnili v veliko, prostrano trdnjavo – v
+                     … Župnišče smo zažgali. Beli so pobegnili v veliko, prostrano trdnjavo – v
                      farno cerkev. Zdaj je bila akcija tako rekoč končana. Ob belem dnevu smo
                      zapustili vas, no, to ni bila več vas. Vse sam plamen in dim, ki se je valil
                      proti nebu. Belogardisti so imeli dva mrtva in nekaj ranjenih.«
@@ -4824,11 +4826,11 @@
                      Ivana Kralja in Tineta Velikonje sploh ne upošteva. Vztrajno ponavlja, da so
                      domobranci 16. marca 1944 načrtno pobili triintrideset ujetih partizanov.
                      »Spravili so jih v jarek pod cerkvijo sv. Ožbolta in jih postavili v vrsto.
-                     Morali so se sezuti ... Prvi je začel streljati skupino triintridesetih
+                     Morali so se sezuti … Prvi je začel streljati skupino triintridesetih
                      razoroženih partizanov komandir 32. domobranske čete, domobranski poročnik D.
-                     F. Potem so se mu pridružili še nekateri drugi domobranci ... Padle v boju in
+                     F. Potem so se mu pridružili še nekateri drugi domobranci … Padle v boju in
                      tiste ujete partizane, ki so jih ustrelili v skupini, so domobranci oropali,
-                     mnogo mrtvih oskrunili, slekli in jih drugače onečaščali ... «</p>
+                     mnogo mrtvih oskrunili, slekli in jih drugače onečaščali … «</p>
                   <p>Iz <emph>Zaveze</emph> št. 9/1993, zvemo, da poročnik Drago Furlan tedaj sploh
                      ni bil na Javorovici. Streljanje z domobranske strani naj bi se začelo, ko je
                      eden izmed zajetih partizanov z rafalom iz hitrostrelke pokosil domobranskega
@@ -5018,7 +5020,7 @@
                   <l>kakor bo želel tovariš, </l>
                   <l>kakor namignil tovariš, </l>
                   <l>da, da,</l>
-                  <l>ia, ia, ia ... «</l>
+                  <l>ia, ia, ia … «</l>
                </lg>
                <lg>
                   <l>»Ti si pač osel,«</l>
@@ -5032,7 +5034,7 @@
                   <l>»Dragi tovariš, da, da, </l>
                   <l>morda kaj rano</l>
                   <l>kmalu za mano</l>
-                  <l>še ti boš ponavljal ia, ia, ia ... «</l>
+                  <l>še ti boš ponavljal ia, ia, ia … «</l>
                </lg>
                <docAuthor>Lojze Žabkar</docAuthor>
             </div>
@@ -5077,9 +5079,9 @@
                <div type="div3">
                   <p>V 19 št. Zaveze se je v članku "Spomini na študentovsko taborišče v Avstriji"
                      Metoda Milača zgodila neljuba pomota v desni koloni na strani 85. Namesto
-                     besedila " ... sestre Finkove." se vstavi besedilo: "... sestre Doberškove." Enako
-                     se v naslednjem stavku zamenja besedilo: " ... sester Finkovih" z besedilom " ...
-                     sester Doberškovih".</p>
+                     besedila " … sestre Finkove." se vstavi besedilo: "... sestre Doberškove."
+                     Enako se v naslednjem stavku zamenja besedilo: " … sester Finkovih" z besedilom
+                     " ... sester Doberškovih".</p>
                   <p>Avtor se za pomoto opravičuje.</p>
                </div>
             </div>

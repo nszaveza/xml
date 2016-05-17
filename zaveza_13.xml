@@ -29,14 +29,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -88,6 +88,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>V vrtincu pototalitarnega časa</head>
                   <p>Totalitarizem komunističnega tipa prizadene narod, ki si ga je podredil, tako
@@ -363,13 +365,13 @@
                      odgovor dvaintridesetim intelektualcem na njihovo zahtevo, da ali dokaže
                      izjave, ki jih je dal v Novi Gorici, ali pa odstopi – namreč predsednik z nekaj
                      jezikovnimi operacijami vzpostavi enačaj med seboj in svojimi kritiki:
-                     »Verjamem namreč, da med nami ne more biti velikih razlik v ocenah ... « Ta
+                     »Verjamem namreč, da med nami ne more biti velikih razlik v ocenah … « Ta
                      »posvojitev« se dogodi na način istovetenja idelogije z resnico: Vi ste
                      razumniki, torej mislite razumno in potemtakem ne morete misliti drugače, kot
                      mislim jaz, ki tudi mislim razumno – a potiori, saj marksizem ni drugega kot
                      racionalna interpretacija zgodovine, marksističen poseg v družbo je poseg
                      razuma v kaos spontanosti. Tu sledi sedaj še očitek: »Žal mi je, da se niste
-                     seznanili s temeljnim sporočilom mojega nastopa ... « Vaš protest ni torej nič
+                     seznanili s temeljnim sporočilom mojega nastopa … « Vaš protest ni torej nič
                      drugega kot trenuten</p>
                   <p>odmik od razuma – ein kleines Versagen, kot pravi Heidegger – trenutna
                      splašenost, povzročena po bogve kakšni nepozornosti in neprisebnosti. Poleg
@@ -704,7 +706,7 @@
                      svoji knjigi Tovarišija je Kocbek kasneje opisal ta sestanek. Pripoveduje, da
                      je takoj v začetku poudaril pomembnost OF kot prave predstavnice slovenskega
                      ljudstva. Grajal je duhovnike, da ne sodelujejo z »osvobodilnim« bojem. »Mnogi
-                     duhovniki celo prehajajo v odkrito nasprotovanje ... Doba klerikalnega
+                     duhovniki celo prehajajo v odkrito nasprotovanje … Doba klerikalnega
                      katolicizma se nagiba h koncu. Nastaja nova doba, ki ji bo podlaga socializem.«
                      Povabil jih je, naj »s svojo moralno močjo podpro najsvetejši boj, kar so jih
                      kdaj Slovenci bili v svoji zgodovini«, in zaključil: »Če pa do tega zbližanja
@@ -712,8 +714,8 @@
                      pri hiši božji!« (E. Kocbek, Tovarišija, str. 100).</p>
                   <p>Jože Javoršek je konferenco v Žužemberku opisal v knjigi Spomini na Slovence
                      III, str. 155: »Bili so zbrani v nekakšni konferenčni sobi za konferenčno mizo:
-                     bili so mračni, bledi, izsušeni, nenavadni. Mogoče tudi prestrašeni ... Govoril
-                     je Kocbek, govoril dr. Brilej (v imenu komunistov) ... Ne spominjam se, da bi
+                     bili so mračni, bledi, izsušeni, nenavadni. Mogoče tudi prestrašeni … Govoril
+                     je Kocbek, govoril dr. Brilej (v imenu komunistov) … Ne spominjam se, da bi
                      duhovniki odgovarjali ali spraševali ali se zapletali v debato. Zdelo se mi je,
                      da smo jih povozili z nevidnimi valjarji.«</p>
                   <p>Kocbekove in Brilejeve besede zbranih duhovnikov niso prepričale. Pred očmi so
@@ -750,7 +752,7 @@
                      povedali, kje imajo skrito orožje. Med vaščani, ki so bili v opozorilo določeni
                      za ustrelitev, sta bila tudi dva brata. Mati se je ustrašila za sinove in tako
                      so partizani kmalu zvedeli, da je orožje skrito v cerkvenem stolpu. Tam je bilo
-                     tudi nekaj belih, ki so se vdali ... Partizani so jih zaslišali in jih nato
+                     tudi nekaj belih, ki so se vdali … Partizani so jih zaslišali in jih nato
                      izpustili. Bataljon je naslednji dan prinesel v brigadno taborišče okoli pet
                      francoskih pušk in nekaj bomb«. (Lado Ambrožič-Novljan, Gubčeva brigada str.
                      52.)</p>
@@ -1471,6 +1473,7 @@
          <div type="div1">
             <head>Vetrinj – postaja pred večnostjo</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Od tistih, ki smo v zgodnjih majskih dneh leta petinštiridesetega hiteli čez
                      Ljubelj, bodisi skozi še nedograjen predor ali pa više gori čez prelaz, je
@@ -1623,7 +1626,7 @@
                      zavrgla. Stiska domačih je večja od naše.</p>
                   <p>Čutimo tujino – mačeho. Govoriš. Imaš naglas. »Odkod si?« Slovenec. »Iz
                      Čehoslovaške?« – Ne. Iz Jugoslavije. »O, z Balkana!« Ne, mi nismo Balkanci, mi
-                     smo ... </p>
+                     smo … </p>
                   <p>Anglosaksonec gleda skozi tebe kot da te ni. Ponižan si. Molčiš. Ko je preveč,
                      izustiš: »Všeč mi je Kanada, ne pa Kanadčani!« Terrible!</p>
                   <p>Po prvem letu se nam jezik ugladi. Iščemo možnosti za študij. Težko je. Zlasti
@@ -1701,7 +1704,7 @@
                      <l>Tu pa spi mladenič tih in plah, </l>
                      <l>čaka na vstajenje, </l>
                      <l>z roso je odet, postlan na mah, </l>
-                     <l>misel – nič, samo še koprnenje ... </l>
+                     <l>misel – nič, samo še koprnenje … </l>
                   </lg>
                </div>
             </div>
@@ -1879,7 +1882,7 @@
                      hitro postanejo nevarni. V Ljubljani smo se premislile. Samo oče je šel naprej,
                      me pa smo se vrnile domov. Čez mesec dni zvečer so prišli v temi zakrinkani
                      moški, verjetno domačini, in mamo in Mileno odpeljali. Še danes slišim sestrino
-                     jokanje ... «</p>
+                     jokanje … «</p>
                </div>
                <div type="div3">
                   <head>Na koroško gremo!</head>
@@ -2173,7 +2176,7 @@
                      kar se pokaže. Nekateri se od presenečenja sploh ne branijo, ker nas v prvem
                      hipu ne prepoznajo. Še vedno nas je pet v angleških uniformah. Smo že na
                      zelenici zunaj naselja. Pošljemo raketo v zrak, da smo na cilju in kje je naš
-                     položaj. Zdaj napada naš bataljon ... «</p>
+                     položaj. Zdaj napada naš bataljon … «</p>
                   <p>Jože Podržaj, enotedenski domobranec Dopolnilne čete iz Dravelj:</p>
                   <p>»Popoldne smo se spustili v dolino. Spominjam se Malega Ljubelja. Na njegovih
                      vijugah smo že od daleč videli zbito in nepretrgano kolono domobrancev, ki se
@@ -2471,7 +2474,7 @@
                      preteklosti ni moralne obnove, ni narodove moralne hrbtenice, ni perspektive za
                      njegov nadaljnji obstoj. Kako drugače je o podobnih vprašanjih razmišljal
                      rimski pesnik Horacij: »Očetov grehe moral boš oprati, četudi sam brez krivde
-                     si, Rimljan ... «</p>
+                     si, Rimljan … «</p>
                   <p>In od kod ta neprebojni molk eksekutorjev, ki se parlamentarnim komisijam v brk
                      smejijo?</p>
                   <p>Osebno sem prepričan, da obstaja neko skrivno organizirano jedro, nekaj
@@ -2544,14 +2547,14 @@
                      sodelavec, kolaboracionist. In kar je za nedolžno javnost najbolj učinkovito:
                      domobranci so prisegli Hitlerju! Vse prej našteto je nekaj splošnega,
                      nedokazljivega, nekaj, kar so ljudje v vsaki vojni. Toda prisega, in to
-                     Hitlerju, to pa je nekaj čisto drugega ... </p>
+                     Hitlerju, to pa je nekaj čisto drugega … </p>
                   <p>Prisega in Hitler skupaj imata pošastni učinek. Nekdo se je z gesto, ki je
                      ekstrakt, koncentrat morale, zaobljubil nekomu, ki je sinonim za zlo in
                      genocid. Prisega je dejanje in Hitler ni sovražnik, okupator ali rasistični
                      norec, ampak Hitler. Prisega JLA in Titu je bila obvezna, poleg tega pa o JLA
                      nihče več ne govori, prav tako kot tudi o Titu ne. In ker se nihče ne spominja
                      oziroma ne ve, kdo je ukazal pobiti 12.000 slovenskih domobrancev, pač ni
-                     mogoče reči, partizani so prisegli Titu ... </p>
+                     mogoče reči, partizani so prisegli Titu … </p>
                   <p>Kar bi bilo tudi nesmiselno. Zatorej: zakaj tisti, ki so prisegli Hitlerju, ne
                      rečejo, res je, prisegli smo mu. Andrej Rot, ki je prišel iz Argentine, je to
                      prisego v svoji dokumentarni televizijski seriji o »sovražni emigraciji«
@@ -2605,7 +2608,7 @@
                   <p>Zato se ni čuditi, da resnica o poboju domobrancev ni bila medijsko dovolj
                      predstavljena celotnemu narodu in da bi postala del naše narodne zgodovine.
                      Slovesnosti ob blagoslovitvi spominskih plošč žrtvam komunističnega nasilja
-                     posvečajo pozornost samo nekateri časopisi (Družina, zadnje čase Slovenec ... ).
+                     posvečajo pozornost samo nekateri časopisi (Družina, zadnje čase Slovenec … ).
                      V Rovtah seje lani 22. avgusta zbralo ob simbolnem pogrebu in blagoslovitvi
                      spominske kapelice za 212 fantov in mož, starih od 15 do 47 let, gotovo več ko
                      tisoč ljudi. Takšen zbor je medijski dogodek! Naša RTV in dnevnik Delo o tem
@@ -2676,11 +2679,11 @@
                   <p>A vendarle, kako glasna je ta tišina. Skoznjo zaslišim vse pesmi, ki bi jih
                      napisal nekdo, ki je padel v Rogu, zaslišim smeh otrok, ki bi se rodili, ko bi
                      nekdo ne padel v Rogu, čutim vse vrvenje znanstvenega, umetniškega,
-                     religioznega ustvarjanja, ki bi lahko obogatilo slovenskega duha ... ko bi ne
+                     religioznega ustvarjanja, ki bi lahko obogatilo slovenskega duha … ko bi ne
                      bilo Roga.</p>
                   <p>A če ne bi bilo Roga, bi se nikoli ne spraševali o njem. Ko bi ga ne bilo, bi
                      nikoli ne prišli do vednosti, ki nam jo lahko sporočijo le zasuta usta.</p>
-                  <p>Ko bi ne bilo Roga ... </p>
+                  <p>Ko bi ne bilo Roga … </p>
                   <p>Morda pa nismo dojeli, da se je Rog vendarle zgodil. Zgodil nam vsem. V
                      perverzni dobi komunizma, ki je za njim prišla in ga zasuvala z vsepovsod
                      prisotno, čeprav nikoli izgovorjeno grožnjo, da se Rog utegne še kdaj zgoditi,
@@ -2929,7 +2932,7 @@
                      <l>Tu boš zopet, kar si bil, </l>
                      <l>ena kri z menoj in ena kita. </l>
                      <l>Duša in telo vsevdilj, </l>
-                     <l>ko da spajata se in delita ... </l>
+                     <l>ko da spajata se in delita … </l>
                      <l>čuda gnezdo sprepleteno! </l>
                      <l>In s poljubom enim </l>
                      <l>vse bo zopet eno.</l>
@@ -3097,7 +3100,7 @@
                      spomnim svoje stare tete, sestre moje stare mame, ki ni bila poročena in se je
                      posvetila samo svojemu poklicu. Na staro mamo, svojo sestro, je gledala zviška,
                      češ, kaj se pustiš dedcu, kaj mu peres gate, ukvarjaš se s smrkavimi,
-                     umazanimi, cmeravimi otroki; sicer pa, sama si kriva. Če bi poslušala mene ... )
+                     umazanimi, cmeravimi otroki; sicer pa, sama si kriva. Če bi poslušala mene … )
                      do ženske, ki imajo otroke. To je pa tvoj problem, mi reče znanka, ko se ji
                      zahvalim za povabilo na smučanje v tujino. Ne morem, ne morem sama, za vse pa
                      ni denarja. Na moji plači je še en otrok in pol. To me pa nič ne briga, to je
@@ -3127,7 +3130,7 @@
                      naše šege in navade in vse, kar razumemo pod besedo narod. Tujci, ki se
                      priseljujejo k nam, bi se morali na tak način vključiti v naše družbeno okolje,
                      da ne bi »onesnaževali« (prekleto se bojim, da bi me kdo narobe razumel) naše
-                     slovenskosti. Sem za toleranco ... Ampak ne na moj račun – če pride kdo k meni na
+                     slovenskosti. Sem za toleranco … Ampak ne na moj račun – če pride kdo k meni na
                      obisk, za uro ali dve, za dan ali dva, se lahko obnaša po svoje, lahko zmoti
                      moj ritem življenja, moje navade itd. Če pa pride za dalj časa ali se celo za
                      stalno naseli pod mojo streho, potem se mora obnašati tako, da ne bo podiral
@@ -3145,23 +3148,23 @@
                      naši očetje in dedje (zdravi del naroda; zdrave sile, bi se reklo lepo <hi>po
                         naše</hi>). Dediščino, ki so jo sprejeli od prednikov, so vzdrževali in po
                      možnosti pomnožili in jo prepustili otrokom, da ti na enak način skrbijo zanjo
-                     in jo predajo naprej. (Barok, barok, rokoko, rokoko, rokoko ... Cnk! Francoska
+                     in jo predajo naprej. (Barok, barok, rokoko, rokoko, rokoko … Cnk! Francoska
                      revolucija! Tako nam je naša profesorica zgodovine skušala prikazati
                      zgodovinski razvoj v tem času in njegovo nasilno prekinitev – prikaz je povzela
                      po svojem profesorju.) Tako se je pri nas zadeva odvijala naprej, dokler ...
                      lahko bi rekli: Cnk! Socialistična revolucija. Našli so se ljudje, ki so
                      prerazporedili dobrine; vzeli so tam, kjer je kaj bilo, in dali tistim, ki
-                     (največkrat zaradi nesposobnosti, lenobe in ... ) niso imeli. In, ker so dobili
+                     (največkrat zaradi nesposobnosti, lenobe in … ) niso imeli. In, ker so dobili
                      zastonj, za premoženje niso skrbeli tako, kot bi skrbel tisti, ki je vanj
                      vlagal od najrosnejših let znoj in kri. Sedaj pa vračajo. Oskubljeno in
                      propadlo. Pa še to je prehudo. Treba je narediti selekcijo, komu vrniti in komu
-                     ne ... In kako zdaj zapeljati iztirjeni in polomljeni voz nazaj v stare
+                     ne … In kako zdaj zapeljati iztirjeni in polomljeni voz nazaj v stare
                      kolesnice. Težko. Ne da se. Nočemo.</p>
                   <p>Bi rekla, da je pogoj za vse skupaj neki narodni konsenz, narodna sprava. Tudi
                      tista iz druge svetovne vojne, NOB, revolucije, če hočete. In še tista iz »teh
                      naših petdeset let«. Pa prav gotovo je še kje kakšna stara ali nova zamera.
                      Sprava. Saj veste, kaj mislim: povedati jasno, javno, glasno, vso resnico (bla
-                     ... bla ... ), ne ene, vse resnice, jih soočiti kot matematične izreke in jih
+                     … bla … ), ne ene, vse resnice, jih soočiti kot matematične izreke in jih
                      povezati v sistem resnic, tak, ki ne bo protisloven že v samem bistvu, ampak bo
                      kot živopisan mozaik kazal vse naše zmote in stranpoti, za spravo, za spomin,
                      za opomin našim otrokom in vnukom. Da bodo delali drugačne napake. Ne pa
@@ -3180,7 +3183,7 @@
                      Protikomunizem je danes smešen (tako nekako pravi Kocijančič). Seveda je
                      smešen, saj nima nobene moči, kot je ni imel med revolucijo. In spet bodo (so
                      že?) »revolucionarji« vzeli krmilo v svoje roke in potem nam ostane samo še
-                     pesem »K tebi želim, moj Bog ... « (Za tiste, ki tega ne vejo – peli so jo na
+                     pesem »K tebi želim, moj Bog … « (Za tiste, ki tega ne vejo – peli so jo na
                      Titanicu, ko se je potapljal.)</p>
                   <p>Morda se sliši malo čudno, ampak saj je tudi človek del narave in je prav, da
                      se ekologija v globalnem pogledu pa tudi na določenem prostoru posveti tudi ali
@@ -3219,7 +3222,7 @@
                      je spremenila v totalno.</p>
                   <p>Z bičem po hrbtih večine, z medom za koristolovske hlapce, s pranjem možganov
                      mladini; in če je bilo potrebno najhujše ustrahovati, tudi z genocidom.</p>
-                  <p>– »V imenu ljudstva – smrt narodnim izdajalcem ... «</p>
+                  <p>– »V imenu ljudstva – smrt narodnim izdajalcem … «</p>
                   <p>Tako so spremenili svojo oblast v neomajno.</p>
                   <p>Kaj to pomeni, smo doživeli v tem stoletju v Evropi. Boljševiki v Sovjetski
                      zvezi so poimenovali svojo totalno oblast z diktaturo proletariata in začeli
@@ -3362,7 +3365,7 @@
                      mogoče dopolniti. Končati, kar je bilo začeto.</p>
                   <p>Sprehod ob Dravi. Nabiranje malin v gozdu. Vonj divjih ciklam. Polne košare
                      gob. Ptičji spevi. Kmečki turizem pod Peco. Vožnja po Logarski dolini. Potočki,
-                     slapovi. To je bogastvo lepe domovine staršev, dedov ... </p>
+                     slapovi. To je bogastvo lepe domovine staršev, dedov … </p>
                   <figure>
                      <graphic url="slike_z_13/z_13_23.png"/>
                      <head>Obalni kontrasti <name type="author">Mirko Kambič</name></head>
@@ -3415,7 +3418,7 @@
                      izpraznitev do tega roka izposlujem. Na ostale navedbe v vašem pismu ne bom
                      odgovarjal, ker jih ocenjujem kot namerna podtikanja. Iz zgoraj navedenih
                      razlogov vam zastopanje sam odpovedujem. Na stroških zastopanja mi dolgujete
-                     SIT ... S spoštovanjem ... (Sta resnici dve?)</p>
+                     SIT … S spoštovanjem … (Sta resnici dve?)</p>
                   <p>Nov advokat nadaljuje.</p>
                   <p>Dobimo vabilo, da se dne 26. 4. 1994 zglasimo na sodišču ob 12.15, soba 40, na
                      zasebno tožbo zoper Lokostrelca (Kazensko dejanje po čl. 65 KZ RS). Pet minut

@@ -33,14 +33,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -92,6 +92,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>Življenje, ki ga živimo, izkazuje neko dvojnost, ki predstavlja, vsaj na prvi
                      pogled, tudi osupljivo nasprotje. Če se omejimo na zunanjost sedanjih stvari in
@@ -239,7 +241,8 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_02.png"/>
                      <head>Umetnik in mesto <name>Mirko Kambič</name></head>
-                  </figure><p>Vodilna črta komunistične politične retorike na prehodu je torej bilo
+                  </figure>
+                  <p>Vodilna črta komunistične politične retorike na prehodu je torej bilo
                      prenoviteljstvo. Tema je bila nekoliko nejasna, saj se nikoli ni vedelo, ali so
                      prenovitelji sebe ali drugih. Če bi kdo zahteval, da se v tej točki jasneje
                      izrazijo, bi ga najbrž odpravili, češ da ne pozna dialektike: ko namreč
@@ -490,7 +493,7 @@
                      nevarna. Neki svet se je porušil in na obzorju so se pojavile možnosti
                      nadaljnje in naraščajoče zmede: sedaj so to bili zdravniki, potem bodo prišli
                      učitelji, zelo dolgo za tem bodo morda stavkali duhovniki, potem pa matere,
-                     očetje ... </p>
+                     očetje … </p>
                   <p>Stvari so, kakor se obnavljajo v novinarskih prikazih, zajete površinsko, na
                      akcidenčni periferiji, kot bi rekel Rorty, v pozabljenju bistva in resničnosti.
                      To je v naravi stvari in tu novinarji ne nosijo posebne krivde. Včasih pa
@@ -512,7 +515,7 @@
                      novinarji dobivali v šolah, kjer so jih vzgajali za določene namene. Da je bilo
                      to šolanje zelo uspešno, so novinarji dokazali s spontanim sovraštvom, s
                      katerim so pričakali demokracijo ob njenem rojstvu 1990. Mnogo tega pa je tudi
-                     vodenega. Ostali so namreč neki okviri ... Nedavno je bilo ob odprtju neke
+                     vodenega. Ostali so namreč neki okviri … Nedavno je bilo ob odprtju neke
                      razstave rečeno, da je časopis Delo »dedič izročila Slovenskega poročevalca«.
                      Tako, brez dodatnega pojasnila ali komentarja! Nihče, se zdi, ni pomislil, da
                      bi se ob tem lahko kdo vprašal, v katerem pogledu je Delo dedič Slovenskega
@@ -654,7 +657,7 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_04.png"/>
                      <head>Prečanski fantovski pomladek 1936 – Sedijo z leve prof. Franc Kek, župnik
-                     Anton Šmidovnik in kaplan Janko Komljanec<name></name></head>
+                        Anton Šmidovnik in kaplan Janko Komljanec<name/></head>
                   </figure>
                   <p>Kaj se je pozneje zgodilo z Jankom, vsaj meni v podrobnostih ni znano. Neka
                      oseba je pripovedovala, da je v tej noči videla Janka na Kalu, ko je šel pit
@@ -687,7 +690,7 @@
                      postajo v Gorenji Straži.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_05.png"/>
-                     <head>Jože Mihič – umorjen 25. septembra 1942<name></name></head>
+                     <head>Jože Mihič – umorjen 25. septembra 1942<name/></head>
                   </figure>
                   <p>Ko je prišel v faro novi kaplan, se je začela v teh krajih prava prenova. Imel
                      je izjemne organizacijske sposobnosti in bil je vsestransko široko razgledan.
@@ -753,7 +756,7 @@
                      tudi pri nas.«</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_06.png"/>
-                     <head>Ana Mihič – umorjena 25. septembra 1942<name></name></head>
+                     <head>Ana Mihič – umorjena 25. septembra 1942<name/></head>
                   </figure>
                   <p>Nato se je oglasil malo starejši fant Martin Murn iz Podgore. Rekel je: 'Upam,
                      da bodo Italijani kmalu odšli od nas!' Župnik mu je odgovoril: 'Tudi jaz upam
@@ -795,7 +798,7 @@
                      prosit in se poniževat, da ga je rešil.«</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_07.png"/>
-                     <head>Jože Mihič – sin Jožeta in Ane Mihič, umorjen 1945<name></name></head>
+                     <head>Jože Mihič – sin Jožeta in Ane Mihič, umorjen 1945<name/></head>
                   </figure>
                   <p>Rigler govori tu o Frančku Sajetu (kasnejšemu partizanskemu zgodovinarju), sinu
                      mesarja iz Bršljina pri Novem mestu. Tega so enkrat prej Italijani zaradi suma,
@@ -831,7 +834,7 @@
                      Ponoči so ga prišli iskat na dom in ga nad vasjo enostavno umorili.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_08.png"/>
-                     <head>Lojze Murgelj – umorjen skupaj z župnikom Komljancem<name></name></head>
+                     <head>Lojze Murgelj – umorjen skupaj z župnikom Komljancem<name/></head>
                   </figure>
                   <p>Pokopal ga je in mu ob grobu govoril župnik Komljanec. Povedal je, da je to
                      prva žrtev v fari, da bo lahko še katera in naj bo to vsem v opomin. Ta govor
@@ -866,7 +869,7 @@
                      razširili govorice, da je ta zločin organiziral župnik Komljanec.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_09.png"/>
-                     <head>Izkopavanje umorjenih žrtev 1943<name></name></head>
+                     <head>Izkopavanje umorjenih žrtev 1943<name/></head>
                   </figure>
                   <p>Janko Komljanec in vsi drugi odkriti in vplivni nasprotniki komunizma so bili
                      že zgodaj obsojeni na smrt. Gotovo je bil komunistom največji trn v peti prav
@@ -894,7 +897,7 @@
                      Alojzij Colja, ki je bil doma nekje na Primorskem.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_10.png"/>
-                     <head>Prečna 1943 – pogreb žrtev<name></name></head>
+                     <head>Prečna 1943 – pogreb žrtev<name/></head>
                   </figure>
                   <p>Čeprav župnik Komljanec ni hodil z nami spat v cerkveni stolp, se je vendar
                      ponoči navadno gibal zunaj župnišča, ker so komunistične tolpe navadno
@@ -1007,7 +1010,7 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_11.png"/>
                      <head>Brata Jože in Martin Murgelj – mljaši Martin padel v boju na Slivnici
-                     1944<name></name></head>
+                        1944<name/></head>
                   </figure>
                   <p>Ponoči so župnika in njegovega hlapca prignali na Kal v hišo cerkvenega
                      ključarja Somraka. Tam so mu odvzeli denar, ki ga je imel skritega pri sebi.
@@ -1068,7 +1071,7 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_12.png"/>
                      <head>Tečaj za domobranske telovadne vaditelje 1944 – pod puščico Ivan
-                     Derganc<name></name></head>
+                        Derganc<name/></head>
                   </figure>
                   <p>Komunistični zločinci so zakurili veliko grmado in vrgli izmučeno žensko živo v
                      ogenj, kjer je nato zgorela. Vsa okolica je zvedela za ta strahoviti zločin.
@@ -1132,11 +1135,11 @@
                      razen komunistov, ki bi si želel kako drugo državno obliko.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_13.png"/>
-                     <head>Vojna in revolucija<name></name></head>
+                     <head>Vojna in revolucija<name/></head>
                   </figure>
                   <figure>
                      <graphic url="slike_z_21/z_21_14.png"/>
-                     <head>Vojna in revolucija<name></name></head>
+                     <head>Vojna in revolucija<name/></head>
                   </figure>
                   <p>Veliko pa bi bilo razočaranje nedoglednih posledic, če bi v novi Jugoslaviji
                      Slovenski narod ne prišel do svoje samostojnosti, odnosno bi ne bila
@@ -1179,7 +1182,7 @@
                      ki se itak že kaže v zadnjem času.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_15.png"/>
-                     <head>Vojna in revolucija<name></name></head>
+                     <head>Vojna in revolucija<name/></head>
                   </figure>
                   <p>VAŠKE STRAŽE: Vaških straž je danes cca 4.000. Težava je v tem, ker italijanska
                      komanda radi nezaupanja ne pusti prosto kretanje tem stražam, ampak so omejene
@@ -1192,7 +1195,7 @@
                      represalije okupatorja, kakršnih je bila dežela poprej deležna.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_16.png"/>
-                     <head>Vojna in revolucija<name></name></head>
+                     <head>Vojna in revolucija<name/></head>
                   </figure>
                   <p>SLOVENSKA MESTNA STRAŽA V LJUBLJANI se je ustanovila s privoljenjem vojaških
                      oblasti, tako da je dobilo pištole in orožne liste kakih 50 fantov. Za praznike
@@ -1216,11 +1219,11 @@
                      niso zmogli niti enega letaka.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_17.png"/>
-                     <head>Vojna in revolucija<name></name></head>
+                     <head>Vojna in revolucija<name/></head>
                   </figure>
                   <figure>
                      <graphic url="slike_z_21/z_21_18.png"/>
-                     <head>Vojna in revolucija<name></name></head>
+                     <head>Vojna in revolucija<name/></head>
                   </figure>
                   <p>INTERNIRANCI: Polagoma se vračajo interniranci iz Italije. Najbednejše
                      izgledajo oni, ki prihajajo iz Raba. Mnogo jih je tako oslabelih, da morajo
@@ -1660,8 +1663,8 @@
                      nazaj, Marjano pa so ostrigli na balin.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_19.png"/>
-                     <head>Ljudje iz Potrebuježevega grabna, zbrani pri kemtu Spodnjem grečku ob priliki
-                     posvetitve Srcu Jezusovem 1927<name></name></head>
+                     <head>Ljudje iz Potrebuježevega grabna, zbrani pri kemtu Spodnjem grečku ob
+                        priliki posvetitve Srcu Jezusovem 1927<name/></head>
                   </figure>
                   <p>Midva sva gnala vola naprej mimo Ostraža. Pri ostraškem studencu je stal na
                      straži partizan. Vprašal je, kam ženeva. Povedala sva, da k Matevžu v Loko.
@@ -1677,8 +1680,8 @@
                      nama prišli naproti že v Pečovje.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_20.png"/>
-                     <head>Poroka Klovžarskega Janeza – Že čez nekaj let je bil domobranec, ujet, mučen
-                     in umorjen<name></name></head>
+                     <head>Poroka Klovžarskega Janeza – Že čez nekaj let je bil domobranec, ujet,
+                        mučen in umorjen<name/></head>
                   </figure>
                </div>
                <div type="div3">
@@ -1805,8 +1808,8 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_21.png"/>
                      <head>Šentjošt, pomlad 1943 – V sredini poveljnik Franc Kompare, na levi Jakob
-                     Žakelj, na desni župnik Cvelbar – Fantje so večjidel Gorenjci iz Črnega
-                     vrha<name></name></head>
+                        Žakelj, na desni župnik Cvelbar – Fantje so večjidel Gorenjci iz Črnega
+                        vrha<name/></head>
                   </figure>
                </div>
                <div type="div3">
@@ -1822,7 +1825,7 @@
                      sestaviti vezno besedilo in zlahka vodila program.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_22.png"/>
-                     <head>Kreslevi Tone iz Srednjega vrha<name></name></head>
+                     <head>Kreslevi Tone iz Srednjega vrha<name/></head>
                   </figure>
                   <p>Ob tem so me po vrsti obhajali spomini:</p>
                   <p>Pri nas so o pobojih ob koncu vojne govorili, odkar pomnim, in seveda smo brali
@@ -2006,7 +2009,7 @@
                      Željne, potem pa po cesti Kočevje–Črnomelj–Bela krajina. Vožnja je trajala
                      približno 30 do 40 minut. Bili so po nas in nas silili prepevati. Zadnja pesem,
                      ki so jo slovenski domobranci peli na poti v smrt, je bila: Češčena si, Marija
-                     ... , a krvnikom ni bila po volji. Želeli so si: Nabrusimo kose ali pa Triglav,
+                     … , a krvnikom ni bila po volji. Želeli so si: Nabrusimo kose ali pa Triglav,
                      moj dom, ki je pa tudi nismo hoteli peti. Kamioni niso vozili z veliko
                      hitrostjo. Ko smo prišli z ravnega polja v gozd, se je avto nekajkrat ustavil
                      za nekaj minut; to pa zato, ker cesta ni bila široka in so se srečevali z
@@ -2099,7 +2102,7 @@
                      da nas bodo opazili. Potegnemo se nazaj v rov in čakamo, kaj bo. Govorili nismo
                      veliko, več smo premišljevali. Tudi moliti se nam že ni dalo, le angelsko
                      češčenje smo zmolili skupaj kdaj pa kdaj in molitev: Spomni se, o premila
-                     Devica Marija ... Te molitve prej nisem dobro poznal, ko sem pa slišal druge
+                     Devica Marija … Te molitve prej nisem dobro poznal, ko sem pa slišal druge
                      moliti jo, sem se je takoj naučil. Kmalu potem, ko so vrgli nazaj v jamo
                      zaklanega domobranca, se je zaslišalo zunaj kopanje in videti je bilo, da bodo
                      rob jame zaminirali, kot smo tudi pričakovali. Ni minilo pol ure, že je
@@ -2223,7 +2226,7 @@
                      Neznano, nerazumno, nedojemljivo. Pa ni šlo pri vsem skupaj za mojega očeta. Če
                      bi bili ubili samo njega in morda še nekaj drugih, bi zlahka sprejela vse
                      skupaj kot napako, kot nekaj, kar bi se dalo razumeti in dojeti. Ampak ubijanje
-                     po tekočem traku, industrijsko ubijanje, kot ... kot ... tega pa ni mogoče ne
+                     po tekočem traku, industrijsko ubijanje, kot … kot … tega pa ni mogoče ne
                      prepoznati ne razumeti ne dojeti.</p>
                   <p>In potem je prišla znamenita »spravna maša« v Kočevskem rogu. Oba govornika,
                      nadškof Alojzij Šuštar in predsednik države Milan Kučan, sta se na vse kriplje
@@ -2236,8 +2239,8 @@
                      razočaran, saj nisem zares verjela v kaj takega, pa je le tlelo v meni neko
                      religiozno upanje, da se bo to morda kljub nejevernosti mojega razuma vendarle
                      zgodilo.</p>
-                  <p>Obsojamo dogajanja v Bosni ... Pobijanja, nečloveška mučenja, množične grobove,
-                     ki prihajajo na dan ... In čudi se vesoljna Evropa, vesoljni svet. In mi se
+                  <p>Obsojamo dogajanja v Bosni … Pobijanja, nečloveška mučenja, množične grobove,
+                     ki prihajajo na dan … In čudi se vesoljna Evropa, vesoljni svet. In mi se
                      čudimo. Ali smo res tako sklerotično pozabljivi, ali imamo res tako ignorantski
                      odnos do naše polpretekle zgodovine, ki ji komaj že lahko rečemo zgodovina, saj
                      je ogromno prič tega časa še živih, še več je pa takih, ki nosijo v sebi
@@ -2449,7 +2452,8 @@
                <div type="div3">
                   <figure>
                      <graphic url="slike_z_21/z_21_23.png"/>
-                     <head>Pa smo vzdržale za otroke – za boljši čas <name>Mirko Kambič</name></head>
+                     <head>Pa smo vzdržale za otroke – za boljši čas <name>Mirko
+                        Kambič</name></head>
                   </figure>
                </div>
             </div>
@@ -2891,14 +2895,14 @@
                </div>
                <div type="div3">
                   <p>Vsak mesec, ravno ob pravem času, ko so prejšnje parole odpadle zaradi slabega
-                     lepila ali pa jih je spral dež so prišle iz mesta nove parole ... Nalepili so jih
+                     lepila ali pa jih je spral dež so prišle iz mesta nove parole … Nalepili so jih
                      po postaji, okrasili z njimi gostilno zunaj in znotraj, prelepili na vasi
                      izložbe prej Podravčeve, zdaj državne trgovine, graščino, Keržanovo pekarno in
                      cerkveni zid, nekaj pa so jih raznesli kolesarji daleč naokrog, do Sovinčeve
                      gostilne pri mostu in do Parnih ter do Vogarška v Žabji vas1.</p>
                   <p>Parole so se spreminjale iz meseca v mesec. »Smrt vojnim zločincem« je počasi
                      pojemala, namesto nje je postajala zelo priljubljena »Psi lajajo, a karavana
-                     gre dalje« ... Nekatere parole pa niso bile podvržene spremembam, bile so
+                     gre dalje« … Nekatere parole pa niso bile podvržene spremembam, bile so
                      trdožive in so se pojavljale v vsaki novi pošiljki, na primer `Delu čast in
                      oblast« ali »Vse za elektrifikacijo«. Te so dobile tudi svoja stalna mesta,
                      kakor se ustali prej ali slej pač vse na tem svetu, kar se ponavlja in postane
@@ -2930,7 +2934,7 @@
                      ali celo za draga, uvožena zdravila. Saj so teoretično enakopravni, dejansko pa
                      jim družba ne da tistega, kar bi jim to enakopravnost omogočilo, se pravi, jim
                      pomagalo, da se vključijo v normalno življenje. Imamo pa denar za plakate. In
-                     za brošure. In za ... </p>
+                     za brošure. In za … </p>
                   <p>Pa to še vse skupaj nekako gre. Vsaj v besedah jim priznamo enakopravnost.
                      Ampak so tudi taki drugačni, ki pa nikakor niso enakopravni. Npr.: včasih so
                      bili to drugače misleči. Zdaj lahko misli vsak, kakor hoče. Pravzaprav si vedno
@@ -3041,18 +3045,18 @@
                   <p>»Jabolčno zelena barva obleke vzbuja strast, bela barva privlači poglede, vpija
                      energijo in nič ne skriva. Namigovanju o nedolžnosti bele barve se izognete
                      tako, da razkrijete popek – letošnja modna zapoved za pomlad in poletje! Na
-                     pragu večne ljubezni: poročila se bosta Helena Blagne in Mitja Zaman ... «</p>
+                     pragu večne ljubezni: poročila se bosta Helena Blagne in Mitja Zaman … «</p>
                   <p>»Carmen Electra je po poklicu ONA, ki naelektrizira vsakega moškega, saj je
                      njen prvi nastop Erotic City že nakazal, da gre za vrhunsko erotično odrsko
                      mojstrovino. Ko je pozirala gola, je izjavila, da je seks kot vsaka druga
-                     umetnost. Dober je le, če pride iz srca ... «</p>
+                     umetnost. Dober je le, če pride iz srca … «</p>
                   <p>Tako se nam predstavlja ONA v Novicah, v Jani, v Magu – v medijih povsod po
                      svetu.</p>
                   <p>Na televiziji se je pojavila ONA kot gospa v izboru najlepše gospe Slovenije.
                      Nastopala je seveda na pol oblečena (v kopalni obleki), da so lahko ocenjevalci
                      pasli oči na lepih nogah, bokih, prsih in zadnjici in tako »slačili« in
                      odkrivali in odkrili najlepšo gospo. Kaj pravzaprav je gospa? Poročena ženska,
-                     z možem, z družino? S poklicem? Samska? Vsekakor ne več mladostnica ... Počemu se
+                     z možem, z družino? S poklicem? Samska? Vsekakor ne več mladostnica … Počemu se
                      mora pred televizijskimi kamerami v tekmovalni evforiji prikazovati na pol
                      gola? Torej razvrednotiti tudi bistvo matere in žene, kajti za izumitelja
                      najlepše gospe na televiziji je ona vedno in samo ONA, če je le količkaj
@@ -3474,7 +3478,7 @@
                      obiskoval v Celovcu, stanoval pa je v tamkajšnjem Marijanišču.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_29.png"/>
-                     <head>Holmarjev oče, organist Tomaž Holmar pred Gospo sveto<name></name></head>
+                     <head>Holmarjev oče, organist Tomaž Holmar pred Gospo sveto<name/></head>
                   </figure>
                   <p>Tam se je kot šestošolec zameril svojim vzgojiteljem, zlasti nekemu prefektu
                      (g. Holmar ni povedal, zakaj, domnevamo pa, da zaradi svojega »prenapetega«
@@ -3588,7 +3592,7 @@
                      črti.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_30.png"/>
-                     <head>Novomašnik Tomaž Holmar 1931<name></name></head>
+                     <head>Novomašnik Tomaž Holmar 1931<name/></head>
                   </figure>
                   <p>Upadanje slovenstva na Koroškem ni samo boleče, ampak tudi katastrofalno in
                      celo pohujšljivo. Če zaokrožimo številke, dobimo naslednja temeljna dejstva te
@@ -3617,7 +3621,7 @@
                      strah?</p>
                   <p>Tako je, pogum se je iztočil. Razlag za to je veliko. Ali je »koroški strah«
                      res strah? Morda je to bolj tista plašnost Slovenca pred gospodom, morda
-                     občutek manjvrednosti, morda neka hlapčevska miselnost ... vse to so radi
+                     občutek manjvrednosti, morda neka hlapčevska miselnost … vse to so radi
                      očitajoče naštevali. Seveda pa je zraven tudi pravi strah, saj je zlasti
                      koroški Nemec lahko tudi brutalno nastopal. Prav posebno pa je učinkoval
                      brutalni nastop nacizma. Človek bi pričakoval, da bo tak nastop izzval pri
@@ -3660,8 +3664,8 @@
                   <p>Po mojem spoznanju je ta analogija popolnoma pravilna.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_31.png"/>
-                     <head>Prof. Lambert Ehrlich govori skupini študentov na Višarjah konec dvajsetih
-                     let<name></name></head>
+                     <head>Prof. Lambert Ehrlich govori skupini študentov na Višarjah konec
+                        dvajsetih let<name/></head>
                   </figure>
                   <p>Oprostite, da ženemo pogovor v to smer, a tega ne delamo brez razloga. V
                      začetku januarja letos smo se udeležili simpozija v Tinjah, ki je hotel
@@ -3690,7 +3694,8 @@
                      z vami.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_32.png"/>
-                     <head>Višarje okoli leta 1930 – Prof. Lambert Ehrlich s prijatelji<name></name></head>
+                     <head>Višarje okoli leta 1930 – Prof. Lambert Ehrlich s
+                        prijatelji<name/></head>
                   </figure>
                   <p>Vse je bilo torej na tehnični ravni; slišali smo nekaj izredno preciznih
                      znanstvenih deskripcij – kulturoloških, socio-kulturoloških, politoloških,
@@ -3716,7 +3721,7 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_33.png"/>
                      <head>Ko je bil Holmar leta 1935 kaplan v Zagorici v meljski dolini, je obiskal
-                     tudi Klek – stoji pri križu na desni<name></name></head>
+                        tudi Klek – stoji pri križu na desni<name/></head>
                   </figure>
                   <p>In kaj je narodnost? Kaj se to pravi, biti del naroda? Kako to prispeva k
                      človekovi polnosti tako v tem, kar mu daje, kakor tudi v tem, kar od njega
@@ -3760,7 +3765,7 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_34.png"/>
                      <head>Farna cerkev v Št. Jakobu nad Krko – Tu je Holmar preživel nacistični čas
-                     1938 – 1945<name></name></head>
+                        1938 – 1945<name/></head>
                   </figure>
                   <p>Mi bi ob tem tvegali naslednjo misel: če krščanstvo ne bi pomagalo človeku
                      vztrajati v slovenstvu, potem bi bilo s tem krščanstvom nekaj narobe, mar ne?
@@ -3777,7 +3782,8 @@
                      krščanstva«.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_35.png"/>
-                     <head>Homar pri obirski podružnici v Kortah – na levi sedi kipar France Gorše<name></name></head>
+                     <head>Homar pri obirski podružnici v Kortah – na levi sedi kipar France
+                        Gorše<name/></head>
                   </figure>
                   <p>Zdaj je morda že čas, da vam razkrijemo pravi vzrok, zakaj smo vas prosili za
                      ta pogovor. Hoteti biti to, kar si, vprašanje zvestobe, še zdaleč ni samo
@@ -3792,7 +3798,7 @@
                      Kakšna prihodnost se nam obeta? Kaj moramo storiti? Morda boste rekli, da niste
                      pravi človek za to vprašanje, a vseeno: Kaj moramo storiti, gospod župnik?</p>
                   <p>Vidite, tudi vi čutite, da nisem pravi človek za to vprašanje. Kdo se meni za
-                     ubogega upravitelja majhne gorjanske fare v zakotju sveta? A vseeno ... « Danes,
+                     ubogega upravitelja majhne gorjanske fare v zakotju sveta? A vseeno … « Danes,
                      ko je na svetu toliko predrznih ljudi, predrznih v slabem, v zlu, naj bom
                      nekoliko predrzen še jaz. Ker vem, da si prizadevam za velike vrednote, vem
                      tudi, da ne smem molčati. Kaj naj storimo? Karkoli povem, bo pač le nasvet, ki
@@ -3830,7 +3836,8 @@
                      v zdravo prihodnost Slovencev. Hvala vam!</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_36.png"/>
-                     <head>Jezus pred Pilatom – Freska iz 14. stoletja v obirski župni cerkvi<name></name></head>
+                     <head>Jezus pred Pilatom – Freska iz 14. stoletja v obirski župni
+                        cerkvi<name/></head>
                   </figure>
                   <p>S temi razmišljanji se dotikamo bistvenih vprašanj slovenstva. Na tinjski
                      okrogli mizi je nekdo – zdi se mi, da je rekel, da je sicer iz agnostičnega
@@ -3869,7 +3876,7 @@
                      vsako ceno. Za resnico in pravico ni nobene cene.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_37.png"/>
-                     <head>Obirska župna cerkev Sv. Janeza Krstnika<name></name></head>
+                     <head>Obirska župna cerkev Sv. Janeza Krstnika<name/></head>
                   </figure>
                   <p>Gospod župnik, ali bi kot duhovnik in kot Slovenec hoteli povedati kaj
                      spodbudnega vsem tistim, ki jih doseže naša revija? Zaveza ima prijatelje ne
@@ -4342,7 +4349,7 @@
                      stališče: »Edina varna pot do gotove spremembe in izboljšanja v političnem in
                      družbenem tkivu naroda je tista pot, ki je utemeljena v zgodovini, ki želi
                      ohraniti kulturo in ki ščiti lastnino in pri tem stoji z eno nogo varno v
-                     preteklosti, z drugi previdno tipa v prihodnost ... predvsem pa se upira vsem
+                     preteklosti, z drugi previdno tipa v prihodnost … predvsem pa se upira vsem
                      utopičnim vizijam in obljubam.«</p>
                   <p>Če gledamo na francosko revolucijo iz perspektive, za katero smo se odločili v
                      tem razmišljanju, iz perspektive civilizacije, potem bomo iz njenih surovih,
@@ -4718,7 +4725,7 @@
                      povojni poboj.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_38.png"/>
-                     <head>Člani Nove Slovenske zaveze tudi lepo zapojejo<name></name></head>
+                     <head>Člani Nove Slovenske zaveze tudi lepo zapojejo<name/></head>
                   </figure>
                   <p>V tej luči, ko štejemo svoje vrste, ko merimo naše moči, se moramo pohvaliti,
                      da nam je uspelo. Spomnimo se samo, kako je bilo v letu 1995 ob praznovanju
@@ -4938,7 +4945,7 @@
                      slišali za glasove o begu nekaterih naših iz Podrožce. Vendar mi gremo ne glede
                      na opozorila v Italijo. Čas čakanja smo preganjali s pesmijo. Ne vem zakaj,
                      vendar, kot bi bilo včeraj, pomnim, kako smo kot zadnjo zapeli narodno »Al' me
-                     boš kaj rada imela«. Se danes mi v ušesih odmeva ... jutri bo v Celovcu smenj ...
+                     boš kaj rada imela«. Se danes mi v ušesih odmeva … jutri bo v Celovcu smenj ...
                      Bila je to žal zadnja pesem večine fantov in mož, ki so naslednje trenutke
                      poskakali na s ponjavami pokrite tovornjake angleške kraljeve vojske.</p>
                   <p>Mlad, še ne sedemnajst let star, sem doma v naglici pred odhodom iz Ljubljane
@@ -4951,14 +4958,14 @@
                      ostro zavili desno in prečkali široko reko. Na zemljevidu sem ugotovil, da se
                      peljemo iz Velikovca čez Dravo proti Jugoslaviji. Ves zaprepaden sem zaklical:
                      peljejo nas k partizanom. Sopotniki so me ostro zavrnili. Molči! Vrgli te bomo
-                     s kamiona, če ne nehaš ... Kako neki ob teh prekaljenih borcih, ki so mi bili
+                     s kamiona, če ne nehaš … Kako neki ob teh prekaljenih borcih, ki so mi bili
                      vedno vzor. No, prav kmalu se je kolona ponovno ustavila. Danes vem, da je bilo
                      pred Pliberkom. Za nekaj trenutkov smo stali vzporedno s poslopji bližnje
                      kmetije. Tovornjaku se je približala starejša žena in nas pozvala: fantje,
                      bežite, za vogalom vas bodo predali partizanom. Pridite, vas bomo skrili. Moji
                      sopotniki pa skoraj v en glas: molči baba, to so komunistične prevare. Radi bi
                      nas zajeli in pobili. Odgovorila je: tudi včeraj so nas tako zavrnili, za
-                     vogalom pa so že jokali ... Za trenutek sem okleval; kolona tovornjakov se je
+                     vogalom pa so že jokali … Za trenutek sem okleval; kolona tovornjakov se je
                      premaknila. Napoved koroške Slovenke se je žal uresničila.</p>
                   <p>Ta grenki, pa vendar živi spomin me vedno pogosteje preganja, ko zgrožen in
                      zaprepaden spremljam dogajanja na naši politični sceni.</p>
@@ -4967,7 +4974,7 @@
                      Protestiramo, ker nas zavračajo. Polna usta so nas zgodbe o uspehu, nikjer
                      drugje ni take, koder sije tranzicijsko sonce. Skratka – gremo NA ZAHOD.</p>
                   <p>Podrobnosti pa kažejo drugače: najvišji predstavniki obiskujejo Albanijo,
-                     Romunijo, Bolgarijo, Egipt ... Govorijo o približevanju Črnomorski gospodarski
+                     Romunijo, Bolgarijo, Egipt … Govorijo o približevanju Črnomorski gospodarski
                      zvezi, uspešno ukrepajo proti katoliški cerkvi glede gozdov in šole.
                      Proslavljajo triumf, brezkompromisno varujejo spomenike svojih komunističnih
                      voditeljev, čeprav so z njimi podobnimi po svetu že dolgo tega opravili. Tudi
@@ -5007,7 +5014,7 @@
                      Tudi mi preživeli in naša Nova Slovenska zaveza smo že večkrat odločno
                      opozarjali na nujnost enotnega delovanja demokratičnih sil, ki ne priznavajo
                      kontinuitete vladavine komunistov. Zdi se mi, da smo že prešli Velikovec in
-                     Dravo ... Ali bomo izkoristili še zadnji morebitni postanek pred Pliberkom?</p>
+                     Dravo … Ali bomo izkoristili še zadnji morebitni postanek pred Pliberkom?</p>
                   <p>Kaj lahko še storimo drugega kot to, da opozarjamo in rotimo odgovorne, da
                      vendarle spregledajo. V zadnjem času sem v družbi bežnih znancev, potem ko se
                      je izkazalo, kje sem bil, večkrat ugotovil, da nas ljudje spoštujejo in
@@ -5018,7 +5025,7 @@
                      odvračajo od zanimanja za politiko. Kljub temu, da že imamo nekaj medijev,
                      njihov vpliv na ljudi še ni velik. Zato bi vendarle veljalo spodbuditi vse, ki
                      stanje poznajo, da pričnejo z osebnimi stiki na primeren način pojasnjevati
-                     stanje in s tem vplivati na to, da bi kljub vsemu uspeli ... Bolj kot bi bilo
+                     stanje in s tem vplivati na to, da bi kljub vsemu uspeli … Bolj kot bi bilo
                      pojasnjevanje od človeka do človeka organizirano, večji in zanesljivejši bi bil
                      uspeh.</p>
                </div>
@@ -5069,7 +5076,7 @@
                      slovenski narod tega dejstva zaveda? Nacionalno hudo izkrvavljen v letu 1945 je
                      bil podvržen 45-letnemu komunističnemu eksperimentu. V tem eksperimentu ga je
                      komunizem skušal preoblikovati. Eksperiment se je sicer ponesrečil, a trajal je
-                     dolgo in pustil sledove ... In kaj sedaj?</p>
+                     dolgo in pustil sledove … In kaj sedaj?</p>
                   <p>Nujno, bolj kakor kadar koli, se moramo Slovenci danes zavedati svoje
                      istovetnosti. Le ob tej zavesti smo preživeli stoletja trajajoče protislovenske
                      težnje med nami; le ta zavest nam je dala tudi moč za boj proti komunističnemu
@@ -5132,7 +5139,7 @@
                      moglo nadomestiti.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_39.png"/>
-                     <head>Žakljeva družina jeseni 1944 pred domačo hišo<name></name></head>
+                     <head>Žakljeva družina jeseni 1944 pred domačo hišo<name/></head>
                   </figure>
                   <p>Kdor tega sam ni nikoli doživel, bo težko verjel, da je vse to bilo res, da
                      tole pisanje ni samo domotožje za nepovratnimi leti naše mladosti. Vinko Žakelj
@@ -5156,10 +5163,11 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_40.png"/>
                      <head>Vetrinj 27. maja 1945. Nova maša Vinka Žaklja. Prva z desne novomašnikova
-                     sestra Anica in njen mož poročnik Franc Grdadolnik, nato novomašnikov brat
-                     Janko, šentjoški organist in njegova žena, novomašnik Vinko, brat France, Janez
-                     Sečnik, stotnik Lojze Bastič, novomašnikova brata Stanko in Pavle, župan Maček,
-                     spredaj brez suknjiča Tone Jesenko, zadaj ob novomašnku Janez Svarča<name></name></head>
+                        sestra Anica in njen mož poročnik Franc Grdadolnik, nato novomašnikov brat
+                        Janko, šentjoški organist in njegova žena, novomašnik Vinko, brat France,
+                        Janez Sečnik, stotnik Lojze Bastič, novomašnikova brata Stanko in Pavle,
+                        župan Maček, spredaj brez suknjiča Tone Jesenko, zadaj ob novomašnku Janez
+                        Svarča<name/></head>
                   </figure>
                   <p>Prišla je okupacija. Krvinetova domačija se je nenadoma znašla prav blizu meje
                      med Ljubljansko pokrajino in nemškim zasedbenim področjem. Domačija Vinkovega
@@ -5197,8 +5205,8 @@
                      ter drugi Šentjoščani. Vsi so bili pomorjeni.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_41.png"/>
-                     <head>Vinko Žakelj z belgijskimi Slovenci pred cerkvijo Sv. Barbare v Maasmechelenu
-                     ob obisku škofa Gregorija Rožmana<name></name></head>
+                     <head>Vinko Žakelj z belgijskimi Slovenci pred cerkvijo Sv. Barbare v
+                        Maasmechelenu ob obisku škofa Gregorija Rožmana<name/></head>
                   </figure>
                   <p>Vinko Žakelj je nekajkrat povedal, da so ga dogodki leta 1945 zaznamovali za
                      vse življenje. Sam sem imel priliko spoznati to zaznamovanost, ko sem se z njim
@@ -5218,9 +5226,9 @@
                   <figure>
                      <graphic url="slike_z_21/z_21_42.png"/>
                      <head>“Žalost in bolest nad njih strašno smrtjo je bilo morda najtežje, kar smo
-                     doslej doživeli, mi v tujini, ki smo jih videli odhajati, in oni doma, ki so
-                     jih zaman čakali. Spomin nanje nam je svet in nam mora biti do konca
-                     življenja.“ Iz pisma škofa Rožmana decembra 1954<name></name></head>
+                        doslej doživeli, mi v tujini, ki smo jih videli odhajati, in oni doma, ki so
+                        jih zaman čakali. Spomin nanje nam je svet in nam mora biti do konca
+                        življenja.“ Iz pisma škofa Rožmana decembra 1954<name/></head>
                   </figure>
                   <p>Konec januarja 1948 je Udba odkrivala Bitenčevo skupino. Neke noči so pridrveli
                      tudi na Krvinetovo domačijo. Mladi duhovnik Vinko je tedaj že študiral
@@ -5259,7 +5267,7 @@
                      posmrtne ostanke pokojnega župnika odpeljali v Šentjošt.</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_43.png"/>
-                     <head>Višarje 1970<name></name></head>
+                     <head>Višarje 1970<name/></head>
                   </figure>
                   <p>Lani prav na nedeljo naše spominske slovesnosti v Rogu je bil v Torontu 36.
                      slovenski dan. Glavni govornik Vinko Žakelj je med drugim govoril tudi o spravi
@@ -5305,6 +5313,7 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
+               <head>Priporočamo</head>
                <div type="div3">
                   <p>Zveza zgodovinskih društev Slovenije,</p>
                   <p>SI-1000 Ljubaljana, Aškrčeva 2, tel.: (061) 1769-210</p>
@@ -5338,7 +5347,7 @@
                   <p>Mirko Špacapan</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_44.png"/>
-                     <head>Teharska legija<name></name></head>
+                     <head>Teharska legija<name/></head>
                   </figure>
                </div>
             </div>
@@ -5348,7 +5357,7 @@
                   <p>Pred vami je najvažnejši dokument novejše slovenske zgodovine</p>
                   <figure>
                      <graphic url="slike_z_21/z_21_45.png"/>
-                     <head>Farne spominske plošče<name></name></head>
+                     <head>Farne spominske plošče<name/></head>
                   </figure>
                   <p>Poskrbite, da bo ta pretresljiva knjiga našla pot v vsako slovensko hišo!</p>
                   <p>Kupite jo lahko v skladišču nadškofijskega ordinariata v Ljubljani na Mačkovi 6

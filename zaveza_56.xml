@@ -49,14 +49,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -108,6 +108,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze </head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>V preteklem letu so se zgodile pomembne reči. To seveda ni nič posebnega,
                      poseben je način, kako so se zgodile. Zgodile so se tako, da nam zaradi njih ni
@@ -1283,7 +1285,7 @@
                      poteptala Nemčijo in to bo zmaga proletariata. Med ujetniki je tudi bivši
                      komunistični poslanec Chalais, ki se strogo drži partijskih navodil. Ko zve za
                      tovariševo govorjenje, ga kritizira in mu skuša dopovedati, da imata Rusija in
-                     Nemčija iste temeljne interese ... Ker sta bili Nemčija in Rusija povezani s
+                     Nemčija iste temeljne interese … Ker sta bili Nemčija in Rusija povezani s
                      paktom, je bil boj proti Nemčiji tudi boj proti Sovjetski zvezi. Proti Stalinu
                      in njegovi delavski armadi se pa komunisti niso mogli bojevati. Vendar so celo
                      tisti, ki so bili v to prepričani, čutili v sebi nekakšno razklanost in
@@ -1530,9 +1532,9 @@
                      zagotovila: mir, neodvisnost in kruh! To nam lahko zagotovi samo sklenitev
                      pakta o vzajemni pomoči s SSSR. S to nepremagljivo in veliko zaščitnico miru in
                      malih narodov, ki je ponovno te dni naglasila, da je pripravljena skleniti z
-                     Jugoslavijo takšen pakt«. (Dokumenti ..., str. 12.) Tako letak. In kako je bilo v
-                     resnici? Po razgovoru z odpravnikom poslov v Beogradu, ki je nakazal upanje, da
-                     bi državi sklenili zavezniško pogodbo, po kateri bi pomenil vsak napad na
+                     Jugoslavijo takšen pakt«. (Dokumenti ..., str. 12.) Tako letak. In kako je bilo
+                     v resnici? Po razgovoru z odpravnikom poslov v Beogradu, ki je nakazal upanje,
+                     da bi državi sklenili zavezniško pogodbo, po kateri bi pomenil vsak napad na
                      Jugoslavijo hkrati napad na Sovjetsko zvezo, je predsednik Simović poslal
                      posebno delegacijo v Moskvo. Da bi poudaril željo za sklenitev vojaškega pakta,
                      je v delegacijo določil kot svoja zastopnika še dva polkovnika. 5. aprila, tik
@@ -1842,7 +1844,7 @@
                      smrekami nekje v globeli Zale zapisal: »Še je prostor v Krimski jami! – ta
                      grožnja mi je kakor udarec s kladivom ostala v spominu od vsega, s čimer so me
                      partizanski komisarji mučili pri zasliševanju tri ure. Še je prostor v Krimski
-                     jami! je bila grožnja, ki so jo ponavljali pri vsakem mojem odgovoru ... Ko so
+                     jami! je bila grožnja, ki so jo ponavljali pri vsakem mojem odgovoru … Ko so
                      prejšnji večer postavili strojnice okoli hiše, ko so me vso noč gonili po
                      gozdovih in gmajnah, ko me je vsako toliko dregnila v hrbet trda cev
                      partizanske puške, ko se je politkomisar zagrizenega obraza in redkih besedi
@@ -1939,8 +1941,8 @@
                   </figure>
                   <p>V nedeljo, na poti k maši, je Francko ustavila Mirkova mama: »Tako je, kot si
                      rekla.« Pomolčala je, nato pa izdavila iz sebe: »Veš, ko sem prišla zadnjič v
-                     gostilno, sem v shrambi na polici zagledala polno steklenic s kozjim mlekom.« ...
-                     Na tak način je Mirkova mama zvedela za smrt svojega prvorojenca,
+                     gostilno, sem v shrambi na polici zagledala polno steklenic s kozjim mlekom.«
+                     ... Na tak način je Mirkova mama zvedela za smrt svojega prvorojenca,
                      sedemindvajsetletnega sina. Ljudem so se pričele odpirati oči, kaj je
                      ‘partizanščina’, kam izginjajo mladi fantje in možje. </p>
                   <p>Domači in vaščani so se spraševali, s čim le si je Mirko zaslužil tako grozno
@@ -2000,14 +2002,14 @@
                      ob prepadu komandantova. Ker vlada pri partizanih enakost, je v barakah in
                      luknjah umazanost, smrad, uši, samota in dim, v poveljnikovi jazbini pa dobra
                      postelja, porcelan, kožuhi, kava, ženska obleka, svilene nogavice in perilo,
-                     oprsniki ... «</p>
+                     oprsniki … «</p>
                   <p>Sledi opis, kaj vse so še našli v partizanskem taboru. Med drugim tudi neštete
                      »fotografije, izkaznice in legitimacije vseh mogočih ljudi, med njimi nekega
                      ministrovega sina in nekega štipendista kralja Petra II. Oko bežno pregleduje
                      sezname. Tu so študentovska imena, kakor Vesenjak, Pičulin, Flis, Drole,
                      Ribičec, Rotar, imena uradnikov, delavcev, poklicnih razbojnikov. </p>
                   <p>A najzanimivejše je, ko človek dobi v roke lastno aretacijsko povelje: ‘Komanda
-                     itd. ... Patrola, sestoječa iz partizanov teh in teh ima nalogo aretirati in
+                     itd. … Patrola, sestoječa iz partizanov teh in teh ima nalogo aretirati in
                      pripeljati v lager belogardista tega in tega. Povelje velja do dneva tega in
                      tega, te in te ure. Politkomisar Fric Novak.« (Mišljeno je povelje za aretacijo
                      Mirka in Jožeta 27. maja 1942.)</p>
@@ -2166,7 +2168,7 @@
                      pet drugih deklet in žensk. Vsak dan so čakali, kdaj se vrne. Dnevi so
                      minevali, a Marije ni bilo. Zla slutnja je postajala grozeča resnica, saj
                      Marija in ostalih pet niso bile prve, ki so šle po tej poti proti Krimski jami
-                     ... Oče je natihem še dolgo po vojni upal, da se bo morda le vrnila iz kakšnega
+                     … Oče je natihem še dolgo po vojni upal, da se bo morda le vrnila iz kakšnega
                      delovnega taborišča. Ko je opustil upanje, je sedem let po vojni nenadoma umrl.
                      Na pašniku mu je opešalo srce. Zvečer se je žival sama vrnila domov. </p>
                   <p>Marije in ostalih pet ni bilo nikoli več domov. Skupaj z Marijo so bile
@@ -2563,7 +2565,7 @@
                      uniforme. Odšli smo v Ljubljano in se nastanili v Srednji tehnični šoli na
                      Mirju. Tudi predavanja bolničarskega tečaja smo obiskovali v tej šoli. Večkrat
                      smo v četi korakali po ljubljanskih ulicah in peli narodne pesmi, pa tudi
-                     domobransko Oče, mati, bratje in sestre ... Zdelo se nam je, da smo kar dobri
+                     domobransko Oče, mati, bratje in sestre … Zdelo se nam je, da smo kar dobri
                      vojaki. Toda slišal sem tudi nekoga med nami govoriti, kako pravijo Nemci, da
                      so pravi slovenski vojaki po hribih v gozdovih. Mislil sem, da je to prikrita
                      partizanska propaganda. Nikogar nisem poznal, pa tudi nisem iskal poznanstva,
@@ -2577,7 +2579,7 @@
                      lazareta in sem se vrnil v Srednjo tehnično šolo, so me poslali v Novo mesto v
                      bolnišnico usmiljenih bratov v Kandiji za bolničarja. Iz Ljubljane v Novo mesto
                      se nas je več domobrancev peljalo na vojaškem tovornjaku in nekdo med nami je
-                     kar naprej pel: Oj, pa še enkrat, oj pa še enkrat v hladni senčici ... Mislil
+                     kar naprej pel: Oj, pa še enkrat, oj pa še enkrat v hladni senčici … Mislil
                      sem, da s tem petjem preganja svoje skrbi. </p>
                   <p>V Kandiji v bolnišnici sem se pridružil domobrancem bolničarjem, ki so bili tam
                      že pred menoj. Bili so: cistercijanska klerika gimnazijca, rodna brata Avguštin
@@ -2750,14 +2752,14 @@
                      ob Savi do Kranja in Tržiča v Avstrijo. Poslali so naprej izvidnico do Litije
                      in ta je ugotovila, da so partizani že kontrolirali most preko Save. Naša
                      komanda je odredila, da se nima namena spuščati v borbo in tako izbojevati
-                     prehod preko mostu, zato so nadaljevali pot proti Radečam ... V Radečah so vsi
+                     prehod preko mostu, zato so nadaljevali pot proti Radečam … V Radečah so vsi
                      obupali in so brez glave tavali ...Neki podnarednik pa je zbral desetino, dobro
                      so se oborožili, si nabavili hrane za nekih 10 dni in dovolj municije in
                      nadaljevali pot do Celja. V zgodnjem jutru so jurišali preko mostu v Celju in
                      se brez žrtev prebili po 10 dneh v Avstrijo.«</p>
                   <p>V pismu z dne 28. januarja 2002 pa mi je Slavko Krašna pisal: »Res, 7. maja se
-                     je vila naša pot skozi Mokronog preko Sv. Križa v Radeče ... in tam zadnja
-                     postaja. Konec. Kam ... ? Naprej ali nazaj? </p>
+                     je vila naša pot skozi Mokronog preko Sv. Križa v Radeče … in tam zadnja
+                     postaja. Konec. Kam … ? Naprej ali nazaj? </p>
                   <p>Vse je izgledalo v razsulu, zaskrbljeni obrazi, negotovost je sijala celo iz
                      neba ob sončnem pomladanskem dnevu. Kot vedno sem se tudi sedaj odločil: grem
                      domov. Ob desetih zvečer sem že trkal na očetova vrata. Moj oče je bil v ruskem
@@ -3540,7 +3542,7 @@
                      nami? Prav nič ne vemo. Zjutraj smo zvedeli, da so čisto malo sojeni. Po 2
                      meseca, največ pa 10 mesecev dela. Hrano imajo 3-krat in še bolj prosti so.</p>
                   <p>7. VII.</p>
-                  <p>Štefan je še vedno v ambulanti. K ... ima tudi vročino. Narobe Janeza že dva dni
+                  <p>Štefan je še vedno v ambulanti. K … ima tudi vročino. Narobe Janeza že dva dni
                      žene. Vse je bolno. Zaenkrat sem še zdrav, le srbečica in uši me dajejo.
                      Ščurkovega Franceta vidim vsak dan v delavnici, pa kaj, ko se nič ne zmeni
                      zame.</p>
@@ -3674,7 +3676,7 @@
                      njen čas še ni prišel. Vedno znova se je vračala z otrokoma skozi glavni vhod
                      mimo straže v mesto.</p>
                   <p>Nje in otrok so se morali privaditi. Tako zelo kot so se že privadili na
-                     svetilke, na cvetje v čebrih, na klopce, na pipo s pitno vodo ... Nazadnje mlade
+                     svetilke, na cvetje v čebrih, na klopce, na pipo s pitno vodo … Nazadnje mlade
                      sprehajalke z otrokoma res niso več ne ustavljali ne karkoli spraševali.
                      Postala je tako rekoč del postajnega inventarja. Za tisti čas nepogrešljivi
                      del. Bila je kot privid sveta, za katerega so vsi, tuji vojaki in domačini,
@@ -4625,7 +4627,7 @@
                      vozove za umik proti Ljubljani. Tudi naj fantje, če le morejo, gredo nad
                      Trebnje in tam postavijo našega župana, ko bodo pregnali partizane. Italijanski
                      napisi naj se zbrišejo, izobesi naj se slovenska zastava!« – Potem smo si segli
-                     v roke, dajal nama je poguma in sva šla. Ferka pa nisva nikdar več videla ... </p>
+                     v roke, dajal nama je poguma in sva šla. Ferka pa nisva nikdar več videla … </p>
                   <p>Šla sva. Iz Ljubljane je vse drlo med partizane. Redki so bili za legijo, morda
                      številnejši za plave. Ljudje na vlaku so udrihali čez bele. Molčali smo.
                      Nekoliko po tretji uri sva s Stanetom prišla v Stično. Za postajo je plapolala
@@ -4710,7 +4712,7 @@
                      Strupija, zvedel, da je Rupnik prevzel oblast. Ponoči sem lazil okoli. Težko je
                      namreč bilo ves dan ležati na senu in to še v vročini, kakršna je bila prve
                      tedne. Tri tedne sem se že skrival, nobenih pozitivnih novic ni bilo, skoraj bi
-                     obupal ob vsem. Pa se je zgodilo nekaj drugega ... dobili so me v roke partizani. </p>
+                     obupal ob vsem. Pa se je zgodilo nekaj drugega … dobili so me v roke partizani. </p>
                   <p>Kako je to bilo? Okrog desetih dopoldne sem zagledal deset partizanov, ki so
                      prihajali po stezi proti skednju, kjer sem se skrival. Štirje so ostali spodaj,
                      vsak na enem voglu, šest jih je prišlo na seno. Zaril sem se globoko. Začeli so
@@ -4829,7 +4831,7 @@
                      povej. Nikdar več ne bom prišel mednje!« Zadnje je tiho pristavil. »Boš videl,
                      da se bova kmalu srečala v Ljubljani,« sem mu govoril, a sem slutil, da se ne
                      bova nikdar več videla. Kdo od naju bo padel? Morda oba? Jaz morda že nocoj?
-                     Stisnila sva si roke in se še enkrat pogledala. Mi smo odšli ... </p>
+                     Stisnila sva si roke in se še enkrat pogledala. Mi smo odšli … </p>
                   <p>Kam gremo? Odpeljali so nas z avtom v Bršljin. Torej v delavski bataljon!
                      Pozdravil nas je komandant Gjuro. »Ja ču vam biti kao otac i majka. Vi svi ste
                      nešto pogrešili i morate, da ispravite.« Še več nam je govoril. Drugo jutro smo
@@ -5149,6 +5151,7 @@
          <div type="div1">
             <head>Dodatek</head>
             <div type="div2">
+               <head>Dodatek</head>
                <head>Iz pisma Edvarda Kardelja Josipu Brozu dne 14. decembra 1942, Jesen 1942, str.
                   559: </head>
                <div type="div3">
@@ -5168,7 +5171,7 @@
                </div>
             </div>
             <div type="div2">
-               <head>Vabimo </head>
+               <head>Vabimo</head>
                <div type="div3">
                   <p>Ob 60. obletnici komunističnih povojnih pobojev <lb/> vas vabimo<lb/> na
                      obletno spominsko slovesnost<lb/> v nedeljo 5. junija 2005 ob 11. uri <lb/> pri

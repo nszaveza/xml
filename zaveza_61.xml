@@ -43,21 +43,21 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">61</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2010-11-17</date>
          </publicationStmt>
          <sourceDesc>
@@ -102,6 +102,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Totalitarizem – zamračitev civilizacije</head>
                   <p>Totalitarna zamračitev neba bo, še bolj kot dve svetovni vojni, označeval
@@ -1843,7 +1845,7 @@
                      imeli telefon in so se lahko večkrat slišali. Ko je nekoč klicala Sodjeva mama
                      k Resmanovim, je povedala, da je s Pepco vse v redu, je pa zelo otožna in
                      zaskrbljena. Veliko pestuje Janezka in mu poje žalostno pesmico: Ena lučka mi
-                     gori, / druga mi pa sveti, / mene pa srce boli,/ treba bo umreti... Nato pa sta
+                     gori, / druga mi pa sveti, / mene pa srce boli,/ treba bo umreti … Nato pa sta
                      obe, Pepca in Sodjeva mama jokali. </p>
                   <p>Pri Skalovčevih je bilo leto 1945 zelo žalostno. Vzklila je pomlad z
                      osvoboditvijo in Pepca je spoznala, da v njej raste novo življenje. Kako srečni
@@ -1993,9 +1995,9 @@
                      do Žgajnarja, kjer sva bili doma, sva odšli brez vednosti starih staršev.
                      Kljuke hišnih vrat nisva mogli doseči, zato sva sedli na prag in čakali na
                      mamico ter jokali. Po naju je prišel stari ata in naju odnesel nazaj v
-                     Fajfarjevo hišo, kot so rekli domu mojih starih staršev...Še dolgo sva uhajali iz
-                     najinega novega doma. Posedali sva na pragu Žgajnarjeve hiše in čakali na
-                     starše. Nekega dne sva ugotovili, da v hiši živijo drugi ljudje...«</p>
+                     Fajfarjevo hišo, kot so rekli domu mojih starih staršev … Še dolgo sva uhajali
+                     iz najinega novega doma. Posedali sva na pragu Žgajnarjeve hiše in čakali na
+                     starše. Nekega dne sva ugotovili, da v hiši živijo drugi ljudje … «</p>
                   <figure>
                      <graphic url="slike_z_61/z_61_23.png"/>
                      <head>Nikica s staro mamo <name type="author"/></head>
@@ -2019,9 +2021,9 @@
                   <p>Za Majdo, Marijo, Janeza in Nikico pa je svoboda pomenila začetek bednega
                      življenja sirot brez doma, brez mamice, brez očeta. </p>
                   <p>Bertoncljeva družina je dobila novo stanovanje. »Dobili smo veliko stanovanje
-                     na Kopališki 7; danes je tam zdravstveni dom. Velika hiša z velikim vrtom...« se
-                     še naprej spominja hčerka partizanke Mare in Staneta Bertoncelj. Čez nekaj let
-                     so se preselili. »Takrat smo stanovale v Beblerjevi vili...« Pepčini in
+                     na Kopališki 7; danes je tam zdravstveni dom. Velika hiša z velikim vrtom … «
+                     se še naprej spominja hčerka partizanke Mare in Staneta Bertoncelj. Čez nekaj
+                     let so se preselili. »Takrat smo stanovale v Beblerjevi vili … « Pepčini in
                      Miklavževi otroci pa so se selili od ene stare mame do druge: iz Bohinja v
                      Radovljico in nazaj. In kasneje k očetu v daljno Venezuelo, pa se od tam spet
                      vrnili v Bohinj, kjer so bile njihove korenine. Nikica pa je otroštvo preživela
@@ -2621,12 +2623,12 @@
                      je pribil. Ni zdržala. Potem smo obešali zvito, brez zvezde, zelo dolgo,
                      predolgo. In navsezadnje smo kupili novo. Poštenjak, ki tvega samostojno obrt
                      in ves dan dela za preživetje! Zvečer kdaj in ob praznikih si lahko kaj
-                     privošči: majhne tehnične iznajdbe, igračke ... tisto sladko delo iz čistega
+                     privošči: majhne tehnične iznajdbe, igračke … tisto sladko delo iz čistega
                      veselja; to je bil njegov edini dopust. Poznal je zakonitosti gospodarstva in
                      nihče ga ni mogel naplahtati z rajem na zemlji. Med temi nočnimi pripravami za
                      naslednji dan so v našo kuhinjo ob Dunajski vdirali pridušeni glasovi beguncev
                      s ceste, ropot vozov in trušč vse šare, naložene na njih, za nekaj dni, da se
-                     uredi ves ta kaos, tako smo vsi mislili ... </p>
+                     uredi ves ta kaos, tako smo vsi mislili … </p>
                   <p>9. maj! Po isti cesti so se valile nove množice. </p>
                   <p>Zamudniki so se iz vež usipali med zmagovalce. Zdelo se je, da je ta smer zdaj
                      brez vsakega tveganja. »Zdravo!« je škrtalo od vseh strani. Nič več »Dober
@@ -2636,7 +2638,7 @@
                      upornost? </p>
                   <p>In drugo: doživetje oholosti in samopašnosti. Naenkrat se je pojavil Človek, ki
                      vse ve, vse zna, vse sme. Razni pridaniči so vneto razlagali, kako bomo delali
-                     vreme, sneg, ustavljali točo ... (Ko je Angela Vode napisala pismo Mussoliniju,
+                     vreme, sneg, ustavljali točo … (Ko je Angela Vode napisala pismo Mussoliniju,
                      naj preneha s streljanjem talcev, je to pismo neka aktivistka pokazala Borisu
                      Kidriču; ta pa ni soglašal z vsebino: »Ne prosimo! Zahtevamo!!!«) Nova oblast
                      je takoj pokazala svoj obraz; v našem kraju je padla komanda: »Oddajte vse
@@ -2770,7 +2772,7 @@
                      naprej zanemarjali. Če umirjen humanist, kakršen je Kenneth Clark, sklene svojo
                         <emph>Civilizacijo</emph> (1969) v udobnostnem tonu, začnemo slutiti, da
                      utegne biti kmalu v nevarnosti veliko in morda vse. Kakor to pove Lord Clark: »
-                     ... priznati moramo, da prihodnost civilizacije ni videti kdove kako svetla ...
+                     … priznati moramo, da prihodnost civilizacije ni videti kdove kako svetla ...
                      Človek je lahko optimističen, ne more pa biti ravno vesel spričo tega, kar se
                      nam obeta.« </p>
                   <figure>
@@ -3051,7 +3053,7 @@
                      del človeškega občestva postane tako težavno, da postaja že junaštvo. Vendar
                      Camus vztraja pri tem, da njegovi protagonisti niso junaški v tradicionalnem
                      pomenu besede. Kakor to izrazi Rieux: »Vse to ni vprašanje junaštva. Je stvar
-                     običajne sposobnosti ... Junaštvo in svetništvo me ne privlačita ... To, kar me
+                     običajne sposobnosti … Junaštvo in svetništvo me ne privlačita … To, kar me
                      zanima, je biti človek.« Camus poudarja, da biti človek pod razčlovečevalnim
                      pritiskom zahteva izjemen napor; in da v skrajni sili boj za preživetje in boj,
                      da ostaneš človeški, postaneta eno, na neki način odvisna drug od drugega.
@@ -3994,7 +3996,7 @@
                      začudenjem ugotovili, da so zanje morda slišali, ne vedo pa, kaj pomenijo: Tone
                      Tomšič, Osankarica, Bolnica Franja, Pohorski bataljon, Jelenov Žleb, Sutjeska,
                      Ajdovec, Turjak, Sv. Urh, Draga, Vetrinj, Teharje, Stari Hrastnik, Škofovi
-                     zavodi, Kočevski Rog, Tezenski gozd, Trnovski gozd ... Tudi za udeležence
+                     zavodi, Kočevski Rog, Tezenski gozd, Trnovski gozd … Tudi za udeležence
                      spopadov na ozemlju nekdanje Jugoslavije v 2. svetovni vojni uporabljamo
                      poenostavljene pojme, tako so Nemci nacisti ali esesovci, Italijani fašisti,
                      vojaki komunistične strani partizani, vojaki hrvaške vojske, pa naj gre za
@@ -4196,6 +4198,7 @@
          <div type="div1">
             <head>Škofovi zavodi poleti 1945</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>V Zavezi št. 56 (str. 51-63) je Jože Kočar objavil svoj dnevnik iz leta 1945:
                      Trnova pot iz Vetrinja in Šentvida, kjer je preživel dneve od 15. junija do 18.
@@ -4248,7 +4251,7 @@
                      Ljubljano. Bojni hrum je trajal že dalj kot eno uro. Spogledovali smo se in
                      eden drugemu brali misli. To ne more biti vaja, to je resen spopad. Morda
                      prihajajo Amerikanci od italijanske strani ali pa so se partizani udarili med
-                     seboj... Po nekaj urah je grmenje začelo ponehavati in je končno utihnilo.
+                     seboj … Po nekaj urah je grmenje začelo ponehavati in je končno utihnilo.
                      Razočarani smo še dolgo premišljevali, kaj bi to moglo biti. Čez nekaj dni je
                      tudi v našo klet prodrla vest, da se je na ljubljanskem kolodvoru vnel vlak,
                      natovorjen z municijo ...</p>
@@ -4279,7 +4282,7 @@
                      najbolj verjetno. Zato mi je kar kri zledenela v žilah, ko so po ceradi začele
                      praskati drevesne veje in je kamion začel voziti čisto počasi. Nekdo je ob meni
                      ves prestrašen izustil isto misel, ki je vrtala tudi v moji glavi: </p>
-                  <p>»V gmajno smo prišli! To pa ne bo dobro...« </p>
+                  <p>»V gmajno smo prišli! To pa ne bo dobro … « </p>
                   <p>Potem se je avto ustavil, nekajkrat zapeljal še naprej in nazaj in končno
                      obstal. Zlikovca sta dvignila cerado in odpela zadnjo stranico kamiona. S
                      kričanjem in brcami sta nas začela »iztovarjati«.</p>
@@ -4527,7 +4530,7 @@
                      rob kadi. Tistikrat, ko sem prvič uporabil »stranišče«, je bila kad do ene pedi
                      pod vrhom polna iztrebkov. Še danes mi je uganka, kako so do vrha polno kad
                      spravili po stopnicah iz drugega nadstropja. Samo po sebi se razume, da tudi tu
-                     ni bilo mogoče umiti rok niti se s čim obrisati ... </p>
+                     ni bilo mogoče umiti rok niti se s čim obrisati … </p>
                   <p>Ko sem se počasi vračal proti naši sobi, sem se prvič malo razgledal okrog
                      sebe. Ugotovil sem, da smo nameščeni v veliki stavbi kvadrataste oblike. V
                      sredini je kvadratno dvorišče, obdano s hodniki, iz katerih se pride v nekdanje
@@ -4720,7 +4723,7 @@
                      posvetil za naše razmere popolnoma nenavaden dogodek. Bila je že trda tema, ko
                      je nenadoma nekje zunaj zadonela pesem. Bil je čudovit bariton, jasen in močan,
                      kot da poje tik ob našem oknu. Pevec, kakršnega do tedaj še nisem slišal, je
-                     pel tisto narodno: Lunca je videla, mamca pa ne... V sobi je nastala grobna
+                     pel tisto narodno: Lunca je videla, mamca pa ne … V sobi je nastala grobna
                      tišina. Celo dih smo zadrževali, da ne bi preslišali kakšne besede. Zunaj se je
                      z manjšimi presledki zvrstilo še nekaj pesmi. Vmes je bilo slišati celo nekaj
                      ploskanja. Dogodek nam je segel tako globoko v srca, da se je še dolgo po tem,
@@ -4744,8 +4747,8 @@
                   <p>»Na dvorišče so pripeljali le enega, gotovo velezločinca. Močan, mišičast možak
                      v beli raztrgani srajci se je postavil na sredo dvorišča med štiri visoke
                      zidove in začel peti: Vsi so prihajali, njega ni blo, jaz pa sem čakala, jaz pa
-                     sem čakala... Pel je z močnim glasom v lepem baritonu, da so se tresle šipe v
-                     oknih: - sama doma... O, ti globoka slovenska pesem! Vedno si lepa in segaš v
+                     sem čakala … Pel je z močnim glasom v lepem baritonu, da so se tresle šipe v
+                     oknih: - sama doma … O, ti globoka slovenska pesem! Vedno si lepa in segaš v
                      srce. Prizor je bil čudovit! Visoke stene v četverokotniku so ponazarjale ječe.
                      Stotine bledih obrazov, ki so moleli iz številnih balkonov, so najbolje
                      predstavljale jetnike. In stražarji, osorni in naduti, so predstavljali
@@ -4782,7 +4785,7 @@
                   <p>Med redke dogodke, ki so nas razveselili, lahko uvrstim tistega, ko so nam
                      razdelili dopisnice in nam rekli, da smemo pisati domov. Vsebina je morala biti
                      zelo kratka in so nam jo skoraj narekovali: da smo v Šentvidu, smo živi in
-                     zdravi, hrana je dobra... Če bo kdo pisaril kaj dosti več ali dvoumno, mu
+                     zdravi, hrana je dobra … Če bo kdo pisaril kaj dosti več ali dvoumno, mu
                      dopisnice ne bodo oddali. Dali so nam svinčnik in potem smo se veselo lotili
                      posla. Nekateri so menili, da se iz nas norčujejo in da dopisnic ne bodo nikoli
                      oddali, da je to samo sleparija. No, naši so mojo dobili.</p>
@@ -5076,7 +5079,7 @@
                      sedli na klop, a so nas takoj pozvali, naj vstanemo. Eden od oficirjev je začel
                      brati sodbo. »V imenu ljudstva« so padale težke besede: 20 let prisilnega dela,
                      12 let prisilnega dela, smrt z ustrelitvijo, 18 let prisilnega dela, smrt z
-                     ustrelitvijo... Kot v sanjah sem zaslišal svoje ime in potem sodbo: dve leti
+                     ustrelitvijo … Kot v sanjah sem zaslišal svoje ime in potem sodbo: dve leti
                      prisilnega dela. Upoštevana je bila moja mladost in neizkušenost. Nekomu je
                      bila sodba zaradi pomanjkanja dokazov preložena. Na smrt obsojeni so imeli
                      možnost pisno zaprositi za pomilostitev.</p>
@@ -5362,7 +5365,7 @@
                      kar je iskalo poti, da se izrazi. Našli smo odgovor. Pred štiridesetimi leti je
                      veliko zemljišče zunaj na deželi z nakupom prišlo v slovensko last. To nam je
                      bilo zdaj skupna domačija, naša zemlja, simbol domovine, mala Slovenija:
-                     hribček in dolinice, travnik, gozd, vinograd, reka ... </p>
+                     hribček in dolinice, travnik, gozd, vinograd, reka … </p>
                   <p>Ko smo begunci šli v širni svet, je bil v borni culi grenkih spominov, ki smo
                      jo nosili s seboj, najbridkejši in najgrenkejši spomin na tisoče in tisoče
                      pobitih najboljših. Njih, ki so jim brezna in jame postale zadnje prebivališče.
@@ -5378,7 +5381,7 @@
                      utrinjajo v noč kakor plamenčki spomini njih mučeništva, vpleteni v odrešujoče
                      trpljenje Gospoda. Da, s svojo žrtvijo, ki jo je Gospod od njih, čeprav tako
                      nepopolnih, sprejel, skupaj z Njim odrešujejo one v domovini in nas, ki se ne
-                     moremo iztrgati iz zablod in smo se ponovno ujeli v zanke sveta ... </p>
+                     moremo iztrgati iz zablod in smo se ponovno ujeli v zanke sveta … </p>
                   <p>Zdaj se vsa ta leta, ko se lipe pripravljajo, da odpro svoje cvetove in da
                      zavijejo griček v opoj sladko medenega vonja, zbiramo pred spominsko kapelico,
                      da smo ob sveti daritvi združeni s tisoči, ki so umrli z Božjim Sinom med
@@ -5402,12 +5405,12 @@
                   <p>Ta naša skupna posest, kjer se zbiramo, je za nas simbol izgubljene domovine,
                      naš dom v tujem svetu. To je naša zemlja, v katere valovanju je domotožje in so
                      sanje, ki rišejo podobe domačega kraja, skrite ljubezni srca. Z Župančičem,
-                     tistim, ki še ni globoko zabredel, pojemo “Sveta si zemlja ...” Sveta, ker nam v
-                     svojem naročju ljubeče pestuješ spomine, sveta, ker na tvojem gričku kapelica,
-                     posvečena spominu mučenih in pobitih, kaže v nebo ter v votlini pod oltarjem
-                     hrani vrč z zemljo iz Kočevskega Roga. In glej, zdaj so tudi doma vključili v
-                     rast Cerkve dotik svetosti mučeniškega obdobja. V temelje nove cerkve, ki jo
-                     gradijo v Podutiku, so vzidali zemljo iz Brezarjevega brezna. </p>
+                     tistim, ki še ni globoko zabredel, pojemo “Sveta si zemlja ...” Sveta, ker nam
+                     v svojem naročju ljubeče pestuješ spomine, sveta, ker na tvojem gričku
+                     kapelica, posvečena spominu mučenih in pobitih, kaže v nebo ter v votlini pod
+                     oltarjem hrani vrč z zemljo iz Kočevskega Roga. In glej, zdaj so tudi doma
+                     vključili v rast Cerkve dotik svetosti mučeniškega obdobja. V temelje nove
+                     cerkve, ki jo gradijo v Podutiku, so vzidali zemljo iz Brezarjevega brezna. </p>
                   <p>In naj povem še redkim znano zgodbo te naše svete zemlje. Clevelandski romar v
                      Kočevski Rog je v žrelu jame Pod Krenom izgrebel koščico enega tisočev tam
                      ubitih in zasutih. Z vso spoštljivostjo jo je prinesel in relikvijo skrivaj
@@ -5452,10 +5455,10 @@
                <head>Kočevski Rog 2006</head>
                <p>Letošnja vseslovenska spominska slovesnost v Kočevskem Rogu bo <lb/>11. junija ob
                   11. uri.</p>
-               <p rend="center">KOČEVSKI ROG POSTAJA VSESLOVENSKI ROMARSKI KRAJ – VSAKO LETO GA OBIŠČE NAD DVAJSET
-                  TISOČ LJUDI – TISTI, KI HODIJO SEM SO ZAČUTILI, DA IZ NJEGA PRITEKAJO ENERGIJE, KI
-                  SO POTREBNE ZA NAŠ SEDANJI IN PRIHODNJI OBSTOJ – ŽRTEV JUNAKOV, KI LEŽIJO V ROGU,
-                  BO POSTALA TEMELJ ZA NOVO POSTAVITEV SLOVENSTVA </p>
+               <p rend="center">KOČEVSKI ROG POSTAJA VSESLOVENSKI ROMARSKI KRAJ – VSAKO LETO GA
+                  OBIŠČE NAD DVAJSET TISOČ LJUDI – TISTI, KI HODIJO SEM SO ZAČUTILI, DA IZ NJEGA
+                  PRITEKAJO ENERGIJE, KI SO POTREBNE ZA NAŠ SEDANJI IN PRIHODNJI OBSTOJ – ŽRTEV
+                  JUNAKOV, KI LEŽIJO V ROGU, BO POSTALA TEMELJ ZA NOVO POSTAVITEV SLOVENSTVA </p>
             </div>
             <div type="div2">
                <head>Doumeti Rog</head>

@@ -33,14 +33,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -91,6 +91,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <p>V besedilih pod tem naslovom smo že nekajkrat izrazili misel, da je svet, v
                      katerem živimo, pravzaprav nevaren svet. Njegovo nevarnost vidimo v tem, da se
@@ -1425,7 +1427,7 @@
                      klanja, zakaj talci imajo smisel le kot zastrašitev, ta pa je uspešna le z
                      objavo, sicer nima pomena. Nemci so od prvega začetka streljali talce, a njih
                      imena tudi moško nabijali, tu pa imen sploh nikoli niso sporočili, le splošno:
-                     ... oseb, zanesljivo krivih komunističnega ali subverzivnega ali terorističnega
+                     … oseb, zanesljivo krivih komunističnega ali subverzivnega ali terorističnega
                      delovanja. Bi se pač prehitro pokazalo, da streljajo tudi čisto nedolžne ljudi,
                      daleč od vsakega takega delovanja. Tako je le težko zvedeti z zanesljivostjo,
                      kdo je bil pravzaprav ustreljen. Spočetka so takim nesrečnim domačim pošiljali
@@ -1575,7 +1577,7 @@
                      obtožba Ljubljane, kakor da je vsa rdeča, kakor da nam doslej noben tuj
                      gospodar ni jemal vere in jezika, da pa to skušajo sedaj komunisti ipd. Te
                      stvari so pred italijanskimi oblastmi zelo neprijetno odjeknile za narodno
-                     zavedne ljudi in povzročile mnogo razburjenja ... Ivo Peršuh je padel kot
+                     zavedne ljudi in povzročile mnogo razburjenja … Ivo Peršuh je padel kot
                      resnična žrtev Mihajlovičeve organizacije in vojaških priprav. Po načelu, da bo
                      likvidiran vsakdo, kdor bi pripravljal kako vojaško ali politično akcijo izven
                      OF, je padel on, ki je bil udeležen pri organizaciji vojaške moči. Pokopan je
@@ -1585,7 +1587,7 @@
                      manifestacija v okrilju ital. oblasti zavedne ljudi boli in se ji ognejo.
                      Zabolelo je ljudi še posebej, ker je nekaj dni kasneje komisariat v nekakem
                      spominu ustreljenemu fašistu v Jutru in Slovencu nekako povezal obe žrtvi,
-                     kakor da sta Ehrlich in fašist padla kot žrtvi iste ideje ... boja proti
+                     kakor da sta Ehrlich in fašist padla kot žrtvi iste ideje … boja proti
                      boljševizmu. Ustrelila pa je tega fašista menda neka prevarjena ženska. Pred
                      nekaj dnevi je bila vržena v restavracijo pri Levu bomba (tam je sedaj ital.
                      gostilna) in ubila eno žensko, več jih pa ranila.</p>
@@ -1610,7 +1612,7 @@
                      narodno Mihajlovičevo vojsko. Kako take prisiljene in dobro misleče četnike
                      prepeljati v pravi tabor, je še zmeraj velik problem, dokler nima Mihajlovičeva
                      vojska večjih operativnih baz na ozemlju. Sedaj jih je zelo težko ustanavljati,
-                     ker je vse živo partizanov po gozdovih in ker je organizacija zelo težka ... pač
+                     ker je vse živo partizanov po gozdovih in ker je organizacija zelo težka … pač
                      veliko zamujenega.</p>
                   <p>S tem v zvezi bi omenili imenovanje generala Rupnika za ljubljanskega župana.
                      Sicer je brez pravih osnov, kar se govori, ali vendar nočejo in nočejo
@@ -1926,7 +1928,7 @@
                      radodaren. Odkrito se je bahal, da je sodeloval s partizani in strojil kože
                      zanje. Menil je, da to ni nič napačnega, češ, jaz sem strojar in to sem delal,
                      pa nič več. Nisem soglašal z njim, a cigarete sem pa rad jemal od njega. Kaj
-                     pravi pregovor: iver v očesu brata vidiš ... V zaporu so me obiskali bratje,
+                     pravi pregovor: iver v očesu brata vidiš … V zaporu so me obiskali bratje,
                      razen Poldeta, in enkrat celo mati. Vsem sem se smilil, letali so okoli vseh
                      mogočih poglavarjev, da bi me spravili ven, a od vseh so dobili skoraj enak
                      odgovor, da me bodo izpustili, ker nisem nič hudega naredil. Edini, ki je bil
@@ -2717,8 +2719,8 @@
                   <p>V nadaljevanju govori poročilo o jugoslovanski narodnoosvobodilni vojski, za
                      katero pravi, da je organizirana revolucionarna armada, ki je ideološko
                      monolitna skupnost. In nato nadaljuje: »Režim, ki ga ta vojska postavlja za
-                     umikajočimi se Nemci, ima, že za površnega opazovalca, večino znakov nacizma ...«
-                     Sploh je nosilec oblasti zgolj Partija, ki v vojski deluje prek političnih
+                     umikajočimi se Nemci, ima, že za površnega opazovalca, večino znakov nacizma
+                     ...« Sploh je nosilec oblasti zgolj Partija, ki v vojski deluje prek političnih
                      komisarjev, sicer pa prek tajne službe Ozne in partijcev v različnih
                      komitejih.</p>
                   <p>Potem govori poročilo o ustaštvu. Poudarja njegovo zločinsko naravo in ga
@@ -2754,8 +2756,8 @@
                      tudi izjava, ki jo je med triintridesetimi državami 1. januarja podpisala tudi
                      Jugoslavija. Medvojna Slovenska zaveza je v 4. številki 29. julija 1942
                      objavila poglavitne člene te izjave. Naj ponovimo nekatere: »Atlantska listina
-                     ... določa ... da je zaveznikom osnova in izhodišče za preureditev sveta status quo
-                     pred izbruhom vojne in da so trdno odločeni ... povrniti onim narodom pravice
+                     … določa … da je zaveznikom osnova in izhodišče za preureditev sveta status quo
+                     pred izbruhom vojne in da so trdno odločeni … povrniti onim narodom pravice
                      suverenosti in nezavisnosti, ki so jim bile s silo odvzete ter tako vzpostaviti
                      svet v prejšnje stanje.« Nadalje: »Stoječ na stališču status quo pred izbruhom
                      vojne priznavajo vse zavezniške velesile in ostale države kontinuiteto držav,
@@ -2918,7 +2920,7 @@
                   <p>Mulec, ki se mu ni ljubilo učiti, pa tudi zanimalo ga je vse drugo bolj kot
                      učenje, se je pri kemiji naučil le o plavžu in potem to pridno uporabljal:
                      Železo, mhm, železo. Železo dobimo iz plavža. Plavž je visoka peč. Koks, mhm,
-                     koks. Koks damo v plavž. Plavž je visoka peč ... </p>
+                     koks. Koks damo v plavž. Plavž je visoka peč … </p>
                   <p>Citat v Dnevniku me spominja tudi na tisto: Kaj vse iz jajčka nastane? (Veselja
                      dom: Otrok se uči risarskih spretnosti. Najprej vedno nariše jajce, potem pa
                      dodaja črtice in pikice in nastane enkrat putka, drugič račka pa nasmejan in
@@ -3337,15 +3339,15 @@
                      srečno roko so imeli v Dobrepolju, kjer mora spomenik–knjiga tekmovati s
                      Kraljevim spomenikom, posvečenim padlim v 1. svetovni vojni. Zapisalo se jim je
                      »civili«, napravili so skrajno dvomljivo zamenjavo in namesto Balantičeve
-                     kitice izbrali Prešernovo »Slovenec že mori ...«. Malo bolj korektno so opremili
-                     svojo knjigo v Velikih Laščah, popolnoma jim je spodletelo v Škocjanu pri
-                     Turjaku, kjer so sicer knjigo razprli, pozabili pa na letnice smrti. To je še
-                     odpustljivo tam, kjer je razmerje med skupinami umrlih uravnovešeno v razmerju
-                     1:1:12 (umori na začetku, poboji ob italijanski kapitulaciji in veliki poboj ob
-                     koncu vojne), za Škocjan pa je nedopustno. Škocjanski vaški stražarji so bili
-                     septembra 1943 jedro turjaške obrambe, večinoma postreljeni kar za velikolaško
-                     železniško postajo in kasneje prekopani na domače pokopališče. Skoraj pri
-                     polovici imen bi morala stati letnica smrti 1943!</p>
+                     kitice izbrali Prešernovo »Slovenec že mori ...«. Malo bolj korektno so
+                     opremili svojo knjigo v Velikih Laščah, popolnoma jim je spodletelo v Škocjanu
+                     pri Turjaku, kjer so sicer knjigo razprli, pozabili pa na letnice smrti. To je
+                     še odpustljivo tam, kjer je razmerje med skupinami umrlih uravnovešeno v
+                     razmerju 1:1:12 (umori na začetku, poboji ob italijanski kapitulaciji in veliki
+                     poboj ob koncu vojne), za Škocjan pa je nedopustno. Škocjanski vaški stražarji
+                     so bili septembra 1943 jedro turjaške obrambe, večinoma postreljeni kar za
+                     velikolaško železniško postajo in kasneje prekopani na domače pokopališče.
+                     Skoraj pri polovici imen bi morala stati letnica smrti 1943!</p>
                   <p>Na nerešljive težave smo naleteli ob nagrobnih ploščah in spomenikih po
                      Gorenjskem. Nanje je treba zapisati tako imena fantov, ki so padli v nemški
                      vojski, kot ljudi, ki so umrli nasilne smrti na protikomunistični strani. V
@@ -3872,7 +3874,7 @@
                      ga je vojna vihra iztrgala iz ljubljene Slovenije. Tudi Ivan ne. Poletimo na
                      Dunaj. Od tam nas vozi Marjana do Dravograda. V mraku prečkamo avstrijsko mejo.
                      Sprejmejo nas sorodniki, ki žive tik ob meji. Niso še pričakovali našega
-                     prihoda. »Oprostite, mudilo se nam je. Hoteli smo biti čim prej doma ... Saj
+                     prihoda. »Oprostite, mudilo se nam je. Hoteli smo biti čim prej doma … Saj
                      razumete.« Praznujemo. Ivan bo čez dan poiskal stezo, po kateri je hitel v
                      Avstrijo, potem ko je skočil iz vagona in si rešil življenje. Moral bi povedati
                      družini, ki čaka v taborišču, naj ne nasedajo »zaveznikom«. Bil je prepozen.
@@ -3884,13 +3886,13 @@
                      Gaudeamus. Snemanje za televizijo. Kaj je mogoče, da nam je petdeset let tako
                      hitro poteklo? Saj smo po srcu še vedno najstniki, gimnazijci. O, vse
                      blagoslove tebi, Ljubljana! Kako nas pomlajaš! Nikolaj se druži z
-                     gledališčniki: Viktor, Klio ... S starimi prijatelji, kulturniki ... Še nikoli ga
+                     gledališčniki: Viktor, Klio … S starimi prijatelji, kulturniki … Še nikoli ga
                      nismo videli tako srečnega. »Nerodno mi je, da mi Mirjam tako streže. Kdaj bom
                      imel priliko, da ji povrnem? Zelo mi je pri srcu. Vse življenje me je ona
                      najbolj razumela,« praviš. Minki se greš zahvalit, da skrbi za grob staršev.
                      Obiščeva zveste prijatelje Žitnikove. – Obisk pri misijonarju Lenčku je bil
                      nadvse prisrčen. Prav nazadnje se še hočeš posloviti od Ljubljanskega gradu. Na
-                     vrhu se spominjava onih, pozabljenih, nekdaj tam svečano pokopanih ... </p>
+                     vrhu se spominjava onih, pozabljenih, nekdaj tam svečano pokopanih … </p>
                   <p>Toronto, poleti 1991. * Nikolaj ima množico idej, kako preživeti počitnice v
                      Kanadi. Najprej spoznati Toronto. Mesto mu je silno všeč! Kako je lepo, čisto!
                      Cigarete prižigajo in ugašajo pred vhodi v javne prostore. Kajenje je omejeno,
@@ -3912,7 +3914,7 @@
                      misijonsko misel, o tem pisal, uprizarjal in celo nastopal sam kot Baraga.
                      Odločimo se: Leander vozi, Tone bo vodič, Nikolaj in jaz pa romarja. Peljemo se
                      po sledovih našega slavnega »škofa na krpljah«. Nikolaj je bil prevzet. Želel
-                     si je več časa. Vozaču se mudi. Vrnili se bomo, če Bog da ... </p>
+                     si je več časa. Vozaču se mudi. Vrnili se bomo, če Bog da … </p>
                   <p>Domeniva se za Harbourfront. Umetniki tam recitirajo svoja dela. Nikolaj
                      odloči: »Ko pridem spet v Toronto, se jim tudi jaz pridružim.« Večer se
                      nepričakovano konča v zmedi: Nikolaj gre po prijavnico</p>
@@ -3921,7 +3923,7 @@
                      <head>Nikolaj Jeločnik s soigralci v igri Napad, ki sta jo napisala Vombergar
                         in Jeločnik in je bila prvič predvajana 27. novembra 1949</head>
                   </figure>
-                  <p>in izgine ... Čakam ga že eno uro. Ni ga. Stopim do vratarja: moramo ga poiskati.
+                  <p>in izgine … Čakam ga že eno uro. Ni ga. Stopim do vratarja: moramo ga poiskati.
                      Končno se pojavi s črncem, ki ga je odkril v labirintu hodnikov. »Vzel sem
                      napačen Exit,« se opravičuješ, »pa sem se znašel v zaprtem parkirišču.«
                      Oddahnila sem se. Sreča, da so ga našli. Lahko bi tam ostal sam celo noč. »O
@@ -3962,7 +3964,8 @@
                      <head>Nikolaj Jeločnik v Krstu pri Savici – Buenos Aires 1967</head>
                   </figure>
                   <p>da moram storiti: pisanje osebne kronike o medvojnem dogajanju, Petrovo
-                     biografijo, študijo o slovenskem izseljenstvu v Kanadi ...«, piše prijatelju.</p>
+                     biografijo, študijo o slovenskem izseljenstvu v Kanadi ...«, piše
+                     prijatelju.</p>
                   <p>V oktobru odleti v Buenos Aires.</p>
                   <p>Motnje v prebavi so ga napotile k zdravniku. Rak.</p>
                   <p>Decembra ga operira eden najbolj priznanih argentinskih kirurgov. Postane in
@@ -3980,12 +3983,12 @@
                      sapo, kot lani. Sam sem, neznansko sam. Koliko časa me bodo gledali pod to
                      streho, ki ni več moja, ne vem.« Redno pošilja slovenske knjige in arhiv na
                      Burnview. »Ne mislim še umreti. Pa vendar, po svoji uvidevnosti uredi vse, če
-                     me več ne bo ... Ireni in gospe bom pustil, kar je španskega. Nista ogreti za
+                     me več ne bo … Ireni in gospe bom pustil, kar je španskega. Nista ogreti za
                      slovenstvo,« mi da vedeti.</p>
                   <p>Spet težave z zdravjem. Ponovna operacija. Prognoza ne preveč obetajoča.
                      Nikolaj se ne vda. »Želim te videti, Sidney, prinesla mi boš zdravje,« kliče po
                      etru. Ne more pisati. Pogovarjava se po telefonu. V januarju 1993 ga obiščem v
-                     Buenos Airesu. »Tako sem srečen. Sem brez skrbi, če si ob meni. Sem invalid ... S
+                     Buenos Airesu. »Tako sem srečen. Sem brez skrbi, če si ob meni. Sem invalid … S
                      Kanado ne bo nič. Pojdiva v Slovenijo. Bojim se potovati sam. Pridi po mene, ko
                      se počutim dovolj močnega.« Obljubim, trdno obljubim. Sv. Ambrož, pomagaj!</p>
                   <p>Nikolajevo zdravje se ne izboljšuje, kot je upal. Konec maja sem spet v Buenos
@@ -3998,14 +4001,14 @@
                      revež.«</p>
                   <p>Tvoja volja mi bo sveta!</p>
                   <p>Prijatelji ga niso pozabili. Pisali so po smrti, cenili njegovo delo: M.
-                     Jevnikar, Gerzinič, Eiletz, Rebula, Velikonja, Rot, Kramolc ... Taras Kermauner
+                     Jevnikar, Gerzinič, Eiletz, Rebula, Velikonja, Rot, Kramolc … Taras Kermauner
                      se ga spominja v pismu: »Žal mi je, da se Niko ni mogel zdrav in poln moči
                      vrniti v Slovenijo; zaradi svojega umetniškega daru je imel edinstveno možnost,
                      da reagira na vse skupaj drugače kot večina; da gleda na preteklost z modre
                      distance – neodvisno od tega, da je bil celo močan ideolog domobranstva in
                      zaslužen pisatelj Stalinistične revolucije na Slovenskem. A kot umetnik je imel
                      do lastne ideologije notranjo distanco. Škoda, da tega ni izrazil v umetniških
-                     delih, ki bi imela danes izredno vrednost in pomen ... Žal v svojo umetniško moč
+                     delih, ki bi imela danes izredno vrednost in pomen … Žal v svojo umetniško moč
                      ni dovolj zaupal – tudi drugi ne in mu niso dali podpore; zaradi svojega
                      temperamenta – ravno umetniškega – je prihajal z mnogimi v spore, pa tudi
                      položaj SPE mu ni dajal dovolj osebne svobode in možnosti za javno izražanje
@@ -4407,6 +4410,7 @@
          <div type="div1">
             <head>Odzivi</head>
             <div type="div2">
+               <head>Odzivi</head>
                <div type="div3">
                   <p>Spoštovani gospod urednik;</p>
                   <p>v Vašem glasilu Nova Slovenska zaveza iz junija 1993 sem brala zgodbo o mojem

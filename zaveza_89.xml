@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="tei-zaveza.rnc" type="compact"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -60,7 +60,7 @@
 					<p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
 				</availability>
 				<idno type="issue">89</idno>
-				<idno type="ISSN">xYxyxcc ??</idno>
+				<idno type="ISSN">?</idno>
 				<date>2013-07-13</date>
 			</publicationStmt>
 			<sourceDesc>
@@ -6136,6 +6136,7 @@
 			<div type="div1">
 				<head>Izjava Nove Slovenske zaveze</head>
 				<div type="div2">
+					<head>Izjava Nove Slovenske zaveze</head>
 					<div type="div3">
 						<p>Dne 3. maja nas je DELO opozorilo, da stara zamisel o »spomeniku žrtvam
 							vseh vojn« nikakor ni pozabljena, ampak bo natečaj za njeno izvedbo
@@ -6175,11 +6176,12 @@
 			<div type="div1">
 				<head>Na platnicah</head>
 				<div type="div2">
+					<head>Misel</head>
 					<div type="div3">
-
 						<figure>
 							<graphic url="slike_z_89/z_89_43.png"/>
-							<head>slika <name>Tamino Petelinšek</name>
+							<head>
+								<name>Tamino Petelinšek</name>
 							</head>
 						</figure>
 						<p>Pojavila se je moralna otopelost, neobčutljivost za družbeno realnost in
@@ -6198,8 +6200,8 @@
 							realnosti, z dokazovanjem njene nedosegljivosti). Ta problem se je na
 							Slovenskem izrazil zelo močno in v obsegu, ki ga pred dvajsetimi leti
 							marsikdo res ni pričakoval.</p>
-						<byline>Brane Senegačnik</byline>
 					</div>
+					<docAuthor>Brane Senegačnik</docAuthor>
 				</div>
 				<div type="div2">
 					<head>Priporočamo</head>

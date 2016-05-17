@@ -60,7 +60,7 @@
                <p>© Avtorske pravice za besedila in slike: Nova slovenska zaveza</p>
             </availability>
             <idno type="issue">23</idno>
-            <idno type="ISSN">xYxyxcc ??</idno>
+            <idno type="ISSN">?</idno>
             <date>2009-09-01</date>
          </publicationStmt>
          <sourceDesc>
@@ -104,7 +104,9 @@
       <body>
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar nove slovenske zaveze</head>
-            <div>
+            <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Volitve - slava demokratskega človeka</head>
                   <p>O dogodkih razmišljamo drugače v času, ko so še pred nami, in drugače potem, ko
@@ -1399,7 +1401,7 @@
                      1943 me pokliče Mrvetov Stane, naj pridem s kolesom tja. Ženo je ven spodil.
                      Pokazal mi je neko pismo iz Italije. Da mu je pisal Jenkov Franci. Berem,
                      berem, jokam. "Za Šimnovca lahko samo kak očenaš zmolite! Jaz sem ušel. Tekel
-                     sem po tisti cesti, kjer Bartol stanuje ... " </p>
+                     sem po tisti cesti, kjer Bartol stanuje … " </p>
                   <p>Stane je rekel, saj bo Franci domov prišel, pa boš izvedela vse. In res se je
                      vrnil. Brat Ivan ga je poklical, da bi pokazal, kjer je pokopan Jože. Bilo je
                      leta 1943, ne vem katerega meseca, enkrat poleti, saj je bilo toplo. Prišel je
@@ -1459,7 +1461,7 @@
                   <p>Enkrat otroka peljem po Celovški s kolesom. Anica spredaj, Jože zadaj. Nas so
                      dohitele hčerke od ene, ki je takrat pred našo hišo na straži stala. Skočile so
                      s koles pred mene in vpile: "Le čakaj, kurba!" Otroka sta jokala. Počasi sta se
-                     naveličali, ker me nista mogli ... Za kolo sta me zagrabili in žugali: "Le čakaj,
+                     naveličali, ker me nista mogli … Za kolo sta me zagrabili in žugali: "Le čakaj,
                      boš že še videla, kar treba, ko prideš domov." Ko sem prišla, sem dobila pismo,
                      da se moram takoj izseliti in pustiti prazno stanovanje. Šla sem k našim domov.
                      Mama so jokali. Dali so mi skromno sobo, kjer sem z otrokoma spala in imela
@@ -2353,7 +2355,7 @@
                      časa na naša vprašanja sploh ni hotela odgovarjati, nato pa je s sitnim glasom
                      pripovedovala, da je bil Čokan pri V. grupi odredov propagandist kulturnik, a
                      da ga je ustrelila, ker je kvartal. Ni prenesla njegovih mestnih čvekarij,
-                     popustili so ji živci ... pa ga je počila. Urban je prasnil v smeh, Brilej,
+                     popustili so ji živci … pa ga je počila. Urban je prasnil v smeh, Brilej,
                      Strmecki in jaz smo onemeli. Strahovita preprostost poročila je kriminalno
                      dejanje postoterila. Brilej se je iz zagate rešil z zahtevo, naj nam pokaže
                      zapor, če v resnici obstaja. V Urbanu so se sprožili mehanizmi samoobrambe,
@@ -2363,7 +2365,7 @@
                      našimi navzkrižnimi vprašanji zašli v hude zadrege. Nenehno so obračali oči v
                      Urbana in njegovo ženo ter skušali odgovarjati na vprašanja tako, da bi bilo
                      njihovemu komandantu všeč. Nenadoma mi je bilo zahrbtne igre dovolj, hotel sem
-                     iz štaba ... Urban se je postavil pred vrata in zarenčal: "Samo preko mojega
+                     iz štaba … Urban se je postavil pred vrata in zarenčal: "Samo preko mojega
                      trupla!" Tedaj ga je Brilej prijel za roko, odšla sta ven, za njima Strmecki in
                      Mara, jaz pa sem ostal s stražarjem sam v štabu. Vrata so se zaprla. Občutek,
                      da sem v smrtni nevarnosti, je ob misli na Brileja in Strmeckega počasi
@@ -2914,7 +2916,7 @@
                      je delovala nemoteno dalje s to razliko, da so "takoj in vidno preusmerili učni
                      program". Šolo je zajelo obdobje proslav. Pred zaključkom šolskega leta so
                      imeli 30. maja še veliko proslavo "osvoboditve domovine". Zapisnikarica (19.
-                     6.) je bila navdušena: " ... na slovenski trobojnici je visela slika maršala
+                     6.) je bila navdušena: " … na slovenski trobojnici je visela slika maršala
                      Tita. Vsa soba je bila v zelenju in zastavicah, ki so jih napravili šolski
                      otroci sami." Človek se ob tem zamisli: morda je to bil natanko tisti dan, ko
                      so angleški tovornjaki že vozili brate in očete teh otrok v roke človeku, ki so
@@ -2959,7 +2961,7 @@
                      Prihajali so tudi novi nadzorniki, da bi pomagali učiteljem v nove čase.
                      Posebno zanimiva se nam zdi pobuda nadzornika na konferenci 26. marca 1947, ki
                      je poskušal razložiti socialistični pomen besede "strokovnost", kajti še danes,
-                     kakor vidimo, ni izgubil svoje uporabnosti. Takole je govoril: " ... poglobiti se
+                     kakor vidimo, ni izgubil svoje uporabnosti. Takole je govoril: " … poglobiti se
                      je treba v strokovno delo šole: vodstvo pionirjev in pionirske organizacije se
                      mora izboljšati; šolsko delo naj bo povezano s petletnim planom - s progo Šamac
                      Sarajevo - in s spomladansko setvijo, posebno pri pouku v višjih razredih.
@@ -3064,7 +3066,7 @@
                      izobraženostjo, s svojo radoživostjo, s svojo jasno mislijo. Nekdanja služkinja
                      Marija ji piše, da je po dolgem času spet obiskala Senožeče, kjer je nekoč
                      služila pri Lininih starših. Obiskala je grob "pokojne mame, prižgala sveče in
-                     nekaj pomolila". In nadaljuje: " ... in sem pomislila tudi na vas, gospodična
+                     nekaj pomolila". In nadaljuje: " … in sem pomislila tudi na vas, gospodična
                      Lina, kako je bilo luštno tisti čas, ko sem služila pri vas: spominjam se, kako
                      je bila vaša pokojna mama srečna in vesela, kadar sta prišli domov na dopust -
                      pa nikoli praznih rok, vedno sta za vse kaj prinesli." Posebno prijazna in
@@ -3093,7 +3095,7 @@
                      glave. Takoj za tem pa se ji je zdelo potrebno, da si zapiše misel sv.
                      Bernarda: Sram te bodi, kristjan, da si pomehkužen ud pod glavo s trnjem
                      kronano. Takoj za tem pa že sledi začetek neke duhovne tolažbe v nemščini: Und
-                     ist das Dunkel noch so gross ... in če je tema še tako velika ... </p>
+                     ist das Dunkel noch so gross … in če je tema še tako velika … </p>
                   <figure>
                      <graphic url="slike_z_23/z_23_26.png"/>
                      <head>Učiteljica Ivanka Pucelj <name type="author"/></head>
@@ -3600,13 +3602,13 @@
                <docAuthor>Izidor Mole</docAuthor>
                <div type="div3">
                   <p>
-                     <emph>... Kmalu bo konec vojne, čeprav nas na svetu več ne bo ... prej ... </emph>
+                     <emph>... Kmalu bo konec vojne, čeprav nas na svetu več ne bo … prej … </emph>
                   </p>
                   <p>
-                     <emph>... Ivanka K. ... obsojena na smrt ... doma iz Ihana pri Domžalah ... </emph>
+                     <emph>... Ivanka K. … obsojena na smrt … doma iz Ihana pri Domžalah … </emph>
                   </p>
                   <p>
-                     <emph>Marija mi bo pomagala in me rešila tega trpljenja ... </emph>
+                     <emph>Marija mi bo pomagala in me rešila tega trpljenja … </emph>
                   </p>
                   <p>Jože, Tone, Janez, Peter in Miha so vsak ob svoji svetilki trudoma prebirali
                      sporočila na smrt obsojenih. Drobni vrezi v belež, narejeni s kakim ostrim
@@ -3621,7 +3623,7 @@
                      Ne le, da je bilo delo skrajno natančno in naporno, mlade fante je najhuje
                      pretreslo sporočilo teh napisov. Prvemu se je utrgalo Mihu. Njegovi živci niso
                      vzdržali. Kar na kratko se je poslovil in odšel domov. </p>
-                  <p>"Štirje fantje špilajo, za eno mlado kelnarco ... " so po napornem dnevu
+                  <p>"Štirje fantje špilajo, za eno mlado kelnarco … " so po napornem dnevu
                      prepevali v gostilni pri Joževcu. "Dajmo, žrebajmo!" Točajka Štefka je bila koj
                      voljna pridružiti se njihovi igri. V gostilni, ki je bila takrat še
                      podržavljena, se ni ravno drenjalo gostov, zato se je rada pridružila njihovi
@@ -3636,25 +3638,25 @@
                      celicah, podobno kot si zdravniki v odmorih med operacijami sproščajo živce z
                      robatimi šalami. </p>
                   <p>
-                     <emph>... Tako sem sam ... Ne pozabite na moje male otroke in vzgojite jih v
-                        poštene in značajne ljudi ... Kriv moje smrti je ... da boš vedela ... </emph>
+                     <emph>... Tako sem sam … Ne pozabite na moje male otroke in vzgojite jih v
+                        poštene in značajne ljudi … Kriv moje smrti je … da boš vedela … </emph>
                   </p>
                   <p>
-                     <emph>... Dr. Sattler Alojz ... obsojen na smrt ... </emph>
+                     <emph>... Dr. Sattler Alojz … obsojen na smrt … </emph>
                   </p>
                   <p>
-                     <emph>... Brayer Rudolf 31. 8. 41. ... </emph>
+                     <emph>... Brayer Rudolf 31. 8. 41. … </emph>
                   </p>
                   <p>"Slabo mi je," izdavi Peter ves bled in odide. Čez kake pol ure se vrne in
                      začne pospravljati svoje stvari. "Za noben denar me ne obdržite pri tem delu.
                      Še danes grem domov." </p>
-                  <p><emph>... Moja Angelca S. ... Janez ujet 4. 5. 44, obsojen 30. 6. 44. ...</emph> je
-                     razbral Janez in si pomel utrujene rdeče oči. Ozrl se je po ostalih dveh.
+                  <p><emph>... Moja Angelca S. … Janez ujet 4. 5. 44, obsojen 30. 6. 44. ...</emph>
+                     je razbral Janez in si pomel utrujene rdeče oči. Ozrl se je po ostalih dveh.
                      Planil je proti Tonetu, a je bilo že prepozno. Tudi temu je bilo že vsega
                      preveč in je otopel. Z mislimi bogvekje je vrezal v belež srce, prebodeno z
                      marelo, z obveznima Janezom in Micko v sredini. In to prav na mestu, kjer je
-                     bila prej narisana dogorevajoča sveča z napisom: <emph>... Luč ...</emph> Ostalo je
-                     bilo že uničeno. </p>
+                     bila prej narisana dogorevajoča sveča z napisom: <emph>... Luč ...</emph>
+                     Ostalo je bilo že uničeno. </p>
                   <p>"Saj sem tako nameraval nehati, to delo me ne veseli, očka mi bo priskrbel
                      boljšo službo. Bodite pozdravljeni!" In že ga ni bilo. </p>
                   <p>"Kje je moj ljubček?" je vprašala Štefka pri kosilu. </p>
@@ -3674,9 +3676,9 @@
                      Prepričana je bila, da se bodo razmere sčasoma spremenile in da mora skrbeti,
                      da se ugled hiše ohrani. </p>
                   <p>
-                     <emph>... Tudi jaz prenašam usodo Slovencev, Minka M. ... 25. 2. 42 ... sama sem,
-                        obsojena na smrt ... kje je moj mili dom, moja ljuba mamica ... S. Jože,
-                        Praproče št. 2, zapustil sem dva zlata otroka ... na smrt pripravljen, Ludvik
+                     <emph>... Tudi jaz prenašam usodo Slovencev, Minka M. … 25. 2. 42 … sama sem,
+                        obsojena na smrt … kje je moj mili dom, moja ljuba mamica … S. Jože,
+                        Praproče št. 2, zapustil sem dva zlata otroka … na smrt pripravljen, Ludvik
                         M. </emph>
                   </p>
                   <p>Marica je držala besedo. Prišla je s popoldanskim vlakom. Kako ljubka je bila v
@@ -3694,11 +3696,11 @@
                      ogledat opravljeno delo v jetniških celicah. Po krajšem obotavljanju se jima je
                      pridružil še Jože, "da bi jima svetil in za varstvo". </p>
                   <p>
-                     <emph>- Tu čakam smrti ... H. Franc ... ure čakanja so težke ... a tudi tvoj se ne bo
-                        več vrnil ... tvoje so ubili, a jaz sem ujet ... bom poginil tu ... tu je kakor
+                     <emph>- Tu čakam smrti … H. Franc … ure čakanja so težke … a tudi tvoj se ne bo
+                        več vrnil … tvoje so ubili, a jaz sem ujet … bom poginil tu … tu je kakor
                         grobnica. Žena, ne obupaj, prišel bo dan veselja in svobode. Zapisal A. A.
-                        Primskovo pri Kranju ... Tovariši, maščujte nas* ... Zdaj pa gremo, kaj pa kam
-                        ne vemo nič ... </emph>
+                        Primskovo pri Kranju … Tovariši, maščujte nas* … Zdaj pa gremo, kaj pa kam
+                        ne vemo nič … </emph>
                   </p>
                   <p>Taki in podobni napisi so se nahajali na stenah vseh dvanajstih celic, ki so
                      imele vhod s skupnega hodnika. Marica se je krčevito držala Janezove roke, kot
@@ -3829,7 +3831,7 @@
                   <docAuthor>Douglas Adams</docAuthor>
                   <head>Zbogom in hvala za vse ribe </head>
                   <p>
-                     <emph>"Veš, ta robot prihaja iz starodavne demokracije ... " </emph>
+                     <emph>"Veš, ta robot prihaja iz starodavne demokracije … " </emph>
                   </p>
                   <p>
                      <emph>"Misliš iz sveta kuščarjev?" </emph>
@@ -4072,10 +4074,10 @@
                      zato, ker si dovolijo, da jim vzklikamo in se jim klanjamo; torej hočejo (oni
                      ali tisti, ki so jih naredili za mogočnike) iz mene naredi ti poslušno bitje,
                      človeka iz množice, ki se hote ali nehote podreja neki višji sili in ji poje
-                     hvalo in slavo ... V teku let, ki so minevala med učenjem, študijem in
+                     hvalo in slavo … V teku let, ki so minevala med učenjem, študijem in
                      pisateljevanjem, me je režimsko pojmovanje kolektivnega podrejanja voditeljem
                      še močneje odtujevalo in mi narekovalo hoditi po lastnih poteh in se po svoje
-                     odločati. Seveda tega zlahka, brez incidentov ni bilo mogoče doseči ... Režimi se
+                     odločati. Seveda tega zlahka, brez incidentov ni bilo mogoče doseči … Režimi se
                      vrstijo in poneumljajo množice. Zgodovina se pač ponavlja. </p>
                   <p>Množični človek je v bistvu šibak in veliko prej izgubi svojo nepodrejeno
                      osebnost v urbanih naseljih, v mestih in predmestjih - medtem ko svojo bolj
@@ -4102,9 +4104,9 @@
                      boji. Pomeni mu samoto, praznino, dolgčas; ne znajde se in postane ga strah.
                      Razvila se je prava histerija množičnosti, posebno med mladimi. Zaradi dolgega
                      časa išče človek rešitev v združbah, sektah, udeležuje se množičnih pohodov,
-                     obletnic, rad ima ceremonije, rituale, shode ... Ne prenese tišine, se zateka v
+                     obletnic, rad ima ceremonije, rituale, shode … Ne prenese tišine, se zateka v
                      disco, ne moti ga hrup motorjev, uživa v skrajni glasnosti, se razdaja v ritmu
-                     prepotenih teles, kar naj bi bil ples ... Nastopil je čas nove mode, ki je
+                     prepotenih teles, kar naj bi bil ples … Nastopil je čas nove mode, ki je
                      obnorela ves svet, čas rocka. Spet novi idoli. Celo znanost se je pričela resno
                      ukvarjati z njim, o njem pišejo knjige in presneto si zaplankan, če bi zdvomil
                      o njegovih vrednotah. Če bi si drznil oporekati "znanstvenim" zagovornikom, da
@@ -4118,7 +4120,7 @@
                      nov zagon, eliksir za bojevite podvige, posebno na ulicah: Hočemo nov red!
                      Spremembe! Dol s kifeljci! - Kult rocka je torej prevzel pozicije mladih, da se
                      z njim uveljavljajo njihove "pravice", so za nekompromisni boj z državno
-                     avtoriteto. Uporniki brez razloga. Zmerom drugačni, samo da so drugačni ... </p>
+                     avtoriteto. Uporniki brez razloga. Zmerom drugačni, samo da so drugačni … </p>
                   <p>Pri uveljavitvi jim vsestransko pomagajo mediji. Ti jim v prid množičnemu
                      razvedrilu dajejo prvenstveno mesto, takoj za politiko, gospodarstvom in
                      športom. Pop zvezde, popevkarstvo, narodno zabavne prireditve z zlagano narodno
@@ -4130,17 +4132,17 @@
                      svet še zmerom močno spoštuje in goji tradicijo z negativnimi učinki. Tako kot
                      se je nekoč v rimskih arenah pretakala kri gladiatorjev ali krščanskih
                      mučencev, se še danes naslajajo množice ob bikoborbah; na Kitajskem se po novem
-                     zabavajo s piščančki, ki jih mečejo v bazene s krokodili ... </p>
+                     zabavajo s piščančki, ki jih mečejo v bazene s krokodili … </p>
                   <p>Geslo Zdrav duh v zdravem telesu se je v nadvse množični športni histeriji
                      sprevrglo v prid kultu telesnih zmogljivosti, kar se predvsem na olimpijskih
                      igrah tako veličastno, megalomansko razkazuje. Narodi in države so prevzele
                      vlogo gostiteljice športnikov in gledalcev celega sveta, ker s tem potrujeje
                      lastno moč in veljavnost v svetu. Vsemogočni športno industrijski trust ima
                      vlogo spodbudnika in finančnika tekmovalnega boja. Najstnice natezajo svoje
-                     telesne zmogljivosti do skrajnih meja ... Množice strmijo v ekrane in navijajo za
-                     svoje ... Plemeniti šport? Zdrav duh v zdravem telesu? Mar se ni to geslo že
+                     telesne zmogljivosti do skrajnih meja … Množice strmijo v ekrane in navijajo za
+                     svoje … Plemeniti šport? Zdrav duh v zdravem telesu? Mar se ni to geslo že
                      davno spridilo? Množice hočejo samo zmagovite športnike, boksarje s
-                     polomljenimi nosovi, do zadnjega diha spehane tekače, zaprašene dirkače ... če
+                     polomljenimi nosovi, do zadnjega diha spehane tekače, zaprašene dirkače … če
                      jih pri tem kaj umre, če se kdo pobije ali zgori - je še bolj razburljivo.
                      Arena in plemenitost sta pač nezdružljiva pojma! </p>
                   <p>Množica ima svojo lastno dušo, vedno odprto navzven. Svoje junake časti v
@@ -4148,14 +4150,14 @@
                      ker so se uveljavili, zma gali. Znajo nastopati, imajo glas, gromkost in patos.
                      Množična duša vzkipi ob pevcu, ki mu je podarila zlato odličje, ker jo je
                      fasciniral njegov glas. Če si športniki niso priborili zlate medalje, so si
-                     srebrno. Dovolj, da se zbere navdušena množica ob njihovem prihodu v domovino ...
-                     Volilne glasove bodo množice oddale svojemu liderju, ki jih je prevzel z
+                     srebrno. Dovolj, da se zbere navdušena množica ob njihovem prihodu v domovino
+                     ... Volilne glasove bodo množice oddale svojemu liderju, ki jih je prevzel z
                      nastopom, govorom, vznemirljivimi in hkrati pomirjujočimi obljubami. </p>
                   <p>Množična duša je tudi strahopetna, koristoljubna. Vzklika voditelju, ki vlada s
                      sleparstvom in lažjo, da si pridobi svoj kos kruha, se poteguje za vladarjevo
                      naklonjenost, ker se ga boji. Kadar tej množični duši le prekipi, postane
                      nevarno aktivna. Tedaj potepta vse pod seboj, če že ima ali nima svojega
-                     pastirja ... Zato tudi nima lastne volje, je v podrejenem položaju; nagonsko se
+                     pastirja … Zato tudi nima lastne volje, je v podrejenem položaju; nagonsko se
                      namreč podreja skupnosti, zato uspevajo totalitarni režimi, ker z njo lahko
                      manipulirajo po mili volji. </p>
                   <p>Množična duša je nepredvidljiva. Nikoli se ne ve, kje in kaj jo bo zanetilo in
@@ -4163,34 +4165,34 @@
                      diplomatskimi sposobnostmi. Če ne s poštenostjo, pa s prevaro in praznimi
                      obljubami. Seveda ta duša prej nasede slednji politiki kot tisti, ki naravnost,
                      preprosto nakaže, kaj zmore in hoče. Nasploh množična duša ne časti preveč
-                     politikov, ki nimajo dlake na jeziku ... </p>
+                     politikov, ki nimajo dlake na jeziku … </p>
                   <p>Množična glava se ne muči z razmišljanjem, kaj je bolje in kaj ne. Se ne
                      poglablja, ne razčlenjuje. Svoje liderje si izbira po splošnem: Koga boš volil?
-                     Iksa? Ne, Ipsilona ... Jaz tudi ... Ti je všeč Iks? Ja. Meni pa ne ... No ja, po
-                     pravici povedano, tudi meni Iks ni všečen ... </p>
+                     Iksa? Ne, Ipsilona … Jaz tudi … Ti je všeč Iks? Ja. Meni pa ne … No ja, po
+                     pravici povedano, tudi meni Iks ni všečen … </p>
                   <p>Množična duša je pasivna. Če ji ukažejo na cesto demonstrirat, pač gre. Če jo
                      sprašujejo za anketo, se ne opredeljuje. Njen najljubši odgovor je: Ne vem. Me
-                     ne zanima ... Mar ne tiči izvor take pasivnosti v petdesetih letih enoumja, kot
+                     ne zanima … Mar ne tiči izvor take pasivnosti v petdesetih letih enoumja, kot
                      danes pravimo? Dovolj, da se je razkrojila moč osebnosti, ki se je polagoma
                      topila v indolenci: ne vem; vseeno, kdo nas vodi; vsaka oblast je slabša od
-                     prejšnje; naj bo, kakor že mora biti ... </p>
+                     prejšnje; naj bo, kakor že mora biti … </p>
                   <p>Mar je res le za hip ta duša leta enaindevetdesetega pogledala vase, se odprla
                      zaradi narodne zavesti in se osvobodila pasivnih vezi petdesetih let? Ali se
                      znova predaja stihiji nemoči zato, ker se ji je zazdelo, da so se nove sile
                      Oblasti poigrale z njenim zaupanjem? In se požvižga tudi na volitve, na usodo
                      narodove prihodnosti. Najvažnejše so mate rialne ugodnosti, zabava, telesne
-                     zmogljivosti, kajti živimo za danes, za trenutke, uživajmo, dokler moremo ... </p>
+                     zmogljivosti, kajti živimo za danes, za trenutke, uživajmo, dokler moremo … </p>
                   <p>Množična duša je uživaška, lahka in kupljiva, ljubi cenenost, plitkost, blišč,
                      ljubi kič namesto lepote, mami jo seks namesto ljubezni, nezvestoba namesto
-                     zvestobe, lov za denarjem in uspehom ... In klanja se svojim idolom, ki ji
+                     zvestobe, lov za denarjem in uspehom … In klanja se svojim idolom, ki ji
                      krajšajo čas in izpopolnjujejo praznino. Svet je obseden s spolnostjo,
                      tekmovalno his terijo, s strahom pred rakom in aidsom, z vsesplošno
-                     nestrpnostjo in nasilstvom ... </p>
+                     nestrpnostjo in nasilstvom … </p>
                   <p>Pisanju me iztrga sanjski privid: Množica, ki je še pravkar vzklikala srebrnima
                      medaljama iz Atlante, ki je norela ob popevki V tvojem naročju in na koncertih
                      Cowboy junkies, se je silovito usmerila na ljubljanski kolodvor. Z vlakom se je
                      iz Nemčije pripeljal slovenski pisatelj, ki je dobil mednarodno priznanje za
-                     svojo knjigo ... </p>
+                     svojo knjigo … </p>
                </div>
             </div>
          </div>
@@ -4634,7 +4636,7 @@
                   <p>Številnim knjižnim delom zadnjih let, ki obravnavajo usodni čas polpretekle
                      slovenske zgodovine, se je nedavno pridružil esej v Švici živečega
                      diplomiranega inženirja Jožeta Hubada "K slovenski istovetnosti". Bistvo
-                     svojega razmišljanja je avtor strnil v spoznanju, da " ... nerazčiščena
+                     svojega razmišljanja je avtor strnil v spoznanju, da " … nerazčiščena
                      polpretekla zgodovina danes bremenilno vpliva na uveljavljanje nove slovenske
                      države". Zelo pomenljiv je moto knjige: Leta tečejo, slovenski narod, ki iščeš
                      odvzeto izkaznico, ali stopaš z njimi v korak? </p>
@@ -4675,7 +4677,7 @@
                      ceno ostane partizanom okupatorjevo težko orožje. Zgodi se obleganje in padec
                      Turjaka. Temu sledi poboj malone tisoč protikomunističnih borcev. Enako usodo
                      doživijo slovenski četniki, zajeti v Grčaricah. Plameni vojne in revolucije so
-                     požirali slovenska življenja ... </p>
+                     požirali slovenska življenja … </p>
                   <p>Po odhodu Italijanov zasedejo Ljubljano Nemci. Potek dogajanja na svetovnih
                      bojiščih pa že jasno in nedvoumno napoveduje zmago zaveznikov. V zraku je
                      izkrcanje Angloameričanov v južni Evropi - najverjetneje v Dalmaciji ali v
@@ -4708,7 +4710,7 @@
                      Vetrinjskem polju. In tam se je po nedoumljivi odločitvi in véliki prevari
                      britanskih vojaških oblasti odigralo usodno dejanje največje slovenske
                      tragedije. Začel se je žalostni pohod tisočev mladih Slovencev v mučeniško
-                     smrt. Teharje, hrastniški rovi, Kočevski rog, Brezarjevo brezno ... V pozni
+                     smrt. Teharje, hrastniški rovi, Kočevski rog, Brezarjevo brezno … V pozni
                      pomladi in zgodnjem poletju 1945 so bili vsi ti slovenski Katyni že zasuti. </p>
                   <p>Sledilo je malone pol stoletja vladavine totalitarnega sistema. Avtor eseja
                      posebej izpostavi duhovno škodo, ki jo je to obdobje prizadejalo slovenski duši
@@ -4821,7 +4823,7 @@
                      nam je v pomoč kot duhovnik in tehnik znanstvenik. Na žalost ni dobil
                      zasluženega priznanja. Prav pri svojem prizadevanju za edinost v študentovskih
                      vrstah je naletel na nerazumevanje in kritiko. Moj prijatelj je 24. 1. 1949
-                     zapisal: "Dr. Žagar mi je povedal, da je dobil pismo od ... (nekega cerkvenega
+                     zapisal: "Dr. Žagar mi je povedal, da je dobil pismo od … (nekega cerkvenega
                      dostojanstvenika), kjer je obdolžen, da se je postavil na stran tistih, ki so v
                      Gradcu razdrli edinost." Namesto zahvale ali pohvale je dobil opomin! Kot vse
                      Gradčane je tudi njega vodila pot naprej po svetu. Na uni verzi v Aachenu je
@@ -4890,13 +4892,13 @@
                   <p>Prve dni maja 1945 sem se hotel - kot nekateri moji prijatelji - umakniti iz
                      domače okolice. Ne zaradi "umazanih rok", ampak ker sem pričakoval, da bodo
                      novi oblastniki v pijanem zmagoslavju slepi za pravico. Računali smo, da se
-                     umaknemo za nekaj dni, morda nekaj tednov ... Tako sem tudi mamo tolažil. </p>
+                     umaknemo za nekaj dni, morda nekaj tednov … Tako sem tudi mamo tolažil. </p>
                   <p>Begunska pot me je vodila v Ljubljano, na Gorenjsko do strica, ki ga vso vojsko
                      nisem bil videl, potem pa čez Ljubelj in v Vetrinj. S prijateljem sva se zdela
                      sama sebi, da kot civilista nisva v pravem taborišču, najini vrstniki so bili
                      med domobranci. Hotela sva se jim pridružiti vsaj v Vetrinju. Za sprejeme
                      pristojni častnik pa tisti večer, ko sva ga iskala, ni bil prisoten. To naju je
-                     s prijateljem rešilo križeve poti in smrti ... </p>
+                     s prijateljem rešilo križeve poti in smrti … </p>
                   <p>V begunskem taborišču v Peggezu pri Lienzu je pod vodstvom ravnatelja Marka
                      Bajuka delovala gimnazija, tam sem spet postal dijak. Ravnatelj Bajuk se me je
                      spominjal s svoje šole v Ljubljani in me sprejel brez papirjev. Zaradi triletne
@@ -5004,6 +5006,7 @@
          <div type="div1">
             <head>Imeli smo jih</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3">
                   <p>
                      <emph>Kadarkoli se zamislimo v našo polpreteklo zgodovino, nam stopijo pred oči
@@ -5259,7 +5262,6 @@
                označili z narodno-osvobodilni boj. </p>
             <p>Jože Hubad - K slovenski istovetnosti</p>
          </div>
-
       </back>
    </text>
 </TEI>

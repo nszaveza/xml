@@ -47,14 +47,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -106,6 +106,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar revije Zaveza </head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Narodova identiteta </head>
                   <p>Če vas zanimajo vprašanja današnjega človeka ali današnjega časa, boste prej
@@ -309,7 +311,7 @@
                      ali zahajajočega sonca?« </p>
                   <p>To se, devetdeset let pozneje, sprašujemo tudi mi, čeprav nam to sonce, sodeč
                      po tem, kako je potovalo do sedaj, ne pušča veliko dvoma, k čemu se nagiba.
-                     (Leta 1920 je bilo na Koroškem 100.000 Slovencev. Danes jih je 10.000. Če ... !
+                     (Leta 1920 je bilo na Koroškem 100.000 Slovencev. Danes jih je 10.000. Če … !
                      Torej nas je tisto glasovanje zdecimiralo. Ne, ne, ni bilo krivo glasovanje,
                      kriva je bila naša nepripravljenost biti to, kar smo. Krivo je bilo to, da
                      nismo vedeli, kaj je tisto, kar mora majhen narod predvsem vedeti: kaj je
@@ -695,7 +697,7 @@
                      Matjaža (Delo, 9. novembra 2010). Tudi teren, se zdi, bi bil naklonjen
                      spremembam. Naj navedem neko opažanje: »Ni razlogov, da bi še naprej verjeli
                      kateri od političnih strank. <emph>Strankarska politika</emph> že nekaj časa ne
-                     uživa več pravega zaupanja, njena kredibilnost se vsak dan bolj ruši ... (Andrej
+                     uživa več pravega zaupanja, njena kredibilnost se vsak dan bolj ruši … (Andrej
                      Jaklič, Polet, november 43). Pod poglavje Pripravljanje terena – za vsak slučaj
                      – spadajo tudi množični rituali, podobni tistim iz časov boljševiškega
                      socializma, nekakšne koreografije množic, ki dobiva vedno bolj silovite oblike.
@@ -932,7 +934,7 @@
                      društva g. prof. Verbič s tajnikom Dermeljem in mnogi čebelarji iz dravske
                      banovine. Upravičeno je postaja vzbudila začudenje vseh posetnikov, kajti v
                      svojem osemletnem razvoju beleži naravnost krasne uspehe in je dosegla odlično
-                     stopnjo ... V nujni potrebi, da se ta vrsta čebelarske prakse, ki je bila doslej
+                     stopnjo … V nujni potrebi, da se ta vrsta čebelarske prakse, ki je bila doslej
                      zanemarjena, dvigne in se ji da potrebna stalna višina, se otvarja pod vodstvom
                      g. Okorna in v okrilju čebelarskega društva tudi tečaj za vzrejo plemenskih
                      matic, ki naj usposobi 16 čebelarjev za vsa dela, ki so potrebna za tako
@@ -1441,13 +1443,13 @@
                      skril v drvarnico in jo vsa leta skrbno hranil. Od takrat nisem imel miru,
                      misel na maščevanje me je vedno bolj preganjala. Sčasoma je v meni dozorela
                      odločitev, da ustrelim Robiča, ubijalca mojega ata. </p>
-                  <p>Izbral sem si dan ... Vedel sem, da ima tisti dan dopoldanski 'šiht'. Okoli pol
+                  <p>Izbral sem si dan … Vedel sem, da ima tisti dan dopoldanski 'šiht'. Okoli pol
                      tretje se bo vračal domov. Najbolj prikladno mesto bo Žvagnov most. Takrat, ko
                      pride na most, sprožim vanj. Nasproti mostu sem se skril za grmovje, stiskal v
                      rokah pištolo in čakal. Od razburjenja sem se ves tresel. Iz mene so izbruhnila
                      vsa čustva, ki sem jih dolga leta mukoma v sebi zadrževal. Ata sem imel vedno
                      pred očmi, še danes ga imam. Že se je Robič bližal mostu, namerim in sprožim.
-                     Enkrat ... nič, še enkrat ... spet nič. Robič je mirno šel mimo. Prepozno je bilo,
+                     Enkrat … nič, še enkrat … spet nič. Robič je mirno šel mimo. Prepozno je bilo,
                      da bi poskusil še s tretjim in četrtim nabojem. Od dolgega ležanja v drvarnici
                      so vsi zarjaveli.</p>
                   <p>Pridem domov. Bil sem tako iz sebe, bled in prepaden, da je mama takoj videla,
@@ -1703,7 +1705,7 @@
                      držala, rok nista imela prostih in me nista mogla tolči po glavi. Zdržal sem,
                      snel štrike, vezi. Bil sem prost. Zaklical sem prijatelju: »Jože, skoči!« Roki
                      je imel sicer zvezani, mene pa je bil rešen. Samo stal je, kot da bi bil kamen
-                     v njem ... « Tako je bil Jože Turšič umorjen na Starem Hrastniku v noči med 7. in
+                     v njem … « Tako je bil Jože Turšič umorjen na Starem Hrastniku v noči med 7. in
                      8. junijem. Verjetno ni imel dovolj moči za beg, saj že deset dni niso dobili
                      jesti, samo pili so in tudi pretepali so jih. Bil je že starejši in ni bil
                      bojevite narave. Gotovo so bili domobranci na tej poti tudi duševno uničeni in
@@ -2366,7 +2368,7 @@
                      rasti ob njih. </p>
                   <p>Tu je opisan del našega življenja z najpomembnejšimi dogodki. Čas razkadi in
                      ublaži težke trenutke. Čas hitro beži in uhaja neizprosno. Naše življenje je
-                     vpisano pri Božji previdnosti ... in se zahvaljujem zanj. </p>
+                     vpisano pri Božji previdnosti … in se zahvaljujem zanj. </p>
                   <p>Posadas, marec 2004 </p>
                </div>
             </div>
@@ -2430,7 +2432,7 @@
                      <l>Milost božja, kaj je znamenj tam!</l>
                      <l>Brezna, rovi, v njih lobanje,</l>
                      <l>nemi kriki temnih jam. </l>
-                     <l>Franja, Dražgoše, Žica ... Množice mladih!</l>
+                     <l>Franja, Dražgoše, Žica … Množice mladih!</l>
                      <l>Jih ne gane ne Huda jama ne Konfin.</l>
                   </lg>
                   <p>To ni zgolj športno samouresničevanje, gre za ohranjanje vrednot enobeja, tudi
@@ -2582,7 +2584,7 @@
                   <p>Na naslednjem razpotju mi policisti predlagajo krajši obvoz Pod turnom, senčen
                      in gladek makadam, cesta pa precej pokonci.</p>
                   <p>S prihodom v gozdove je moralo biti vsem jasno, da ni pričakovati milostnega
-                     logorja ... </p>
+                     logorja … </p>
                   <p>Letos so dostopni samo smerniki ROG, le na zadnjem razcepu pri osamljeni hiši
                      je komaj opazen, sramežljiv bel narisek križa, ki poznavalcem naznanja
                      grobišče.</p>
@@ -2971,7 +2973,7 @@
                      nanje skozi lino spustili rafal. Oče jih je rotil, moledoval in prosil naj tega
                      ne storijo. Res niso, ker so nekega večera od nas odšli drugam. Tam pa so jih
                      še istega večera zajeli Nemci. Kaj lahko bi se v naši vasi ponovila Rašica,
-                     Dražgoše ... </p>
+                     Dražgoše … </p>
                   <p>Ko sem obiskovala srednjo šolo v Ljubljani, je bil med učitelji profesor, ki je
                      bil zadržan, miroljuben, korekten in prijazen do nas mladih. Mnogo zgodb so
                      napletli o njem. Zakaj, sem začela spoznavati, ko sva že več let oba poučevala
@@ -3000,7 +3002,7 @@
                   <p>Lahko si je predstavljati, kaj ob teh zgodbah doživljaš, ko ti spomin oživi, in
                      pomisliš, kaj se je dogajalo tem, ki so se bojevali za sebe, za svoje
                      življenje, za krščansko civilizacijo, za to, kar so imeli vrednega. To boli,
-                     boli, boli, ... srh in groza te spreletavata, ko se spomniš na te dogodke, na
+                     boli, boli, … srh in groza te spreletavata, ko se spomniš na te dogodke, na
                      občutke, stiske, strahove in grozote tistih, ki so to prestajali.</p>
                   <p>Kaj šele pa so prestajali tisti, ki so bili hote ali nehote živi vrženi v
                      brezna. Ti, sicer izčrpani, izstradani in do smrti izmučeni, a polni
@@ -3293,7 +3295,7 @@
                      lepo vas pozdravljam!</p>
                   <p>Zbrani smo na Teharjah, enaindvajsetič, odkar smemo prihajati. Zdaj smemo
                      prihajati in obiskovati Teharje, Hrastnik, Hudo luknjo, Kočevski rog, Turjak,
-                     Krimsko jamo, Brezarjevo brezno, ... – kdaj bi naštela vseh 600 grobišč?</p>
+                     Krimsko jamo, Brezarjevo brezno, … – kdaj bi naštela vseh 600 grobišč?</p>
                   <p>Zdaj smemo svoje gorje tudi pokazati in pisati o njem. Pa nas razume naš dragi
                      narod in čuti našo prizadetost? Z vsem trpljenjem sveta sočustvujemo in
                      prizadeto poročamo – kaj pa naša bolečina? Desetletja je nismo smeli niti
@@ -3645,6 +3647,7 @@
          <div type="div1">
             <head>Steklena embalaža mita</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>Ko se je v knjigarnah pojavila knjiga <emph>Mit o NOB</emph>, smo se je nemalo
                      razveselili. Čeprav še nismo vedeli, s kakšno jasnostjo in zadostnostjo je
@@ -3968,7 +3971,7 @@
                      kako so okupatorji obsodili slovenski narod na izginotje in da je bil zato
                      upor, ki ga je organizirala in izpeljala OF, nujen, pravljica za poneumljanje
                      ljudi, ki se lahko prodaja le zgodovinsko neukim ljudem in ljudem z rdeče
-                     prebarvanimi možgani, ki pa na žalost v Sloveniji prevladujejo ... Prav zaradi
+                     prebarvanimi možgani, ki pa na žalost v Sloveniji prevladujejo … Prav zaradi
                      partizanskega NOB je slovenski narod utrpel žrtve, ki so bile relativno
                      nekajkrat višje kot pri drugih primerljivih okupiranih evropskih narodih. Tudi
                      uporabo famoznih fraz »boj proti okupatorju« in »osvobodilni boj« smatra
@@ -4016,7 +4019,7 @@
                      zgodovinar zavzel za knjigo, kot je Mit o NOB.</p>
                   <p>6, 7. Ni dvoma, da bi bila Medveškova knjiga primerna za srednje šole oziroma
                      gimnazije. Veliko bi pomenilo že to, da bi jo učitelji zgodovine priporočili
-                     dijakom kot dopolnilno branje. Toda ... ? Vsekakor pa je treba knjigo priporočiti
+                     dijakom kot dopolnilno branje. Toda … ? Vsekakor pa je treba knjigo priporočiti
                      tudi starejšim bralcem, saj jim lahko bistveno razširi obzorje in prinese več
                      jasnosti o polpretekli zgodovini.</p>
                   <p>7a. Del odgovora na vprašanje, zakaj med referenčnimi deli Medveškove knjige ni
@@ -4031,7 +4034,7 @@
                      desnice do dogodkov med 2. svetovno vojno na naših tleh: »Pogled slovenskih
                      političnih strank, ki se prištevajo desno od sredine, na našo polpreteklo
                      zgodovino, je nekonsistenten, za razliko od levice, katere pogled je logičen in
-                     dosleden ... Desnica smatra, da je bil režim, ki je vladal od 1945 do 1990,
+                     dosleden … Desnica smatra, da je bil režim, ki je vladal od 1945 do 1990,
                      nelegitimen, čeprav se na njeni strani najdejo tudi taki, ki menijo, da so bile
                      tedaj tudi dobre stvari. Toda, ko gre za pogled na obdobje 2. svetovne vojne,
                      postanejo stvari bolj zapletene. Levica je tudi tu enotna. Edino, kar po njenem
@@ -4137,8 +4140,8 @@
                      razan redkih izjem – nimajo.</p>
                   <p>Zaključki v glavnem sicer niso novi, razen morda tisti, ki nasprotuje nekemu
                      konsenzu v javnosti, da so se Slovenci upravičeno ločili od Avstro-Ogrske in
-                     šli v Jugoslavijo. Avtor namreč piše, da je »najbolj katastrofalne posledice ...
-                     slovenskemu narodu prinesla jugoslovanska ideja« (str. 11). Avtor podpira
+                     šli v Jugoslavijo. Avtor namreč piše, da je »najbolj katastrofalne posledice
+                     ... slovenskemu narodu prinesla jugoslovanska ideja« (str. 11). Avtor podpira
                      temeljito odkrito razpravo o drugi svetovni vojni, ki je po njegovem predpogoj
                      za pomiritev in zlorabo zgodovine v politične namene. Temu lahko samo
                      pritrdimo, dodati bi morali še to, da moramo priti do tega, da totalitarizme in
@@ -4404,6 +4407,7 @@
          <div type="div1">
             <head>Zlomišče – nova merljivost človeka</head>
             <div type="div2">
+               <head>Uvod</head>
                <div type="div3" subtype="intro">
                   <p>V Zavezi 77 je Katarina Bogataj Gradišnik predstavila Herto Müller, nemško
                      pisateljico iz Romunije in Nobelovo nagrajenko za literaturo. Najdlje se je
@@ -5099,7 +5103,7 @@
                <head>Nobelova nagrajenka Herta Müller o Josipu Brozu, imenovanem Tito</head>
                <div type="div3">
                   <p>»Tita sem pogosto srečevala v Temišvaru. Opazovala sem ta kult osebnosti, ki se
-                     mi je zdel grozen. Snemanje Tita na stadionu, petje pesmi za Tita ... Kult
+                     mi je zdel grozen. Snemanje Tita na stadionu, petje pesmi za Tita … Kult
                      osebnosti okoli Tita je bil strahovit, on pa ni bil ravno liberalec.«</p>
                   <p>Delo, 4. maja 2010</p>
                </div>

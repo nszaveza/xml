@@ -25,8 +25,8 @@
 				</respStmt>
 				<respStmt>
 					<resp>Slikovno gradivo</resp>
-					<resp>Linoreza neobjavljenih ilustracij k Balantičevim pesmim in krajev skupnega bivanja – Velika
-						planina 1940</resp>
+					<resp>Linoreza neobjavljenih ilustracij k Balantičevim pesmim in krajev skupnega
+						bivanja – Velika planina 1940</resp>
 					<name>Marjan Tršar</name>
 					<name/>
 				</respStmt>
@@ -73,7 +73,8 @@
 			<change when="2012-08-28">
 				<name>Matija Ogrin</name> - drobni korektorski popravki </change>
 			<change when="2009-01-12">
-				<name>Matija Ogrin</name> - pretvoril besedilo v zapis TEI, dodal strukturne oznake </change>
+				<name>Matija Ogrin</name> - pretvoril besedilo v zapis TEI, dodal strukturne oznake
+			</change>
 		</revisionDesc>
 	</teiHeader>
 	<text>
@@ -81,8 +82,9 @@
 			<titlePage>
 				<docTitle>
 					<titlePart>Zaveza št. 1</titlePart>
-					<titlePart>Revija za duhovna, kulturna in politična vprašanja sedanjosti in prihodnosti – s posebnim
-						ozirom na krizo slovenstva po boljševiški revoluciji in državljanski vojni</titlePart>
+					<titlePart>Revija za duhovna, kulturna in politična vprašanja sedanjosti in
+						prihodnosti – s posebnim ozirom na krizo slovenstva po boljševiški
+						revoluciji in državljanski vojni</titlePart>
 					<titlePart>Elektronska izdaja</titlePart>
 				</docTitle>
 				<docImprint>
@@ -94,488 +96,613 @@
 			<divGen type="toc"/>
 		</front>
 		<body>
-			<div type="div1"><head/>
+		<pb n="001"/>
+			<div type="div1">
+				<head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
 				<div type="div2">
 					<head>Slovenska zaveza</head>
 					<docAuthor>Tone Drobnič</docAuthor>
 					<div type="div3">
-						<p>Ideji narodne samostojnosti in svobode so se Slovenci zavezali že davnega leta 1848 z
-							zamislijo Zedinjene Slovenije. Leta 1917, ko je dr. Anton Korošec sredi prve svetovne vojne
-							v avstrijskem parlamentu prebral Majniško deklaracijo, smo to željo začeli uresničevati.
-							Pot, na katero smo se podali, pa je dolga in težka.</p>
-						<p>Leta 1918 smo najprej ustanovili samostojno Državo SHS. Že čez mesec dni so nas »zedinili« v
-							Kraljevino SHS in nam leta 1921 s centralistično vidovdansko ustavo vzeli zadnje ostanke
-							lastne oblasti. Leta 1929 smo s šestojanuarsko diktaturo zgubili parlamentarno ureditev in z
-							vsiljeno ustavo leta 1931 postali zgolj upravna enota unitaristične Kraljevine
+						<p>Ideji narodne samostojnosti in svobode so se Slovenci zavezali že davnega
+							leta 1848 z zamislijo Zedinjene Slovenije. Leta 1917, ko je dr. Anton
+							Korošec sredi prve svetovne vojne v avstrijskem parlamentu prebral
+							Majniško deklaracijo, smo to željo začeli uresničevati. Pot, na katero
+							smo se podali, pa je dolga in težka.</p>
+						<p>Leta 1918 smo najprej ustanovili samostojno Državo SHS. Že čez mesec dni
+							so nas »zedinili« v Kraljevino SHS in nam leta 1921 s centralistično
+							vidovdansko ustavo vzeli zadnje ostanke lastne oblasti. Leta 1929 smo s
+							šestojanuarsko diktaturo zgubili parlamentarno ureditev in z vsiljeno
+							ustavo leta 1931 postali zgolj upravna enota unitaristične Kraljevine
 							Jugoslavije.</p>
-						<p>Po sporazumu o hrvaški avtonomiji leta 1939 se je zasvetilo upanje, da bomo tudi Slovenci
-							vsaj na delu svojega narodnega ozemlja, saj Zedinjene Slovenije nikoli ni bilo, zopet
-							dosegli politično samostojnost. To luč pa je kmalu upihnil vihar druge svetovne vojne.</p>
-						<p>Ta smrtni vihar sta za slovenski narod usodno zasukali dve totalitarni ideologiji:
-							komunistična, poosebljena v Kominterni in Sovjetski zvezi s Stalinom, in fašistična z
-							nacistično Nemčijo in Hitlerjem na vrhu. Tesno zvezani s paktom o prijateljstvu sta začeli
-							pohod za razdelitev Evrope. Tudi Jugoslavijo sta uničili vzajemno: Kominterna z notranjim
-							razkrojem, Hitler z vojaškim napadom aprila 1941. Okupatorji so Slovenijo razkosali na tri
-							dele, si jih prilastili in zlasti na nemškem delu začeli preganjati vse, kar je bilo
-							slovensko. Komunisti zaveznikom Sovjetske zveze niso nasprotovali, narodno nesrečo so
-							sprejeli kot priložnost za izvedbo že dolgo napovedane razredne revolucije.</p>
-						<p>Demokratično misleči Slovenci so začeli pripravljati odpor okupatorskim silam. Že aprila 1941
-							je katoliška mladina v Ljubljani ustanovila »Slovensko legijo«, malo zatem so Sokoli
-							ustanovili »Sokolsko legijo«, še kasneje so bolj liberalno usmerjene skupine ustanovile
-							»Narodno legijo«. Vse tri so bile povezane in imele skupno vojaško vodstvo. Zasnovana je
-							bila slovenska narodna vojska.</p>
-						<p>Predstavniki večinske Slovenske ljudske stranke in vplivne Samostojne demokratske stranke so
-							v septembru 1941 v Ljubljani ustanovili ilegalni Narodni odbor. V aprilu 1942 se je ta odbor
-							na podlagi političnega programa, ki so ga leta 1941 sprejele vse demokratične stranke v
-							Sloveniji, razširil v skupno predstavništvo demokratičnih političnih strank z imenom
-							»Slovenska zaveza«.</p>
-						<p>Njen namen je bil ohraniti kontinuiteto slovenske oblasti v razmerah tuje okupacije,
-							pripraviti in izvesti civilni in vojaški odpor proti okupatorskim silam in po vojni
-							vzpostaviti demokratično politično in družbeno ureditev.</p>
-						<p>Demokratično zastavljen vseslovenski vojaški in politični odpor proti okupatorju je zavrla
-							revolucija, ki jo je na narodovem pogorišču zasnovala in izvedla Komunistična partija
-							Slovenije – zvesta članica Kominterne. Po okupaciji in razkosanju Slovenije je iz
-							dotedanjega Društva prijateljev Sovjetske zveze organizirala »Protiimperialistično fronto«,
-							na zunaj usmerjeno proti jugoslovanski begunski vladi in zahodnim imperialistom kot skupnim
-							sovražnikom tedanjih zaveznikov iz pakta Hitler-Stalin, navznoter pa na rušenje družbene
-							ureditve in prevzem oblasti: na komunistično razredno revolucijo.</p>
-						<p>Po 22. juniju 1941, ko je Hitler izdajalsko napadel svojega zaveznika in začel osvaj alni
-							pohod proti Sovjetski zvezi, »na klic Kominterne«, ko so »sovjetski junaki skupni boj
-							oklicali«, je Komunistična partija Slovenije spremenila zunanjost svoje frontovske
-							organizacije in jo preimenovala v »Osvobodilno fronto«. Zunanjo podobo boja proti
-							okupatorju, ki je pritegnila številne slovenske domoljube, je KPS izrabila za dosego svojega
-							temeljnega cilja: za revolucijo. Pravičen in časten boj mnogih Slovencev za nacionalno
-							osvoboditev je po svojih sekretarjih in komisarjih nečastno spremenila v boj za »socialno
+						<p>Po sporazumu o hrvaški avtonomiji leta 1939 se je zasvetilo upanje, da
+							bomo tudi Slovenci vsaj na delu svojega narodnega ozemlja, saj Zedinjene
+							Slovenije nikoli ni bilo, zopet dosegli politično samostojnost. To luč
+							pa je kmalu upihnil vihar druge svetovne vojne.</p>
+						<p>Ta smrtni vihar sta za slovenski narod usodno zasukali dve totalitarni
+							ideologiji: komunistična, poosebljena v Kominterni in Sovjetski zvezi s
+							Stalinom, in fašistična z nacistično Nemčijo in Hitlerjem na vrhu. Tesno
+							zvezani s paktom o prijateljstvu sta začeli pohod za razdelitev Evrope.
+							Tudi Jugoslavijo sta uničili vzajemno: Kominterna z notranjim razkrojem,
+							Hitler z vojaškim napadom aprila 1941. Okupatorji so Slovenijo razkosali
+							na tri dele, si jih prilastili in zlasti na nemškem delu začeli
+							preganjati vse, kar je bilo slovensko. Komunisti zaveznikom Sovjetske
+							zveze niso nasprotovali, narodno nesrečo so sprejeli kot priložnost za
+							izvedbo že dolgo napovedane razredne revolucije.</p>
+						<p>Demokratično misleči Slovenci so začeli pripravljati odpor okupatorskim
+							silam. Že aprila 1941 je katoliška mladina v Ljubljani ustanovila
+							»Slovensko legijo«, malo zatem so Sokoli ustanovili »Sokolsko legijo«,
+							še kasneje so bolj liberalno usmerjene skupine ustanovile »Narodno
+							legijo«. Vse tri so bile povezane in imele skupno vojaško vodstvo.
+							Zasnovana je bila slovenska narodna vojska.</p>
+						<p>Predstavniki večinske Slovenske ljudske stranke in vplivne Samostojne
+							demokratske stranke so v septembru 1941 v Ljubljani ustanovili ilegalni
+							Narodni odbor. V aprilu 1942 se je ta odbor na podlagi političnega
+							programa, ki so ga leta 1941 sprejele vse demokratične stranke v
+							Sloveniji, razširil v skupno predstavništvo demokratičnih političnih
+							strank z imenom »Slovenska zaveza«.</p>
+						<p>Njen namen je bil ohraniti kontinuiteto slovenske oblasti v razmerah tuje
+							okupacije, pripraviti in izvesti civilni in vojaški odpor proti
+							okupatorskim silam in po vojni vzpostaviti demokratično politično in
+							družbeno ureditev.</p>
+						<p>Demokratično zastavljen vseslovenski vojaški in politični odpor proti
+							okupatorju je zavrla revolucija, ki jo je na narodovem pogorišču
+							zasnovala in izvedla Komunistična partija Slovenije – zvesta članica
+							Kominterne. Po okupaciji in razkosanju Slovenije je iz dotedanjega
+							Društva prijateljev Sovjetske zveze organizirala »Protiimperialistično
+							fronto«, na zunaj usmerjeno proti jugoslovanski begunski vladi in
+							zahodnim imperialistom kot skupnim sovražnikom tedanjih zaveznikov iz
+							pakta Hitler-Stalin, navznoter pa na rušenje družbene ureditve in
+							prevzem oblasti: na komunistično razredno revolucijo.</p>
+						<p>Po 22. juniju 1941, ko je Hitler izdajalsko napadel svojega zaveznika in
+							začel osvaj alni pohod proti Sovjetski zvezi, »na klic Kominterne«, ko
+							so »sovjetski junaki skupni boj oklicali«, je Komunistična partija
+							Slovenije spremenila zunanjost svoje frontovske organizacije in jo
+							preimenovala v »Osvobodilno fronto«. Zunanjo podobo boja proti
+							okupatorju, ki je pritegnila številne slovenske domoljube, je KPS
+							izrabila za dosego svojega temeljnega cilja: za revolucijo. Pravičen in
+							časten boj mnogih Slovencev za nacionalno osvoboditev je po svojih
+							sekretarjih in komisarjih nečastno spremenila v boj za »socialno
 							osvoboditev«, za družbeni prevrat in osvojitev oblasti.</p>
-						<p>Komunisti so si prisvojili izključno pravico do boja proti okupatorju in vse, ki se ne bi
-							pokorili temu monopolu, razglasili za narodne izdajalce. Proti tako ustvarjenim »narodnim
-							izdajalcem« so že jeseni 1941, zlasti pa spomladi in poleti 1942 izvedli morilski pohod
-							političnih komisarjev po slovenskih vaseh in VOS-ovskih likvidatorjev po slovenskih mestih.
-							Pobili so stotine Slovencev, zverinsko pomorili cele družine in požgali številne slovenske
-							domove. Nastala so četna in odredna morišča od zevajoče Krimske j ame do krvave Brezove
-							rebri, od Dolomitov do Gorjancev. Na Dolenjskem in na Notranjskem ni bilo občine in na fare,
-							kjer ne bi padale desetine nedolžnih slovenskih žrtev in s ciničnim geslom »žrtve morajo
-							biti« so nešteti krvniki zvesto izvrševali strašni ukaz: vse postreljajte!</p>
-						<p>Slovenska dežela je ječala pod trdim jarmom tuje okupacije in pod krvavim nasiljem
-							komunistične revolucije. Ta neznanska groza, silna ljudska stiska je notranjske in dolenjske
-							kmete prisilila v samoobrambo. Zagrabili so poskrito orožje in brez vednosti okupatorske
-							oblasti zastražili in varovali svoje vasi in svoje družine. Tako so maja 1942 nastale prve
-							ilegalne oborožene skupine protikomunističnega odpora pri Sv. Urhu pri Ljubljani, na Taboruv
-							Loškem potoku, pri Sv. Vidu nad Begunjami in drugje, 17. julija 1942 pa prva legalna četa
-							Vaške straže na Št. Joštu nad Vrhniko. Ta je že čez en teden v boju dokazala, da je
+						<p>Komunisti so si prisvojili izključno pravico do boja proti okupatorju in
+							vse, ki se ne bi pokorili temu monopolu, razglasili za narodne
+							izdajalce. Proti tako ustvar<pb n="002"/>jenim »narodnim izdajalcem« so že jeseni
+							1941, zlasti pa spomladi in poleti 1942 izvedli morilski pohod
+							političnih komisarjev po slovenskih vaseh in VOS-ovskih likvidatorjev po
+							slovenskih mestih. Pobili so stotine Slovencev, zverinsko pomorili cele
+							družine in požgali številne slovenske domove. Nastala so četna in
+							odredna morišča od zevajoče Krimske j ame do krvave Brezove rebri, od
+							Dolomitov do Gorjancev. Na Dolenjskem in na Notranjskem ni bilo občine
+							in na fare, kjer ne bi padale desetine nedolžnih slovenskih žrtev in s
+							ciničnim geslom »žrtve morajo biti« so nešteti krvniki zvesto izvrševali
+							strašni ukaz: vse postreljajte!</p>
+						<p>Slovenska dežela je ječala pod trdim jarmom tuje okupacije in pod krvavim
+							nasiljem komunistične revolucije. Ta neznanska groza, silna ljudska
+							stiska je notranjske in dolenjske kmete prisilila v samoobrambo.
+							Zagrabili so poskrito orožje in brez vednosti okupatorske oblasti
+							zastražili in varovali svoje vasi in svoje družine. Tako so maja 1942
+							nastale prve ilegalne oborožene skupine protikomunističnega odpora pri
+							Sv. Urhu pri Ljubljani, na Taboruv Loškem potoku, pri Sv. Vidu nad
+							Begunjami in drugje, 17. julija 1942 pa prva legalna četa Vaške straže
+							na Št. Joštu nad Vrhniko. Ta je že čez en teden v boju dokazala, da je
 							slovenska samoobramba možna in učinkovita.</p>
-						<p>Tako se je začel slovenski protirevolucionarni odpor, ki je ob nadaljevanju komunističnega
-							nasilja porerastel v državljansko vojno. Proti surovemu uničevalnemu pohodu revolucijskih
-							brigad, ki se za okupatorsko voj sko v glavnem niso zmenile, ta pa ne zanje, je Slovenska
-							legija po vsej Notranjski in Dolenjski postavila številne postojanke Vaške straže. Te so
-							kmalu zaustavile rdeče nasilje.</p>
-						<p>V septembru 1943 pa je odkrito zavezništvo med slovenskimi komunističnimi brigadami in
-							okupatorsko italijansko vojsko presenetilo tako močno Vaško stražo kot manj številne
-							četniške enote. Komunistični sodniki in likvidatorji so zopet pobij ali, nastaj ala so nova
-							morišča. Slovenski protikomunistični odpor se je zato organiziral v Slovensko domobranstvo,
-							v Gorenjske domobrance in v Primorsko narodno stražo. Revolucija je zopet izgubila moč in
-							zalet, partizanske enote so postale vojaško nepomembne.</p>
-						<p>Slovenska zaveza je organizirala, politično podpirala in vodila protikomunistični odpor. V
-							začetku leta 1944 je postala najširša slovenska demokratična koalicija. Pozimi 1944/45 pa so
-							jo razbili Nemci, ki so okrog 100 vodilnih članov odgnali v Dachau, med njimi tudi
-							ilegalnega poveljnika Slovenske legije polkovnika Ernesta Peterlina in prof. Jakoba
-							Šolarja.</p>
-						<p>Tako je prišel 3. maj 1945, nastop Narodnega odbora za Slovenijo, sprememba Slovenskega
-							domobranstva v Slovensko narodno vojsko, umik na Koroško, zahrbtna izročitev novim
-							jugoslovanskim oblastnikom in strašen pokol. Vso Slovenijo so spremenili v morišče, neštete
-							jame in brezna pa v skrita grobišča. Revolucija je zmagala, Slovenija se je za 45 let
-							pogreznila v novo barbarstvo in zgubila stik z demokratično Evropo in svetovnim razvojem.
-							Strah, ki je zbudil protirevolucionarno samoobrambo, se je uresničil na najbolj grozovit
-							način. Slovenski protikomunistični odpor, edinstven v Evropi, je dobil tragično
-							potrditev.</p>
-						<p>Zvestoba veri, narodnemu izročilu, njegovi svobodi in samostojnosti, odpor proti nečloveškemu
-							komunizmu in vsakemu drugemu nasilju, to je slovenska zaveza. Ta zaveza je veljala med
-							vojnimi strahotami, nanjo smo se sklicevali skozi dolgo dobo revolucionarnega nesmisla in s
-							to zavezo smo dosegli novo slovensko pomlad in novo upanje.</p>
-						<p>NOVA SLOVENSKA ZAVEZA, s katero udeleženci protikomunističnega odpora, njihovi sorodniki,
-							prijatelji in somišljeniki stopamo v čas slovenske narodne sprave in slovenske narodne
-							samostojnosti, naj osvetli častno preteklost Slovenske zaveze in jo izroči novim
-							rodovom.</p>
+						<p>Tako se je začel slovenski protirevolucionarni odpor, ki je ob
+							nadaljevanju komunističnega nasilja porerastel v državljansko vojno.
+							Proti surovemu uničevalnemu pohodu revolucijskih brigad, ki se za
+							okupatorsko voj sko v glavnem niso zmenile, ta pa ne zanje, je Slovenska
+							legija po vsej Notranjski in Dolenjski postavila številne postojanke
+							Vaške straže. Te so kmalu zaustavile rdeče nasilje.</p>
+						<p>V septembru 1943 pa je odkrito zavezništvo med slovenskimi komunističnimi
+							brigadami in okupatorsko italijansko vojsko presenetilo tako močno Vaško
+							stražo kot manj številne četniške enote. Komunistični sodniki in
+							likvidatorji so zopet pobij ali, nastaj ala so nova morišča. Slovenski
+							protikomunistični odpor se je zato organiziral v Slovensko domobranstvo,
+							v Gorenjske domobrance in v Primorsko narodno stražo. Revolucija je
+							zopet izgubila moč in zalet, partizanske enote so postale vojaško
+							nepomembne.</p>
+						<p>Slovenska zaveza je organizirala, politično podpirala in vodila
+							protikomunistični odpor. V začetku leta 1944 je postala najširša
+							slovenska demokratična koalicija. Pozimi 1944/45 pa so jo razbili Nemci,
+							ki so okrog 100 vodilnih članov odgnali v Dachau, med njimi tudi
+							ilegalnega poveljnika Slovenske legije polkovnika Ernesta Peterlina in
+							prof. Jakoba Šolarja.</p>
+						<p>Tako je prišel 3. maj 1945, nastop Narodnega odbora za Slovenijo,
+							sprememba Slovenskega domobranstva v Slovensko narodno vojsko, umik na
+							Koroško, zahrbtna izročitev novim jugoslovanskim oblastnikom in strašen
+							pokol. Vso Slovenijo so spremenili v morišče, neštete jame in brezna pa
+							v skrita grobišča. Revolucija je zmagala, Slovenija se je za 45 let
+							pogreznila v novo barbarstvo in zgubila stik z demokratično Evropo in
+							svetovnim razvojem. Strah, ki je zbudil protirevolucionarno samoobrambo,
+							se je uresničil na najbolj grozovit način. Slovenski protikomunistični
+							odpor, edinstven v Evropi, je dobil tragično potrditev.</p>
+						<p>Zvestoba veri, narodnemu izročilu, njegovi svobodi in samostojnosti,
+							odpor proti nečloveškemu komunizmu in vsakemu drugemu nasilju, to je
+							slovenska zaveza. Ta zaveza je veljala med vojnimi strahotami, nanjo smo
+							se sklicevali skozi dolgo dobo revolucionarnega nesmisla in s to zavezo
+							smo dosegli novo slovensko pomlad in novo upanje.</p>
+						<p>NOVA SLOVENSKA ZAVEZA, s katero udeleženci protikomunističnega odpora,
+							njihovi sorodniki, prijatelji in somišljeniki stopamo v čas slovenske
+							narodne sprave in slovenske narodne samostojnosti, naj osvetli častno
+							preteklost Slovenske zaveze in jo izroči novim rodovom.</p>
 						<p>Ljubljana, 20. aprila 1991</p>
 					</div>
 				</div>
+				<pb n="00,"/>
 				<div type="div2">
 					<head>Preteklost: mera sedanjosti – temelj prihodnosti</head>
 					<docAuthor>Justin Stanovnik</docAuthor>
 					<div type="div3" subtype="intro">
-						<p>Strah pred zgodovino ni pri nas samo strah pred prihodnostjo, ampak tudi strah pred
-							preteklostjo. Rekel bi celo, da sta ta dva strahova med seboj pogojena: kdor se tega boji,
-							kar bo, ta se navadno boji pogledati v obraz tudi temu, kar je bilo. Kdor pa se boji
-							pogledati v obraz lastni preteklosti, se nujno boji tega, kar bo.</p>
+						<p>Strah pred zgodovino ni pri nas samo strah pred prihodnostjo, ampak tudi
+							strah pred preteklostjo. Rekel bi celo, da sta ta dva strahova med seboj
+							pogojena: kdor se tega boji, kar bo, ta se navadno boji pogledati v
+							obraz tudi temu, kar je bilo. Kdor pa se boji pogledati v obraz lastni
+							preteklosti, se nujno boji tega, kar bo.</p>
 						<p>Vaclav Havel</p>
 					</div>
 					<div type="div3">
-						<p>Generacija, ki gre danes skozi svoja šestdeseta leta, ima nekaj pravice misliti, da ji je
-							zgodovina dodelila prednostno mesto. Ne zgodi se namreč pogosto, da je enemu rodu dano
-							videti, kako se pred njegovimi očmi, kakor na odru, odigra velika zgodovinska predstava.
-							Zgodba, ki se je pred nami tako začela in končala, je zgodba o evropskem komunizmu. Mi smo,
-							s svojega privilegiranega zgodovinskega mesta, videli, kako se je vse začelo, videli smo
-							prolog te drame, da se tako izrazim, videli smo, kako se zbirajo protagonisti, igralci in
-							protiigralci, slišali smo besedila, ki so jih izgovarjali, sledili smo njihovim dejanjem,
-							videli smo njihovo menjajočo se bojno srečo in nazadnje njihov konec. Ko je zagospodarila
-							mrka tišina.</p>
-						<p>A ne samo videli, pri vsem smo bili tudi zraven; nismo bili samo gledalci, v vse smo bili
-							tudi vpleteni. Zaradi mladosti mogoče nismo vsega prav razumeli, a bili smo zraven in vzeli
-							nase vse, razen deleža v veliki smrti na koncu.</p>
-						<p>Komunizem je razdelil slovenski narod že pred vojno. Kaj je bilo tisto, kar je večinski del
-							narodove kulturne in politične misli odvračalo od komunizma? To so bili preprosto ljudje, ki
-							so se držali splošne, v tradiciji potrjene izkušnje, predvsem pa so bili iz take snovi, da
-							jim je bilo mogoče ostati v območju, ki ga določa pojem zvestobe. Njihova specifična moralna
-							teža jih je zadrževala v polju, ki so ga določala krščanska načela. To so bili predvsem
-							slovenski katoličani.</p>
-						<p>Cerkev je začutila v komunizmu nevarnost za krščansko omiko že na samem začetku. Pred
-							stopetdesetimi leti, natančno novembra 1846, dve leti pred Komunističnim manifestom, je
-							papež Pij IX. v okrožnici Qui pluribus med drugimi zmotami obsodil tudi komunizem. V tem
-							beselu pravi papež, da med sodobne zmote</p>
-						<p>spada »brezbožni in že naravnemu pravu skrajno nasprotni nauk o komunizmu, ki bi do temeljev
-							porušil, ko bi se uveljavil, vsa prava, ustanove, lastnino in človeško družbo samo«. Tudi
-							pozneje je Cerkev v svojih poglavitnih dokumentih svarila pred komunizmom, prav tja do
-							okrožnice Divini redemptoris, ki je bila objavljena malo pred vojno, 19. marca 1937, na
-							praznik Sv. Jožefa. Okrožnica pravi, da bo govorila o »grozeči nevarnosti, o tako imenovanem
-							boljševiškem komunizmu, ki je ateističen, brezbožen in ki mu je glavna namera, da prevrne
-							ves družbeni red in poruši temelje krščanske kulture«. V tem besedilu beremo tudi stavek, ki
-							j e tako zelo razvnel predvojno Slovenijo: »Komunizem je nekaj bistveno slabega, zato prav v
-							nobeni reči ne bo z njim sodeloval, komur je mar krščanske kulture.« Marsikdo v naši
-							domovini bi se lahko grenko nasmehnil ob naslednjem stavku iz okrožnice: »Če bi se dali
-							nekateri zavesti v zmoto in bi v svojem kraju komunizmu pomagali, da bi se utrdil, jih bo za
-							to zmoto prve zadela kazen.« Nauk Cerkve je bil torej prva oporna točka, na katero so se
-							naslanjali slovenski katoličani, ko so določali svoj odnos do komunizma. Druga oporna točka
-							pa je bila ruska komunistična praksa. Njena poglavitna dejstva so bila v predvojni Sloveniji
-							dobro znana. Vedelo se je, da je zatrtje ukrajinskega kmeta, deloma tudi ukrajinskega
-							naroda, zahtevalo 15 milijonov življenj. Montirani procesi iz sredine tridesetih let so
-							jasno dokazali, kaj naredi komunizem s pravom, ki j e ena naj starejših in najvišjih
-							pridobitev civilizacije. Ves čas pa so se polnila taborišča na severnih otokih in na daljni
-							Kolimi; po planu, kakor smo pozneje zvedeli. Volga ruskega trpljenja, kot se je izrazil
-							Solženicin.</p>
-						<p>O vsem tem se je tedaj govorilo in to ni bila nobena propaganda, kakor bi hoteli nekateri
-							danes in kakor so hoteli takrat. To je bilo preprosto informiranje o nekem uničuj očem
-							viharju v deželi, ki ni bila tako daleč, da se njegovo bučanje ne bi slišalo. Nevarnost je
-							bila toliko večja, ker se je vedelo tudi, da se komunizem ni odpovedal svetovni revoluciji.
-							Poleg tega pa komunizem ni nastopal odkrito. Ponujal je roko na levo in desno in govoril
-							samo o svobodi. Izbiral je plošče, ki so jih ljudje radi poslušali, in uspehi niso
-							izostali.</p>
-						<p>Pri komunizmu ne moremo govoriti o »banalnosti zla«. V nasprotju s fašizmom in nacizmom,
-							katerih vulgarna narava je razvidna takoj, je komunizem rafinirana ideologija, odeta v
-							oblačila, ki so stkana iz pradavnih človekovih sanj o koncu vsega hudega na svetu. Hkrati pa
-							je taktično do perfekcije dognan. Domiselno je iskal mesto za svoje korenine v razpokah
-							obstoječe družbe, obenem pa gradil do skrajnosti stehnizirano organizacijo, ki je obstajala
-							sicer v družbi, med ljudmi, v resnici pa je bila nad ljudmi in celo nad zgodovino. Za svoje
-							v bistvu skrivno življenje je komunizem ustvaril tudi svoj jezik. Nihče o komunizmu ničesar
-							ne ve, kdor ne ve najprej in predvsem, da je treba njegov jezik prevesti v normalne človeške
-							stavke, če hočeš, da se ti odkrije, s kom imaš opraviti.</p>
-						<p>S takšnim domišljenim, do skrajnosti prisebnim, z vsem in na vse računajočim namenom, z
-							namenom, ki je bil pripravljen, kot pravi Machiavelli, izkoristiti tako človeka kot zver, se
-							je srečala kultura slovenskega človeka. Bil je to zgodovinski trenutek in šlo je za velike
-							stave. Pod pokrovom, na katerem so najlepše slikarije govorile o svobodi in napredku, o
-							enakosti in sreči, o velikem novem človeku, je prežalo pravo in usodno vprašanje: ali bomo
-							ostali v krožnici civilizacije ali pa nas bo vrglo ven v prostor nasilja in brezpravja, kjer
-							je ne samo politična ampak tudi vsaka druga smrt.</p>
-						<p>Za to je torej šlo in o tem se je takrat slovenski človek odločal. Rekli smo že, da je bila
-							to igra, v kateri so nekateri igralci nosili lažne kostume, in da zato mnogi gledalci niso
-							vedeli, kdo je kdo. Možnost, da je bilo občinstvo zbegano, torej dopuščamo, a so tu vendar
-							tri stvari, ki jih odgovoren človek ne bi smel puščati neopažene: tu so bili najprej osnovni
-							stavki evropske politike in kulture, tu je bila nadalje izkaznica, ki jo je komunizmu
-							zgodovina že do tedaj napisala, nazadnje pa je tu najosnovnejša pamet, ki bi že morala
-							vedeti, ali je mogoče, kakor je trdila ideologija, skovati leseno železo. To niso kamenčki
-							ali kamni, to so skale in še danes se ne moremo dovolj načuditi, da jih je toliko šlo mimo,
-							ne da bi jih videli.</p>
-						<p>Vsekakor je bil to čas, ko se je zgodovina smehljala ideologiji in utopiji. Če se je kje
-							pojavila misel, ki je hotela svariti, zadrževati, opozarjati, klicati k pameti in razumu, so
-							jo agenti časa hitro ožigosali za nazadnjaško. Takrat kot pozneje se je veliko uporabljal
-							izraz fašističen. Če je bilo kaj komunistom napoti, je bilo fašistično, čeprav je bilo od
-							fašizma astronomsko daleč. Tako</p>
-						<p>so oblatili tudi organizacije, ki jih je postavila na noge kulturna politična volja
-							slovenskih katoličanov, da bi zaustavile prodiranje organiziranega komunizma. Med katoličani
-							se je namreč že bila utrdila misel, da bi bilo z zmago komunizma vse izgubljeno: noben
-							razvoj ne bo več mogoč, nič več se ne bo dalo popraviti, normalno gibanje narodove kulture
-							bo nasilno speljano v kanale partijske politike. Izoblikovala se je bila dokaj živa zavest,
-							da gre za epohalno odločitev. Ravno v katoliških organizacijah, ki so bile nekakšne celice
-							krščanske kulturne zavesti, se je izostrila misel, da je v našem času komunizem tisto
-							gibanje, ki utegne najgloblje prizadeti kulturo, kakršno je dosegla Evropa v svojem razvoju.
-							In nič ni bolj kazalo na to, da je evropska kultura v bistvu krščanska kultura, kot to, da
-							so se nevarnosti, ki ji je grozila, najprej in najbolj zavedli nosilci krščanske tradicije.
-							Jasno je, da je kultura nove, razsvetljenske, liberalne Evrope tudi bila v nevarnosti, a
-							nosilci te tradicije se komunistične nevarnosti niso zavedali kot nekaj usodnostnega. A s
-							tem so samo dokazovali, da je komunizem kot ekstrapolacija modernega subjekta zrastel na
-							njihovem terenu. Velik del modernih intelektualcev liberalne inspiracije je do komunizma,
-							kot do oblike radikalnega levičarstva, čutil simpatije, ne da bi opazil nečistost tega
-							odnosa. Sorodstvenih odnosov enostavno niso ne mogli ne hoteli zanikati.</p>
-						<p>Ko je torej prišel trenutek spopada, so ostali katoličani v glavnem osamljeni. Izkazalo se
-							je, da je glavno breme obrambe na njihovih ramah. Osamljeni so bili v dvojnem smislu:
-							osamljeni doma in osamljeni v svetu. Sedaj je čas, da postavimo v središčno svetlobo in
-							dovolj visoko osnovno dejstvo našega upora: v času, ko je iz ideoloških in strateških
-							razlogov svet paktiral s komunizmom, ko je, kot bi tudi lahko rekli, sijala nanj milost
-							zgodovine, ko so mu agenti svetovne politike za dvomljive usluge poklanjali deželo za
-							deželo, ne da bi jih za trenutek zaskrbela njihova usoda, se je majhen narod v srcu Evrope
-							odločil, da se mu upre. In nič ne bi moglo bolj neovrgljivo dokazati evropsko dušo tega
-							naroda. Danes, ko gledamo nazaj in se je zastor spustil in je konec igre, lahko vsakdo vidi,
-							kako visok je bil njegov upor – in kako tragičen.</p>
-						<p>Slovenski katoličani so se uprli zato, ker so vedeli, kaj je komunizem, in so, ko je udarila
-							ura, za tem vedenjem tudi stali. V upor pa so seveda bili tudi potisnjeni. Dve okoliščini
-							sta posebej zahtevali, da se nekaj naredi. Tu so bili najprej umori tistih slovenskih ljudi,
-							ki jih je partija, ko je pripravljala teren za revolucijo, sklenila odstraniti. Tu je šlo
-							preprosto za življenja ljudi. Treba se je bilo zavarovati pred politkomisarskimi
-							terorističnimi ekspedicijami po slovenskih vaseh. Tu se ni moglo čakati, filozofirati ni tu
-							nič pomagalo. Druga stvar pa je ta, da se je v Sloveniji – in samo v Sloveniji – partija
-							odločila, da izkoristi okupacijo za dokončno izvedbo svojega projekta. Kakšno moralno oznako
-							je za to treba partiji podeliti, je seveda jasno. A pred odgovornimi ljudmi, pred
-							legitimnimi narodovimi predstavniki, je bil tedaj položaj, ki ni puščal nobenega dvoma: če
-							se partiji projekt posreči, bodo Slovenci po vojni, namesto da bi prišli v svobodo, padli v
-							kulturni in politični mrak nepredvidljivega trajanja. Za to je torej šlo, za obrambo
-							življenja in za obrambo narodove bistvene svobode. In zgodovina se je zgodila in vse
-							potrdila.</p>
-						<p>Kako se je zgodovina zgodila, vemo, zato o tem sedaj ne bomo govorili. Rajši poglejmo nekaj
-							drugega. Poglejmo, kaj se je zgodilo s komunističnim projektom, s tem, kakor pravi pesnik
-							Wolf Biermann, »najbolj velikopoteznim živalskim eksperimentom na živih ljudeh«, potem, ko
-							je in kjer je komunizem zmagal. Tu je treba reči, da je malo idej bilo v zgodovini tako
-							premaganih, kot je bil komunizem. Zavrgla ga je namreč zgodovina sama. Privoščila si je to
-							ironično kretnjo in je tiste, ki so trdili, da so odkrili njeno zadnjo skrivnost, odslovila
-							kot nesposobne parvenije. Nobena tuja sila ni komunizma zrušila. Razpadati je začel v sebi,
-							od znotraj, iz središča.</p>
-						<p>Toda še preden se je nad njim začela izvrševati sodba zgodovine, je povzročil nezaslišano
-							opustošenje. Milijonom je vzel življenje in celim narodom načel tisto središče, iz katerega
-							izhaja njihova duhovna in moralna moč. Kjerkoli se je uvelj avil, v katerikoli deželi in na
-							kateremkoli kontinentu, povsod velja, kar je Ana Ahmatova zapisala za svojo domovino:
-							»Nedolžna se je zvijala Rusija pod krvavimi škornji in pod kolesi črnih maric.« Tudi za nas
-							to velja. Pol stoletja mu je bilo dano tu gospodariti in, ko odhaja, lahko slišite, če imate
-							srce za to, da zemlja ječi od množice grobov; po polstoletju se je dvignil pokrov in če se
-							spogledamo, se ne poznamo več. Kam je izginilo zaupanje? Kje je poštena beseda? Kam se je
-							odselila dobronamernost, ki je bila nekoč osnovna kultura naših ljudi? In kje je veselje do
-							življenja, ki je čisto zadnja reč in nihče ne ve, kako naj se pokliče nazaj? Kaj vse se je
-							zgodilo z nami na dolgi blodni poti, ne ve danes še nobeden. In kolikojih je bilo, ki jih je
-							bolelo srce, ko se je delala sila resnici in ko so jemali ljudem svobodo, pa tudi ko so se
-							ji odpovedovali sami!</p>
-						<p>Rekli smo, da je komunizem premagan in da odhaja. Toda, ali res odhaja? Komunizem je res
-							premagan, a je vendar še tu. Kako močno je tu, je odvisno od interpretacije sedanjosti, a
-							premislimo naslednje reči. Prvič je komunizem tu, kot smo rekli, po svojih posledicah.
-							Drugič je tu v tistih, ki so bili nekoč komunisti pa so se preoblekli in so sedaj v ne vem
-							kateri fazi prenavljanja. Za te se nikoli natanko in zares ne ve, kaj so. Na poseben način
-							pa je komunizem tu v tistih, ki so mu nekoč služili v ustanovah, preko katerih je partija
-							obvladovala družbo. V te ustanove je namreč bilo mogoče priti samo skozi filter, ki je
-							prepuščal ljudi primerne oblike. Vsi ti so bili na poseben način sodelavci sistema, lahko bi
-							jih tudi obremenili s tem, da bi rekli, da so s sistemom kolaborirali. Če so hoteli biti
-							sprejeti v ideološko sfero partijske države, so morali, radi ali neradi, izpovedovati
-							zapovedano vero. In kaj je sedaj z njimi? V kaj so se razvili? Mislim, da so naše kulturne,
-							gospodarske in znanstvene institucije polne ljudi – še daleč ne trdim, da so to vsi, mogoče
-							ne predstavljajo niti večine – ki imajo eno reč skupno: jezo in mržnjo.</p>
-						<p>Vpletli so se v sistem in, ko so se vpletali, nikomur ni ostalo skrito, da greši nad seboj.
-							In potem se je izkazalo, da je to bila napačna izbira! Videli so, da to, čemur so žrtvovali
-							svojo svobodo, ni tako trdno, kot so bili mislili. Nemogoče je, bi človek rekel, da se ne bi
-							čutili poražene. A bili so vpleteni – miselno, politično in ne vem kako še – in sedaj je v
-							tisti usedlini, ki je od vsega ostala, jeza in mržnja. Kar odprite radio in televizijo, kar
-							razgrnite časopis, kar poslušajte tako imenovana mnenja, in ne bo minilo dosti, pa boste
-							začutili, da ste se pravkar srečali s tem, o čemer vam govorim: z jezo in mržnjo.</p>
-						<p>Komunizem je torej med nami, ni ga malo, ni brez vpliva. Vemo tudi, da je obstojna reč. Ker
-							bodo ljudje, o katerih sem govoril, v demokratičnih razmerah obdržali svoje vplivne položaje
-							po institucijah, je jasno, da bodo vanje sprejemali nove ljudi po svoji podobi. Tako se bo
-							zgodovina nadaljevala.</p>
-						<p>Tako hudo se je torej obremenila zgodovina tega naroda. Slovenski domobranci, ki jih danes
-							kot redki preživeli predstavljamo, niso hoteli drugega, kot to, da bi to izostalo. Potem pa,
-							ko se je zgodilo, kar se je zgodillo, kaj lahko naredimo? Kaj lahko storimo v spomin tistih,
-							za katere velja, kar je rekla Ahmatova za svoje ljudi: »Zvezde smrti so stale nad nami.« Kaj
-							lahko naredimo ob misli na tisto strašno osamelost, na katero je mislila ista pesnica, ko je
-							rekla: »Kratko pesem slovesa lokomotive so nam peli žvižgi.« Najprej je tu vprašanje, ali je
-							vse to sploh mogoče misliti, ali je to mogoče izreči. Ali ni presežnost zla tistega ubijanja
-							zunaj jezika? In nič manj tiste groze? Prvi dan, drugi dan, tretji dan, četrti dan... deseti
-							dan. Ubijati, od jutra do večera. V kaj se je spremenil človek, ki je to lahko počel? V zver
-							prav gotovo ne! V kaj se je spremenila vsa kultura, ki o tem ni hotela nič vedeti? V kaj se
-							je spremenil človek, ki je govoril in pisal, da je bila to napaka?</p>
-						<p>Ker so bili Slovenski domobranci, vojaški nosilci protikomunističnega upora, po koncu vojne
-							genocidno uničeni, je razumljivo, da tistim, ki so, lahko rečemo, slučajno ostali pri
-							življenju, ni mogoče postaviti na noge organizacije veteranov, kot jo običajno razumemo.
-							Redki preživeli vojaki enostavno ne bi mogli opravljati nalog, ki se po naravi stvari
-							postavljajo pred vsako veteransko organizacijo. Zato bo organizacija, ki se danes
-							ustanavlja, vključila ne samo preživele domobrance, ampak se bo v celoti naslonila na tisti
-							del protikomunističnega upora, ki se je odvijal na civilnem nivoju. Predvsem bo vabila in
-							vključevala tiste, ki so bili spričo masovne moritve najbolj prizadeti – v svojem tkivu tako
-							rekoč – sorodnike pobitih domobrancev: brate in sestre, sinove in hčere, nečake in vnuke;
-							vabila in vključevala bo ljudi iz vasi in dolin, kjer so nekoč živeli, kjer so jih poznali
-							in se jih še spominjajo; posebej pa bo želela, da stopajo vanjo ljudje novega časa, mladi
-							ljudje, ki jih je prevzel ali njihov samotni boj ali neznanskost njihove smrti ali cilji, za
-							katere je danes jasno, da bi lahko bili tudi njihovi cilji.</p>
-						<p>Slovenski domobranci niso bili politična vojska, politična vojska so bili komunisti.
-							Domobranci pa so v bistvu branili tradicionalno kulturo, kakor jo je oblikovalo celotno
-							narodovo občestvo skozi stoletja in kakor se je spletala iz prvin, ki jih je izoblikovala
-							kultura v nemirnem, a v bistvu civilnem poteku zgodovine. Domobranci so branili v kulturnem
-							in zgodovinskem procesu rojeno državo. Slovenski domobranci so bili legalni in legitimni
-							branilci doseženega reda civilizacije. Zato niso bili nikaka politična milica, ampak vojaki
-							kot polis delujoče družbe, bili so samogiben obrambni refleks civilne družbe, potem ko je
-							bila država te družbe pod silo zunanjega pritiska uničena. Domobranci so bili vojska neke
-							države v njeni odsotnosti.</p>
-						<p>Zato bo organizacija, ki se danes ustanavlja, ne samo organizacija nosilcev nekega spomina,
-							ampak široka skupnost ljudi, ki bo imela za eno od osnovnih nalog povzeti duha omike, iz
-							katerega je zrastel slovenski protikomunistični upor. Hotela bo ta duh najprej razumeti,
-							potem pa ga po svojih močeh tudi uveljaviti kot dejavnik v slovenski sedanjosti. Zakaj po
-							sesutju komunističnega projekta, stojijo ideje, ki so nosile slovenskega človeka v
-							protiboljševiškem uporu, danes kot tisti temelji, ki dajejo možnost, da narod biološko,
-							duhovno in politično preživi. Te ideje vodnice, v kulturi pridobljene, v poslušanju
-							eksistencialnih potreb naučene, so bile: zvestoba narodovi biti; zvestoba narodovi kulturi
-							in tradiciji; zvestoba podedovani veri, brez katere ni nobene zadnje utemeljitve in nobenega
-							končnega smisla, ne za posameznika ne za narod.</p>
-						<p>Organizacija torej ne namerava živeti zgolj v logiki spomina, iz preteklosti za preteklost. V
-							preteklost se bo vračala predvsem zato, da se ugotovi resnica te preteklosti, ki so jo bili
-							izmaličili do nespoznavnosti: da bo ugotovljeno in uveljavljeno, kdo je bil napadalec in kdo
-							se je branil; kdo je bil ubijalec in kdo je bil ubiti; kdo je vztrajal v zvestobi in kdo ni;
-							kdo je stal na odprtem in kdo je trgoval z ljudmi in njihovo ljubeznijo do domovine. Pa
-							tudi: da se očistijo imena častivrednih ljudi, ki so umirali obmetani z najsramotnejšimi
+						<p>Generacija, ki gre danes skozi svoja šestdeseta leta, ima nekaj pravice
+							misliti, da ji je zgodovina dodelila prednostno mesto. Ne zgodi se
+							namreč pogosto, da je enemu rodu dano videti, kako se pred njegovimi
+							očmi, kakor na odru, odigra velika zgodovinska predstava. Zgodba, ki se
+							je pred nami tako začela in končala, je zgodba o evropskem komunizmu. Mi
+							smo, s svojega privilegiranega zgodovinskega mesta, videli, kako se je
+							vse začelo, videli smo prolog te drame, da se tako izrazim, videli smo,
+							kako se zbirajo protagonisti, igralci in protiigralci, slišali smo
+							besedila, ki so jih izgovarjali, sledili smo njihovim dejanjem, videli
+							smo njihovo menjajočo se bojno srečo in nazadnje njihov konec. Ko je
+							zagospodarila mrka tišina.</p>
+						<p>A ne samo videli, pri vsem smo bili tudi zraven; nismo bili samo
+							gledalci, v vse smo bili tudi vpleteni. Zaradi mladosti mogoče nismo
+							vsega prav razumeli, a bili smo zraven in vzeli nase vse, razen deleža v
+							veliki smrti na koncu.</p>
+						<p>Komunizem je razdelil slovenski narod že pred vojno. Kaj je bilo tisto,
+							kar je večinski del narodove kulturne in politične misli odvračalo od
+							komunizma? To so bili preprosto ljudje, ki so se držali splošne, v
+							tradiciji potrjene izkušnje, predvsem pa so bili iz take snovi, da jim
+							je bilo mogoče ostati v območju, ki ga določa pojem zvestobe. Njihova
+							specifična moralna teža jih je zadrževala v polju, ki so ga določala
+							krščanska načela. To so bili predvsem slovenski katoličani.</p>
+						<p>Cerkev je začutila v komunizmu nevarnost za krščansko omiko že na samem
+							začetku. Pred stopetdesetimi leti, natančno novembra 1846, dve leti pred
+							Komunističnim manifestom, je papež Pij IX. v okrožnici Qui pluribus med
+							drugimi zmotami obsodil tudi komunizem. V tem beselu pravi papež, da med
+							sodobne zmote</p>
+						<p>spada »brezbožni in že naravnemu pravu skrajno nasprotni nauk o
+							komunizmu, ki bi do temeljev porušil, ko bi se uveljavil, vsa prava,
+							ustanove, lastnino in človeško družbo samo«. Tudi pozneje je Cerkev v
+							svojih poglavitnih dokumentih svarila pred komunizmom, prav tja do
+							okrožnice Divini redemptoris, ki je bila objavljena malo pred vojno, 19.
+							marca 1937, na praznik Sv. Jožefa. Okrožnica pravi, da bo govorila o
+							»grozeči nevarnosti, o tako imenovanem boljševiškem komunizmu, ki je
+							ateističen, brezbožen in ki mu je glavna namera, da prevrne ves družbeni
+							red in poruši temelje krščanske kulture«. V tem besedilu beremo tudi
+							stavek, ki j e tako zelo razvnel predvojno Slovenijo: »Komunizem je
+							nekaj bistveno slabega, zato prav v nobeni reči ne bo z njim sodeloval,
+							komur je mar krščanske kulture.« Marsikdo v naši domovini bi se lahko
+							grenko nasmehnil ob naslednjem stavku iz okrožnice: »Če bi se dali
+							nekateri zavesti v zmoto in bi v svojem kraju komunizmu pomagali, da bi
+							se utrdil, jih bo za to zmoto prve zadela kazen.« Nauk Cerkve je bil
+							torej prva oporna točka, na katero so se naslanjali slovenski
+							katoličani, ko so določali svoj odnos do komunizma. Druga oporna točka
+							pa je bila ruska komunistična praksa. Njena poglavitna dejstva so bila v
+							predvojni Sloveniji dobro znana. Vedelo se je, da je zatrtje
+							ukrajinskega kmeta, deloma tudi ukrajinskega naroda, zahtevalo 15
+							milijonov življenj. Montirani procesi iz sredine tridesetih let so jasno
+							dokazali, kaj naredi komunizem s pravom, ki j e ena naj starejših in
+							najvišjih pridobitev civilizacije. Ves čas pa so se polnila taborišča na
+							severnih otokih in na daljni Kolimi; po planu, kakor smo pozneje
+							zvedeli. Volga ruskega trpljenja, kot se je izrazil Solženicin.</p>
+						<p>O vsem tem se je tedaj govorilo in to ni bila nobena propaganda, kakor bi
+							hoteli nekateri danes in kakor so hoteli takrat. To je bilo preprosto
+							informiranje o nekem uničuj očem viharju v deželi, ki ni bila tako
+							daleč, da se njegovo bučanje ne bi slišalo. Nevarnost je bila toliko
+							večja, ker se je vedelo tudi, da se komunizem ni odpovedal svetovni
+							revoluciji. Poleg tega pa komunizem ni nastopal odkrito. Ponujal je roko
+							na levo in desno in govoril samo o svobodi. Izbiral je plošče, ki so jih
+							ljudje radi poslušali, in uspehi niso izostali.</p>
+						<p>Pri komunizmu ne moremo govoriti o »banalnosti zla«. V nasprotju s
+							fašizmom in <pb n="004"/>nacizmom, katerih vulgarna narava je razvidna takoj, je
+							komunizem rafinirana ideologija, odeta v oblačila, ki so stkana iz
+							pradavnih človekovih sanj o koncu vsega hudega na svetu. Hkrati pa je
+							taktično do perfekcije dognan. Domiselno je iskal mesto za svoje
+							korenine v razpokah obstoječe družbe, obenem pa gradil do skrajnosti
+							stehnizirano organizacijo, ki je obstajala sicer v družbi, med ljudmi, v
+							resnici pa je bila nad ljudmi in celo nad zgodovino. Za svoje v bistvu
+							skrivno življenje je komunizem ustvaril tudi svoj jezik. Nihče o
+							komunizmu ničesar ne ve, kdor ne ve najprej in predvsem, da je treba
+							njegov jezik prevesti v normalne človeške stavke, če hočeš, da se ti
+							odkrije, s kom imaš opraviti.</p>
+						<p>S takšnim domišljenim, do skrajnosti prisebnim, z vsem in na vse
+							računajočim namenom, z namenom, ki je bil pripravljen, kot pravi
+							Machiavelli, izkoristiti tako človeka kot zver, se je srečala kultura
+							slovenskega človeka. Bil je to zgodovinski trenutek in šlo je za velike
+							stave. Pod pokrovom, na katerem so najlepše slikarije govorile o svobodi
+							in napredku, o enakosti in sreči, o velikem novem človeku, je prežalo
+							pravo in usodno vprašanje: ali bomo ostali v krožnici civilizacije ali
+							pa nas bo vrglo ven v prostor nasilja in brezpravja, kjer je ne samo
+							politična ampak tudi vsaka druga smrt.</p>
+						<p>Za to je torej šlo in o tem se je takrat slovenski človek odločal. Rekli
+							smo že, da je bila to igra, v kateri so nekateri igralci nosili lažne
+							kostume, in da zato mnogi gledalci niso vedeli, kdo je kdo. Možnost, da
+							je bilo občinstvo zbegano, torej dopuščamo, a so tu vendar tri stvari,
+							ki jih odgovoren človek ne bi smel puščati neopažene: tu so bili najprej
+							osnovni stavki evropske politike in kulture, tu je bila nadalje
+							izkaznica, ki jo je komunizmu zgodovina že do tedaj napisala, nazadnje
+							pa je tu najosnovnejša pamet, ki bi že morala vedeti, ali je mogoče,
+							kakor je trdila ideologija, skovati leseno železo. To niso kamenčki ali
+							kamni, to so skale in še danes se ne moremo dovolj načuditi, da jih je
+							toliko šlo mimo, ne da bi jih videli.</p>
+						<p>Vsekakor je bil to čas, ko se je zgodovina smehljala ideologiji in
+							utopiji. Če se je kje pojavila misel, ki je hotela svariti, zadrževati,
+							opozarjati, klicati k pameti in razumu, so jo agenti časa hitro
+							ožigosali za nazadnjaško. Takrat kot pozneje se je veliko uporabljal
+							izraz fašističen. Če je bilo kaj komunistom napoti, je bilo fašistično,
+							čeprav je bilo od fašizma astronomsko daleč. Tako</p>
+						<p>so oblatili tudi organizacije, ki jih je postavila na noge kulturna
+							politična volja slovenskih katoličanov, da bi zaustavile prodiranje
+							organiziranega komunizma. Med katoličani se je namreč že bila utrdila
+							misel, da bi bilo z zmago komunizma vse izgubljeno: noben razvoj ne bo
+							več mogoč, nič več se ne bo dalo popraviti, normalno gibanje narodove
+							kulture bo nasilno speljano v kanale partijske politike. Izoblikovala se
+							je bila dokaj živa zavest, da gre za epohalno odločitev. Ravno v
+							katoliških organizacijah, ki so bile nekakšne celice krščanske kulturne
+							zavesti, se je izostrila misel, da je v našem času komunizem tisto
+							gibanje, ki utegne najgloblje prizadeti kulturo, kakršno je dosegla
+							Evropa v svojem razvoju. In nič ni bolj kazalo na to, da je evropska
+							kultura v bistvu krščanska kultura, kot to, da so se nevarnosti, ki ji
+							je grozila, najprej in najbolj zavedli nosilci krščanske tradicije.
+							Jasno je, da je kultura nove, razsvetljenske, liberalne Evrope tudi bila
+							v nevarnosti, a nosilci te tradicije se komunistične nevarnosti niso
+							zavedali kot nekaj usodnostnega. A s tem so samo dokazovali, da je
+							komunizem kot ekstrapolacija modernega subjekta zrastel na njihovem
+							terenu. Velik del modernih intelektualcev liberalne inspiracije je do
+							komunizma, kot do oblike radikalnega levičarstva, čutil simpatije, ne da
+							bi opazil nečistost tega odnosa. Sorodstvenih odnosov enostavno niso ne
+							mogli ne hoteli zanikati.</p>
+						<p>Ko je torej prišel trenutek spopada, so ostali katoličani v glavnem
+							osamljeni. Izkazalo se je, da je glavno breme obrambe na njihovih ramah.
+							Osamljeni so bili v dvojnem smislu: osamljeni doma in osamljeni v svetu.
+							Sedaj je čas, da postavimo v središčno svetlobo in dovolj visoko osnovno
+							dejstvo našega upora: v času, ko je iz ideoloških in strateških razlogov
+							svet paktiral s komunizmom, ko je, kot bi tudi lahko rekli, sijala nanj
+							milost zgodovine, ko so mu agenti svetovne politike za dvomljive usluge
+							poklanjali deželo za deželo, ne da bi jih za trenutek zaskrbela njihova
+							usoda, se je majhen narod v srcu Evrope odločil, da se mu upre. In nič
+							ne bi moglo bolj neovrgljivo dokazati evropsko dušo tega naroda. Danes,
+							ko gledamo nazaj in se je zastor spustil in je konec igre, lahko vsakdo
+							vidi, kako visok je bil njegov upor – in kako tragičen.</p>
+						<p>Slovenski katoličani so se uprli zato, ker so vedeli, kaj je komunizem,
+							in so, ko je udarila ura, za tem vedenjem tudi stali. V upor pa so
+							seveda bili tudi potisnjeni. Dve okolišči<pb n="005"/>ni sta posebej zahtevali, da se
+							nekaj naredi. Tu so bili najprej umori tistih slovenskih ljudi, ki jih
+							je partija, ko je pripravljala teren za revolucijo, sklenila odstraniti.
+							Tu je šlo preprosto za življenja ljudi. Treba se je bilo zavarovati pred
+							politkomisarskimi terorističnimi ekspedicijami po slovenskih vaseh. Tu
+							se ni moglo čakati, filozofirati ni tu nič pomagalo. Druga stvar pa je
+							ta, da se je v Sloveniji – in samo v Sloveniji – partija odločila, da
+							izkoristi okupacijo za dokončno izvedbo svojega projekta. Kakšno moralno
+							oznako je za to treba partiji podeliti, je seveda jasno. A pred
+							odgovornimi ljudmi, pred legitimnimi narodovimi predstavniki, je bil
+							tedaj položaj, ki ni puščal nobenega dvoma: če se partiji projekt
+							posreči, bodo Slovenci po vojni, namesto da bi prišli v svobodo, padli v
+							kulturni in politični mrak nepredvidljivega trajanja. Za to je torej
+							šlo, za obrambo življenja in za obrambo narodove bistvene svobode. In
+							zgodovina se je zgodila in vse potrdila.</p>
+						<p>Kako se je zgodovina zgodila, vemo, zato o tem sedaj ne bomo govorili.
+							Rajši poglejmo nekaj drugega. Poglejmo, kaj se je zgodilo s
+							komunističnim projektom, s tem, kakor pravi pesnik Wolf Biermann,
+							»najbolj velikopoteznim živalskim eksperimentom na živih ljudeh«, potem,
+							ko je in kjer je komunizem zmagal. Tu je treba reči, da je malo idej
+							bilo v zgodovini tako premaganih, kot je bil komunizem. Zavrgla ga je
+							namreč zgodovina sama. Privoščila si je to ironično kretnjo in je tiste,
+							ki so trdili, da so odkrili njeno zadnjo skrivnost, odslovila kot
+							nesposobne parvenije. Nobena tuja sila ni komunizma zrušila. Razpadati
+							je začel v sebi, od znotraj, iz središča.</p>
+						<p>Toda še preden se je nad njim začela izvrševati sodba zgodovine, je
+							povzročil nezaslišano opustošenje. Milijonom je vzel življenje in celim
+							narodom načel tisto središče, iz katerega izhaja njihova duhovna in
+							moralna moč. Kjerkoli se je uvelj avil, v katerikoli deželi in na
+							kateremkoli kontinentu, povsod velja, kar je Ana Ahmatova zapisala za
+							svojo domovino: »Nedolžna se je zvijala Rusija pod krvavimi škornji in
+							pod kolesi črnih maric.« Tudi za nas to velja. Pol stoletja mu je bilo
+							dano tu gospodariti in, ko odhaja, lahko slišite, če imate srce za to,
+							da zemlja ječi od množice grobov; po polstoletju se je dvignil pokrov in
+							če se spogledamo, se ne poznamo več. Kam je izginilo zaupanje? Kje je
+							poštena beseda? Kam se je odselila dobronamernost, ki je bila nekoč
+							osnovna kultura naših ljudi? In kje je veselje do življenja, ki je čisto
+							zadnja reč in nihče ne ve, kako naj se pokliče nazaj? Kaj vse se je
+							zgodilo z nami na dolgi blodni poti, ne ve danes še nobeden. In
+							kolikojih je bilo, ki jih je bolelo srce, ko se je delala sila resnici
+							in ko so jemali ljudem svobodo, pa tudi ko so se ji odpovedovali
+							sami!</p>
+						<p>Rekli smo, da je komunizem premagan in da odhaja. Toda, ali res odhaja?
+							Komunizem je res premagan, a je vendar še tu. Kako močno je tu, je
+							odvisno od interpretacije sedanjosti, a premislimo naslednje reči. Prvič
+							je komunizem tu, kot smo rekli, po svojih posledicah. Drugič je tu v
+							tistih, ki so bili nekoč komunisti pa so se preoblekli in so sedaj v ne
+							vem kateri fazi prenavljanja. Za te se nikoli natanko in zares ne ve,
+							kaj so. Na poseben način pa je komunizem tu v tistih, ki so mu nekoč
+							služili v ustanovah, preko katerih je partija obvladovala družbo. V te
+							ustanove je namreč bilo mogoče priti samo skozi filter, ki je prepuščal
+							ljudi primerne oblike. Vsi ti so bili na poseben način sodelavci
+							sistema, lahko bi jih tudi obremenili s tem, da bi rekli, da so s
+							sistemom kolaborirali. Če so hoteli biti sprejeti v ideološko sfero
+							partijske države, so morali, radi ali neradi, izpovedovati zapovedano
+							vero. In kaj je sedaj z njimi? V kaj so se razvili? Mislim, da so naše
+							kulturne, gospodarske in znanstvene institucije polne ljudi – še daleč
+							ne trdim, da so to vsi, mogoče ne predstavljajo niti večine – ki imajo
+							eno reč skupno: jezo in mržnjo.</p>
+						<p>Vpletli so se v sistem in, ko so se vpletali, nikomur ni ostalo skrito,
+							da greši nad seboj. In potem se je izkazalo, da je to bila napačna
+							izbira! Videli so, da to, čemur so žrtvovali svojo svobodo, ni tako
+							trdno, kot so bili mislili. Nemogoče je, bi človek rekel, da se ne bi
+							čutili poražene. A bili so vpleteni – miselno, politično in ne vem kako
+							še – in sedaj je v tisti usedlini, ki je od vsega ostala, jeza in
+							mržnja. Kar odprite radio in televizijo, kar razgrnite časopis, kar
+							poslušajte tako imenovana mnenja, in ne bo minilo dosti, pa boste
+							začutili, da ste se pravkar srečali s tem, o čemer vam govorim: z jezo
+							in mržnjo.</p>
+						<p>Komunizem je torej med nami, ni ga malo, ni brez vpliva. Vemo tudi, da je
+							obstojna reč. Ker bodo ljudje, o katerih sem govoril, v demokratičnih
+							razmerah obdržali svoje vplivne položaje po institucijah, je jasno, da
+							bodo vanje sprejemali nove ljudi po svoji podobi. Tako se bo zgodovina
+							nadaljevala.</p>
+						<pb n="006"/>	
+						<p>Tako hudo se je torej obremenila zgodovina tega naroda. Slovenski
+							domobranci, ki jih danes kot redki preživeli predstavljamo, niso hoteli
+							drugega, kot to, da bi to izostalo. Potem pa, ko se je zgodilo, kar se
+							je zgodillo, kaj lahko naredimo? Kaj lahko storimo v spomin tistih, za
+							katere velja, kar je rekla Ahmatova za svoje ljudi: »Zvezde smrti so
+							stale nad nami.« Kaj lahko naredimo ob misli na tisto strašno osamelost,
+							na katero je mislila ista pesnica, ko je rekla: »Kratko pesem slovesa
+							lokomotive so nam peli žvižgi.« Najprej je tu vprašanje, ali je vse to
+							sploh mogoče misliti, ali je to mogoče izreči. Ali ni presežnost zla
+							tistega ubijanja zunaj jezika? In nič manj tiste groze? Prvi dan, drugi
+							dan, tretji dan, četrti dan … deseti dan. Ubijati, od jutra do večera. V
+							kaj se je spremenil človek, ki je to lahko počel? V zver prav gotovo ne!
+							V kaj se je spremenila vsa kultura, ki o tem ni hotela nič vedeti? V kaj
+							se je spremenil človek, ki je govoril in pisal, da je bila to
+							napaka?</p>
+						<p>Ker so bili Slovenski domobranci, vojaški nosilci protikomunističnega
+							upora, po koncu vojne genocidno uničeni, je razumljivo, da tistim, ki
+							so, lahko rečemo, slučajno ostali pri življenju, ni mogoče postaviti na
+							noge organizacije veteranov, kot jo običajno razumemo. Redki preživeli
+							vojaki enostavno ne bi mogli opravljati nalog, ki se po naravi stvari
+							postavljajo pred vsako veteransko organizacijo. Zato bo organizacija, ki
+							se danes ustanavlja, vključila ne samo preživele domobrance, ampak se bo
+							v celoti naslonila na tisti del protikomunističnega upora, ki se je
+							odvijal na civilnem nivoju. Predvsem bo vabila in vključevala tiste, ki
+							so bili spričo masovne moritve najbolj prizadeti – v svojem tkivu tako
+							rekoč – sorodnike pobitih domobrancev: brate in sestre, sinove in hčere,
+							nečake in vnuke; vabila in vključevala bo ljudi iz vasi in dolin, kjer
+							so nekoč živeli, kjer so jih poznali in se jih še spominjajo; posebej pa
+							bo želela, da stopajo vanjo ljudje novega časa, mladi ljudje, ki jih je
+							prevzel ali njihov samotni boj ali neznanskost njihove smrti ali cilji,
+							za katere je danes jasno, da bi lahko bili tudi njihovi cilji.</p>
+						<p>Slovenski domobranci niso bili politična vojska, politična vojska so bili
+							komunisti. Domobranci pa so v bistvu branili tradicionalno kulturo,
+							kakor jo je oblikovalo celotno narodovo občestvo skozi stoletja in kakor
+							se je spletala iz prvin, ki jih je izoblikovala kultura v nemirnem, a v
+							bistvu civilnem poteku zgodovine. Domobranci so branili v kulturnem in
+							zgodovinskem procesu rojeno državo. Slovenski domobranci so bili legalni
+							in legitimni branilci doseženega reda civilizacije. Zato niso bili
+							nikaka politična milica, ampak vojaki kot polis delujoče družbe, bili so
+							samogiben obrambni refleks civilne družbe, potem ko je bila država te
+							družbe pod silo zunanjega pritiska uničena. Domobranci so bili vojska
+							neke države v njeni odsotnosti.</p>
+						<p>Zato bo organizacija, ki se danes ustanavlja, ne samo organizacija
+							nosilcev nekega spomina, ampak široka skupnost ljudi, ki bo imela za eno
+							od osnovnih nalog povzeti duha omike, iz katerega je zrastel slovenski
+							protikomunistični upor. Hotela bo ta duh najprej razumeti, potem pa ga
+							po svojih močeh tudi uveljaviti kot dejavnik v slovenski sedanjosti.
+							Zakaj po sesutju komunističnega projekta, stojijo ideje, ki so nosile
+							slovenskega človeka v protiboljševiškem uporu, danes kot tisti temelji,
+							ki dajejo možnost, da narod biološko, duhovno in politično preživi. Te
+							ideje vodnice, v kulturi pridobljene, v poslušanju eksistencialnih
+							potreb naučene, so bile: zvestoba narodovi biti; zvestoba narodovi
+							kulturi in tradiciji; zvestoba podedovani veri, brez katere ni nobene
+							zadnje utemeljitve in nobenega končnega smisla, ne za posameznika ne za
+							narod.</p>
+						<p>Organizacija torej ne namerava živeti zgolj v logiki spomina, iz
+							preteklosti za preteklost. V preteklost se bo vračala predvsem zato, da
+							se ugotovi resnica te preteklosti, ki so jo bili izmaličili do
+							nespoznavnosti: da bo ugotovljeno in uveljavljeno, kdo je bil napadalec
+							in kdo se je branil; kdo je bil ubijalec in kdo je bil ubiti; kdo je
+							vztrajal v zvestobi in kdo ni; kdo je stal na odprtem in kdo je trgoval
+							z ljudmi in njihovo ljubeznijo do domovine. Pa tudi: da se očistijo
+							imena častivrednih ljudi, ki so umirali obmetani z najsramotnejšimi
 							besedami, ki jih ima jezik: izdajalec, kvizling, kolaboracionist.</p>
-						<p>Tudi bodo ljudje, ki se bodo zbirali pod tem programom, bolj skupnost kot organizacija:
-							ljudje sedanjega časa, ki hodijo v preteklost po spomin na slavne odločitve, da bi ta spomin
-							ohranjali zase in za ves narod, za njegovo pot v prihodnost. Kar bomo namreč Slovenci v
-							prihodnosti potrebovali, je mogoče povzeti v dve postavki: na eni strani skrajna prisebnost
-							in začetno nezaupanje do vsega utopičnega, izostreno oko za razločevanje med resničnimi in
-							prividnimi narodovimi interesi; na drugi strani pa zvestoba narodovi biti, njegovi kulturi
-							in njegovemu izročilu, ne glede na vse drugo. V spominu na slovenski katoliški
+						<p>Tudi bodo ljudje, ki se bodo zbirali pod tem programom, bolj skupnost kot
+							organizacija: ljudje sedanjega časa, ki hodijo v preteklost po spomin na
+							slavne odločitve, da bi ta spomin ohranjali zase in za ves narod, za
+							njegovo pot v prihodnost. Kar bomo namreč Slovenci v prihodnosti
+							potrebovali, je mogoče povzeti v dve postavki: na eni strani skrajna
+							prisebnost in začetno nezaupanje do vsega utopičnega, izostreno oko za
+							razločevanje med resničnimi in prividnimi narodovimi interesi; na drugi
+							strani pa <pb n="007"/>zvestoba narodovi biti, njegovi kulturi in njegovemu izročilu,
+							ne glede na vse drugo. V spominu na slovenski katoliški
 							protikomunistični upor bomo našli vzorec za oboje.</p>
-						<p>Danes mogoče ta spomin ni sprejemljiv za vse. Ko pa ga bodo ljudje, ki čutijo, da spadajo v
-							to skupnost, očistili in očiščevali, tako da bo ta spomin govoril o tem, kar se j e v
-							resnici zgodilo, bo ta spomin svetil vedno več ljudem. In ko bo enkrat ta spomin v pomoč
-							vsem, bodo tisti, ki so šli skozi nepojmljivo bridkost, našli svoj mir v tem, da bodo
-							postali prvina narodove duhovne biti.</p>
-						<p>Nazadnje bo tako, da se tiste besede, ki jih desetletja ponavljajo nemarni in hudobni ljudje,
-							ne bodo mogle več izgovarjati. Tudi novih ne bo mogoče spočenjati. In ko bo to vedno manj
-							mogoče, se bo počasi začela uresničevati sprava med ljudmi. Sprava – to ne samo smemo, ampak
-							moramo reči – bo poglavitno notranje slovensko dogajanje v naslednjih sto letih: v podtoku
-							vseh dogajanj odigravajoča se drama sprave bo poglavitna politika tega ljudstva na poti k
-							sebi.</p>
-						<p>Na ljudeh, ki bodo spadali v našo skupnost, bo eno znamenje brez izjeme: na njih ne bo
-							sovraštva ali mržnje. Zavezani resnici in ničemur razen resnici bomo jemali nase naporno
-							delo pri odkrivanju velike zamolčanosti. Vdano bomo opravljali to delo in s spoštljivostjo,
-							ki gre vsem velikim rečem. Sovraštvo je slepo in dela zato krivice. Sovraštvo je tudi
-							sramota za človeka. Če bi kdo zavestno grešil zoper ta ukaz, bi se sam izključil iz
-							skupnosti, ki hoče stvari popravljati. Taka skupnost mora namreč varovati svojo moralno
-							integriteto, saj je neobhodni pogoj njenega obstanka.</p>
-						<p>A ko govorimo proti sovraštvu, nikakor nismo za beg. Naj navedem nekaj stavkov iz spisa
-							Vzgoja za sovraštvo ali vzgoja za dostojanstvo izpod peresa poljskega filozofa Kolakowskega:
-							»Ko hodimo po negotovih in močvirnih tleh, ko se izgubljamo in spet vračamo na staro mesto,
-							ko tu in tam celo blodimo v krogu, imamo vendar na razpolago nekaj smernih znakov za svoje
-							duhovno preživetje, ki jih je vse mogoče zvesti na preproste, že zdavnaj znane zapovedi in
-							prepovedi, med katerimi sta tudi tile dve: pripravljenost za boj brez sovraštva in duh
-							spravljivosti brez popuščanja v bistvenih rečeh. Vzgoja za demokracijo je vzgoja za
-							dostojanstvo in to neločljivo postavlja na prvo mesto dvoje: pripravljenost za boj in
-							prostost od mržnje. Prostost od mržnje, ki se doseže z begom pred konflikti, je le navidezna
-							vrlina.« Kakor nas uči ta modri človek, je treba prevzemati odgovornost za dejanja. Ali
-							nikoli ne smemo pozabiti, da je treba predvsem zapirati vrata pred sovraštvom, zakaj, kot
-							tudi pravi Kolakowski, »vsak od nas, s tem ko to zlo omejuje v sebi, prispeva k temu, da se
-							omejuje tudi v družbi; obenem pa oblikuje v sebi negotovo in krhko upanje na znosno
-							življenje na tej naši nori ladji«.</p>
-						<p>V znamenju tega, kar smo pravkar povedali, izrekamo spoštovanje do tistih nekdanjih in
-							sedanjih nasprotnikov, ki so šli v svoj boj zato, ker je bila žaljena njihova svoboda.
-							Občudujemo njihov pogum in se klanjamo mukam, skozi katere so šli. Z razumevanjem mislimo na
-							množico prevaranih ljudi, ki jim je po vseh bojih v dlaneh ostalo nekaj, česar pravzaprav
-							niso hoteli. Posebej pa gre naša simpatija tistim, ki so si zelo obremenili roke in sedaj
-							težko živijo. Razumemo celo, da molčijo, a bi vseeno bili veseli, če bi začeli govoriti.</p>
-						<p>Gornje besede naj bodo znak za to, da se res zbiramo zaradi preteklosti, a pri tem mislimo
-							predvsem na prihodnost.</p>
+						<p>Danes mogoče ta spomin ni sprejemljiv za vse. Ko pa ga bodo ljudje, ki
+							čutijo, da spadajo v to skupnost, očistili in očiščevali, tako da bo ta
+							spomin govoril o tem, kar se j e v resnici zgodilo, bo ta spomin svetil
+							vedno več ljudem. In ko bo enkrat ta spomin v pomoč vsem, bodo tisti, ki
+							so šli skozi nepojmljivo bridkost, našli svoj mir v tem, da bodo postali
+							prvina narodove duhovne biti.</p>
+						<p>Nazadnje bo tako, da se tiste besede, ki jih desetletja ponavljajo
+							nemarni in hudobni ljudje, ne bodo mogle več izgovarjati. Tudi novih ne
+							bo mogoče spočenjati. In ko bo to vedno manj mogoče, se bo počasi začela
+							uresničevati sprava med ljudmi. Sprava – to ne samo smemo, ampak moramo
+							reči – bo poglavitno notranje slovensko dogajanje v naslednjih sto
+							letih: v podtoku vseh dogajanj odigravajoča se drama sprave bo
+							poglavitna politika tega ljudstva na poti k sebi.</p>
+						<p>Na ljudeh, ki bodo spadali v našo skupnost, bo eno znamenje brez izjeme:
+							na njih ne bo sovraštva ali mržnje. Zavezani resnici in ničemur razen
+							resnici bomo jemali nase naporno delo pri odkrivanju velike
+							zamolčanosti. Vdano bomo opravljali to delo in s spoštljivostjo, ki gre
+							vsem velikim rečem. Sovraštvo je slepo in dela zato krivice. Sovraštvo
+							je tudi sramota za človeka. Če bi kdo zavestno grešil zoper ta ukaz, bi
+							se sam izključil iz skupnosti, ki hoče stvari popravljati. Taka skupnost
+							mora namreč varovati svojo moralno integriteto, saj je neobhodni pogoj
+							njenega obstanka.</p>
+						<p>A ko govorimo proti sovraštvu, nikakor nismo za beg. Naj navedem nekaj
+							stavkov iz spisa Vzgoja za sovraštvo ali vzgoja za dostojanstvo izpod
+							peresa poljskega filozofa Kolakowskega: »Ko hodimo po negotovih in
+							močvirnih tleh, ko se izgubljamo in spet vračamo na staro mesto, ko tu
+							in tam celo blodimo v krogu, imamo vendar na razpolago nekaj smernih
+							znakov za svoje duhovno preživetje, ki jih je vse mogoče zvesti na
+							preproste, že zdavnaj znane zapovedi in prepovedi, med katerimi sta tudi
+							tile dve: pripravljenost za boj brez sovraštva in duh spravljivosti brez
+							popuščanja v bistvenih rečeh. Vzgoja za demokracijo je vzgoja za
+							dostojanstvo in to neločljivo postavlja na prvo mesto dvoje:
+							pripravljenost za boj in prostost od mržnje. Prostost od mržnje, ki se
+							doseže z begom pred konflikti, je le navidezna vrlina.« Kakor nas uči ta
+							modri človek, je treba prevzemati odgovornost za dejanja. Ali nikoli ne
+							smemo pozabiti, da je treba predvsem zapirati vrata pred sovraštvom,
+							zakaj, kot tudi pravi Kolakowski, »vsak od nas, s tem ko to zlo omejuje
+							v sebi, prispeva k temu, da se omejuje tudi v družbi; obenem pa oblikuje
+							v sebi negotovo in krhko upanje na znosno življenje na tej naši nori
+							ladji«.</p>
+						<p>V znamenju tega, kar smo pravkar povedali, izrekamo spoštovanje do tistih
+							nekdanjih in sedanjih nasprotnikov, ki so šli v svoj boj zato, ker je
+							bila žaljena njihova svoboda. Občudujemo njihov pogum in se klanjamo
+							mukam, skozi katere so šli. Z razumevanjem mislimo na množico prevaranih
+							ljudi, ki jim je po vseh bojih v dlaneh ostalo nekaj, česar pravzaprav
+							niso hoteli. Posebej pa gre naša simpatija tistim, ki so si zelo
+							obremenili roke in sedaj težko živijo. Razumemo celo, da molčijo, a bi
+							vseeno bili veseli, če bi začeli govoriti.</p>
+						<p>Gornje besede naj bodo znak za to, da se res zbiramo zaradi preteklosti,
+							a pri tem mislimo predvsem na prihodnost.</p>
 					</div>
 				</div>
+				<pb n="008"/>
 				<div type="div2">
-					<head>Tako se je začelo ...</head>
+					<head>Tako se je začelo … </head>
 					<docAuthor>Tine Velikonja</docAuthor>
 					<div type="div3">
 						<head>Začetek protikomunističnega odpora na Vidovski planoti</head>
-						<p>Prebivalci Vidovske planote, svet prijaznih gričev, zelenih travnikov, mešanih gozdov in
-							skrbno obdelanih polj, ki jo na jugu zapira Slivnica, na vzhodu soteska Iške z Mokrcem in
-							Mačkovcem, na severu pa Zala s Krimskim pogorjem, so popoldne 23. aprila 1942. leta začudeno
-							obstali, ko so zaslišali, kako na Krvavi peči zvoni plat zvona. Vpraševali so se, kaj naj bi
-							to pomenilo, saj ni bil praznik niti se ni pripravlj alo na hudo uro. Zvonili so partizani z
-							Mokrca za zbor ali sporočilo, preden so se odpravili na mračno pot po planoti, da bi
-							postavili temelje »svobodnega ozemlja«. Vodila sta jih Stane Semič-Daki in Tone Vidmar-Luka.
-							Pot čez sotesko Iške in v breg jim je kazal domačin Andrej Rupar z Raven. Stemnilo se je že,
-							ko so se po osmi uri zvečer ustavili v vasi Tavžlje pred hišo župana Antona Tekavca. Trije
-							so vstopili, ga najprej iskali v kuhinji, kjer je edino gorela luč, in ga nato odkrili v
-							»hiši«, kjer je počival na topli peči. Družina je v kuhinji in zunaj poslušala. Partizani so
-							župana osvetlili z električno svetilko in zahtevali, naj gre z njimi, pa se je branil, naj
-							pridejo podnevi, če so pošteni in spraševal, kdo sploh so. Odgovoru »Mi smo partizani!« so
+						<p>Prebivalci Vidovske planote, svet prijaznih gričev, zelenih travnikov,
+							mešanih gozdov in skrbno obdelanih polj, ki jo na jugu zapira Slivnica,
+							na vzhodu soteska Iške z Mokrcem in Mačkovcem, na severu pa Zala s
+							Krimskim pogorjem, so popoldne 23. aprila 1942. leta začudeno obstali,
+							ko so zaslišali, kako na Krvavi peči zvoni plat zvona. Vpraševali so se,
+							kaj naj bi to pomenilo, saj ni bil praznik niti se ni pripravlj alo na
+							hudo uro. Zvonili so partizani z Mokrca za zbor ali sporočilo, preden so
+							se odpravili na mračno pot po planoti, da bi postavili temelje
+							»svobodnega ozemlja«. Vodila sta jih Stane Semič-Daki in Tone
+							Vidmar-Luka. Pot čez sotesko Iške in v breg jim je kazal domačin Andrej
+							Rupar z Raven. Stemnilo se je že, ko so se po osmi uri zvečer ustavili v
+							vasi Tavžlje pred hišo župana Antona Tekavca. Trije so vstopili, ga
+							najprej iskali v kuhinji, kjer je edino gorela luč, in ga nato odkrili v
+							»hiši«, kjer je počival na topli peči. Družina je v kuhinji in zunaj
+							poslušala. Partizani so župana osvetlili z električno svetilko in
+							zahtevali, naj gre z njimi, pa se je branil, naj pridejo podnevi, če so
+							pošteni in spraševal, kdo sploh so. Odgovoru »Mi smo partizani!« so
 							sledili streli. Hišo so zapustili mirno, kot da se ni nič zgodilo.</p>
-						<p>Napotili so se proti sv. Vidu, se med potjo ustavili na Rudolfovem pri terencu Antonu
-							Zalarju, od tam krenili v sosednjo Povletovo hišo, kjer so brezuspešno iskali domačega fanta
-							Andreja Rudolfa in v veži celo izstrelili strel. Več sreče so imeli pri sv. Vidu, kjer so
-							presenetili v občinski pisarni tajnika Franceta Strleta. Po kratkem pogovoru so opravili
-							svoj posel.</p>
-						<p>V vasi Zala so zaman iskali svetovalca Franceta Strleta »Bangavčka«. Malo pred polnočjo so se
-							že pojavili v štiri kilometre oddaljenem Osredku in obkolili hišo občinskega svetovalca
-							Valentina Strleta. Poprijeli so enega od tramov, ki so ležali pred hišo, razbili vrata in
-							vdrli v notranjost. Kmet se je skušal rešiti s skokom skozi okno, a prišel je komaj do
-							gnojišča, kjer je obležal pokošen z devetimi zadetki.</p>
-						<p>Partizani so se neopazno umaknili na Mokrc in v Iško in zaključili svoj 30 km dolgi
-							popoldanski in nočni pohod.</p>
-						<p>Sledili so dnevi žalovanja in strahu. Ljudem ni šlo v glavo, kako nemoteno so se lahko
-							partizani sprehodili po planoti, kot za šalo pomorili tri ugledne može in izginili kot
-							privid, pa sami niso mogli napraviti ničesar in so dogajanje samo nemočno spremljali.</p>
-						<p>V teh krajih je ostalo veliko orožja, ki ga je odvrgla jugoslovanska vojska ob kapitulaciji,
-							zlasti na Krvavi peči, saj je tod potekala ena od obrambnih črt. Nekaj so ga pobrali
-							prebivalci in skrili. Zdaj se je zbrala dobra desetina fantov in poiskala skrito orožje.
-							Tako so imeli dve lahki strojnici – zbrojevki, precej mavzeric, ročnih bomb in dovolj
-							municije. Čez dan so živeli po svoje in delali na kmetijah, na noč pa so se zbrali v eni od
-							hiš, pripravljeni za obrambo, če bi bili napadeni. Kot najprimernejša se je pokazala
-							Makovčeva hiša na Rudolfovem. Bila je varna pred ognjem, saj je imela debele zidove, ploščo,
-							streho pa krito z eternitom. Zadnja vrata so podprli s tramom, sprednja vrata so bila
-							dvojna, okna pa so zaščitili z vrečami soli in koruzne moke. V hiši je bila namreč trgovina.
-							Enkrat jih je skoraj zalotila italijanska patrola in jim je zadnji hip uspelo, da so
-							spravili vreče z oken in se pritajili.</p>
-						<p>Čez dober mesec, v sredo, 27. maja ob dveh popoldne so Makovčevi prejeli presenetljivo
-							sporočilo, ki ga je poslal prisilni mobiliziranec s Krvave peči: partizani bodo napadli ob
-							petih; torej že čez tri ure pri belem dnevu.</p>
-						<p>V naglici so se zbrali iz vasi tisti, ki so bili dosegljivi, nekaj so jih morali priklicati s
-							polja: trije Povletovi fantje Alojz, Andrej in Jože Rudolf, od domačih pa oče Andrej, sinovi
-							Andrej, Lojz in Ivan in hčeri Jožefa in Ivanka. Drugih, ki so običajno tudi prenočevali z
-							njimi, bili pa iz sosednjih vasi, niso mogli dobiti, ker jim je zmanjkovalo časa. V hiši se
-							je znašel tudi kaplan France Pezdir, njihov duhovni vodja. Vračal se je iz Ljubljane in
-							prišel po bližnjicah z Blok poln novic. Ko so mu povedali, da pričakujejo napad, je sklenil
-							ostati. Branilci so se mrzlično pripravljali na spopad, dodatno obložili z vrečami okna v
+						<p>Napotili so se proti sv. Vidu, se med potjo ustavili na Rudolfovem pri
+							terencu Antonu Zalarju, od tam krenili v sosednjo Povletovo hišo, kjer
+							so brezuspešno iskali domačega fanta Andreja Rudolfa in v veži celo
+							izstrelili strel. Več sreče so imeli pri sv. Vidu, kjer so presenetili v
+							občinski pisarni tajnika Franceta Strleta. Po kratkem pogovoru so
+							opravili svoj posel.</p>
+						<p>V vasi Zala so zaman iskali svetovalca Franceta Strleta »Bangavčka«. Malo
+							pred polnočjo so se že pojavili v štiri kilometre oddaljenem Osredku in
+							obkolili hišo občinskega svetovalca Valentina Strleta. Poprijeli so
+							enega od tramov, ki so ležali pred hišo, razbili vrata in vdrli v
+							notranjost. Kmet se je skušal rešiti s skokom skozi okno, a prišel je
+							komaj do gnojišča, kjer je obležal pokošen z devetimi zadetki.</p>
+						<p>Partizani so se neopazno umaknili na Mokrc in v Iško in zaključili svoj
+							30 km dolgi popoldanski in nočni pohod.</p>
+						<p>Sledili so dnevi žalovanja in strahu. Ljudem ni šlo v glavo, kako
+							nemoteno so se lahko partizani sprehodili po planoti, kot za šalo
+							pomorili tri ugledne može in izginili kot privid, pa sami niso mogli
+							napraviti ničesar in so dogajanje samo nemočno spremljali.</p>
+						<p>V teh krajih je ostalo veliko orožja, ki ga je odvrgla jugoslovanska
+							vojska ob kapitulaciji, zlasti na Krvavi peči, saj je tod potekala ena
+							od obrambnih črt. Nekaj so ga pobrali prebivalci in skrili. Zdaj se je
+							zbrala dobra desetina fantov in poiskala skrito orožje. Tako so imeli
+							dve lahki strojnici – zbrojevki, precej mavzeric, ročnih bomb in dovolj
+							municije. Čez dan so živeli po svoje in delali na kmetijah, na noč pa so
+							se zbrali v eni od hiš, pripravljeni za obrambo, če bi bili napadeni.
+							Kot najprimernejša se je pokazala Makovčeva hiša na Rudolfovem. Bila je
+							varna pred ognjem, saj je imela debele zidove, ploščo, streho pa krito z
+							eternitom. Zadnja vrata so podprli s tramom, sprednja vrata so bila
+							dvojna, okna pa so zaščitili z vrečami soli in koruzne moke. V hiši je
+							bila namreč trgovina. Enkrat jih je skoraj zalotila italijanska patrola
+							in jim je zadnji hip uspelo, da so spravili vreče z oken in se
+							pritajili.</p>
+						<p>Čez dober mesec, v sredo, 27. maja ob dveh popoldne so Makovčevi prejeli
+							presenetljivo sporočilo, ki ga je poslal prisilni mobiliziranec s Krvave
+							peči: partizani bodo napadli ob petih; torej že čez tri ure pri belem
+							dnevu.</p>
+						<p>V naglici so se zbrali iz vasi tisti, ki so bili dosegljivi, nekaj so jih
+							morali priklicati s polja: trije Povletovi fantje Alojz, Andrej in Jože
+							Rudolf, od domačih pa oče Andrej, sinovi Andrej, Lojz in Ivan in hčeri
+							Jožefa in Ivanka. Drugih, ki so običajno tudi prenočevali z njimi, bili
+							pa iz sosednjih vasi, niso mogli dobiti, ker jim je zmanjkovalo časa. V
+							hiši se je znašel tudi kaplan France Pezdir, njihov duhovni vodja.
+							Vračal se je iz Ljubljane in prišel po bližnjicah z Blok poln novic. Ko
+							so mu povedali, da pričakujejo napad, je sklenil ostati. Branilci so se
+							mrzlično <pb n="009"/>pripravljali na spopad, dodatno obložili z vrečami okna v
 							pritličju, uredili orožje in se dogovorili, kje bo kdo.</p>
-						<p>Partizani so prišli uro prej, kot je bilo napovedano. Dva od njih sta vstopila v Povletovo
-							hišo s seznamom nekih imen in vpraševala po domačih fantih. Dobila sta odgovor, da jih ni
-							doma in da tudi ne vedo, kje so. V tem času je kakih 20 slabo oboroženih partizanov že
-							obkolilo Makovčevo hišo. Začeli so razbijati po glavnih vratih. Ko so spoznali, da se jim ne
-							bodo vdala, je domačin Štefan Milavec z Osredka poklical očeta Andreja, naj odpre, da se
-							imajo nekaj pomeniti. Oče ga je zavrnil, da se lahko pogovorijo tudi skozi vrata.</p>
-						<p>Oblegovalci so oddali nekaj zastraševalnih strelov v zid, okna in streho. Branilci so se v
-							tem času že razporedili po hiši, tudi prvem nadstropju, dekleti in kaplana pa so umaknili v
-							zgodnji prostor s kaščo. Položaj je bil nenavaden. Na eni strani do zob oboroženi branilci,
-							pripravljeni na vse v pravi trdnjavi, na drugi pa samozavestni partizani, ki so akcijo
-							jemali zelo na lahko, saj so v gručah postajali in se sprehajali okrog hiše brez vsakega
-							zavarovanja, čeprav je bilo vanje uperjenih pol ducata dobrih pušk in obe strojnici. Če bi
-							hoteli, bi jih fantje lahko vse pobili.</p>
-						<p>Začel se je pravi napad. Bradat partizan se je pri tem neopazno priplazil čez streho hleva do
-							okna v prvem nadstropju v zadnjem delu hiše. V eni roki je držal pištolo, v drugi ročno
-							bombo. Na okno je moral paziti najmlajši Ivan. Čeprav z mavzerico pripravljeno na strel, je
-							otrpnil, pa vendar priklical brata Lojza, ki je pritekel s strojnico in jo pomolil skozi
-							okno. Bradač je v strahu spustil pištolo in se z višine dveh metrov zvrnil na tla. Lojz je
-							spuščal posamezne strele in kratke rafale, da ga je prepodil. To so bili edini streli, ki so
-							jih oddali branilci, vendar je bilo za partizane dovolj, da so se razbežali proti sv. Vidu.
-							Branilci so odrinili vreče z oken in poskakali ven. Oddali so nekaj strelov in rafalov okrog
-							oglov hiše. Ker niso merili na ljudi, v vsem spopadu ni bilo ranjenih ali mrtvih.</p>
-						<p>Nato so se vsi, ki so bili v hiši, med njimi tudi kaplan Pezdir, umaknili nad Tavžlje, kjer
-							se jim je pridružilo še nekaj fantov iz te in sosednje vasi. Utaborili so se na bližnjem
-							griču, ki mu zdaj pravijo Resnik. Hrib je bil in je še sedaj proti soteski Iške gosto
-							poraščen, proti sv. Vidu pa travnat. V soboto, 30. maja so bili uporniki spet opozorjeni s
-							Krvave peči, da se pripravlja obsežnejši napad. Ker je ponoči med 31. majem in 1. junijem
-							deževalo, so se pomaknili v najbližjo hišo v Tavžljah in postavili stražo. Stražar je ob
-							prvem jutranjem svitu opazil premikanje nekih ljudi na grebenu vzpetine Kropivnik proti sv.
-							Vidu, nato pa že kolone ljudi, ki so se pomikale proti Tavžljam. Bili so partizani, ki so se
-							zbrali od blizu in daleč, iz Iške, od Krimske jame in Mačkovca. Govorilo se je, da je med
-							njimi tudi Boris Kidrič. Stražar je dvignil alarm in skupina se je zadnji hip umaknila in
-							vrnila na Resnik. Partizani so začeli z obkoljevanjem in počasi stiskali obroč. Branilci so
-							se odločili za izpad. Kot po čudežu jih je prekrila gosta megla in uspelo jim je, da so se
-							brez praske prebili skozi Brinje proti jugu. Tam so na Pirmanovem griču zavzeli nov položaj.
-							Napadalci so zasedli prazno taborišče in se maščevali tako, da so pri štirih hišah, odkoder
-							so bili uporniki, zaplenili živino, vozove in živila in vse odpeljali v svoja taborišča. Ena
-							od njihovih kolon se je brezskrbno pomikala s plenom pod Jeršiči, nad njo pa so komaj 150
-							metrov daleč ležali pobegli. Ceprav so imeli partizane na muhi, jim je streljanje preprečil
-							kaplan z rotenjem: »Mi ne smemo ubijati. Smemo se samo braniti v stiski!«</p>
-						<p>Skupina se je prebila na Rakek in se odpeljala na Brezovico pri Ljubljani. Del je kasneje
-							odšel na Dolenjsko in se pridružil Štajerskemu bataljonu. Na planoto so se vrnili šele v
-							začetku leta 1943 in se pridružili vaškim stražarjem pri sv. Vidu, ki so imeli postojanko že
-							od septembra 1942. leta.</p>
+						<p>Partizani so prišli uro prej, kot je bilo napovedano. Dva od njih sta
+							vstopila v Povletovo hišo s seznamom nekih imen in vpraševala po domačih
+							fantih. Dobila sta odgovor, da jih ni doma in da tudi ne vedo, kje so. V
+							tem času je kakih 20 slabo oboroženih partizanov že obkolilo Makovčevo
+							hišo. Začeli so razbijati po glavnih vratih. Ko so spoznali, da se jim
+							ne bodo vdala, je domačin Štefan Milavec z Osredka poklical očeta
+							Andreja, naj odpre, da se imajo nekaj pomeniti. Oče ga je zavrnil, da se
+							lahko pogovorijo tudi skozi vrata.</p>
+						<p>Oblegovalci so oddali nekaj zastraševalnih strelov v zid, okna in streho.
+							Branilci so se v tem času že razporedili po hiši, tudi prvem nadstropju,
+							dekleti in kaplana pa so umaknili v zgodnji prostor s kaščo. Položaj je
+							bil nenavaden. Na eni strani do zob oboroženi branilci, pripravljeni na
+							vse v pravi trdnjavi, na drugi pa samozavestni partizani, ki so akcijo
+							jemali zelo na lahko, saj so v gručah postajali in se sprehajali okrog
+							hiše brez vsakega zavarovanja, čeprav je bilo vanje uperjenih pol ducata
+							dobrih pušk in obe strojnici. Če bi hoteli, bi jih fantje lahko vse
+							pobili.</p>
+						<p>Začel se je pravi napad. Bradat partizan se je pri tem neopazno priplazil
+							čez streho hleva do okna v prvem nadstropju v zadnjem delu hiše. V eni
+							roki je držal pištolo, v drugi ročno bombo. Na okno je moral paziti
+							najmlajši Ivan. Čeprav z mavzerico pripravljeno na strel, je otrpnil, pa
+							vendar priklical brata Lojza, ki je pritekel s strojnico in jo pomolil
+							skozi okno. Bradač je v strahu spustil pištolo in se z višine dveh
+							metrov zvrnil na tla. Lojz je spuščal posamezne strele in kratke rafale,
+							da ga je prepodil. To so bili edini streli, ki so jih oddali branilci,
+							vendar je bilo za partizane dovolj, da so se razbežali proti sv. Vidu.
+							Branilci so odrinili vreče z oken in poskakali ven. Oddali so nekaj
+							strelov in rafalov okrog oglov hiše. Ker niso merili na ljudi, v vsem
+							spopadu ni bilo ranjenih ali mrtvih.</p>
+						<p>Nato so se vsi, ki so bili v hiši, med njimi tudi kaplan Pezdir, umaknili
+							nad Tavžlje, kjer se jim je pridružilo še nekaj fantov iz te in sosednje
+							vasi. Utaborili so se na bližnjem griču, ki mu zdaj pravijo Resnik. Hrib
+							je bil in je še sedaj proti soteski Iške gosto poraščen, proti sv. Vidu
+							pa travnat. V soboto, 30. maja so bili uporniki spet opozorjeni s Krvave
+							peči, da se pripravlja obsežnejši napad. Ker je ponoči med 31. majem in
+							1. junijem deževalo, so se pomaknili v najbližjo hišo v Tavžljah in
+							postavili stražo. Stražar je ob prvem jutranjem svitu opazil premikanje
+							nekih ljudi na grebenu vzpetine Kropivnik proti sv. Vidu, nato pa že
+							kolone ljudi, ki so se pomikale proti Tavžljam. Bili so partizani, ki so
+							se zbrali od blizu in daleč, iz Iške, od Krimske jame in Mačkovca.
+							Govorilo se je, da je med njimi tudi Boris Kidrič. Stražar je dvignil
+							alarm in skupina se je zadnji hip umaknila in vrnila na Resnik.
+							Partizani so začeli z obkoljevanjem in počasi stiskali obroč. Branilci
+							so se odločili za izpad. Kot po čudežu jih je prekrila gosta megla in
+							uspelo jim je, da so se brez praske prebili skozi Brinje proti jugu. Tam
+							so na Pirmanovem griču zavzeli nov položaj. Napadalci so zasedli prazno
+							taborišče in se maščevali tako, da so pri štirih hišah, odkoder so bili
+							uporniki, zaplenili živino, vozove in živila in vse odpeljali v svoja
+							taborišča. Ena od njihovih kolon se je brezskrbno pomikala s plenom pod
+							Jeršiči, nad njo pa so komaj 150 metrov daleč ležali pobegli. Ceprav so
+							imeli partizane na muhi, jim je streljanje preprečil kaplan z rotenjem:
+							»Mi ne smemo ubijati. Smemo se samo braniti v stiski!«</p>
+						<p>Skupina se je prebila na Rakek in se odpeljala na Brezovico pri
+							Ljubljani. Del je kasneje odšel na Dolenjsko in se pridružil Štajerskemu
+							bataljonu. Na planoto so se vrnili šele v začetku leta 1943 in se
+							pridružili vaškim stražarjem pri sv. Vidu, ki so imeli postojanko že od
+							septembra 1942. leta.</p>
 					</div>
 				</div>
+				<pb n="010"/>
 				<div type="div2">
 					<head>Iz pridige škofa Rožmana ob sklepu leta 1941</head>
 					<docAuthor>Gregorij Rožman</docAuthor>
@@ -584,30 +711,36 @@
 						<p>(Jan 8,32)</p>
 					</div>
 					<div type="div3">
-						<p>Ko nocoj končavamo leto in delamo obračun, je izid žalosten, kakor le redkokdaj v dolgi
-							zgodovini naroda. Zgube na vseh straneh! Ne bom vam jih našteval, saj jih poznate. Tolaži pa
-							me misel, da morda v božjih knjigah leto, ki mineva, za nas le ni tako deficitno, tako polno
-							zgube, kakor naši človeški računi kažejo. Upam namreč, da je Bog trpljenje naroda, ki je
-							bilo obilno, trpljenje vojnih ujetnikov, bridkost in pomanjkanje izseljenih družin, uboštvo
-							beguncev in vse nepopisane srčne muke, ki napolnjujejo do obupa deset in deset tisoče, da je
-							vse to pregrenko trpljenje vzel Bog za dobro in ga našemu ljudstvu vračunal v plačilo, ki mu
-							ne uide.</p>
-						<p>Pri vsej žalosti, ki jo zapušča v nas to leto, pa se mi zdi najžalostnejše strahotno dejstvo,
-							da v tej vsesplošni stiski <emph>brat brata mori! </emph>Zakaj, čemu – ne morem razumeti
-							kljub vsem poskusom, da bi se to bratomorstvo opravičilo. Vem sicer, da</p>
-						<p>se mnogi med nami za božje zapovedi nič ne zmenijo, tudi za peto ne, da jih misel na
-							odgovornost pred Bogom prav nič ne ovira, da se ne bi maščevali in z orožjem skušali doseči
-							svoje posebne cilje – zdaj ali nikoli, si mislijo –. A da niti ne poslušajo svoje človeške
-							pameti, ki, najsi je še tako omejena, jim vendar kaže škodo, ki jo s tem narodu samemu
-							delajo, tega ne razumem. In ne razumem, da nimajo ljubezni v sebi ne do svojega brata, ne do
-							narodne celote. Ti pojavi, doslej v naši dovolj težki zgodovini nepoznani, so najžalostnejši
-							rezultat tega nesrečnega leta! Ne morem drugače, po svoji vesti in službeni dolžnosti te
-							pojave obsojam in izjavljam: <emph>To je vnebovpijoč greh pred Bogom in pred lastnim
-								narodom.</emph>
+						<p>Ko nocoj končavamo leto in delamo obračun, je izid žalosten, kakor le
+							redkokdaj v dolgi zgodovini naroda. Zgube na vseh straneh! Ne bom vam
+							jih našteval, saj jih poznate. Tolaži pa me misel, da morda v božjih
+							knjigah leto, ki mineva, za nas le ni tako deficitno, tako polno zgube,
+							kakor naši človeški računi kažejo. Upam namreč, da je Bog trpljenje
+							naroda, ki je bilo obilno, trpljenje vojnih ujetnikov, bridkost in
+							pomanjkanje izseljenih družin, uboštvo beguncev in vse nepopisane srčne
+							muke, ki napolnjujejo do obupa deset in deset tisoče, da je vse to
+							pregrenko trpljenje vzel Bog za dobro in ga našemu ljudstvu vračunal v
+							plačilo, ki mu ne uide.</p>
+						<p>Pri vsej žalosti, ki jo zapušča v nas to leto, pa se mi zdi
+							najžalostnejše strahotno dejstvo, da v tej vsesplošni stiski <emph>brat
+								brata mori! </emph>Zakaj, čemu – ne morem razumeti kljub vsem
+							poskusom, da bi se to bratomorstvo opravičilo. Vem sicer, da</p>
+						<p>se mnogi med nami za božje zapovedi nič ne zmenijo, tudi za peto ne, da
+							jih misel na odgovornost pred Bogom prav nič ne ovira, da se ne bi
+							maščevali in z orožjem skušali doseči svoje posebne cilje – zdaj ali
+							nikoli, si mislijo –. A da niti ne poslušajo svoje človeške pameti, ki,
+							najsi je še tako omejena, jim vendar kaže škodo, ki jo s tem narodu
+							samemu delajo, tega ne razumem. In ne razumem, da nimajo ljubezni v sebi
+							ne do svojega brata, ne do narodne celote. Ti pojavi, doslej v naši
+							dovolj težki zgodovini nepoznani, so najžalostnejši rezultat tega
+							nesrečnega leta! Ne morem drugače, po svoji vesti in službeni dolžnosti
+							te pojave obsojam in izjavljam: <emph>To je vnebovpijoč greh pred Bogom
+								in pred lastnim narodom.</emph>
 						</p>
-						<p>Ob tej senci bratomorstva zapušča to leto tudi svetlo sliko izredno požrtvovalne in
-							razumevajoče ljubezni do trpečih in pregnanih sonarodnjakov, ki se ni kazala samo v iskrenem
-							sočutju, temveč tudi v dejanski pomoči. Zaradi te ljubezni se nas bo Bog usmilil. </p>
+						<p>Ob tej senci bratomorstva zapušča to leto tudi svetlo sliko izredno
+							požrtvovalne in razumevajoče ljubezni do trpečih in pregnanih
+							sonarodnjakov, ki se ni kazala samo v iskrenem sočutju, temveč tudi v
+							dejanski pomoči. Zaradi te ljubezni se nas bo Bog usmilil. </p>
 					</div>
 				</div>
 				<div type="div2" subtype="poem">
@@ -627,7 +760,7 @@
 						<lg>
 							<l>Vse prevzela bo tesnoba,</l>
 							<l>ko bo vstal iz tega groba</l>
-							<l>Tvoj Vojščak... O Bog, Ti sodi</l>
+							<l>Tvoj Vojščak … O Bog, Ti sodi</l>
 						</lg>
 						<lg>
 							<l>milostno ga, usmiljen bodi! </l>
@@ -637,6 +770,7 @@
 						<byline>Buenos Aires 1949</byline>
 					</div>
 				</div>
+				<pb n="011"/>
 				<div type="div2" subtype="poem">
 					<head>Zasuta usta</head>
 					<docAuthor>France Balantič</docAuthor>
@@ -676,241 +810,304 @@
 						</figure>
 					</div>
 				</div>
+				<pb n="012"/>
 				<div type="div2">
 					<head>Ideja samostojne slovenske države</head>
 					<docAuthor>France Dolinar</docAuthor>
 					<div type="div3">
-						<p>Med Slovenci, ki so se maja petinštiridesetega umikali čez Ljubelj na Koroško, je bil tudi
-							duhovnik in poznejši zgodovinar Franc8 Dolinar. V izredno težkih razmerah izgnanskega
-							življenja je napisal množico esejev in razprav, od katerih bodo nekatera ostala temeljna
-							slovenska zgodovinska in politična besedila. Kar ga loči od drugih avtorjev tega področja,
-							je živ, do kraja domišljen, skoraj strasten čut za politično rešitev slovenskega vprašanja v
-							okviru samostojne države. Njegova zahteva je, da moramo Slovenci postati iz kulturnega
-							naroda političen narod. Ko govori o tem, da smo Slovenci veliko dosegli na kulturnem polju,
-							z obžalovanjem ugotavlja: »Kot zel urok pa vse politično življenje Slovencev spremlja
-							pomanjkanje čuta za pomen državnih struktur, za javnopravne in državnopravne elemente
-							narodovega organizma. To dokazuje zgodovina prav do današnjih dni, celo vprav še v naših
-							dneh.« V nekem pismu ugotavlja: »Slovenska zgodovina bi bila manj nesrečna, če bi Slovenci
-							imeli pogum do identitete.« Ko to beremo, čutimo, da je s tem zadel bistveni deficit v
-							slovenski zavesti. Ni čudno, da je skoraj sto strani dolgo razpravo Slovensko vprašanje v
-							prvi Jugoslaviji označil za »historično meditacijo o slovenski nestanovitnosti«. Najbolj pa
-							se človek zdrzne, ko prebere stavek: »Boli spoznanje slovenskega ugonabljanja.«</p>
-						<p>V naslednjem podajamo zaključek njegove razprave Odsotnost slovenske državne misli v prevratu
-							1918. Tako ne bomo samo pokazali na izjemen politični čut tega izrednega človeka, ampak bomo
-							povedali nekaj tudi o tistih ljudeh, ki so morali kot politično najbolj zavestni del naroda
-							oditi v tujino. Iz njihovih vrst je namreč izšlo besedilo, ki ga imamo lahko za manifest
-							slovenske državnosti. Napisano pa je bilo v daljnem oseminšestdesetem letu, ko je
-							prenekateri sedanjih prvoigralcev še pobožno molil v templju ideologije:</p>
-						<p>»V politični strategiji moremo Slovenci imeti samo en cilj, neodvisno slovensko državo. V tem
-							pomenu je samo in zgolj samoslovenska res slovenska politika.</p>
-						<p>Govoriti o federaciji ali konfederaciji preden je konstituirana suverena slovenska država, se
-							pravi postavljati voz pred vprego.</p>
-						<p>Dokler ni samosvoje slovenske države, Slovenci politično žive še vedno v predzgodovini.</p>
-						<p>Očetom, ki so nam v letu 1918 izbojevali svobodo, čeprav ne v polni meri, moramo biti
-							prepričano hvaležni; brez njih dejanja tudi njih sinovi ne bi mogli slovenskega problema
-							bolj globoko in jasno spoznati. Odgovornost za prihodnja pokolenja pa nalaga vsem kritično
-							presojo naše zgodovine. Nekritično ocenjanje naše preteklosti more samo zmanjšati ceno
-							resničnih zaslug tvorcev našega prevrata 1918.</p>
-						<p>Narod, ki ni zmožen živeti iz svoje bistvene in bitne politične ideje, je obsojen na smrt. Če
-							se to zgodi v sladkem umiranju samoprevare, potem bo tudi njegov nejunaški konec zaznamovan
-							s sramoto. Slovenci imamo svojo magno charto v samodržavno zedinjeni Sloveniji. Naši
-							predhodniki v letu 1848 so jo uvideli z jasnovidnostjo mladih src. Kadarkoli v poznejši
-							zgodovini nismo znali ohraniti primata slovenski državni misli, smo zmerom morali pozneje
-							obžalovati svojo nezvestobo.</p>
-						<p>V času, ko se Slovencem vnovič bližajo trenutki usodnih odločitev, naj bo pričujoči spis
-							memento, da samo narod, ki ve, kaj je sam sebi dolžan, in se zna za uresničitev svoje
-							najvišje naloge pogumno zadati, more iz zgodovinske priložnosti ustvariti god (kairos) svoje
-							zgodovine.</p>
-						<p>Ob organiziranju srednjeveške krščanske družbe narodov, pa tudi ob preurejanju evropske
-							družbe po načelu nacionalne države Slovenci nismo znali uveljaviti svoje politične narodne
-							osebnosti. Kaj smo s tem narodno izgubili, nam nazorno pretresljivo predočujejo zemljevidi
-							slovenskega ozemlja po naselitvi in v sredi 19. stoletja. Že vekove se samo rešujemo kot
-							preostanki in v petdesetih letih Jugoslavije se je slovenski etnični prostor spet skrčil.
-							Samo kot samostojna in suverena država more slovenski narod ustaviti njegov obstoj
-							razkrajajoči tok dosedanje svoje zgodovine.</p>
-						<p>Kdor hic et nunc bega enotno narodno voljo z zdeli jugoslovanskega federalizma ali
-							konfederalizma, opravlja tlako za tujce. To so Slovencu vsi ne-slovenci.«</p>
-						<byline>Francè Dolinar, Slovenska katoliška obzorja, Buenos Aires, 1990.</byline>
+						<p>Med Slovenci, ki so se maja petinštiridesetega umikali čez Ljubelj na
+							Koroško, je bil tudi duhovnik in poznejši zgodovinar Franc8 Dolinar. V
+							izredno težkih razmerah izgnanskega življenja je napisal množico esejev
+							in razprav, od katerih bodo nekatera ostala temeljna slovenska
+							zgodovinska in politična besedila. Kar ga loči od drugih avtorjev tega
+							področja, je živ, do kraja domišljen, skoraj strasten čut za politično
+							rešitev slovenskega vprašanja v okviru samostojne države. Njegova
+							zahteva je, da moramo Slovenci postati iz kulturnega naroda političen
+							narod. Ko govori o tem, da smo Slovenci veliko dosegli na kulturnem
+							polju, z obžalovanjem ugotavlja: »Kot zel urok pa vse politično
+							življenje Slovencev spremlja pomanjkanje čuta za pomen državnih
+							struktur, za javnopravne in državnopravne elemente narodovega organizma.
+							To dokazuje zgodovina prav do današnjih dni, celo vprav še v naših
+							dneh.« V nekem pismu ugotavlja: »Slovenska zgodovina bi bila manj
+							nesrečna, če bi Slovenci imeli pogum do identitete.« Ko to beremo,
+							čutimo, da je s tem zadel bistveni deficit v slovenski zavesti. Ni
+							čudno, da je skoraj sto strani dolgo razpravo Slovensko vprašanje v prvi
+							Jugoslaviji označil za »historično meditacijo o slovenski
+							nestanovitnosti«. Najbolj pa se človek zdrzne, ko prebere stavek: »Boli
+							spoznanje slovenskega ugonabljanja.«</p>
+						<p>V naslednjem podajamo zaključek njegove razprave Odsotnost slovenske
+							državne misli v prevratu 1918. Tako ne bomo samo pokazali na izjemen
+							politični čut tega izrednega človeka, ampak bomo povedali nekaj tudi o
+							tistih ljudeh, ki so morali kot politično najbolj zavestni del naroda
+							oditi v tujino. Iz njihovih vrst je namreč izšlo besedilo, ki ga imamo
+							lahko za manifest slovenske državnosti. Napisano pa je bilo v daljnem
+							oseminšestdesetem letu, ko je prenekateri sedanjih prvoigralcev še
+							pobožno molil v templju ideologije:</p>
+						<p>»V politični strategiji moremo Slovenci imeti samo en cilj, neodvisno
+							slovensko državo. V tem pomenu je samo in zgolj samoslovenska res
+							slovenska politika.</p>
+						<p>Govoriti o federaciji ali konfederaciji preden je konstituirana suverena
+							slovenska država, se pravi postavljati voz pred vprego.</p>
+						<p>Dokler ni samosvoje slovenske države, Slovenci politično žive še vedno v
+							predzgodovini.</p>
+						<p>Očetom, ki so nam v letu 1918 izbojevali svobodo, čeprav ne v polni meri,
+							moramo biti prepričano hvaležni; brez njih dejanja tudi njih sinovi ne
+							bi mogli slovenskega problema bolj globoko in jasno spoznati.
+							Odgovornost za prihodnja pokolenja pa nalaga vsem kritično presojo naše
+							zgodovine. Nekritično ocenjanje naše preteklosti more samo zmanjšati
+							ceno resničnih zaslug tvorcev našega prevrata 1918.</p>
+						<p>Narod, ki ni zmožen živeti iz svoje bistvene in bitne politične ideje, je
+							obsojen na smrt. Če se to zgodi v sladkem umiranju samoprevare, potem bo
+							tudi njegov nejunaški konec zaznamovan s sramoto. Slovenci imamo svojo
+							magno charto v samodržavno zedinjeni Sloveniji. Naši predhodniki v letu
+							1848 so jo uvideli z jasnovidnostjo mladih src. Kadarkoli v poznejši
+							zgodovini nismo znali ohraniti primata slovenski državni misli, smo
+							zmerom morali pozneje obžalovati svojo nezvestobo.</p>
+						<p>V času, ko se Slovencem vnovič bližajo trenutki usodnih odločitev, naj bo
+							pričujoči spis memento, da samo narod, ki ve, kaj je sam sebi dolžan, in
+							se zna za uresničitev svoje najvišje naloge pogumno zadati, more iz
+							zgodovinske priložnosti ustvariti god (kairos) svoje zgodovine.</p>
+						<p>Ob organiziranju srednjeveške krščanske družbe narodov, pa tudi ob
+							preurejanju evropske družbe po načelu nacionalne države Slovenci nismo
+							znali uveljaviti svoje politične narodne osebnosti. Kaj smo s tem
+							narodno izgubili, nam nazorno pretresljivo predočujejo zemljevidi
+							slovenskega ozemlja po naselitvi in v sredi 19. stoletja. Že vekove se
+							samo rešujemo kot preostanki in v petdesetih letih Jugoslavije se je
+							slovenski etnični prostor spet skrčil. Samo kot samostojna in suverena
+							država more slovenski narod ustaviti njegov obstoj razkrajajoči tok
+							dosedanje svoje zgodovine.</p>
+						<p>Kdor hic et nunc bega enotno narodno voljo z zdeli jugoslovanskega
+							federalizma ali konfederalizma, opravlja tlako za tujce. To so Slovencu
+							vsi ne-slovenci.«</p>
+						<byline>Francè Dolinar, Slovenska katoliška obzorja, Buenos Aires,
+							1990.</byline>
 					</div>
 				</div>
+				<pb n="013"/>
 				<div type="div2">
 					<head>Slovenska politična samostojnost danes</head>
 					<docAuthor>Jože Pavlič</docAuthor>
 					<div type="div3">
-						<p>Stoletja so naši predniki živeli pod tujo dominacijo. Zla usoda jih je v to prisilila, saj
-							jim je pošiljala silne sovražnike z vseh strani, da jih je primorala v razne nehvaležne
-							povezave. Te so jim seveda škodile, a bile so neizogibne. Vendar so vzdržali in ostali
-							Slovenci. Ko so se na tem srednjeevropskem prepišnem prostoru stvari le malo uredile, je V.
-							Vodnik že zapel Ilirijo oživljeno, le malo kasneje že imamo Prešernov Krst pri Savici in
-							njegovo Zdravico. Naši pradedi so sanjali o Zedinjeni Sloveniji 1848. leta in takrat smo
-							dobili tudi svojo zastavo. Avstroogrska je propadla leta 1918 in spet so Slovenci upali, da
-							bodo končno dobili svojo državo. Verjeli so v Kraljevino Srbov, Hrvatov in Slovencev in bili
-							strašno razočarani. Leta 1941 je sramotno propadla prva Jugoslavija. Tega leta so bile
-							postavljene pred Slovence razne opcije. Vemo, kakšna jim je bila potem vsiljena. Tako so
-							preživeli petdeset let. Danes, leta 1991 je tu čas, ko se ruši s svojim sistemom vred druga
-							Jugoslavija, ki j e mnogo Slovencev sploh ni sprejelo za svojo domovino, mnoge pa, ki so
-							jo, je razočarala.</p>
-						<p>To je čas, ko Slovenci spet stojimo na zgodovinskem razpotju. Od nas je odvisno, katero smer
-							bomo izbrali, za kaj se bomo odločili. Pravzaprav smo se že. S plebiscitom lani v decembru.
-							Odločili smo se uresničiti sanje naših prednikov in nas samih – odločili smo se za
-							samostojno in neodvisno državo Slovenijo. Vendar je videti, da bo pot od odločitve do same
-							izvedbe kar naporna in najbrž tudi daljša, kot smo si zamislili in bi si želeli. Otežujejo
-							jo strahotni politični, gospodarski in socialni pretresi. Ko postavljamo na noge svojo novo
-							državo, moramo odpraviti staro in zgraditi novo gospodarstvo in ustvariti nov socialni red.
-							Ob vsem tem se danes Slovenci srečujemo s popolno finančno izčrpanostjo in razvojno
-							zaostalostjo, kar pa je še hujše, z neizmerno moralno krizo in razveljavljenostjo vseh
-							vrednot.</p>
-						<p>Kako ob tem izvesti odločitev za neodvisno državo Slovenijo, je veliko in zapleteno
-							vprašanje. Potrebna bo močna volja, veliko poguma in modrosti, zdrave pameti in učinkovitega
-							ravnanja. Vsega tega ne manjka, a vendar se zdi, da so na delu nekje med nami neke skrite
-							rušilne sile, ki ljudem že jemljejo voljo. Kažejo se v ustvarjanju neenotnosti med Slovenci,
-							v vzpodbujanju dvomov in oviranju akcij. Slovenci, ki bi si želeli učinkovitosti v
-							osamosvojitvenih dejanjih, so kar naprej hujskaško demoralizirani z vseh strani. Opozicija z
-							intrigami in nesramno gonjo proti vladi in parlamentarni večini v medijih, ki jih iz
-							totalitarnih časov sem dobro in tudi sicer obvladuje, ruši ugled izvoljenih predstavnikov in
-							ustvarja pri ljudeh nezaupanje in strah, izkorišča socialne probleme za blokado novih
-							rešitev in kar naprej vznemirja ljudi s stvarmi, ki bi se morale urediti same od sebe. Tako
-							se slovenske nacionalne sile trošijo v neproduktivne namene, medtem ko naš osnovni
-							nacionalni cilj tone in bledi v vsesplošni zmešnjavi želja in zahtev.</p>
-						<p>Slovenija je v teh odločilnih trenutkih, ko nam gre tako rekoč za „biti ali ne biti“,
-							tragično razcepljena, kot je bila leta 1941, leta 1945 in naprej do današnjih dni.</p>
-						<p>Zaradi naše takšne duhovne razdeljenosti smo leta 1945, ko je obstajala še zadnja šansa za
-							našo Koroško, to tudi izgubili. Svoje skromne nacionalne sile smo usmerili drugo proti drugi
-							in tako izgubili vsi. Se ponavlja isto danes, leta 1991? Se zavedamo, kako majhni smo in kaj
-							počnemo? Do danes kljub vsem velikim besedam bistvenega še nismo dosegli. Ko se med seboj
-							kregamo, intrigiramo in v političnih bojih iščemo svoje koristi, nam na poti osamosvojitve
-							stojijo še velike ovire tako znotraj Jugoslavije kot zunaj nje. Svet, ki obdaja to našo malo
-							deželo, ima svoje različne interese, ki jih niti ne skriva. Za ene smo molzna krava, za
-							druge nepomemben drobiž. Eni nam grozijo javno, drugi prikrito. Težko je reči, koliko nam je
-							kdo nevaren. Podcenjevati jih ne bi smeli, vendar če bi bili enotni tako, kot nismo – če bi
-							bila naša morala trdna in nezlomljiva – če bi bili pripravljeni tudi na žrtve in hude čase –
-							vse z vero, da bomo zmagali, in s prepričanjem, da je za tako pomemben cilj, kot je
-							nacionalna samostojnost in neodvisna država, vredno potrpeti, bi se nam sploh ne bilo treba
-							bati. Tvegali bi in uspeli. A kaj ko nismo taki in ko nam vsega tega danes tako manjka.</p>
-						<p>Nesloga in notranji spori so Slovencem v zgodovini prinesli več škode, kot jim je povzročil
-							katerikoli zunanji sovražnik. Če bi dobro pogledali svojo zgodovino, bi se iz nje lahko
-							marsičesa naučili. Toda koliko je teh v praktični svet zagledanih Slovencev, ki znajo
-							misliti zgodovino in se iz nje učiti? Večina nas je zagledana v svoje ozke in vsakdanje
-							koristi, ki jim služimo tu in zdaj. Za skupne koristi in skupno dobro se le redkokdaj
-							zmenimo. V političnem življenju se to kaže kot ozkosrčen in nekulturen boj za oblast.</p>
-						<p>V teh odločilnih zgodovinskih trenutkih, ki jih živimo prav danes, in ob tem tako pomembnem
-							vprašanju, kot je samostojna slovenska država, bi moral vsak Slovenec obstati in se
-							zamisliti, kaj storiti, kako ravnati, da bi Slovenci kot narod končno dosegli svoj glavni in
-							neodložljivi cilj: svojo državo. Prav zdaj – na tej zgodovinski prelomnici – moramo odločiti
-							stvar v svoj prid: dvigniti se moramo v zgodovino, med druge državotvorne narode – če smo
-							Slovenci ljudje, enaki drugim; če smo Slovenci narod enak drugim narodom, ki so si ustvarili
-							svoje države. Ne smemo pustiti, da potonemo med manjšine in zgodovinsko mrtve narode.</p>
-						<p>Res je, da odkrivamo v nas samih neko strašno zlo, ki nas žene v nasilje nad samim seboj in v
-							nasilje drugega proti drugemu. Kot da je to podedovano in pogojeno z našo bridko zgodovinsko
-							izkušnjo, ko so nam gospodovali drugi in nas tlačili, mi pa smo se ponižani, nesrečni in
-							razžaljeni obračali proti sebi in dvigali roko nad svojega bližnjega, pa je to postalo naša
-							usoda in tragični značaj. Sprašujem se, če to tudi ni vzrok naše skupne nemoči in naših
-							travm, ki jih nosimo s sabo. Kakorkoli že to je, temu zlu se moramo zavestno upreti in ga
-							premagati. Slovenci moramo začeti spoštovati drug drugega in se zavedati, da smo drug
+						<p>Stoletja so naši predniki živeli pod tujo dominacijo. Zla usoda jih je v
+							to prisilila, saj jim je pošiljala silne sovražnike z vseh strani, da
+							jih je primorala v razne nehvaležne povezave. Te so jim seveda škodile,
+							a bile so neizogibne. Vendar so vzdržali in ostali Slovenci. Ko so se na
+							tem srednjeevropskem prepišnem prostoru stvari le malo uredile, je V.
+							Vodnik že zapel Ilirijo oživljeno, le malo kasneje že imamo Prešernov
+							Krst pri Savici in njegovo Zdravico. Naši pradedi so sanjali o Zedinjeni
+							Sloveniji 1848. leta in takrat smo dobili tudi svojo zastavo.
+							Avstroogrska je propadla leta 1918 in spet so Slovenci upali, da bodo
+							končno dobili svojo državo. Verjeli so v Kraljevino Srbov, Hrvatov in
+							Slovencev in bili strašno razočarani. Leta 1941 je sramotno propadla
+							prva Jugoslavija. Tega leta so bile postavljene pred Slovence razne
+							opcije. Vemo, kakšna jim je bila potem vsiljena. Tako so preživeli
+							petdeset let. Danes, leta 1991 je tu čas, ko se ruši s svojim sistemom
+							vred druga Jugoslavija, ki j e mnogo Slovencev sploh ni sprejelo za
+							svojo domovino, mnoge pa, ki so jo, je razočarala.</p>
+						<p>To je čas, ko Slovenci spet stojimo na zgodovinskem razpotju. Od nas je
+							odvisno, katero smer bomo izbrali, za kaj se bomo odločili. Pravzaprav
+							smo se že. S plebiscitom lani v decembru. Odločili smo se uresničiti
+							sanje naših prednikov in nas samih – odločili smo se za samostojno in
+							neodvisno državo Slovenijo. Vendar je videti, da bo pot od odločitve do
+							same izvedbe kar naporna in najbrž tudi daljša, kot smo si zamislili in
+							bi si želeli. Otežujejo jo strahotni politični, gospodarski in socialni
+							pretresi. Ko postavljamo na noge svojo novo državo, moramo odpraviti
+							staro in zgraditi novo gospodarstvo in ustvariti nov socialni red. Ob
+							vsem tem se danes Slovenci srečujemo s popolno finančno izčrpanostjo in
+							razvojno zaostalostjo, kar pa je še hujše, z neizmerno moralno krizo in
+							razveljavljenostjo vseh vrednot.</p>
+						<p>Kako ob tem izvesti odločitev za neodvisno državo Slovenijo, je veliko in
+							zapleteno vprašanje. Potrebna bo močna volja, veliko poguma in modrosti,
+							zdrave pameti in učinkovitega ravnanja. Vsega tega ne manjka, a vendar
+							se zdi, da so na delu nekje med nami neke skrite rušilne sile, ki ljudem
+							že jemljejo voljo. Kažejo se v ustvarjanju neenotnosti med Slovenci, v
+							vzpodbujanju dvomov in oviranju akcij. Slovenci, ki bi si želeli
+							učinkovitosti v osamosvojitvenih dejanjih, so kar naprej hujskaško
+							demoralizirani z vseh strani. Opozicija z intrigami in nesramno gonjo
+							proti vladi in parlamentarni večini v medijih, ki jih iz totalitarnih
+							časov sem dobro in tudi sicer obvladuje, ruši ugled izvoljenih
+							predstavnikov in ustvarja pri ljudeh nezaupanje in strah, izkorišča
+							socialne probleme za blokado novih rešitev in kar naprej vznemirja ljudi
+							s stvarmi, ki bi se morale urediti same od sebe. Tako se slovenske
+							nacionalne sile trošijo v neproduktivne namene, medtem ko naš osnovni
+							nacionalni cilj tone in bledi v vsesplošni zmešnjavi želja in
+							zahtev.</p>
+						<p>Slovenija je v teh odločilnih trenutkih, ko nam gre tako rekoč za „biti
+							ali ne biti“, tragično razcepljena, kot je bila leta 1941, leta 1945 in
+							naprej do današnjih dni.</p>
+						<p>Zaradi naše takšne duhovne razdeljenosti smo leta 1945, ko je obstajala
+							še zadnja šansa za našo Koroško, to tudi izgubili. Svoje skromne
+							nacionalne sile smo usmerili drugo proti drugi in tako izgubili vsi. Se
+							ponavlja isto danes, leta 1991? Se zavedamo, kako majhni smo in kaj
+							počnemo? Do danes kljub vsem velikim besedam bistvenega še nismo
+							dosegli. Ko se med seboj kregamo, intrigiramo in v političnih bojih
+							iščemo svoje koristi, nam na poti osamosvojitve stojijo še velike ovire
+							tako znotraj Jugoslavije kot zunaj nje. Svet, ki obdaja to našo malo
+							deželo, ima svoje različne interese, ki jih niti ne skriva. Za ene smo
+							molzna krava, za druge nepomemben drobiž. Eni nam grozijo javno, drugi
+							prikrito. Težko je reči, koliko nam je kdo nevaren. Podcenjevati jih ne
+							bi smeli, vendar če bi bili enotni tako, kot nismo – če bi bila naša
+							morala trdna in nezlomljiva – če bi bili pripravljeni tudi na žrtve in
+							hude čase – vse z vero, da bomo zmagali, in s prepričanjem, da je za
+							tako pomemben cilj, kot je nacionalna samostojnost in neodvisna država,
+							vredno potrpeti, bi se nam sploh ne bilo treba bati. Tvegali bi in
+							uspeli. A kaj ko nismo <pb n="014"/>taki in ko nam vsega tega danes tako manjka.</p>
+						<p>Nesloga in notranji spori so Slovencem v zgodovini prinesli več škode,
+							kot jim je povzročil katerikoli zunanji sovražnik. Če bi dobro pogledali
+							svojo zgodovino, bi se iz nje lahko marsičesa naučili. Toda koliko je
+							teh v praktični svet zagledanih Slovencev, ki znajo misliti zgodovino in
+							se iz nje učiti? Večina nas je zagledana v svoje ozke in vsakdanje
+							koristi, ki jim služimo tu in zdaj. Za skupne koristi in skupno dobro se
+							le redkokdaj zmenimo. V političnem življenju se to kaže kot ozkosrčen in
+							nekulturen boj za oblast.</p>
+						<p>V teh odločilnih zgodovinskih trenutkih, ki jih živimo prav danes, in ob
+							tem tako pomembnem vprašanju, kot je samostojna slovenska država, bi
+							moral vsak Slovenec obstati in se zamisliti, kaj storiti, kako ravnati,
+							da bi Slovenci kot narod končno dosegli svoj glavni in neodložljivi
+							cilj: svojo državo. Prav zdaj – na tej zgodovinski prelomnici – moramo
+							odločiti stvar v svoj prid: dvigniti se moramo v zgodovino, med druge
+							državotvorne narode – če smo Slovenci ljudje, enaki drugim; če smo
+							Slovenci narod enak drugim narodom, ki so si ustvarili svoje države. Ne
+							smemo pustiti, da potonemo med manjšine in zgodovinsko mrtve narode.</p>
+						<p>Res je, da odkrivamo v nas samih neko strašno zlo, ki nas žene v nasilje
+							nad samim seboj in v nasilje drugega proti drugemu. Kot da je to
+							podedovano in pogojeno z našo bridko zgodovinsko izkušnjo, ko so nam
+							gospodovali drugi in nas tlačili, mi pa smo se ponižani, nesrečni in
+							razžaljeni obračali proti sebi in dvigali roko nad svojega bližnjega, pa
+							je to postalo naša usoda in tragični značaj. Sprašujem se, če to tudi ni
+							vzrok naše skupne nemoči in naših travm, ki jih nosimo s sabo. Kakorkoli
+							že to je, temu zlu se moramo zavestno upreti in ga premagati. Slovenci
+							moramo začeti spoštovati drug drugega in se zavedati, da smo drug
 							drugemu potrebni. Sovraštvo nam je in nam bo prinašalo le nesrečo.</p>
-						<p>V tem kontekstu vidim tudi vprašanje slovenske nacionalne sprave, ki ga nekateri niso
-							sposobni razumeti. Slovenska medsebojna in politična sprava je pogoj, da bo slovenski narod
-							mogel računati z uspešno prihodnostjo in da bo ustvaril svoj veliki cilj – svojo slovensko
-							državo. Petdeset let zanikanja, ne dopuščanja in razklanosti ob vseh človeških in
-							materialnih žrtvah je bilo več kot dovolj. Treba se je strezniti in doumeti. Potrebujemo
-							spravo v duhu resnice in spoznanja, da smo tragična bitja, ki jim pristaja zgolj skromnost
-							in ne napuh.</p>
-						<p>Mi, ki nismo komunisti, ampak smo se proti komunizmu kot družbenemu zlu in zmoti tudi borili,
-							mi, ki smo bili neodgovorno, sramotno in kruto več kot zdesetkani, ki so nam bila usta
-							zaprta in nam je bilo bivanje zabranjeno, smo na spravo pripravljeni. Nesreča, ki nas je
-							zadela, nas je tudi marsičesa naučila in marsičesa osvobodila. Vedeli smo, da tisto ni bila
-							samo naša nesreča, ampak je bila nacionalna nesreča, ki je Slovenci še niso dobro doumeli.
-							Spoznali smo bednost in nepomembnost nekaterih stvari, ki so se kazale v lažni veličini in
-							trivialni triumfalnosti nekega časa. V napuhu in samozaverovanosti se nam je odkrivala
-							majhnost in uboštvo duha, v poveličevanih dejanjih smo gledali neznansko škodo, ki je za
-							narod nastala. Tako smo videli le bolj skupno nesrečo in smo lahko obračunali s svojo. Ne s
-							srdom, ampak z žalostjo smo videli tisti krvavi in sovražni čas. Zato v naših srcih ni
-							mržnje in zamer; je žalost in skrb. Trepetamo za narod in domovino, z usmiljenjem nas
-							navdaja usoda tisočev na razne načine trpečih. Zase pa si želimo samo nepristranske in
-							poštene sodbe zgodovine. Naša vest je mirna. Vemo, da smo se v strašnih časih borili proti
-							komunizmu – za narod in slovensko domovino. Prav to pa delamo tudi danes in bomo v bodoče.
-							Zato smo za spravo med Slovenci, za razumevanje in enotnost – za samostojno in neodvisno
-							Slovenijo.</p>
+						<p>V tem kontekstu vidim tudi vprašanje slovenske nacionalne sprave, ki ga
+							nekateri niso sposobni razumeti. Slovenska medsebojna in politična
+							sprava je pogoj, da bo slovenski narod mogel računati z uspešno
+							prihodnostjo in da bo ustvaril svoj veliki cilj – svojo slovensko
+							državo. Petdeset let zanikanja, ne dopuščanja in razklanosti ob vseh
+							človeških in materialnih žrtvah je bilo več kot dovolj. Treba se je
+							strezniti in doumeti. Potrebujemo spravo v duhu resnice in spoznanja, da
+							smo tragična bitja, ki jim pristaja zgolj skromnost in ne napuh.</p>
+						<p>Mi, ki nismo komunisti, ampak smo se proti komunizmu kot družbenemu zlu
+							in zmoti tudi borili, mi, ki smo bili neodgovorno, sramotno in kruto več
+							kot zdesetkani, ki so nam bila usta zaprta in nam je bilo bivanje
+							zabranjeno, smo na spravo pripravljeni. Nesreča, ki nas je zadela, nas
+							je tudi marsičesa naučila in marsičesa osvobodila. Vedeli smo, da tisto
+							ni bila samo naša nesreča, ampak je bila nacionalna nesreča, ki je
+							Slovenci še niso dobro doumeli. Spoznali smo bednost in nepomembnost
+							nekaterih stvari, ki so se kazale v lažni veličini in trivialni
+							triumfalnosti nekega časa. V napuhu in samozaverovanosti se nam je
+							odkrivala majhnost in uboštvo duha, v poveličevanih dejanjih smo gledali
+							neznansko škodo, ki je za narod nastala. Tako smo videli le bolj skupno
+							nesrečo in smo lahko obračunali s svojo. Ne s srdom, ampak z žalostjo
+							smo videli tisti krvavi in sovražni čas. Zato v naših srcih ni mržnje in
+							zamer; je žalost in skrb. Trepetamo za narod in domovino, z usmiljenjem
+							nas navdaja usoda tisočev na razne načine trpečih. Zase pa si želimo
+							samo nepristranske in poštene sodbe zgodovine. Naša vest je mirna. Vemo,
+							da smo se v strašnih časih borili proti komunizmu – za narod in
+							slovensko domovino. Prav to pa delamo tudi danes in bomo v bodoče. Zato
+							smo za spravo med Slovenci, za razumevanje in enotnost – za samostojno
+							in neodvisno Slovenijo.</p>
 					</div>
 				</div>
+				<pb n="015"/>
 				<div type="div2">
 					<head>Programske smernice NSZ</head>
 					<div type="div3">
 						<list type="unordered">
-							<item>1. Nova Slovenska zaveza je društvo vseh udeležencev protikomunističnega odpora,
-								vodenega pred in med zadnjo vojno. Čeprav je bila udeležba v odporu politično dejanje,
-								si NSZ zaenkrat ne postavlja za nalogo politično delovanje, pač pa strokovno in
-								objektivno proučevanje, vrednotenje državljanske vojne in dosego dejanske sprave med
-								udeleženci državljanske vojne. To pa je interesno delovanje, sicer iz političnega
-								področja, vendar v interesu neposrednih udeležencev državljanske vojne. Zato se NSZ
+							<item>1. Nova Slovenska zaveza je društvo vseh udeležencev
+								protikomunističnega odpora, vodenega pred in med zadnjo vojno.
+								Čeprav je bila udeležba v odporu politično dejanje, si NSZ zaenkrat
+								ne postavlja za nalogo politično delovanje, pač pa strokovno in
+								objektivno proučevanje, vrednotenje državljanske vojne in dosego
+								dejanske sprave med udeleženci državljanske vojne. To pa je
+								interesno delovanje, sicer iz političnega področja, vendar v
+								interesu neposrednih udeležencev državljanske vojne. Zato se NSZ
 								opredeljuje kot društvo, dokler se ti interesi ne uresničijo.</item>
-							<item>2. NSZ ima svoj izvor v protikomunistični koaliciji »Slovenski zavezi«, ki so jo
-								ustanovile predvojne demokratične stranke in v vseh medvojnih vojaških in civilnih
-								organizacijah, ki so sodelovale v protikomunističnem odporu.</item>
-							<item>3. NSZ bo opravljala svojo dejavnost izključno na civilnem področju, vendar v okviru
-								krščanskih načel in etike. Zato NSZ ne bo zavzemala stališč in odločitev, ki so v
-								nasprotju s stališči in odločitvami uradne Cerkve.</item>
-							<item>4. NSZ si bo prizadevala za dosledno izvajanje načel pravičnosti in resnice na vseh
-								področjih dejavnosti društva in družbenega življenja v celoti.</item>
-							<item>5. NSZ ohranja misel in načela protikomunističnega odpora in jih, kakor so se
-								oblikovala v povojni zgodovini, prenaša v nov čas z namenom, da se v slovenskem narodu
-								ne ponovijo zablode iz pretekle državljanske vojne.</item>
-							<item>6. NSZ zavzema stališče, da so bili umori, storjeni pred začetkom protikomunističnega
-								odpora, zlasti pa po vojni, zločin, ki ga je potrebno raziskati in obsoditi. Pri tem se
-								odreka vsakemu maščevanju. To namero so udeleženci odpora izražali in dokazali javno
-								tudi že do sedaj.</item>
-							<item>7. NSZ bo storila vse, da se objektivno oceni značaj protikomunističnega odpora in da
-								se na podlagi tega rehabilitirajo vsa gibanja, civilna in vojaška, udeležena v
-								protikomunističnem odporu. Izhaja namreč iz stališča, da je to utemeljeno, pravično in
-								edina realna podlaga za dosego resnične sprave med udeleženci državljanske vojne in
-								Slovenci na splošno.</item>
-							<item>8. NSZ bo podrobno in vsestransko proučila vse posamične in skupinske poboje na obeh
-								straneh in postavila pred slovensko javnost bilanco pobojev in krivde za državljansko
-								vojno in dogodke po njej.</item>
-							<item>9. NSZ bo med drugim zbrala v svoje okrilje vse še živeče udeležence
-								protikomunističnega odpora, s civilnega in vojaškega področja, njihove svojce oz.
-								potomce, predvsem tiste, ki osamljeni in zapostavljeni, socialno ogroženi, preplašeni od
-								udarcev in groženj, živijo na robu današnje družbe in jih vsaj v končnem delu življenja
-								popeljala nazaj v družbo kot samozavestne in pokončne osebnosti.</item>
-							<item>10. NSZ bo skušala zagotoviti družbene in materialne pogoje, da se bodo udeleženci
-								protikomunističnega odpora in njih potomci, vrnili v domovino in da se umrli, po želji
-								svojcev oz. zainteresiranih organizacij prepeljejo v domovino.</item>
-							<item>11. NSZ bo v sodelovanju tudi z drugimi organizacijami ugotovila žrtve
-								protikomunističnega odpora, tako iz oboroženih formacij kot tudi civilnih oseb, in
-								skrbela, da se znamenja, ki so z njimi povezana, zaznamujejo in vzdržujejo v spomin in
-								opomin sedanjim in prihajajočim rodovom, brez sovraštva do udeležencev nasprotne strani.
-								Pri tem se bo zavzemala za skromnost ter za uporabo enotnih kriterijev pri ureditvi
-								grobov in grobišč. Zavzemala se bo tudi, da se grobovi in spominska znamenja uredijo
-								praviloma na pokopališčih oz. pri cerkvah in le izjemoma izven teh krajev.</item>
-							<item>12. NSZ priznava čast in spoštovanje padlim in preživelim udeležencem boja proti
-								okupatorju, ki so se ga udeležili iz narodnostnih nagibov. To stališče je tudi podlaga
-								in pogoj za dosego dejanske sprave in odpravo ločitve Slovencev na ideološki
+							<item>2. NSZ ima svoj izvor v protikomunistični koaliciji »Slovenski
+								zavezi«, ki so jo ustanovile predvojne demokratične stranke in v
+								vseh medvojnih vojaških in civilnih organizacijah, ki so sodelovale
+								v protikomunističnem odporu.</item>
+							<item>3. NSZ bo opravljala svojo dejavnost izključno na civilnem
+								področju, vendar v okviru krščanskih načel in etike. Zato NSZ ne bo
+								zavzemala stališč in odločitev, ki so v nasprotju s stališči in
+								odločitvami uradne Cerkve.</item>
+							<item>4. NSZ si bo prizadevala za dosledno izvajanje načel pravičnosti
+								in resnice na vseh področjih dejavnosti društva in družbenega
+								življenja v celoti.</item>
+							<item>5. NSZ ohranja misel in načela protikomunističnega odpora in jih,
+								kakor so se oblikovala v povojni zgodovini, prenaša v nov čas z
+								namenom, da se v slovenskem narodu ne ponovijo zablode iz pretekle
+								državljanske vojne.</item>
+							<item>6. NSZ zavzema stališče, da so bili umori, storjeni pred začetkom
+								protikomunističnega odpora, zlasti pa po vojni, zločin, ki ga je
+								potrebno raziskati in obsoditi. Pri tem se odreka vsakemu
+								maščevanju. To namero so udeleženci odpora izražali in dokazali
+								javno tudi že do sedaj.</item>
+							<item>7. NSZ bo storila vse, da se objektivno oceni značaj
+								protikomunističnega odpora in da se na podlagi tega rehabilitirajo
+								vsa gibanja, civilna in vojaška, udeležena v protikomunističnem
+								odporu. Izhaja namreč iz stališča, da je to utemeljeno, pravično in
+								edina realna podlaga za dosego resnične sprave med udeleženci
+								državljanske vojne in Slovenci na splošno.</item>
+							<item>8. NSZ bo podrobno in vsestransko proučila vse posamične in
+								skupinske poboje na obeh straneh in postavila pred slovensko javnost
+								bilanco pobojev in krivde za državljansko vojno in dogodke po
+								njej.</item>
+							<item>9. NSZ bo med drugim zbrala v svoje okrilje vse še živeče
+								udeležence protikomunističnega odpora, s civilnega in vojaškega
+								področja, njihove svojce oz. potomce, predvsem tiste, ki osamljeni
+								in zapostavljeni, socialno ogroženi, preplašeni od udarcev in
+								groženj, živijo na robu današnje družbe in jih vsaj v končnem delu
+								življenja popeljala nazaj v družbo kot samozavestne in pokončne
+								osebnosti.</item>
+							<item>10. NSZ bo skušala zagotoviti družbene in materialne pogoje, da se
+								bodo udeleženci protikomunističnega odpora in njih potomci, vrnili v
+								domovino in da se umrli, po želji svojcev oz. zainteresiranih
+								organizacij prepeljejo v domovino.</item>
+							<item>11. NSZ bo v sodelovanju tudi z drugimi organizacijami ugotovila
+								žrtve protikomunističnega odpora, tako iz oboroženih formacij kot
+								tudi civilnih oseb, in skrbela, da se znamenja, ki so z njimi
+								povezana, zaznamujejo in vzdržujejo v spomin in opomin sedanjim in
+								prihajajočim rodovom, brez sovraštva do udeležencev nasprotne
+								strani. Pri tem se bo zavzemala za skromnost ter za uporabo enotnih
+								kriterijev pri ureditvi grobov in grobišč. Zavzemala se bo tudi, da
+								se grobovi in spominska znamenja uredijo praviloma na pokopališčih
+								oz. pri cerkvah in le izjemoma izven teh krajev.</item>
+							<item>12. NSZ priznava čast in spoštovanje padlim in preživelim
+								udeležencem boja proti okupatorju, ki so se ga udeležili iz
+								narodnostnih nagibov. To stališče je tudi podlaga in pogoj za dosego
+								dejanske sprave in odpravo ločitve Slovencev na ideološki
 								podlagi.</item>
-							<item>13. Na političnem področju se NSZ opredeljuje za dosledni pluralizem in za dialog z
-								vsemi, tudi levimi strankami. Na gospodarskem področju sprejema načela tržnega
-								gospodarstva, podpira reprivatizacijo lastnine in denacionalizacijo premoženja ter
-								dosledno pravično socialno varnost vseh, ki bodo ne po svoji krivdi prizadeti zaradi
-								izvedbe načel tržnega gospodarstva. Odklanja lažno solidarnost za tiste, ki hočejo še
-								naprej živeti na račun drugih.</item>
-							<item>14. NSZ se bo zavzemala, da se iz javnega področja odstranijo poimenovanja, ki
-								izhajajo iz državljanske vojne, če nimajo trajne in zgodovinske vrednosti za vse
-								Slovence.</item>
-							<item>16. NSZ se bo zavzemala za vključitev v društvo čim večjega števila mladine, zlasti
-								potomcev udeležencev protikomunističnega odpora, ki naj bi ohranjali in nadaljevali
-								ideje in kulturna izročila svojih očetov in mater in oblikovali prihajajočo dobo na teh
-								načelih in idealih.</item>
-							<item>17. NSZ bo posvečala mladi generaciji posebno skrb s tem:<list type="unordered">
-									<item>- da ji bo omogočala študij zgodovine in jo uvajala v samostojno presojo
-										zgodovinskih dogodkov; </item>
-									<item>da ji bo omogočala spoznavanje tradicionalne slovenske politične in duhovne
-										kulture, kot tistega temelja, s katerega se bo udeleževala političnega življenja
-										v slovenskem prostoru; </item>
-									<item>da ji bo omogočala študij s področja političnih ved in jo vključevala v
-										politično delo.</item>
+							<item>13. Na političnem področju se NSZ opredeljuje za dosledni
+								pluralizem in za dialog z vsemi, tudi levimi strankami. Na
+								gospodarskem področju sprejema načela tržnega gospodarstva, podpira
+								reprivatizacijo lastnine in denacionalizacijo premoženja ter
+								dosledno pravično socialno <pb n="016"/>varnost vseh, ki bodo ne po svoji krivdi
+								prizadeti zaradi izvedbe načel tržnega gospodarstva. Odklanja lažno
+								solidarnost za tiste, ki hočejo še naprej živeti na račun
+								drugih.</item>
+							<item>14. NSZ se bo zavzemala, da se iz javnega področja odstranijo
+								poimenovanja, ki izhajajo iz državljanske vojne, če nimajo trajne in
+								zgodovinske vrednosti za vse Slovence.</item>
+							<item>16. NSZ se bo zavzemala za vključitev v društvo čim večjega
+								števila mladine, zlasti potomcev udeležencev protikomunističnega
+								odpora, ki naj bi ohranjali in nadaljevali ideje in kulturna
+								izročila svojih očetov in mater in oblikovali prihajajočo dobo na
+								teh načelih in idealih.</item>
+							<item>17. NSZ bo posvečala mladi generaciji posebno skrb s tem:<list
+									type="unordered">
+									<item>- da ji bo omogočala študij zgodovine in jo uvajala v
+										samostojno presojo zgodovinskih dogodkov; </item>
+									<item>da ji bo omogočala spoznavanje tradicionalne slovenske
+										politične in duhovne kulture, kot tistega temelja, s
+										katerega se bo udeleževala političnega življenja v
+										slovenskem prostoru; </item>
+									<item>da ji bo omogočala študij s področja političnih ved in jo
+										vključevala v politično delo.</item>
 								</list>
 							</item>
-							<item>18. Društvo bo proučilo možnost in primernost spremembe v politično organizacijo, ko
-								bodo doseženi društveni cilji. </item>
+							<item>18. Društvo bo proučilo možnost in primernost spremembe v
+								politično organizacijo, ko bodo doseženi društveni cilji. </item>
 						</list>
 						<figure>
 							<graphic url="slike_z_01/z_01_02.png"/>
@@ -920,7 +1117,6 @@
 				</div>
 			</div>
 		</body>
-		<back>
-		</back>
+		<back> </back>
 	</text>
 </TEI>

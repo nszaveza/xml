@@ -91,55 +91,57 @@
             </titlePage>
             <divGen type="toc"/>
         </front>
-
         <body>
+		<pb n="001"/>
             <div type="div1">
-                <head> </head>
+                <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
                 <div type="div2">
                     <head>In tempore illo</head>
                     <docAuthor>Tine Debeljak</docAuthor>
                     <div type="div3">
                         <head>Odlomki iz ČRNE MAŠE</head>
-						<lg>
-                        <l>O teža Videnj Prerokovih, zlomljenih v mojih očeh:</l>
-                        <l>iz Romulovega rodu dvanajst tisoč Vojščakov –</l>
-                        <l>pri Vodi Slatinski...</l>
-                        <l>iz Vladimirjevega rodu dvanajst tisoč kozakov</l>
-                        <l>v Vinici ukrajinski...</l>
-                        <l>iz Piastovega rodu dvanajst tisoč veljakov</l>
-                        <l>v jami katynski...</l>
-                        <l>iz Valukovega rodu karantanskih svobodnjakov -</l>
-                        <l>tabor vetrinjski:</l>
-                        <l>(Joj, Narod Benjamin! Moj Narod Zaznamovancev!) -</l>
-                        <l>dvanajst tisoč legijonarjev in domobrancev...</l>
-                        <l>Vidim jih: urejenim v čete</l>
-                        <l>drugi angel zaznamuje čela in prsi napete, kot da jih mazili in za smrt pečati...</l>
-                        <l>a četvero angelov, ki jim je naročeno pokončati</l>
-                        <l>našega drevja jabolka mlada</l>
-                        <l>in naše zemlje prostornino,</l>
-                        <l>jih čaka z gorečimi meči nad robom prepada</l>
-                        <l>za vrati</l>
-                        <l>v Domovino...</l>
-                        <l>Zakril si oči je Angel živega Boga:</l>
-                        <l>četvero angelov z rdečo zvezdo na čelu je prihrumelo z Vzhoda na konju
-                            rdečem: s srpom in kladivom kot z ognjem in mečem,</l>
-                        <l>čez sončni nasad zadivja –</l>
-                        <l>in dvanajst tisoč zaznamovancev pade pod kopito</l>
-                        <l>divjemu krdelu,</l>
-                        <l>Pokončevalcu zemlje in drevja in morja</l>
-                        <l>(o Prerok iz Razodetja: si v Patmu videl Ti to?)</l>
-                        <l>in slednji je potočil zadnjo kapljo krvi iz žil,</l>
-                        <l>da zdaj v blesku belih oblačil</l>
-                        <l>držé palmo mučeniško preko srca –</l>
-                        <l>Zmagovalci za večni čas!</l>
-                        <l>BOGU HVALA! – DEO GRATIAS!</l>
-						</lg>
+                        <lg>
+                            <l>O teža Videnj Prerokovih, zlomljenih v mojih očeh:</l>
+                            <l>iz Romulovega rodu dvanajst tisoč Vojščakov –</l>
+                            <l>pri Vodi Slatinski … </l>
+                            <l>iz Vladimirjevega rodu dvanajst tisoč kozakov</l>
+                            <l>v Vinici ukrajinski … </l>
+                            <l>iz Piastovega rodu dvanajst tisoč veljakov</l>
+                            <l>v jami katynski … </l>
+                            <l>iz Valukovega rodu karantanskih svobodnjakov -</l>
+                            <l>tabor vetrinjski:</l>
+                            <l>(Joj, Narod Benjamin! Moj Narod Zaznamovancev!) -</l>
+                            <l>dvanajst tisoč legijonarjev in domobrancev … </l>
+                            <l>Vidim jih: urejenim v čete</l>
+                            <l>drugi angel zaznamuje čela in prsi napete, kot da jih mazili in za
+                                smrt pečati … </l>
+                            <l>a četvero angelov, ki jim je naročeno pokončati</l>
+                            <l>našega drevja jabolka mlada</l>
+                            <l>in naše zemlje prostornino,</l>
+                            <l>jih čaka z gorečimi meči nad robom prepada</l>
+                            <l>za vrati</l>
+                            <l>v Domovino … </l>
+                            <l>Zakril si oči je Angel živega Boga:</l>
+                            <l>četvero angelov z rdečo zvezdo na čelu je prihrumelo z Vzhoda na
+                                konju rdečem: s srpom in kladivom kot z ognjem in mečem,</l>
+                            <l>čez sončni nasad zadivja –</l>
+                            <l>in dvanajst tisoč zaznamovancev pade pod kopito</l>
+                            <l>divjemu krdelu,</l>
+                            <l>Pokončevalcu zemlje in drevja in morja</l>
+                            <l>(o Prerok iz Razodetja: si v Patmu videl Ti to?)</l>
+                            <l>in slednji je potočil zadnjo kapljo krvi iz žil,</l>
+                            <l>da zdaj v blesku belih oblačil</l>
+                            <l>držé palmo mučeniško preko srca –</l>
+                            <l>Zmagovalci za večni čas!</l>
+                            <l>BOGU HVALA! – DEO GRATIAS!</l>
+                        </lg>
                         <figure>
                             <graphic url="slike_z_02/z_02_01.png"/>
                             <head>Sv. Boštjan <name type="author">France Gorše</name></head>
                         </figure>
                     </div>
                 </div>
+				<pb n="002"/>
                 <div type="div2">
                     <head>Kaj se je dogajalo v Rogu junija 1945</head>
                     <docAuthor>Tine Velikonja</docAuthor>
@@ -190,7 +192,7 @@
                             najvišji jugoslovanski vrh. Kakor pa je bila odločitev pomembna in
                             usodna, je šlo skoraj zanesljivo samo za ustno povelje.</p>
                         <p>Tako kot med državljansko vojno si tudi po zmagi nova oblast ni belila
-                            glave, kam z žrtvami. Običajno so jih plitvo zagrebli kar na mestu
+                            glave, kam z žrtvami. Običajno so jih plitvo <pb n="003"/>zagrebli kar na mestu
                             (Košnica, Crngrob, Krakovski gozd, Čatarjeva graščina) v že izkopane
                             jame (protitankovski jarek okrog Celja) ali bližnja brezna (Brezarjevo
                             brezno, fojbe na Krasu).</p>
@@ -240,6 +242,7 @@
                             prevoz s tovornjaki do morišč. Odgovor je le eden: niso dobili dovolj
                             tovornjakov, da bi lahko nalogo izpeljali v enem tednu in bi se jim tako
                             zavleklo kot skupini na Teharjah.</p>
+							<pb n="004"/>
                         <p>Težave so morali imeti že z vlakom. Zadnje leto vojne je vozil vlak iz
                             Ljubljane do Kočevja samo do Grosupljega, naprej pa samo oklepni vlak.
                             Umikajoči nasprotnik je v noči med 8. in 9. majem porušil železniški
@@ -304,7 +307,7 @@
                             usmrtitve. Kot kaže, je šlo na žalost za najslabšo možnost: žejnega,
                             lačnega in pretepenega nasprotnika je bilo treba na ta način dokončno
                             ponižati in zatreti. Nato pa še pretepanje na 150 m dolgi poti do
-                            brezna. Ob njej so stali partizani v tesnem špalirju in tolkli z
+                            brezna. Ob njej so stali partizani v tes<pb n="005"/>nem špalirju in tolkli z
                             gorjačami. Vse to mučenje je bilo funkcionalno, imelo je določen namen.
                             Z njim so dosegli tisto popolno vdanost v usodo in pasivnost, ki jo
                             opisujejo in se ji vsi čudijo. Ne morejo si razložiti, kako so se mogli
@@ -369,7 +372,7 @@
                             ni več kot 4000. V teh breznih leži večina tistih, ki so bili vrnjeni
                             skozi karavanški predor, razen gorenjskih domobrancev, od katerih je
                             vsaj del obležal blizu Škofje Loke, in oficirjev. Zanesljivo ni na Rogu
-                            domobrancev, ki so bili v taborišču na Teharjah. Tako bo vendarle možno
+                            domobran<pb n="006"/>cev, ki so bili v taborišču na Teharjah. Tako bo vendarle možno
                             sestaviti razmeroma zanesljiv seznam, raziskave roških grobišč oziroma
                             brezen pa bodo, kot mislimo, potrdile, da so domobranci obležali ravno v
                             breznu pod Krenom. Pomagati nam bodo morali tudi preživeli: če bi brezno
@@ -430,6 +433,7 @@
                             temu nihče ni ugovarjal, čeprav je bilo jasno takrat kot je jasno sedaj,
                             da česa takega, kot je znanstvena interpretacij a Roga, enostavno
                             ni.</p>
+							<pb n="007"/>
                         <p>V najboljšem primeru obstaja znanstven opis Roga, ki pa, tudi če je
                             znanstven, se pravi točen in korekten, še zdaleč ni njegova
                             interpretacija. S to besedno zvezo so enostavno upali, da bodo
@@ -479,13 +483,13 @@
                             zunaj območja človeškega zla. V intuiciji, v globini svojega bitja
                             čutimo, da človek s takim početjem preseže sebe. In če človek preseže
                             sebe, mora biti v njem neki vzgon, ki ga ne nosijo njegove lastne
-                            energije. A o tem več liozneje.</p>
+                            energije. A o tem več pozneje.</p>
                         <figure>
                             <graphic url="slike_z_02/z_02_04.png"/>
                             <head>V neznano</head>
                         </figure>
                         <p>Ko so vozili domobrance iz Kočevja na Rog – in v jame pri Šentvidu in pri
-                            Teharjih in pri Škofjeloškem gradu, a ostanimo pri Kočevskem Rogu – so
+                            Teharjih in pri Škofjeloškem gradu, a osta<pb n="008"/>nimo pri Kočevskem Rogu – so
                             se godile šokantne stvari: Žice, s katero so jim vezali roke, so se tako
                             zarezovale v meso, da so jim roke odmirale. Ganljivo slovenska je tožba
                             ene od žrtev: Saj te roke ne bodo več za delo! Potem tista kratka vožnja
@@ -552,7 +556,7 @@
                             prirejenega človeka. Človeku je torej bilo treba zamenj ati dušo. In ker
                             je misel, ki je vodila ljudi slovenskega protikomunističnega odpora,
                             bila izraz slovenske tradicionalne duše, so z odstranitvijo teh ljudi
-                            videli možnost, da se ustvari prazen prostor za novo dušo. Ko so pobili
+                            videli možnost, da se <pb n="009"/>ustvari prazen prostor za novo dušo. Ko so pobili
                             vse domobrance, v sociološko relevantnem pomenu vse domobrance, so, v
                             kulturnem in političnem jeziku govorjeno, ubili domobransko dušo. Vedeli
                             pa so, da s tem ubijajo tudi narodovo dušo, kakor se je oblikovala v
@@ -606,7 +610,7 @@
                             vsakdanje zlo. Naše oči, poučene od one velike freske, vidijo sedaj, kaj
                             je namreč naše vsakdanje zlo – da je namreč zlo. In mogoče bomo
                             pretreseni nad tem, kar smo še včeraj imeli za malenkost. Tako postane
-                            Rog, če smo ga pripravljeni sprejeti v zavest, memento. In ni daleč
+                            Rog, če smo ga pri<pb n="010"/>pravljeni sprejeti v zavest, memento. In ni daleč
                             misel, da bi lahko postal pot za nravstveni preporod dežele.</p>
                         <p>Na Rogu smo torej odkrili dve potezi, ki ga ločujeta od stvari našega
                             izkustvenega sveta: njegova novost in njegova presežnost. Oboje pa se
@@ -660,7 +664,7 @@
                             nove asociativne domete, nov ritem: z eno besedo, na aktualizacijo še ne
                             izrabljenega.</p>
                         <p>Vse to pa bo seveda možno šele takrat, če se bodo ljudje odločili, da
-                            sprejmejo Rog v svojo zavest. Če bo Rog postal tako rekoč konstitutivna
+                            sprejmejo Rog <pb n="011"/>v svojo zavest. Če bo Rog postal tako rekoč konstitutivna
                             prvina narodove kulturne in moralne zavesti, se bodo našli ljudje takšne
                             občutljivosti, o kateri smo govorili zgoraj. A preden se dotaknemo
                             položaja, ki vlada na tem področju, bi želeli pokazati na nekaj
@@ -711,7 +715,7 @@
                             <head>Konec ceste</head>
                         </figure>
                         <p>Na dnu tega, o čemer sedaj govorimo, je vprašanje jezika. Če bomo hoteli
-                            zdraviti to, čemur smo – upamo, da nikomur v pohujšanje – rekli
+                            zdraviti to, čemur smo – upamo, da nikomur v <pb n="012"/>pohujšanje – rekli
                             odsotnost uma, se bomo morali stalno vračati k vprašanju, kaj je
                             normalni jezik. To bi utegnil biti jezik, ki bi bil tako čist in
                             določen, da bi omogočal razumno komunikacijo. Če bomo imeli jezik, v
@@ -790,6 +794,7 @@
                         <byline>Pomlad 1946</byline>
                     </div>
                 </div>
+				<pb n="013"/>
                 <div type="div2" subtype="poem">
                     <head>Prvi november</head>
                     <docAuthor>Vinko Beličič</docAuthor>
@@ -799,7 +804,7 @@
                             <l>venci s trakovi in z rož rdečino slone, </l>
                             <l>zbor buči pesem, za imenom ime </l>
                             <l>stopa iz kamna – iz davnine pred nas: </l>
-                            <l>mrtvi na praporu zmage blesteči...</l>
+                            <l>mrtvi na praporu zmage blesteči … </l>
                         </lg>
                         <lg>
                             <l>Zlati maklen v pečevju tišine </l>
@@ -853,7 +858,7 @@
                             ječanje nekoga čisto pri polici.</p>
                         <p>– Zvezde padajo z neba, zvezde pa–ada–jo</p>
                         <p>– Kajžar je otrpnil, toda čeljusti so mu šklepetale. Roka se je stegnila
-                            na polici in na golo telo se je ujel svit ognja. Brez pomisleka, v
+                            na polici in na golo telo se je ujel svit ognja. Brez <pb n="014"/>pomisleka, v
                             strašni grozi je stegnil roko in zgrabil za prste. – Hitro, da naju kdo
                             ne vidi od zgoraj.</p>
                         <p>Zdaj šele je videl, da je fant komaj zrasel iz otroka. Suho telo se je
@@ -865,7 +870,7 @@
                             kolenu zavil na levo. Kajžar je tipal z roko – tu je bila stena.</p>
                         <p>– Počakati morava – je šepetal. – Zdaj škropijo tiste, ki so bili še na
                             pol živi.</p>
-                        <p>– Asperges me hysopo...</p>
+                        <p>– Asperges me hysopo … </p>
                         <p>Neznanec je pel, kakor je Kajžar včasih slišal župnika v cerkvi.</p>
                         <p>– Kdo si, siromak? – je šepnil. – Clericus, amice.</p>
                         <p>Kajžar ga ni razumel, le strašna groza ga je obhajala. S silo je potisnil
@@ -873,7 +878,7 @@
                             šklepetanje njegovih čeljusti. Pred polico, kjer sta pred hipom sedela,
                             so se raztreskavale bombe in zublji modrikastega ognja so zasvetili in
                             ugasnili v strašnem poku.</p>
-                        <p>– Quare fremuerunt gentes...</p>
+                        <p>– Quare fremuerunt gentes … </p>
                         <p>Blodni neznanec je spet pričel peti in Kajžar mu je z dlanjo zaprl
                             usta.</p>
                         <p>– Molči! – je siknil.</p>
@@ -895,7 +900,7 @@
                         <p>V rahli, mokri svetlobi je videl neznanca. Sedel je v glini skoraj
                             popolnoma gol in čeljustne kosti so mu štrlele naprej kakor mrliču.</p>
                         <p>– Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in horo
-                            mortis nostrae. Amen. In hora mortis nostrae... amen, amen, amen.</p>
+                            mortis nostrae. Amen. In hora mortis nostrae … amen, amen, amen.</p>
                         <p>Hotel je kričati, toda iz suhega telesa je prihajalo samo sunkovito,
                             hripavo čenčanje.</p>
                         <p>– Kaj bi rad? – je plašno goltnil Kajžar.</p>
@@ -916,7 +921,7 @@
                         <p>Pritisnil ga je k steni in mu naravnal usta.</p>
                         <p>– Ne spij vse. Pusti jo še meni.</p>
                         <p>Obupno mlaskanje se ni ustavilo in ni ga upal odtrgati. Kakor netopir je
-                            visel ob temnem kropilčku in žvižgaje je vlekel vodo skozi zobe.</p>
+                            visel <pb n="015"/>ob temnem kropilčku in žvižgaje je vlekel vodo skozi zobe.</p>
                         <p>Ko je prišel na vrsto Kajžar, je moral zadnje ostanke s prsti phati v
                             usta. Bila je hladna in dobra. Moral bo pač počakati, da se bo spet
                             natekla po kapljah. Popoldne bo morda kotanja spet polna.</p>
@@ -952,6 +957,7 @@
                             presledkih padala mimo police, razkrečena, nekatera tiho, nekatera z
                             ječanjem in prostor je spet polnilo tisto strašno gomazanje, ki ga je že
                             tako dobro poznal.</p>
+							<pb n="016"/>
                         <p>Zadnje, krčevito stezanje rok in nog, napenjanje prsnih košev, ki jih je
                             polnila kri, grgranje dušečih, ki so bili pokopani pod drugimi.</p>
                         <p>Kakor bi odrezal je streljanje prenehalo in močna luč je svetila
@@ -1000,7 +1006,7 @@
                             je pustil pri miru in komaj zaznal, da se je vrnil in se zleknil v
                             mivko.</p>
                         <p>Ko se je pričelo daniti, je Kajžar začutil, da se na vrhu brezna zbirajo
-                            ljudje. Nori neznanec je spal. Legel je na trebuh, se čisto sploščil h
+                            ljudje. Nori <pb n="017"/>neznanec je spal. Legel je na trebuh, se čisto sploščil h
                             glini in se tako potegnil do konca police. Slišal je glasove, ne samo od
                             tiste strani, kjer je bila poseka, temveč tudi od druge. Nekdo je pričel
                             nabijati s težkim kladivom. Skušal je ujeti zvezo strganih stavkov, ki
@@ -1011,9 +1017,9 @@
                             dvigati.</p>
                         <p>– Čuješ, zasuli naju bodo. Morava nazaj, za ovinkom naju kamenje ne bo
                             doseglo.</p>
-                        <p>– Zvezde bodo padale z neba in luna ne bo dajala svoje svetlobe...</p>
+                        <p>– Zvezde bodo padale z neba in luna ne bo dajala svoje svetlobe … </p>
                         <p>Še nekaj je žlubodral, toda Kajžar ga ni razumel.</p>
-                        <p>– Ne čvekaj! – je kriknil – In illo tempore...</p>
+                        <p>– Ne čvekaj! – je kriknil – In illo tempore … </p>
                         <figure>
                             <graphic url="slike_z_02/z_02_10.png"/>
                             <head>Skozi gozd</head>
@@ -1037,7 +1043,7 @@
                             videti, da se je blodnež spustil čez sigasto polico. Brezno je polnilo
                             drevo.</p>
                         <p>Hotel je krikniti, zarjuti, toda samo z muko se je še priplazil do roba.
-                            Bil je prepozen, blodnež se je opotekal po dnu in bil samo še dva koraka
+                            Bil je <pb n="018"/>prepozen, blodnež se je opotekal po dnu in bil samo še dva koraka
                             od okleščenega debla. Nato ga je videl lezti. Krčil se je in stezal
                             kakor bela gosenica, komaj se je premikal. Potem je nenadoma obstal. V
                             kobal je sedel na smreki in lovil ravnotežje.</p>
@@ -1073,7 +1079,7 @@
                             je premikati. Po pedeh. Držal se je vej in počival in nato spet lezel.
                             Moral je lesti danes, jutri ne bo mogel več.</p>
                         <p>Od konca razbitega vrhača do trave je bilo še dva metra. Bila je tema,
-                            toda skala je bila bela in jo je dobro videl. V njej so bile ostre
+                            toda skala je bila bela in jo je dobro videl. V <pb n="019"/>njej so bile ostre
                             škrbine in bose noge bodo imele dovolj opore.</p>
                         <p>Prevrnil se je preko, zemlja je še vedno dišala po ognjih, ki so sinoči
                             goreli. Po vseh štirih je lezel do prvega ugaslega pepela. Z roko je
@@ -1083,7 +1089,7 @@
                             smrekah je visela noč in vedel je, da bo tam nekje lahko spal. Še se
                             poznajo odtisi koles tovornjakov in ti mu bodo ob zori pokazali smer.
                             Tam nekje je Kočevje in za Kočevjem gre zemlja še naprej.</p>
-                        <p>Jutri bo hodil, hodil, hodil... </p>
+                        <p>Jutri bo hodil, hodil, hodil … </p>
                         <p>(Odlomek)</p>
                     </div>
                 </div>
@@ -1134,7 +1140,7 @@
                             mesta, so začeli tisti štirje vpiti, da moramo držati glave dol, da ne
                             smemo gledati, kod se peljemo. Kar po naših glavah so hodili in nas ves
                             čas pretepali. Samo tepli so, imeli so gorjače s seboj. Tudi jaz sem
-                            dobil veliko rano na glavi, drugi pa so bili še bolj zbiti. Nekatere so
+                            dobil ve<pb n="020"/>liko rano na glavi, drugi pa so bili še bolj zbiti. Nekatere so
                             polmrtve ali prav mrtve na koncu vožnje potegnili s kamiona. Peljali smo
                             se skozi Salko vas, Žejne, potem na desno proti Kočevskemu Rogu.</p>
                         <figure>
@@ -1161,7 +1167,7 @@
                             mogli nič narediti; jaz sam sem samo v spodnjih hlačah ostal. Med tistim
                             slačenjem pa so nas spet tepli. To so tepli kar naprej, to je bil sam
                             tepež, kot tudi že prej. Sicer jaz, moram reči, v Kranju in v Šentvidu
-                            nisem bil hudo tepen, nekateri so pa bili. Na primer Frenka Mauserja
+                            <pb n="021"/>nisem bil hudo tepen, nekateri so pa bili. Na primer Frenka Mauserja
                             brat Pavle, ki so mu vso družino pobili, očeta, mamo in tiste otroke.
                             Doma je bil iz Šentruperta in, ko so zvedeli, čigav je, so ga strašno
                             pretepali. Od tam, kjer smo se slekli, je bilo še kakih 150 metrov do
@@ -1209,7 +1215,7 @@
                             v jamo, kajti notri je bilo jokanje in prosenje in ječanje. Ali pa je
                             vrgel bombo ali ustrelil v globino.</p>
                         <p>Ko se je naredila noč, sem zlezel s tiste skale. Bilo nas je 11 ali 12,
-                            ki smo se lahko gibali. V jami je bilo tako mrzlo, da smo se vsi tresli.
+                            ki smo se <pb n="022"/>lahko gibali. V jami je bilo tako mrzlo, da smo se vsi tresli.
                             Prej smo vsi razgreti padli v jamo, saj je bil junij mesec. 20 metrov
                             pod zemljo je pa mrzlo. Zeblo nas je prav zares. Približno do polnoči
                             smo se odločali, kaj bomo naredili. Eden je predlagal, da bi šli po
@@ -1260,6 +1266,7 @@
                             Pa je samo rekel »Ubogi revež«. Vprašal sem ga še, kod naj grem, da bi
                             prišel do dveh hiš, kjer sem vedel, da bi se lahko oglasil in dobil kaj
                             obleke. </p>
+							<pb n="023"/>
                         <p>Povedal mi je, kako naj grem in da imam do tja deset minut. Šel sem, pa
                             nisem mogel najti poti iz gozda. Potem sem zaslišal za seboj voz. Skril
                             sem se in videl, da je na vozu isti človek, ki sem prej z njim govoril.
@@ -1294,7 +1301,7 @@
                             Najprej so mi dali tisto žganje, potem pa še mleka. Tudi palico sem
                             dobil. Ponudili so mi tudi dobre hlače, če jih bom nazaj prinesel. Rekel
                             sem, da tega ne morem reči, ali jih bom ali ne, naj mi dajo rajši kake
-                            slabe, samo da bodo hlače. In dobil sem stare jugoslovanske pobarvane
+                            slabe, samo <pb n="024"/>da bodo hlače. In dobil sem stare jugoslovanske pobarvane
                             hlače, drugega pa nič. Potem sem šel nazaj v hosto. Toda tisto žganje me
                             je naredilo pijanega in, kamor sem šel, povsod sem videl partizane iti
                             za menoj. Pa sem bežal, kolikor so mi moči dale, tudi na drevo sem
@@ -1316,9 +1323,9 @@
                 </div>
                 <div type="div2">
                     <head>Odlomki</head>
-					<note place="foot" n="1">V tiskani izdaji so ti trije odlomki
-                            Rožmanovega besedila razvrščeni med besedilom pričevanja France Dejak:
-                            Beg iz jame.</note>
+                    <note place="foot" n="1">V tiskani izdaji so ti trije odlomki Rožmanovega
+                        besedila razvrščeni med besedilom pričevanja France Dejak: Beg iz
+                        jame.</note>
                     <docAuthor>Dr. Gregorij Rožman </docAuthor>
                     <div type="div3">
                         <head>Ob Desetletnici</head>
@@ -1362,7 +1369,7 @@
                             zdaj služijo vojake? Ali ne bi žalost zalila vsa ameriška srca? Ali ne
                             bi kriknil ves narod, da bi se slišalo do neba – ne samo tista družina,
                             kateri je bil kak član umorjen? Ves narod, brez razlike vere, stranke,
-                            položaja, premoženja... ves narod bi bridko občutil to rano. Kdo more
+                            položaja, premoženja … ves narod bi bridko občutil to rano. Kdo more
                             torej zameriti, če mi po desetih letih še vedno žalujemo, z ljubeznijo
                             mislimo na pobite žrtve, se jih zvesto spominjamo. Prav je, da bi
                             obhajali to žalostno obletnico vsako leto in tudi svet okrog nas s
@@ -1407,14 +1414,14 @@
                     <head>Njihova smrt ni več skrivnost</head>
                     <docAuthor>Janko Maček</docAuthor>
                     <div type="div3" subtype="intro">
-						<lg>
-                        <l>»O sonce zavpij čez ves svet z gorečo trombo</l>
-                        <l>o pokolu in pokopu slovenskih vojščakov.</l>
-                        <l>Tebi vse izkričim:</l>
-                        <l>Živim! Živim! Živim!</l>
-                        <l>Živim v vetru piščal najgrozotnejših slovenskih viž.</l>
-                        <l>Naša smrt ni več skrivnost.« </l>
-						</lg>
+                        <lg>
+                            <l>»O sonce zavpij čez ves svet z gorečo trombo</l>
+                            <l>o pokolu in pokopu slovenskih vojščakov.</l>
+                            <l>Tebi vse izkričim:</l>
+                            <l>Živim! Živim! Živim!</l>
+                            <l>Živim v vetru piščal najgrozotnejših slovenskih viž.</l>
+                            <l>Naša smrt ni več skrivnost.« </l>
+                        </lg>
                         <byline>(Tine Debeljak, Črna maša 1949)</byline>
                     </div>
                     <div type="div3">
@@ -1428,10 +1435,10 @@
                             od Boga je še mogoče pričakovati pomoč in pravico. Le v veri so ljudje
                             tedaj našli skromen žarek upanja.</p>
                         <p>Škof dr. Rožman je tedaj v Anrasu na Tirolskem zapisal: »Vsa ta strašna
-                            tragika našega ljudstva me tako neznansko boli in teži, da se sploh ne
+                            tragika našega ljudstva me tako neznansko <pb n="025"/>boli in teži, da se sploh ne
                             morem izraziti. Saj iz vere skušam doumeti, da tudi to služi zveličanju
                             duš našega naroda, da mi tudi zdaj gremo po težki poti preganjanja in
-                            mučeništva... – a vse to gledati, sočutiti in sotrpeti je vendar strašno
+                            mučeništva … – a vse to gledati, sočutiti in sotrpeti je vendar strašno
                             hudo.«</p>
                         <p>(Vetrinjska tragedija 1960, str. 118)</p>
                     </div>
@@ -1486,6 +1493,7 @@
                             se ji skušajo izogniti. Toda resnice se ne da spremeniti!</p>
                     </div>
                 </div>
+				<pb n="026"/>
                 <div type="div2">
                     <head>Društveni del</head>
                     <div type="div3">
@@ -1549,7 +1557,7 @@
                             vojne, nosil puško komaj en teden in nisem z njo ustrelil niti enkrat.
                             Prestal pa sem tisto kot ostali, ki so š1i skozi povojna taborišča. Za
                             našo stvar, ki jo danes oživljamo, so nas zavezali tisti, ki smo jih
-                            videli odhajati, opletajoče postave s sivimi obrazi in skoraj ugaslimi
+                            videli odhajati, opletajoče posta<pb n="027"/>ve s sivimi obrazi in skoraj ugaslimi
                             očmi, in to zavezo nosim s seboj vse življenje.</p>
                         <p>Kaj torej smo? Samo okruški, ubogi ostanki mogočnega narodovega telesa!
                             Res smo napolnili jaso na Kočevskem Rogu z žalujočimi, pa bi tudi enega
@@ -1613,7 +1621,7 @@
                             totalitarne prihodnosti vzeta osnovna svoboda, in toliko poguma, da so
                             se temu uprli. Želimo, da vanj vstopajo tudi tisti, ki nikakor niso bili
                             vpleteni v državljansko vojno, a so bili iz take snovi, da so mogli in
-                            morali pod boljševiškim pokrovom, v osamljenosti duhovne
+                            morali pod boljševiškim pokrovom, v osamljenosti <pb n="028"/>duhovne
                             eksteritorialnosti ohraniti notranjo svobodo, v neodvisnosti od
                             ideoloških centrov in njihovih številnih kooperantov.</p>
                         <p>Društvo bo hotelo najprej opraviti nekaj reči za tiste, ki sami zase ne

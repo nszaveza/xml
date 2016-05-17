@@ -48,14 +48,14 @@
          <publicationStmt>
             <publisher>
                <address>
-                        <addrLine>Nova Slovenska zaveza</addrLine>
-                        <addrLine>Beethovnova ul. 5</addrLine>
-                        <addrLine>1000 Ljubljana</addrLine>
-                        <addrLine>Slovenija</addrLine>
-                        <lb/>
-                        <addrLine>tel. 01/425-15-37</addrLine>
-                        <addrLine>Spletna stran: www.zaveza.si</addrLine>
-                    </address>
+                  <addrLine>Nova Slovenska zaveza</addrLine>
+                  <addrLine>Beethovnova ul. 5</addrLine>
+                  <addrLine>1000 Ljubljana</addrLine>
+                  <addrLine>Slovenija</addrLine>
+                  <lb/>
+                  <addrLine>tel. 01/425-15-37</addrLine>
+                  <addrLine>Spletna stran: www.zaveza.si</addrLine>
+               </address>
             </publisher>
             <availability>
                <p>Revija izhaja štirikrat letno. Elektronska izdaja je prosto dostopna.</p>
@@ -107,6 +107,8 @@
          <div type="div1">
             <head>Aktualni kulturnopolitični komentar Nove Slovenske zaveze</head>
             <div type="div2">
+               <head>Aktualni politični komentar Nove Slovenske zaveze</head>
+               <docAuthor>Justin Stanovnik</docAuthor>
                <div type="div3">
                   <head>Prispevek k zgodbi o slovenski neavtentičnosti – Prvi del</head>
                   <p>Klub Nove revije je 3. junija letos v hotelu Lev priredil večer, posvečen
@@ -507,7 +509,7 @@
                      dodatek – ampak so bili tudi nekomunisti, ki so komunistom omogočili izvedbo
                      projekta. Komunisti so sprožili revolucijo, ki je po definiciji dejanje
                      nasilja. Glede nasilja pa je predsednik Milan Kučan v nekem nedavnem intervjuju
-                     povedal naslednjo splošno resnico: “ ... da kdorkoli uporablja nasilje, da bi si
+                     povedal naslednjo splošno resnico: “ … da kdorkoli uporablja nasilje, da bi si
                      pridobil oblast, ga uporablja tudi zato, da bi oblast potem obdržal”.</p>
                   <p>Odločitev tistih Slovencev, ki so bili navzlic vsemu pripravljeni podpreti
                      komuniste, nam odpira vrata do nekega spoznanja, ki bi lahko postalo temeljna
@@ -1303,7 +1305,7 @@
                      zjutraj, ustavilo v opuščenem partizanskem taborišču blizu Muljave. Kidrič je
                      poklical na razgovor voditelje partije in osvobodilne fronte stiškega okrožja.
                      Glavni poročevalec je bil sekretar okrožnega komiteja, ki je kasneje ta
-                     sestanek takole opisal: “Začel sem: stiško okrožje ima pet rajonov ... , nakar
+                     sestanek takole opisal: “Začel sem: stiško okrožje ima pet rajonov … , nakar
                      smo pošteno sejali in rešetali celo dopoldne. Izvršni odbor je bil z našim
                      delom zadovoljen, pa nam je Peter (Kidrič) izrekel v njegovem imenu pohvalo.
                      Potem sem posebej Petru in Ivanu Mačku na kratko poročal o stanju partijske
@@ -1926,7 +1928,7 @@
                      smrekovih vejah vaščani vlekli proti jami, so nekateri nanj stresali svojo jezo
                      z zmerjanjem. Ena od žensk je celo predlagala, da bi mu na silo sneli prstan.
                      Tedaj je pobožna Ruštova teta vzkliknila: “Ljudje božji!” in hitro začela
-                     moliti: “ ... ki je zanj krvavi pot potil ... ”. Ljudje so prišli k sebi in ga
+                     moliti: “ … ki je zanj krvavi pot potil … ”. Ljudje so prišli k sebi in ga
                      dostojno pokopali. Naredili so gomilico, tako da so ga po vojni domači lahko
                      odkopali in prav po prstanu prepoznali. Pogorele družine so dobile zavetje pri
                      sosedih, ki tudi sami niso imeli ne dosti prostora ne dosti hrane. Drugi dan se
@@ -2241,7 +2243,7 @@
                   <p>A te zgodbe, ki prihajajo do nas v različnih oblikah in po različnih poteh, so
                      že same po sebi podobe krutega časa, ki je posameznika izpostavljal v vseh
                      skrajnostih telesnega in duševnega nasilja. Težko je soditi, kje je bilo težje
-                     posamezniku: tostran ali onstran smrti. Pesnik je zapisal: “ ... kdor mori, je
+                     posamezniku: tostran ali onstran smrti. Pesnik je zapisal: “ … kdor mori, je
                      mrtev, a mrtvi ostane živ.”</p>
                   <p>Naj tudi tragična zgodba Janeza Tominca ostane živa med nami, naj nas po eni
                      strani spominja na čase, ki nam jih je po neki milosti uspelo preživeti, po
@@ -2476,11 +2478,11 @@
                      mogel izraziti svoje misli, ki se mi pletejo ob branju. Rad bi izpovedal, pa se
                      mi zdi, da nimam za to sposobnosti. Sem tako neokreten. Beseda mi ne teče. Ne
                      morem zadeti pravega bistva. Misel mi uide prej, predej jo morem prav
-                     oblikovati. Površen sem, to priča moja pisava, vse moje delovanje ... Ne vem,
-                     kdaj se bom poboljšal ... </p>
+                     oblikovati. Površen sem, to priča moja pisava, vse moje delovanje … Ne vem,
+                     kdaj se bom poboljšal … </p>
                   <p>Kako rad bi napisal črtico ali novelo. Včasih mislim celo na roman in dramo.
                      Iščem osebe in jih postavljam skupaj, iščem ideje in momente, kjer bi moglo
-                     priti do tragičnega spora, pa mi ne gre in ne gre ... Kolikokrat se vozim v vlaku
+                     priti do tragičnega spora, pa mi ne gre in ne gre … Kolikokrat se vozim v vlaku
                      molče do Ljubljane in nazaj in nič ne morem prav povedati, kar bi rad. Čudno
                      je, skoraj se ne da ustvarjati. Obupavam in upam in zopet obupavam nad svojimi
                      zmožnostmi. Pravzaprav je na dnu te nevere in nezaupanja le živo prepričanje,
@@ -2525,7 +2527,7 @@
                      Zvezdi policaji na konjih, v Šelenburgovi ulici policaji na motorjih. Med
                      Batovo palačo in Emono kordon policajev dopoveduje deklicam in gospodom, da ni
                      promenade. Moj Bog, menda cela stara Avstrija ni imela toliko policajev,
-                     kolikor jih ima danes bela Ljubljana ... </p>
+                     kolikor jih ima danes bela Ljubljana … </p>
                   <p>Četrtek. Generali so postavili Petra za kralja. Vojaška vlada. Hvala Bogu. Kako
                      veseli so današnji časopisi v primeri z včerajšnjimi. Velike manifestacije.
                      Prvi seveda stražarji (koritarji!). Lepo vihrajo trobojnice, tako lepo, kakor
@@ -2550,9 +2552,9 @@
                      pritajeno govorico tatov, ki jih podijo skozi mesto. Odidemo na trg stražit.
                      Kako bom ravnal s puško, če jo imam prvič v rokah. S patrom Francetom, ki se je
                      preoblekel v civil, hodiva po Kamniku ob luninem svitu. Tu pa tam se ob svitu
-                     plazi postava in izgine v stransko ulico ... P. France me uči streljati in
+                     plazi postava in izgine v stransko ulico … P. France me uči streljati in
                      nasajati bajonet na puško na poti, ki gre od Podgore proti Mekinjam in nazaj
-                     proti Kamniku ... Luna plove kakor križarka in se skrije za oblak. Ura bije
+                     proti Kamniku … Luna plove kakor križarka in se skrije za oblak. Ura bije
                      dvanajst. Veliki Petek. Bog je umrl na ta dan.</p>
                   <p>Iščeva smisla vsega tega in ga kar ne moreva zadeti. Iz premišljevanja naju
                      zbudijo eksplozije v daljavi. Gotovo je kje zletel v zrak most. Srečava Milana
@@ -2996,12 +2998,12 @@
                <docAuthor>Blaža Cedilnik</docAuthor>
                <div type="div3" subtype="intro">
                   <p>Bilo je pred nekaj leti. “Vse preberem, kar napišeš”, mi je dejal. “Pa nimaš
-                     vedno čisto prav ... “ Govorila sva o domobrancih, o njihovi perisegi, o vlogi
+                     vedno čisto prav … “ Govorila sva o domobrancih, o njihovi perisegi, o vlogi
                      cerkve, o cerkvi nasploh, o spravni maši v Kočevskem Rogu, o govorih
-                     predsednika Kučana in nadškofa Šuštarja ... </p>
+                     predsednika Kučana in nadškofa Šuštarja … </p>
                   <p>
                      <emph>Takrat je bil nadškof Šuštar bolan. “Veš kdo bo naslednji nadškof? Rode.
-                        Edino on je primeren za cerkev in politično oblast. Ker ... “ “Kako moreš
+                        Edino on je primeren za cerkev in politično oblast. Ker … “ “Kako moreš
                         vedeti”, sem rekla. “Boš videla”, mi je odgovoril</emph>.</p>
                </div>
                <div type="div3">
@@ -3050,7 +3052,7 @@
                      potem javno pere. Da se poveča naklada in zaslužek časopisa. Itd. Pri nas so se
                      šli tako pralnico tudi najbolj eminentni in resni časopisi. In šli so se
                      vrednostne sodbe. In če si bral ali vsaj malo preletel te članke, reportaže,
-                     komentarje ... , si dobil občutek, da živiš v silno puritanski državi, ne pa v
+                     komentarje … , si dobil občutek, da živiš v silno puritanski državi, ne pa v
                      državi, ki ima v ustavi svobodo spolne opredelitve ali kakorkoli se že temu
                      reče. In časopis oziroma revija, ki si je vedno najbolj prizadevala za
                      enakopravnost homoseksualcev, za legalizacijo prostitucije, in še in še takih
@@ -3196,7 +3198,7 @@
                      pravilno narediti domače naloge. predvsem iz (nisem mogla verjeti lastnim
                      ušesom) gospodarskega področja. Mi pa imamo ja gospodarstvenike svetovnega
                      formata. Celo sami oni, edini možni sposobni predsednik vlade, so na tem
-                     področju kapaciteta “de luxe” ... </p>
+                     področju kapaciteta “de luxe” … </p>
                   <p>Ne bom končala z običajnimi besedami za takole nakladanje, čeprav me srbi jezik
                      in seveda tudi prsti in se mi bo najbrž kar samo zapisalo. Ampak postala sem že
                      tako vraževerna, da se mi zdi že dovolj, da samo pomislim (saj veste: čim kaj
@@ -3301,7 +3303,7 @@
                      (ustanovne skupine). Njim se je nato priključilo še okoli deset drugih skupin,
                      medtem ko pogovori z nekaterimi skupinami za vključitev niso uspeli.</p>
                   <p>Pa še citat, ki ga je navedel Samo Bevk, povzet iz Enciklopedije Slovenije:</p>
-                  <p>” ... da bi bila upor in osvobodilni boj proti okupatorjem brez OF na strateško
+                  <p>” … da bi bila upor in osvobodilni boj proti okupatorjem brez OF na strateško
                      tako pomembnem a močno razkosanem slovenskem ozemlju mnogo težja ali kar
                      nemogoča.”</p>
                   <p>Citirali so tudi Janka Prunka:</p>
@@ -3366,14 +3368,14 @@
                      Plenuma protiimperialistične fronte, ki naj bi bil 15. junija 1941, ne govorijo
                      o oboroženem boju, še manj 27. oziroma 26. aprila. V njih pa piše tole:
                      “Osvoboditev slovenskega naroda je mogoča samo na ruševinah imperializma,
-                     razredni boj ... se mora boriti tako proti nemškoitalijanskemu kakor tudi proti
-                     propagandi angleškoamerikanskih imperialistov ... ” in potem 6. točka:” Brez boja
+                     razredni boj … se mora boriti tako proti nemškoitalijanskemu kakor tudi proti
+                     propagandi angleškoamerikanskih imperialistov … ” in potem 6. točka:” Brez boja
                      proti izdajalski lastni kapitalistični gospodi se zatirani narod ne more
                      osvboditi!” Znano je, da je glasilo francoske KP Humanite pozdravilo prihod
                      Nemcev Pariz, in dosti drugače ni ravnal Kidrič, ki je o tem napisal sledeče:
                      “S porazom francoskega imperializma je znatno slabel tudi njegov mentor in
                      relativni izkoriščevalec angleški imperializem. Os Berlin-Rim je ostala kot
-                     gospodar zahodnoevropskega položaja. ... je Sovjetska zveza ravnala pametno, ko
+                     gospodar zahodnoevropskega položaja. … je Sovjetska zveza ravnala pametno, ko
                      je pač okupirala Finsko, del Poljske in na ta način zavzela pozicije, ki ji
                      bodo omogočile, da se zahodni imperializem potolče med sabo.” </p>
                   <p>Ob napadu na SZ 22. junija 1941 je bil CK KPS tisti, ki je imenoval vojaško
@@ -3387,14 +3389,14 @@
                      katerimi so postregli:</p>
                   <p>Ciril Ribičič: ”Upam, da ne bo nihče nikoli na tako podel način, na tako
                      nizkoten način, na tako neargumentiran način blatil novih praznikov iz pred
-                     šestih, sedmih let, kot so tukaj ... mislim na gospoda Janšo in gospoda Hvalico,
+                     šestih, sedmih let, kot so tukaj … mislim na gospoda Janšo in gospoda Hvalico,
                      govorili o 27. aprilu.”</p>
                   <p>Ciril Ribičič: “27. april je praznik preddolomitske osvobodilne fronte.”</p>
                   <p>Borut Pahor izrekel:” Partizanstvo je bilo veren izraz iskrenega domoljubja in
                      ni imelo ideološke motivacije. Te ideološke motivacije ni moč zaslediti v
                      razmišljanjih ob 27. aprilu in kasneje.” </p>
                   <p>Borut Pahor: ”Tudi ni mogoče reči, da je bil v 27. april leta 1941 ali kasneje
-                     v partizanski boj že vnešen zarodek prevzema monopolne oblasti ... Do zmage nad
+                     v partizanski boj že vnešen zarodek prevzema monopolne oblasti … Do zmage nad
                      okupatorjem je šlo za narodnoosvobodilni boj in za naše narodno preživetje; po
                      zmagi nad okupatorjem pa je šlo za politični boj, za boj za oblast.”</p>
                   <p>Seveda je razprava ni ostajala pri 27. aprilu, ampak je zajemala vedno širše
@@ -3404,7 +3406,7 @@
                      in makedonska proti Grčiji. Podrla se je šele padcem berlinskega zidu.
                      Protestiral je Miran Potrč: ”Da smo bili na oni strani železne zaveze, je pa
                      res debela! Bili smo, vsaj kar se mene zadeva, tam do leta 1952, 1953, mogoče
-                     tudi 1955 ... ”</p>
+                     tudi 1955 … ”</p>
                   <p>Spomnili bi ga, kakšno vlogo je igrala slovenska meja proti zahodu: na njej so
                      do leta 1989 umirali ustreljeni v hrbet begunci iz držav vzhodne Evrope, ki so
                      hoteli na zahod. Do tega leta so na meji brskali po prtljagi in zlasti, če je
@@ -3424,7 +3426,7 @@
                      Kebrič in drugi, ki so rotili prisotne, naj nehajo premlevati pretekle dogodke
                      in naj se ozrejo naprej. Da moramo urediti naše gospodrstvo, poživiti
                      proizvodnjo, misliti moramo na mlade, ki jih naše razprtije ne zanimajo, kako
-                     bomo opravičili svojim volilcem izgubo dveh dni brezplodnega čvekanja ... </p>
+                     bomo opravičili svojim volilcem izgubo dveh dni brezplodnega čvekanja … </p>
                </div>
                <div type="div3">
                   <head>Kdo se je oglašal?</head>
@@ -3657,7 +3659,7 @@
                      Bog da novo srce in novega duha, da odstrani kamnito srce in nam podari
                      usmiljeno srce, da iz sovraštva preidemo k ljubezni, iz maščevalnosti k
                      odpuščanju. V tem pa smo v globokem soglasju s tistimi, ki ležijo v teh breznih
-                     in so umirali z molitvijo na ustnicah in z odpuščanjem v srcu ... ”</p>
+                     in so umirali z molitvijo na ustnicah in z odpuščanjem v srcu … ”</p>
                   <p>Kako lahko je razglašati, da naše ravnanje usmerja hotenje po uveljavljanju
                      resnice, toda to razglašanje ostaja le prazno govoričenje, če ni podprto z
                      osebnim odporom do tistega, kar nepreklicno stoji na poti resnici – z odporom
@@ -3684,7 +3686,7 @@
                      svojih staršev slišali resnico o revoluciji in samoobrambi, tako smo jo dolžni
                      mi predati sinovom in ti naslednjim rodovom, vse dokler se ne bo reklo: Če že
                      resnica na zunaj ni zmagala, utišati je niso mogli. Resnice ne bodo ubili!
-                     Nikdar! ... ”</p>
+                     Nikdar! … ”</p>
                   <p>Toda obdobje preganjanja vseh, ki so tolmačili revolucijo in njene “dosežke”
                      drugače od zapovedane razlage, je, kot je opozoril Peter Sušnik, pustilo za
                      seboj veliko praznino vsem povojnim rodovom. Bo to praznino, ki jo je v
@@ -3826,10 +3828,10 @@
                      in kri.</p>
                   <p>Ko se je nasilni sovražni okupaciji pridružila še boljševiška borba za oblast,
                      je stiska ljudi postala neznosna. Ljubljanski škof Gregorij Rožman je v tistih
-                     strašnih dneh jasno spregovoril: “ ... Danes čujem govoriti tudi sicer resne
-                     ljudi, da umor ni več zločin, ampak junaško dejanje ... Proti temu mnenju stoji
+                     strašnih dneh jasno spregovoril: “ … Danes čujem govoriti tudi sicer resne
+                     ljudi, da umor ni več zločin, ampak junaško dejanje … Proti temu mnenju stoji
                      božje razodetje: Umor je in ostane v nebo vpijoč greh. Temu grehu se pridružuje
-                     še drugi, ko se skuša z lažjo omadeževati svetla čast mučencev ... “</p>
+                     še drugi, ko se skuša z lažjo omadeževati svetla čast mučencev … “</p>
                   <p>Tu v Kočevskem Rogu se je izvršila masovna likvidacija, že prej politično
                      načrtovana in pripravljena. Vodstvo Komunistične partije Slovenije je to
                      pripravilo, ukazalo in izvedlo. Njegova je krivda. Nikdar v zgodovini slovenski
@@ -4764,7 +4766,7 @@
                      svojih predpostavljenih in obsojal uničevanje imovine in življenj, pa naj
                      delajo to Italijani, Nemci ali partizani. Takoj v začetku sem naročil, naj se
                      pozovejo vsi partizani iz moje fare, da naj se zglasijo domov, ker sem smatral
-                     za brezsmiselno. da tavajo po gozdu . ... </p>
+                     za brezsmiselno. da tavajo po gozdu . … </p>
                   <p>V beli gardi sem vsaj lokalno videl zgolj borbo za obstanek vasi in za vero
                      proti komunizmu, v splošnem pa ne izključujem, da so se nekateri borili tudi za
                      korita. Partizansko gibanje sem odklanjal iz lokalnih pogledov, dasi sem vedel
@@ -4778,12 +4780,12 @@
                      je spremenila tudi pri ljudeh v moji fari in to približno za 75 % na podlagi
                      tega, ker je bilo več umorov in rekvizicij. Mene osebno je pa prepričalo, da
                      vodi OF napačno, odnosno nepravilen boj, zlasti še takrat, ko je padel Ehrlich.
-                     ... Borbo partizanov proti okupatorju sem smatral tudi radi tega za nepravilno,
+                     … Borbo partizanov proti okupatorju sem smatral tudi radi tega za nepravilno,
                      ker sem bil prepričan, da partizani ne bodo niti za 1/4 ure prej pognali
                      okupatorja z naše zemlje. Spominjam se, da je bila vaška straža ustanovljena
                      izključno le proti partizanom. Po ofenzivi sem prišel tudi sam do tega, da je
                      nekaj potrebno storiti za rešitev premoženja ljudi. To sem smatral za glavni
-                     razlog. ... Moralno gledano je bila bela garda nekaj slabega, v slučaju pa, kakor
+                     razlog. … Moralno gledano je bila bela garda nekaj slabega, v slučaju pa, kakor
                      smo mi živeli in kakor so živeli ljudje je bila ta nujno potrebna. Dolžili so
                      me, da sem belogardist, katerega je treba spravit s pota."</p>
                   <p>Grebenc Alojzij, pater Placid, je bil je več let pred vojno ekonom
@@ -4807,7 +4809,7 @@
                      moralno najslabši element – pijanci, kvartopirci, ženskarji – in da jaz s temi
                      pač ne morem sodelovati kot čuvar morale v fari. Rekel sem pa, da mu takoj
                      stavim na razpolago vseh 300 fantov v naši dolini, ko bodo k OF pristopili
-                     poštenjaki. ... S partizani smo</p>
+                     poštenjaki. … S partizani smo</p>
                   <p>se dobro razumeli in sem šel parkrat maševat in pridigat v Kompolje, kamor so
                      hodili tudi partizani k maši. Zaradi laškega pretepanja in tatvin zoper mene
                      sem 5. julija 1942 pobegnil v Ljubljano, kjer sem ostal do konca avgusta. Ko
@@ -4820,9 +4822,9 @@
                      niso več upali, ker so bili ožigosani kot belogardisti. Pred pol leta je
                      italijanski poročnik zahteval, da naj se v Cerknici javi 30 fantov, ki naj bi
                      zamenjali stražarje iz Begunj. Na to ustno zahtevo se je javilo šest fantov
-                     kljub mojemu odklonilnemu stališču. ... Ne bom osporaval dejstvu, da sem bil
+                     kljub mojemu odklonilnemu stališču. … Ne bom osporaval dejstvu, da sem bil
                      somišljenik onih, ki niso bili zadovoljni z OF zaradi slabih poročil, ki smo
-                     jih dobivali o njej. ... Priznam, da je literatura prihajala na moj naslov in sem
+                     jih dobivali o njej. … Priznam, da je literatura prihajala na moj naslov in sem
                      isto osebno razdeljeval. Dobival sem: Svobodno Slovenijo, Junake, Slovensko
                      akcijo itd. Bil sem mnenja, da bi ne delal po svoji vesti, če že ne sodelujem
                      drugače pri stvari, pa vsaj na ta način. V precej večjem obsegu sem se z
@@ -4891,7 +4893,7 @@
                      delovanja in nam pod kaznijo izključitve zagrozil, da ne prinašamo kakršnekoli
                      strankarske literature v semenišče. Vsi smo želeli, da se revolucija med nami
                      neha. Molili smo za mir, v govorih je vodja včasih omenjal grozodejstva
-                     partizanov. Povedal je, da je bil ta in ta dober, pa so ga umorili. ... Lansko
+                     partizanov. Povedal je, da je bil ta in ta dober, pa so ga umorili. … Lansko
                      poletje je bila v Žužemberku organizirana bela garda na ta način, da so
                      Italijani pobrali vse moške in jih hoteli odpeljati v internacijo. Po
                      posredovanju dekana Gnidovca, ki je izjavil, da so vsi pripravljeni vstopiti v
@@ -5044,7 +5046,7 @@
                      Blokah. Priznam, da sem imel vpliv med fanti, priznam tudi, da sem bil poprej
                      doma organizator fantovskih odsekov in prosvetnega društva. Partizani so me po
                      treh dneh izpustili ter zabičali, da ne bom izvrševal nobene službe, odnosno
-                     organiziral naših ljudi, ki bi bila v korist okupatorju ... </p>
+                     organiziral naših ljudi, ki bi bila v korist okupatorju … </p>
                   <p>Po ofenzivi je začel župnik na Blokah z organizacijo bele garde. Tedaj sem bil
                      njemu v pomoč. K odločitvi, da delam v beli gardi, je bil poleg strahu pred
                      italijansko internacijo tudi strah pred partizani. Večkrat sem dobil pošto, da
@@ -5141,7 +5143,7 @@
                      hrane. (Hiti Vincenc, Begunje) Takrat je bilo v okolici Cerknice nekaj neresnih
                      ljudi. Izvršili so napad na oba Hitija v Begunjah, kar je razburilo vso
                      okolico, posebno še, ker se je vse balo Italijanov, ki so za vsak napad
-                     izvrševali represalije nad vsem prebivalstvom. ... Takrat je šla vsa vas v
+                     izvrševali represalije nad vsem prebivalstvom. … Takrat je šla vsa vas v
                      Cerknico, naj komanda nekaj ukrene, ker tako ni mogoče živeti, češ po eni
                      strani nas pobijate vi, po drugi pa partizani. (Cimperman Stane, Gošič) Na
                      pomlad 1942 je bila v hiši lakota, ker je bila slaba letina, jedli smo skoraj
@@ -5169,9 +5171,9 @@
                      strah pred partizani, da bi še koga pobili. Strah je bil tolikšen, da so se
                      ljudje sami hoteli prostovoljno preseliti v Italijo, da bi tako imeli mir tako
                      pred Italijani kot pred partizani. Bolj so se bali Italijanov, ker se maščujejo
-                     in požigajo vse vasi, kamor pridejo partizani ... Pri nas smo dobili puške
+                     in požigajo vse vasi, kamor pridejo partizani … Pri nas smo dobili puške
                      kasneje. V vas je prišel občinski odbornik, ki je sklical vse moške v vasi, nas
-                     popisal nato pa smo šli v Begunje po puške ... Med partizane nisem mogel
+                     popisal nato pa smo šli v Begunje po puške … Med partizane nisem mogel
                      pobegniti, ker imam doma družino, otroke brez žene. Pri beli gardi sem bil tudi
                      zato, ker sem tako dobival živež, ker je bilo zanj težko in plačo, ker sem bil
                      prej tudi brez dela. (Obreza Anton, Selšček) Iz Župejna sem šel v vaško stražo
@@ -5659,7 +5661,7 @@
                      je v Spremni besedi (str. 16) zapisal: "S temi predavanji je dr. Gogala
                      takorekoč oral ledino med nami. Zato tudi ni čudno, da niso vsi in takoj
                      sprejeli vseh njegovih pogledov in ponujanih rešitev. Tega se je sam in prvi
-                     zavedal in je zavestno in hote sprejel nase to tveganje ... Poslušalci smo
+                     zavedal in je zavestno in hote sprejel nase to tveganje … Poslušalci smo
                      odhajali z njegovih predavanj v zavesti, da so med nami mnoga vprašanja, na
                      katera nismo mislili ali pa tudi ne hoteli misliti."</p>
                   <p>Prvi dve predavanji s skupnim naslovom "Exul familia" sta za večino bralcev
@@ -5779,7 +5781,7 @@
                      mučenci.</p>
                   <p>Že v soboto zvečer smo se zbrali pri okrašeni podobi Marije Pomagaj in prižgali
                      lučke. Predsednik Tabora g. Milan Zajec je pozdravil vse navzoče, nakar smo
-                     zmolili rožni venec za pokojne. Zapeli smo "Oče, mati ... " Nato je g. Blaž
+                     zmolili rožni venec za pokojne. Zapeli smo "Oče, mati … " Nato je g. Blaž
                      Potočnik lepo govoril o našem geslu Bog, narod, domovina. Pod tem geslom so se
                      domobranci borili proti komunizmu, ki je doma še vedno na oblasti, četudi se je
                      skril pod krinko demokracije. Čeprav se staramo in nas je vedno manj, moramo
