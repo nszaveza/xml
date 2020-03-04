@@ -60,8 +60,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">5</biblScope>
-							<biblScope type="vol">II</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="vol">II</biblScope>
 							<biblScope>številka 2, junij 1992</biblScope>
 							<date when="1992-06">junij 1992</date>
 						</imprint>

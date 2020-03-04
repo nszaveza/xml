@@ -64,8 +64,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">24</biblScope>
-							<biblScope type="vol">VII</biblScope>
+							<biblScope unit="issue">24</biblScope>
+							<biblScope unit="vol">VII</biblScope>
 							<biblScope>številka 1, marec 1997</biblScope>
 							<date when="1997-03">1997</date>
 						</imprint>

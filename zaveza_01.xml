@@ -59,8 +59,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">1</biblScope>
-							<biblScope type="vol">I</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="vol">I</biblScope>
 							<biblScope>številka 1, 1991</biblScope>
 							<date when="1991-02">1991</date>
 						</imprint>

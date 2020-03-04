@@ -49,8 +49,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">16</biblScope>
-							<biblScope type="vol">V</biblScope>
+							<biblScope unit="issue">16</biblScope>
+							<biblScope unit="vol">V</biblScope>
 							<biblScope>številka 1, marec 1995</biblScope>
 							<date when="1995-03">1995</date>
 						</imprint>

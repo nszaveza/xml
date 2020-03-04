@@ -52,8 +52,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">35</biblScope>
-							<biblScope type="vol">IX</biblScope>
+							<biblScope unit="issue">35</biblScope>
+							<biblScope unit="vol">IX</biblScope>
 							<biblScope>številka 4, december 1999</biblScope>
 							<date when="1999-12">1999</date>
 						</imprint>

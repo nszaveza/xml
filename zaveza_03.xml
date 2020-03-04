@@ -58,8 +58,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">3</biblScope>
-							<biblScope type="vol">I</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="vol">I</biblScope>
 							<biblScope>številka 3, december 1991</biblScope>
 							<date when="1991-12">december 1991</date>
 						</imprint>

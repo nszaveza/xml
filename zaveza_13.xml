@@ -49,8 +49,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">13</biblScope>
-							<biblScope type="vol">IV</biblScope>
+							<biblScope unit="issue">13</biblScope>
+							<biblScope unit="vol">IV</biblScope>
 							<biblScope>številka 2, junij 1994</biblScope>
 							<date when="1994-06">1994</date>
 						</imprint>

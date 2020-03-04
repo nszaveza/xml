@@ -52,8 +52,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">30</biblScope>
-							<biblScope type="vol">VII</biblScope>
+							<biblScope unit="issue">30</biblScope>
+							<biblScope unit="vol">VII</biblScope>
 							<biblScope>številka 3, september 1998</biblScope>
 							<date when="1998-09">1998</date>
 						</imprint>

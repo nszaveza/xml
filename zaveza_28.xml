@@ -53,8 +53,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">28</biblScope>
-							<biblScope type="vol">VIII</biblScope>
+							<biblScope unit="issue">28</biblScope>
+							<biblScope unit="vol">VIII</biblScope>
 							<biblScope>številka 1, marec 1998</biblScope>
 							<date when="1998-03">1998</date>
 						</imprint>

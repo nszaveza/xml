@@ -52,8 +52,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">34</biblScope>
-							<biblScope type="vol">IX</biblScope>
+							<biblScope unit="issue">34</biblScope>
+							<biblScope unit="vol">IX</biblScope>
 							<biblScope>številka 2, september 1999</biblScope>
 							<date when="1999-09">1999</date>
 						</imprint>
