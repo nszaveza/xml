@@ -64,8 +64,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">59</biblScope>
-							<biblScope type="vol">XV</biblScope>
+							<biblScope unit="issue">59</biblScope>
+							<biblScope unit="vol">XV</biblScope>
 							<biblScope>številka 4, december 2004</biblScope>
 							<date when="2004-12">2004</date>
 						</imprint>

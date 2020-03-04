@@ -53,8 +53,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">52</biblScope>
-							<biblScope type="vol">XIV</biblScope>
+							<biblScope unit="issue">52</biblScope>
+							<biblScope unit="vol">XIV</biblScope>
 							<biblScope>številka 1, marec 2004</biblScope>
 							<date when="2004-03">2004</date>
 						</imprint>

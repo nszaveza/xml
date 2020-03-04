@@ -67,8 +67,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">79</biblScope>
-							<biblScope type="vol">XVIII</biblScope>
+							<biblScope unit="issue">79</biblScope>
+							<biblScope unit="vol">XVIII</biblScope>
 							<biblScope>številka 3, december 2010</biblScope>
 							<date when="2010-12">2010</date>
 						</imprint>

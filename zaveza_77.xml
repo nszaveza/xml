@@ -65,8 +65,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">77</biblScope>
-							<biblScope type="vol">XIX</biblScope>
+							<biblScope unit="issue">77</biblScope>
+							<biblScope unit="vol">XIX</biblScope>
 							<biblScope>številka 2, junij 2010</biblScope>
 							<date when="2010-06">2010</date>
 						</imprint>

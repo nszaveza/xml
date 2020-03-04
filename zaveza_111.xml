@@ -62,8 +62,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">111</biblScope>
-							<biblScope type="vol">XXIX</biblScope>
+							<biblScope unit="issue">111</biblScope>
+							<biblScope unit="vol">XXIX</biblScope>
 							<biblScope>številka 1, marec 2019</biblScope>
 							<date when="2019-03">2019</date>
 						</imprint>

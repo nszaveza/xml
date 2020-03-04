@@ -61,8 +61,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">94</biblScope>
-							<biblScope type="vol">XXIII</biblScope>
+							<biblScope unit="issue">94</biblScope>
+							<biblScope unit="vol">XXIII</biblScope>
 							<biblScope>številka 3, september 2014</biblScope>
 							<date when="2014-09">2014</date>
 						</imprint>

@@ -61,8 +61,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">109</biblScope>
-							<biblScope type="vol">XXVIII</biblScope>
+							<biblScope unit="issue">109</biblScope>
+							<biblScope unit="vol">XXVIII</biblScope>
 							<biblScope>številka 3, oktober 2018</biblScope>
 							<date when="2018-10">2018</date>
 						</imprint>

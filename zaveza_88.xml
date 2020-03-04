@@ -63,8 +63,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">88</biblScope>
-							<biblScope type="vol">XXIII</biblScope>
+							<biblScope unit="issue">88</biblScope>
+							<biblScope unit="vol">XXIII</biblScope>
 							<biblScope>številka 1, marec 2013</biblScope>
 							<date when="2013-03">2013</date>
 						</imprint>

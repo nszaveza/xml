@@ -62,8 +62,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">98</biblScope>
-							<biblScope type="vol">XXV</biblScope>
+							<biblScope unit="issue">98</biblScope>
+							<biblScope unit="vol">XXV</biblScope>
 							<biblScope>številka 4, december 2015</biblScope>
 							<date when="2015-12">2015</date>
 						</imprint>

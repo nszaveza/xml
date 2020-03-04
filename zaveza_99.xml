@@ -62,8 +62,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">99</biblScope>
-							<biblScope type="vol">XXVI</biblScope>
+							<biblScope unit="issue">99</biblScope>
+							<biblScope unit="vol">XXVI</biblScope>
 							<biblScope>številka 1, marec 2016</biblScope>
 							<date when="2016-03">2016</date>
 						</imprint>

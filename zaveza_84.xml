@@ -64,8 +64,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">84</biblScope>
-							<biblScope type="vol">XXI</biblScope>
+							<biblScope unit="issue">84</biblScope>
+							<biblScope unit="vol">XXI</biblScope>
 							<biblScope>številka 1, marec 2012</biblScope>
 							<date when="2012-03">2012</date>
 						</imprint>

@@ -67,8 +67,8 @@
 					<monogr>
 						<title>Zaveza</title>
 						<imprint>
-							<biblScope type="issue">67</biblScope>
-							<biblScope type="vol">XVII</biblScope>
+							<biblScope unit="issue">67</biblScope>
+							<biblScope unit="vol">XVII</biblScope>
 							<biblScope>številka 4, december 2007</biblScope>
 							<date when="2007-12">2007</date>
 						</imprint>
